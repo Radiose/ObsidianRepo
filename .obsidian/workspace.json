@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 7/Multiset.md",
+                "file": "MATH1013/Calculus/Week 7/Proof of The fundamental theorem of calculus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multiset"
+              "title": "Proof of The fundamental theorem of calculus"
             }
           },
           {
@@ -376,7 +376,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -393,8 +394,12 @@
   },
   "active": "e6166183c40c1c7d",
   "lastOpenFiles": [
-    "MATH1013/Calculus/Week 7/Integration rules.md",
+    "1005 final revision.md",
+    "MATH1005/Week 5/Geometric Sequence.md",
+    "MATH1005/Week 5/MATH1005 23.03.2026.md",
+    "MATH1005/Week 5/MATH1005 24.02.2026.md",
     "MATH1005/Week 7/Multiset.md",
+    "MATH1013/Calculus/Week 7/Integration rules.md",
     "MATH1005/Week 7/MATH1005 20.04.2026.md",
     "MATH1013/Calculus/Week 7/Proof of The fundamental theorem of calculus.md",
     "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
@@ -409,16 +414,12 @@
     "MATH1005/Week 2/partition.md",
     "MATH1013/Calculus/Week 6/Sequence definition of the Definite integral.md",
     "MATH1013/Calculus/Week 6/Definite integral.md",
-    "1005 final revision.md",
     "MATH1013/Calculus/Week 6/Optimisation.md",
     "BIOL2161/Week 3/Packaging of DNA in Eukaryotic cells.md",
     "BIOL2161/Week 3/DNA in cell organelles.md",
     "BIOL2161/Week 3/Mitochondrial replacement therapy.md",
     "BIOL2161/Week 3/Structure of mitochondria and chloroplast.md",
     "BIOL2161/Week 3/Nucleosome.md",
-    "BIOL2161/Week 3/Chloroplast.md",
-    "BIOL2161/Week 3/Mitochondria.md",
-    "BIOL2161/Week 3/Telomere.md",
     "attachments/Pasted image 20260420112730.png",
     "attachments/Pasted image 20260420112238.png",
     "attachments/Pasted image 20260420111459.png",

@@ -25,3 +25,20 @@ The mean value point states that there is some point within the interval where t
 therefore, 
 $F(x_{i})-F(x_{i-1})=F'(x_{i}^*)(x_{i}-x_{i-1})=f(x_{i}^*)\Delta x$
 This has given us a very useful statement. The difference between the intervals of the [[Indefinite integral|antiderivative]] of x has given us basically a single unit of a [[Riemann sum]] 
+
+Now
+$F(b)-F(a) = F(x_{n})-F(x_{0})$
+This is just renaming the partition. One end of it is x_n and the other is x_0
+Rewriting this
+$F(x_{n})-F(x_{0})$ = $F(x_{n})-F(x_{n-1})+F(x_{n-1})\dots -F(x_{1})+F(x_{1})-F(x_{0})$
+This is because $-F(x_{n-1})+F(x_{n-1})$=0, so we aren't changing anything 
+
+Rewriting this 
+$(F(x_{n})-F(x_{n-1}))+(F(x_{n-1})-F(x_{n-2}))\dots+(F(x_{1})-F(x_{2}))$
+
+Recall that 
+$F(x_{i})-F(x_{i-1})=f(x_{i}^*)\Delta x$
+thus 
+$=f(x_{n}^*)\Delta x+f(x_{n-1}^*)\Delta x+\dots+f(x_{1}^*)\Delta x+$
+In sigma notation ([[Riemann sum]])
+$F(b)-F(a) = \sum_{i=1}^nf(x_{i}^*)\Delta x$
