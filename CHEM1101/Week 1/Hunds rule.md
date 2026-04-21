@@ -1,0 +1,2 @@
+Hunds rule
+For [[Degenerate orbitals]], the lowest energy is attained when the number of electrons with the same spin is maximised. This means that for a set of orbitals in the same sublevel, there must be one electron in each box first before you fill up the rest. 

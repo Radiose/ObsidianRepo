@@ -1,0 +1,10 @@
+Heisenberg uncertainty principle
+You can never simultaneously know the position, and the speed of a subatomic particle. The exact position, and exact speed have no meaning. This is because everything in the universe acts as a particle and a wave at the same time
+
+Particles exist at a single place at a moment in time. Waves are disturbances out in space, where the wavelength is the distance between two neighbouring peaks. An objects wavelength is related to its momentum, which correlates to a short wavelength for faster objects. 
+
+To measure a particle with both position and wavelength, you must combine waves with different wavelengths.  This is because you cannot know exactly where a wave is based on its wavelength, you can only guess where it has a high probability of being. An essential important part is that MOMENTUM is the key determinant of wavelength, not speed. This means that everyday objects have extremely short wavelengths, as they have too much mass. 
+
+As you get to quantum levels, you can start to be able to measure wavelength, but you cannot measure its position, as waves dont have a position. On the other hand, you cannot measure the wavelength of a particle, so you cannot know its speed, only its position. 
+
+To get a particle with both position and momentum, you have to combine wavelengths. Adding many many waves will create large areas of superposition in the wavelength graph, where it cancels out. This creates a wave packet. You can predict the location of a particle based on this using probability, IE that there's a high chance it will appear centre of the wave packet. Adding more waves will make momentum more uncertain. Adding less waves will create more certainty in momentum, but create a bigger wave packet, leading to more uncertainty within position. 

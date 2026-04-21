@@ -1,0 +1,2 @@
+Aufbau principle
+The aufbau principle states that the ground state of an atom or ion, electrons fill atomic orbitals in the lowest energy levels before filling higher energy levels. Remember unlike in the hydrogen atom, the energy of atomic orbitals now depends both on n and l. This essentially just follows the [[n+L rule]]

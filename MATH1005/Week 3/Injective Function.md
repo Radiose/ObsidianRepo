@@ -1,0 +1,19 @@
+---
+aliases:
+  - injective
+  - one to one
+---
+Injective [[Function]]s
+Let $f: A \to B$ be a function. We say that f is one-to-one, or that f is injective when 
+$\forall a_{1},a_{2} \in A(a_{1} \not=a_{2}) \implies f(a_{1})\not=f(a_{2})$
+For every input, there exists a unique output **and for every output, there exists a unique input**. So it passes the horizontal line test. 
+
+Proving if f :$\mathbb{N} \to \mathbb{N}$ defined by f(a) = $a^2$ is injective 
+Yes. to show this we show that 
+
+$\forall a_{1},a_{2} \in A(a_{1} =a_{2}) \implies f(a_{1})=f(a_{2})$
+
+
+
+When constructing a [[proof]] around whether a function is injective, it is easier to prove the contrapositive 
+![[surjective function]]

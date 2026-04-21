@@ -1,0 +1,6 @@
+Predicate logic
+
+![[predicate]]
+
+![[quantification]]
+
