@@ -197,7 +197,8 @@
               "state": {
                 "file": "MATH1013/Linear algebra/Week 7/MATH1013 22.04.2026.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "MATH1013 22.04.2026"
