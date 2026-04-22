@@ -1,4 +1,5 @@
 Inverse matrix 
+### MATH1005
 An inverse [[Matrix]] is a method to solve a system of linear equations 
 This matrix $A^{-1}$ is an inverse of A in the following sense 
 An inverse, if one exists, of a [[Matrix]] $A \in M_{n}(\mathbb{Q})$ is a matrix $A^{-1} \in M_{n}(\mathbb{Q})$ with the property that $A^{-1}A = AA^{-1}=I_{n}$, where *I* is the [[Identity matrix]]
@@ -22,3 +23,10 @@ Computing the [[Inverse matrix]]
 A matrix A = $\begin{pmatrix}a, b \\ c,d\end{pmatrix} \in M_{2}(\mathbb{Q})$ has an inverse IFF ad-bc $\not=0$ and in this case, 
 $A^{-1} =\frac{1}{ad-bc}\begin{pmatrix}\ d,\ \ -b \\ -c,\ \ a\end{pmatrix}$
 
+
+### MATH1013 
+
+An [[Inverse matrix]] is defined as a [[composition of Linear transformations]] of said matrix and another matrix equating to the [[Identity matrix]]
+
+So, if f is a [[Bijective Transformation]], then there exists an $f^-1$ $f \circ f^{-1}$ = $I_{dx}$, 
+Recall, that this is due to the conditions that create [[Bijective Transformation]]s. (Null space is empty and column space is full)
