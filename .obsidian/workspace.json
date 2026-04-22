@@ -195,17 +195,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Linear algebra/Week 7/MATH1013 22.04.2026.md",
+                "file": "COMP1110/Week 3/COMP1110 10.03.2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1013 22.04.2026"
+              "title": "COMP1110 10.03.2026"
+            }
+          },
+          {
+            "id": "846e586446be8596",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP1110/Week 3/Passing by value.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Passing by value"
+            }
+          },
+          {
+            "id": "30bff01e1a149bb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP1110/Week 4/COMP1110 20.03.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "COMP1110 20.03.2026"
+            }
+          },
+          {
+            "id": "76c89c61d4a36439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP1110/Week 3/Value type.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Value type"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -372,7 +417,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -392,11 +438,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e382a98183e33bae",
+  "active": "30bff01e1a149bb0",
   "lastOpenFiles": [
+    "COMP1110/Week 3/Passing by value.md",
+    "COMP1110/Week 5/sealed interface.md",
+    "COMP1110/Week 4/Merge sort.md",
+    "COMP1110/Week 5/Enum.md",
+    "MATH1005/Week 3/relation.md",
+    "COMP1110/Week 3/reference type.md",
+    "COMP1110/Week 4/COMP1110 20.03.2026.md",
+    "COMP1110/Week 3/COMP1110 10.03.2026.md",
+    "COMP1110/Week 1/String equality.md",
+    "COMP1110/Week 3/Value type.md",
+    "COMP1110/Week 2/Array.md",
+    "COMP1110/Week 5/Record.md",
+    "COMP1110/Week 5/COMP1110 24.03.2026.md",
+    "COMP1110/Week 5/COMP1110 27.03.2026.md",
+    "MATH1013/Linear algebra/Week 7/MATH1013 22.04.2026.md",
     "MATH1013/Linear algebra/Week 6/Linear transformation.md",
     "MATH1005/Week 6/Inverse matrix.md",
-    "MATH1013/Linear algebra/Week 7/MATH1013 22.04.2026.md",
     "MATH1013/Linear algebra/Week 7/composition of Linear transformations.md",
     "MATH1013/Linear algebra/Week 7/Matrix addition.md",
     "MATH1013/Linear algebra/Week 7/Properties of Matrix multiplication.md",
@@ -406,20 +466,6 @@
     "MATH1005/Week 7/Countable.md",
     "MATH1013/Calculus/Week 7/integrable.md",
     "MATH1013/Calculus/Week 7/reverse Chain rule.md",
-    "MATH1013/Linear algebra/Week 6/Bijective Transformation.md",
-    "MATH1013/Calculus/Week 7/MATH1013 21.04.2026.md",
-    "MATH1013/Calculus/Week 7/Proof of The fundamental theorem of calculus.md",
-    "MATH1005/Week 6/Matrix multiplication.md",
-    "1005 final revision.md",
-    "MATH1005/Week 5/Geometric Sequence.md",
-    "MATH1005/Week 5/MATH1005 23.03.2026.md",
-    "MATH1005/Week 5/MATH1005 24.02.2026.md",
-    "MATH1005/Week 7/Multiset.md",
-    "MATH1013/Calculus/Week 7/Integration rules.md",
-    "MATH1005/Week 7/MATH1005 20.04.2026.md",
-    "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
-    "MATH1013/Calculus/Week 7/Indefinite integral.md",
-    "MATH1005/Week 2/powerset.md",
     "attachments/Pasted image 20260420112730.png",
     "attachments/Pasted image 20260420112238.png",
     "attachments/Pasted image 20260420111459.png",

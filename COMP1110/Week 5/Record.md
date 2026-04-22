@@ -1,5 +1,5 @@
 Record
-Takes in a string and an enum. 
+Groups pieces of information together.
 
 ```java
 record Student (String name, Grade grade){};
@@ -13,4 +13,4 @@ IO.println(stuName + " got "+ stuGrade);
 ```
 You cannot compare records with == . You should use `.equals` like with [[String equality]].
 
-![[Linked list]]
+Note that all records are examples o
