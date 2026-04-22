@@ -30,3 +30,19 @@ An [[Inverse matrix]] is defined as a [[composition of Linear transformations]] 
 
 So, if f is a [[Bijective Transformation]], then there exists an $f^-1$ $f \circ f^{-1}$ = $I_{dx}$, 
 Recall, that this is due to the conditions that create [[Bijective Transformation]]s. (Null space is empty and column space is full)
+
+There can only be one [[Inverse matrix]] to each matrix.
+
+
+One method to find the [[Inverse matrix]]
+Solve $AX = I_{n}$
+$X = [\vec{x}_{1},\vec{x}_{2}\dots \vec{x}_{n}]$
+$AX = [A\vec{x}_{1},A\vec{x}_{2},\dots,A \vec{x}_{N}]$
+SOLVE $A \vec{x}_{1}=e_{1}$, $A \vec{x}_{2}=\vec{e}_{2}$...
+Form a super augmented [[Matrix]]
+$[A | \vec{e}_{1} \vec{e}_{2}\dots \vec{e}_{n}]$
+RREF(A) = $I_{n}$
+
+Thus, you end up with $[I_{n}|A^{-1}]$
+
+The existence of an inverse matrix can be tested if the RREF of A has a pivot in every column and row. 
