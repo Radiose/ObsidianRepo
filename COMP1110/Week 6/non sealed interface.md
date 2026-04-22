@@ -39,7 +39,7 @@ class LinkedListChatHistory implements ChatHistory{
 
 What this means is that whenever you need ChatHistory, you can provide an instance of a LinkedListChatHistory.
 Any implementation of an interface must include the original [[Method]]s
-In this way, a [[Class]] is a subitem of an [[non sealed interface|interface]]
+In this way, a [[Class]] is a subitem of an [[non sealed interface|interface]], or more accurately, a [[Class]] gets put into categories, that are interfaces. 
 
 
 A circular bufferChatHistory

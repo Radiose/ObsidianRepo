@@ -13,4 +13,4 @@ Canberra is a better city than Sydney
 Wake up
 This statement is false - cannot be true or false
 
-Compound statements: built using ![[logical connectives]]
+Compound statements: built using ![[logical connective]]

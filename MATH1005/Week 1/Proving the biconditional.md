@@ -7,7 +7,7 @@ It is possible to accomplish both directions of proof simultaneously by arguing 
 
 example: for all integers x, x is even if and only if $x^2+2$ is even
 
-Recognise the [[logical connectives]] and the [[quantification]] present
+Recognise the [[logical connective]] and the [[quantification]] present
 $\forall x(x is even \leftrightarrow x^2+x is even)$
 proof: let x be in an integers
 For the $\to$ direction, we argue directly

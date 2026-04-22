@@ -26,7 +26,7 @@ adding 1-bit numbers
 0 + 1 = 0 1
 0 + 0 = 0 0
 
-[[logical connectives]] can produce this. If you want the carry bit, run it through the *and* gate. 
+[[logical connective]] can produce this. If you want the carry bit, run it through the *and* gate. 
 If you want the result, run it through the *xor* gate. 
 
 Therefore, to add two one bit numbers, you can use a type of circuit called a half adder. 
