@@ -32,15 +32,8 @@ class Generator{
 }
 ```
 
-![[field]]
-
-![[abstract data type]]
-
-![[Encapsulation]]
 
 
-**Extending a [[Class]]**
-Here you add in more methods to the original interface. Its important to note that a class can only extend one other class, while it can implement many [[non sealed interface|interface]]s
 ```java
 interface ErasableChatHistory extends ChatHistory{
 void erase(){
@@ -49,6 +42,4 @@ void erase(){
 }
 ``` 
 
-![[Exception]]
-![[Catching an exception]]
 

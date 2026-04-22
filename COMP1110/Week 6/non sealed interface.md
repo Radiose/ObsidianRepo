@@ -42,23 +42,14 @@ Any implementation of an interface must include the original [[Method]]s
 In this way, a [[Class]] is a subitem of an [[non sealed interface|interface]], or more accurately, a [[Class]] gets put into categories, that are interfaces. 
 
 
-A circular bufferChatHistory
+
+### Extending an [[non sealed interface|interface]]
+Here you add in more methods to the original interface. Its important to note that a [[Class]] can only extend one other class, while it can implement many [[non sealed interface|interface]]s. 
+
 ```java
-class circularBufferChatHistory implements ChatHistory{
-	private String[] arr;
-	private int nextAvailable;
-	private int size;
-	CircularBufferChatHistory(int capacity){
-		this.arr = new String[capacity]
-		this.nextAvailable = 0;
-		this.size = 0;
-	}
-	public void addMessage(){
-	
-	}
-	public void display(){
-	
-	}
+// File: ErasableChatHistory.java
+interface ErasableChatHistory extends ChatHistory {
+  void erase();
 }
 ```
 

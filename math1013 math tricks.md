@@ -43,7 +43,7 @@ sphere: $\frac{4}{3} \pi r^3$
 
 Biggest mistakes in my maths:
 forgetting to factorise large expressions 
-forgetting to multiply out terms to simplify them
+forgetting to multiply out terms to simplify them (often multiply by the conjugate)
 
 
 $\sqrt{ \frac{1}{3} }$=$\frac{\sqrt{ 1 }}{\sqrt{ 3 }}$=$\frac{1}{\sqrt{ 3 }}$

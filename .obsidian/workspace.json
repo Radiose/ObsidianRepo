@@ -265,13 +265,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP1110/Week 6/Exception.md",
+                "file": "COMP1110/Week 6/COMP1110 31.03.2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Exception"
+              "title": "COMP1110 31.03.2026"
             }
           }
         ],
@@ -423,13 +423,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP1110/Week 6/Exception.md",
+                "file": "COMP1110/Week 6/COMP1110 31.03.2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Exception"
+              "title": "Outline of COMP1110 31.03.2026"
             }
           },
           {
@@ -466,15 +466,20 @@
   },
   "active": "dc7d983e63c55016",
   "lastOpenFiles": [
+    "Math1005 things to learn about the nature of maths.md",
+    "math1013 math tricks.md",
+    "COMP1110/Week 6/COMP1110 31.03.2026.md",
+    "COMP1110/Week 6/Class.md",
+    "COMP1110/Week 6/non sealed interface.md",
+    "COMP1110/Week 6/abstract data type.md",
+    "COMP1110/Week 6/Exception.md",
+    "COMP1110/Week 6/Catching an exception.md",
+    "COMP1110/Week 6/field.md",
     "COMP1110/Week 5/sealed interface.md",
     "COMP1110/Week 5/Record.md",
-    "COMP1110/Week 6/Class.md",
     "COMP1110/Week 5/Recursive backtracking.md",
-    "COMP1110/Week 6/non sealed interface.md",
-    "COMP1110/Week 6/COMP1110 31.03.2026.md",
     "MATH1005/Week 1/logical connective.md",
     "COMP1110/Week 5/COMP1110 27.03.2026.md",
-    "COMP1110/Week 6/abstract data type.md",
     "COMP1110/Week 5/Linked list.md",
     "COMP1110/Week 5/Switch construct.md",
     "BIOL2161/Week 3/Mitochondria.md",
@@ -488,11 +493,6 @@
     "COMP1110/Week 2/COMP1110 03.03.2026.md",
     "COMP1110/Week 6/Method.md",
     "Untitled.base",
-    "COMP1110/Week 6/Encapsulation.md",
-    "COMP1110/Week 6/Abstraction.md",
-    "COMP1110/Week 5/Enum.md",
-    "COMP1110/Week 6/field.md",
-    "COMP1110/Week 4/Big O complexity.md",
     "attachments/Pasted image 20260420112730.png",
     "attachments/Pasted image 20260420112238.png",
     "attachments/Pasted image 20260420111459.png",
