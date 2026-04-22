@@ -1,1 +1,4 @@
+---
+{}
+---
 mutations are inherited changes in the [[DNA]] sequences of genetic information. The descendants that inherit the change may be cells or organisms. 

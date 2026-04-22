@@ -1,3 +1,6 @@
+---
+{}
+---
 Packaging of DNA in [[Eukaryotic cells]]
 each chromosome consists of a single continuous DNA molecule. eukaryotic [[DNA]] associates with histones to form **chromatin.**
 

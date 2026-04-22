@@ -1,3 +1,6 @@
+---
+{}
+---
 elongation of translation in [[prokaryote cells]] 
 
 AA are joined to create a polypeptide side chain 

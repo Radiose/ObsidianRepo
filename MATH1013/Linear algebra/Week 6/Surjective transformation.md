@@ -1,3 +1,6 @@
+---
+{}
+---
 Surjective transformation
 **When is T [[surjective function|surjective]]?** 
 Is every element $\vec{b} \in \mathbb{R}^m$ in the format $\vec{b}=A \vec{x}$

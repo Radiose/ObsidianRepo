@@ -1,3 +1,6 @@
+---
+{}
+---
 Second [[Derivative]]
 In the same way that the [[Derivative]] tells us if a [[Function]] is increasing or decreasing, a second [[Derivative]] will tell us about concavity.
 

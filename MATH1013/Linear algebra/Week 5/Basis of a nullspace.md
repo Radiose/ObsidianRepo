@@ -1,3 +1,6 @@
+---
+{}
+---
 Basis of a nullspace
 ![[Null space]]
 You can determine a **null space**'s basis via the [[parametric vector form]] of the solutions 

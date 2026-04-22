@@ -1,3 +1,6 @@
+---
+{}
+---
 Proof of [[The fundamental theorem of calculus]] 
 The essence of the fundamental theorem of calculus is that integration and differentiation are inverses that undo each other. So the area under a curve is the inverse of the instantaneous rate of change. 
 

@@ -1,3 +1,6 @@
+---
+{}
+---
 plasmid 
 Replicates independently of [[Bacterial Chromosome]]. 
 Fewer genes in each - typically contain genes not essential for survival such as antibiotic resistance

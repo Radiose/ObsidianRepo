@@ -1,3 +1,6 @@
+---
+{}
+---
 [[Bijective]] [[Transformation]]
 This logic also adds into the fact that a [[Transformation]] is a [[Bijective|bijection]] if and only if its [[Matrix]] is square.
 

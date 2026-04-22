@@ -1,3 +1,6 @@
+---
+{}
+---
 Prokaryotic gene structure 
 A [[prokaryote cells]] genes includes promoter, regulatory site, and additional regulatory genes
 It can be regulated via other [[Gene]]s as well 

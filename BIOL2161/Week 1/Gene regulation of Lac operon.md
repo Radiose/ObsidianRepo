@@ -1,3 +1,6 @@
+---
+{}
+---
 [[Gene regulation]] of [[Lac operon]]
 The lac operon's [[Gene regulation]] is inducible, but is under both negative and positive [[Transcription control|control]].
 Induced by presence of lactose 

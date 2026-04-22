@@ -1,3 +1,6 @@
+---
+{}
+---
 converting between binary and hexadecimal 
 $1011110$ = $101\  1110$ 
 = $0101 \ 1110)_{2}$

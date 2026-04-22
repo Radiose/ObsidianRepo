@@ -1,3 +1,6 @@
+---
+{}
+---
 TRUTH TABLES:
 ![[Pasted image 20260223155151.png]]
 

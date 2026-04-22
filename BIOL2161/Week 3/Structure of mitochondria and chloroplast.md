@@ -1,3 +1,6 @@
+---
+{}
+---
 Structure of [[mitochondria]] and [[chloroplast]]
 ![[Mitochondria]]
 ![[Chloroplast]]

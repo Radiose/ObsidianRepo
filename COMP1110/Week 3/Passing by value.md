@@ -1,3 +1,6 @@
+---
+{}
+---
 
 When a function is run, it creates something called a *frame*, a storage space set aside for the local variables that are run inside that function. The values of the arguments given in the functions call are copied into the functions frame.
 When the function returns, the frame is no longer needed, and is destroyed. 

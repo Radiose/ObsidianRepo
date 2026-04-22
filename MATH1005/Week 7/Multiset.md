@@ -1,3 +1,6 @@
+---
+{}
+---
 Multiset 
 A multiset is a [[Set]] with multiple copies of elements allowed and acknowledged. 
 As for ordinary sets, order is irrelevant

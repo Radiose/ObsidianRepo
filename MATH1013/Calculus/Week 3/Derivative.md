@@ -1,3 +1,6 @@
+---
+{}
+---
 Derivatives
 The average rate of change can be defined as $\frac{f(x)-f(x_{2})}{x-x_{2}}$ or units of f(x) / units of x
 

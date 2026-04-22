@@ -1,3 +1,6 @@
+---
+{}
+---
 [[theorem]] of linear equations:
 A system of linear equations has either:
 No solution

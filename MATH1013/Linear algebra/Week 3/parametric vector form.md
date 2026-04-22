@@ -1,3 +1,6 @@
+---
+{}
+---
 parametric vector form
 You can use this concept of [[linearity]] to create something called a parametric [[vector]] form
 This is necessary when you have a free variable present in your solution. As with any [[Consistent linear system]] that has infinite solutions, you will write all equations in terms of the free variable.

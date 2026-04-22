@@ -1,3 +1,6 @@
+---
+{}
+---
 Russell's paradox
 Most [[Set]]s are not members of themselves
 P = {pigeon, parrot). $P \not\in P$

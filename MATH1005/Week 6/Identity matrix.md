@@ -1,3 +1,6 @@
+---
+{}
+---
 Identity matrix 
 The basic matrix equation  $\begin{matrix}[1,0] \\ [0,1]\end{matrix} \times \begin{matrix}[a,b] \\ [c,d]\end{matrix}$  can show any 2x2 matrix through manipulation of A, B, C or D.
 

@@ -1,3 +1,6 @@
+---
+{}
+---
 String equality
 A string is defined by its location in memory
 A char is not an allocated data structure in memory

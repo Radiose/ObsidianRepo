@@ -1,3 +1,6 @@
+---
+{}
+---
 Geometric [[Sequence]]
 [[implicit definition of a sequence|implicit definition]] 
 $a_{k}=a$ (first term)

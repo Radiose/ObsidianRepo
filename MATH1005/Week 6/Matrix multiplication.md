@@ -1,3 +1,6 @@
+---
+{}
+---
 Matrix multiplication 
 ### MATH1005:
 We design [[Matrix]] multiplication so that it corresponds with the [[composition of Functions|composition]] of [[Linear functions]]

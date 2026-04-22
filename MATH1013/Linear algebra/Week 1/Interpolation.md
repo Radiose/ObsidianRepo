@@ -1,3 +1,6 @@
+---
+{}
+---
 Interpolation
 Interpolation is fitting a function to a set of data points 
 Given data $(t_{1},y_{1})\dots(t_{n},y_{n})$, find a function p(t) such that p(t) = y for all t

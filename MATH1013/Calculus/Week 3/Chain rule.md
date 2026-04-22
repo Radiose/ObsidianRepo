@@ -1,3 +1,6 @@
+---
+{}
+---
 Chain rule
 chain rule: applies to composed functions ![[Pasted image 20260310104344.png]]
 

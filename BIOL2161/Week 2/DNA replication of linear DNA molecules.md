@@ -1,3 +1,6 @@
+---
+{}
+---
 [[DNA replication]] of linear [[DNA]] molecules 
 In eukaryotes, replication is initiated at multiple origins of replication 
 Similar story as bubble is created 

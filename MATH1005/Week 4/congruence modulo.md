@@ -1,3 +1,6 @@
+---
+{}
+---
 congruence modulo - can be done by defining an [[equivalence class]] on the [[set]] of integers 
 
 $aR_{d}b \iff (\exists_{k} \in \mathbb{Z} \ a=b + kd)$

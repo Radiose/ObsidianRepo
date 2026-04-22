@@ -1,3 +1,6 @@
+---
+{}
+---
 predicate 
 a sentence containing one or more variables with the property that, when a value from a specified domain is given to each variable, the sentence becomes a [[Statement]]. The specified domain is the domain of the predicate.
 

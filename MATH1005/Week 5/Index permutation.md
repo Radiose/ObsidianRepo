@@ -1,3 +1,6 @@
+---
+{}
+---
 Index permutation
 An index permutation on an index set is a [[Bijective|bijection]] $\pi: I \to I$
 Every element from I gets used exactly once as an output.

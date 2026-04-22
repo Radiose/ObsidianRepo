@@ -1,3 +1,6 @@
+---
+{}
+---
 Eukaryotic cells
 Eukaryotic cells are larger (10-100$\micro$m), and contain membrane bound organelles. They contain multiple linear DNA molecules which are contained in the nucleus. 
 DNA in eukaryotes are complexed with histones, allowing much more densely packed genetic information

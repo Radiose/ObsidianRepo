@@ -1,3 +1,6 @@
+---
+{}
+---
 Recursive backtracking
 
 Recursive backtracking is a sort of refined brute force that will eliminate choices that are not possible. Take the solution below:

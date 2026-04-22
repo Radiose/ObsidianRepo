@@ -1,3 +1,6 @@
+---
+{}
+---
 Attenuation 
 tryptophan biosynthesis is also regulated by attenuation
 A mechanism for reducing expression of [[TRP Operon]] when tryptophan has high presence by preventing the completion of [[Transcription]]

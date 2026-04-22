@@ -1,3 +1,6 @@
+---
+{}
+---
 Implicit differentiation
 This occurs when you cannot easily/at all express y EXPLICITLY as a [[Function]] of x
 

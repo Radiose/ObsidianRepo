@@ -1,3 +1,6 @@
+---
+{}
+---
 Linear transformation
 using concepts of [[linearity]],
 A [[Transformation]] $T: \mathbb{R}^n\to \mathbb{R}^m$ is linear if 

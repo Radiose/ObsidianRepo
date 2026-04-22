@@ -1,3 +1,6 @@
+---
+{}
+---
 [[Transcription]] of [[prokaryote cells]]
 
 Three stages of [[Transcription]] 

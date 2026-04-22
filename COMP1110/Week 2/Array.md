@@ -1,3 +1,6 @@
+---
+{}
+---
 Arrays
 similar to strings, are defined by their location in memory, not contents 
 Their type: type of content they contain plus square brackets

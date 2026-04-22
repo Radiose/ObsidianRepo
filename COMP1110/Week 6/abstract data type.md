@@ -1,3 +1,6 @@
+---
+{}
+---
 abstract data type 
 The generator class 
 ```java
@@ -23,4 +26,5 @@ class Generator{
 ```
 
 is an example of an abstract data type. 
-The class generator has its own methods (run, refill), you can call the methods, interact with them, but thats it. You dont have to see how its done.
+
+The class generator has its own methods (run, refill), you can call the methods, interact with them, but thats it. You dont have to see how its done. This is all because of [[Abstraction]].

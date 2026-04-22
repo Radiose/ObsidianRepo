@@ -1,3 +1,6 @@
+---
+{}
+---
 Telomeres
 can be thought of analogous to the shoelace ends. Helps protect the end of a [[Chromosome]].
 The strand of [[DNA]] running 5'-3' toward the [[Chromosome]] end is G-Rich (lots of guanine). 

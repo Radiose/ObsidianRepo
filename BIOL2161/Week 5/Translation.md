@@ -1,3 +1,6 @@
+---
+{}
+---
 Translation 
 steps:
 charging of tRNA - attaching an amino acid onto tRNA 

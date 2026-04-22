@@ -1,3 +1,6 @@
+---
+{}
+---
 Two major styles to linear algebra:
 Algebra:
 	write down equations

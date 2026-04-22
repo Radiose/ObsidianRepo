@@ -1,3 +1,6 @@
+---
+{}
+---
 Riemann sum 
 For any real numbers *a,b* with $a<b$ and any positive integer n, a [[partition]] of \[a,b] (into n sub intervals) is an (n+1) tuple of real numbers $P=(x_{0},x_{1}\dots x_{n})$ such that $a = x_{0}<x_{1}<\dots<x_{n-1}<x_{n}=b$
 

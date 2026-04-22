@@ -1,3 +1,6 @@
+---
+{}
+---
 basic limit rules
 $a \in \mathbb{R}$ 
 $\lim_{ x \to a }(f(x)_+g(x)=\lim_{ x \to a}(f(x))+\lim_{ x\to a }g(x)$

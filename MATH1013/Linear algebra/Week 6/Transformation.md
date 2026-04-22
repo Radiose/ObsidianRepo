@@ -1,3 +1,6 @@
+---
+{}
+---
 Transformation
 It is useful to view a [[Matrix]] as Ax = b as a map from A on x to Ax. 
 Let A be an *m* x *n* matrix. The matrix transformation T associated with A is the function T $\mathbb{R}^n \to \mathbb{R}^m$ given by $T(\vec{x}) = A \vec{x}$ for every $x \in \mathbb{R}^n$

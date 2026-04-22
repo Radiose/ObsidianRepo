@@ -1,3 +1,6 @@
+---
+{}
+---
 The mean value [[theorem]]
 **Do not confuse with [[intermediate value theorem]]** 
 This is needed to know where a [[Function]] is increasing and decreasing 

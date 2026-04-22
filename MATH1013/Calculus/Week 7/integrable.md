@@ -1,3 +1,6 @@
+---
+{}
+---
 integrable 
 A [[Function]] is integrable if  the [[limits|limit]] definition of the [[Definite integral]] applies over the entire [[Function]].
 

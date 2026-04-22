@@ -1,3 +1,6 @@
+---
+{}
+---
 Integration rules
 
 ![[reverse Chain rule]]

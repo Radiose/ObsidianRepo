@@ -1,3 +1,6 @@
+---
+{}
+---
 Binary multiplication 
 	This is significantly easier. It involves multiplying one digit at a time and padding with zeroes as follows 
 $1011 \times 1100$

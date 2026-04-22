@@ -1,3 +1,6 @@
+---
+{}
+---
 Proving an implication
 To prove $p \implies q$
 Suppose that p is true

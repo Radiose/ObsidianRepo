@@ -1,3 +1,6 @@
+---
+{}
+---
 element proof 
 a type of proof that shows that two [[Set]]s are equal
 

@@ -1,3 +1,6 @@
+---
+{}
+---
 prokaryote cells
 prokaryotic cells do not comprise a nucleus, are typically small and contain 1 circular DNA molecule in the cytoplasm.
 1-10 $\micro$m

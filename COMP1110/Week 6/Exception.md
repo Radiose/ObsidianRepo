@@ -1,3 +1,6 @@
+---
+{}
+---
 Exception 
 `throw new IllegalStateException(message)` 
 Throwing is not the same as returning something. 

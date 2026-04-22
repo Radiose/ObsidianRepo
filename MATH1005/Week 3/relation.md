@@ -1,3 +1,6 @@
+---
+{}
+---
 relation
 let A,B be non empty [[Set]]s. Any [[subset]] of AxB is called a relation from A to B. A relation from A to A is called a relation on A. 
 A [[Cartesian product]]s subset is a relation

@@ -1,3 +1,6 @@
+---
+{}
+---
 quantification
 there are two way to turn a [[predicate]] into a [[Statement]]. 
 Specify a __

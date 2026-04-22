@@ -1,3 +1,6 @@
+---
+{}
+---
 Heteroplasmy
 Presence of more than one type of [[Mitochondria]]l [[DNA]]
 There can be two types of [[Mitochondria]]l DNA- wildtype and mutant in a cell

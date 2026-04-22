@@ -1,3 +1,6 @@
+---
+{}
+---
 Okazaki fragments
 short [[DNA]]  fragments, synthesized on lagging strand, with each fragment requiring a separate DNA primer to be created.
 formed because DNA polymerase synthesizes DNA only 5'-3'

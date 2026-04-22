@@ -1,3 +1,6 @@
+---
+{}
+---
 Initiation of [[Transcription]] in [[prokaryote cells]]
 An RNA polymerase holoenzyme will 
 - bind to consensus sequences

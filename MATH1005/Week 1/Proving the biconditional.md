@@ -1,3 +1,6 @@
+---
+{}
+---
 Proving the biconditional 
 to prove $p \leftrightarrow q$, you may first prove $p \implies q$ and $q \implies p$
 It is possible to accomplish both directions of proof simultaneously by arguing with biconditionals throughout your proof, but you must be careful when doing so.

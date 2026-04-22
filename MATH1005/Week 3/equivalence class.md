@@ -1,3 +1,6 @@
+---
+{}
+---
 equivalence class
 Take a set S and put an [[equivalence relation]] on it
 For each element s, we define a [[Set]] that has all the elements from S that are related to s. 

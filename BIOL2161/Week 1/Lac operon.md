@@ -1,3 +1,6 @@
+---
+{}
+---
 Lac operon
 Has 3 structural genes, LacZ, lacY, lacA. 
 Singular promoter region 

@@ -1,3 +1,6 @@
+---
+{}
+---
 Standard [[Matrix]]
 For a [[Linear transformation]] T, we can get the standard matrix of T from $A = [t(\vec{e}_{1})\dots t(\vec{e}_{n})]$, where e are columns in the [[Basis]]. 
 

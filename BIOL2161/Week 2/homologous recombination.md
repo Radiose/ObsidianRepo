@@ -1,3 +1,6 @@
+---
+{}
+---
 homologous recombination
 This mediates exchange of genetic information between homologous chromosomes
 It uses an intact homologous DNA molecular as a template for accurate repair - looks for other strand 

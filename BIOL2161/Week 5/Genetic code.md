@@ -1,3 +1,6 @@
+---
+{}
+---
 Genetic code
 pretty much universal
 consists of **triplet codons**

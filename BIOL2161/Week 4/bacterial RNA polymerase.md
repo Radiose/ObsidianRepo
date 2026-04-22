@@ -1,3 +1,6 @@
+---
+{}
+---
 bacterial RNA polymerase 
 enzyme that performs [[Transcription]]
 DNA directed - needs DNA as a template 

@@ -1,3 +1,6 @@
+---
+{}
+---
 **rRNA** - associates with different proteins to form a ribosome 
 ribosomal nucleic acid 
 RNA component of the ribosome 

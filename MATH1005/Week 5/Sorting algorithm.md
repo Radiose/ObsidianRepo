@@ -1,3 +1,6 @@
+---
+{}
+---
 Sorting algorithm
 list of information and putting it an order according to some rule
 let $N \in \mathbb{N}$ S be a set and $(x_{n})_{n\in \{ 1\dots N \}}$. 

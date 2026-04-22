@@ -1,3 +1,6 @@
+---
+{}
+---
 axiomatic set theory
 A [[Set]] T can only be defined as a subset of a known set U. That is
 $T = \{ x \in U | p(x)\}$

@@ -1,3 +1,6 @@
+---
+{}
+---
 Disjunctive normal form
 suppose $p_{1}, p_{2}\dots$ are statements
 

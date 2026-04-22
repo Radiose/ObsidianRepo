@@ -1,3 +1,6 @@
+---
+{}
+---
 ![[Linearly dependent]]Main
 Main is a function, which has void in front of it. This is because it wont output anything
 ```java

@@ -1,3 +1,6 @@
+---
+{}
+---
 tRNA 
 deciphers genetic code - delivers specific amino acids 
 transfer ribonucleic acid 

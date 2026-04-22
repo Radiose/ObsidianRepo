@@ -1,3 +1,6 @@
+---
+{}
+---
 The discrete logarithm problem 
 
 given a base, and a target. To which power must you raise the base to the target?

@@ -1,3 +1,6 @@
+---
+{}
+---
 Rolles theorem
 Suppose f is continuous on \[a,b], differentiable on (a,b) and such that f(a) = f(b). Then there is a $c \in (a,b)$ such that $f'(c)={0}$
 

@@ -1,3 +1,6 @@
+---
+{}
+---
 Ordered n-tuples
 let n be a positive integer, and let $x_{1},x_{2}\dots n$ be (not necessarily distinct) elements. The ordered N tuple consists of $(x_{1},x_{2},\dots x_{n})$ together with the ordering. An ordered 2 tuple is called an **ordered pair**. An ordered 3-tuple is an **ordered triple**.
 

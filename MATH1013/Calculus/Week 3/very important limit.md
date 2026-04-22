@@ -1,3 +1,6 @@
+---
+{}
+---
 very important [[limits]]:
 $\lim_{ \theta \to 0 }\frac{\sin \theta}{\theta}=1$ using [[The squeeze thereom]] and geometry you get the [[theorem]]
 

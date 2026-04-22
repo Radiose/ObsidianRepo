@@ -1,3 +1,6 @@
+---
+{}
+---
 Functional completeness
 You can determine whether you have the sufficient amount of logical connectives, by whether you can make a truth table with all combinations of true and falses. Functional completeness is when you construct the truth table with only the logical connectives.
 

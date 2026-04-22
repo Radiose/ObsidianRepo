@@ -1,3 +1,6 @@
+---
+{}
+---
 Nucleosomes 
 regularly organise [[DNA]], allowing it to fit inside the nucleus. These are DNA packed with histones
 

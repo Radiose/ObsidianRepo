@@ -1,3 +1,6 @@
+---
+{}
+---
 reflexive [[relation]]
 Let S be a set and let ~ be a relation on S. We say that
 ~ is reflexive when $\forall s \in S s$ ~$s$ 

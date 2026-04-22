@@ -1,3 +1,6 @@
+---
+{}
+---
 Representing rational numbers in a computer 
 Recall that a rational number is defined as 
 $Q = \mathbb{Z} \times(\mathbb{Z} \setminus \{ 0 \})$

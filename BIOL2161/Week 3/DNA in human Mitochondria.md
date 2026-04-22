@@ -1,3 +1,6 @@
+---
+{}
+---
 [[DNA]] in human [[Mitochondria]]
 Each [[Mitochondria]] contains multiple copies of mtDNA. Each human cell has hundreds to thousands of [[Mitochondria]]. 
 mtDNA is inherited almost only from the mother. This is because paternal mitochondria are actively degraded after fertilisation. 

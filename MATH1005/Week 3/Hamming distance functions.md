@@ -1,3 +1,6 @@
+---
+{}
+---
 Hamming distance [[Function]]s 
 Let B = {0,1} and $n \in \mathbb{N}$ 
 

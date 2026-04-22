@@ -1,3 +1,6 @@
+---
+{}
+---
 Recursion
 Recursion in java is done similarly to how its done in *Haskell*
 Its based off of underlying principles done in mathematical [[Induction]]

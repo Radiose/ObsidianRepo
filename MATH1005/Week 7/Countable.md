@@ -1,3 +1,6 @@
+---
+{}
+---
 Countable 
 A set S is countable when there is a [[Bijective|bijection]] from S to a subset of the set N of natural numbers. 
 

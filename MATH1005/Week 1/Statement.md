@@ -1,3 +1,6 @@
+---
+{}
+---
 Statement: A sentence that is **either** true or false, but not both.
 
 Statement sentences: Australia is in the southern hemisphere

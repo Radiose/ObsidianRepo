@@ -1,22 +1,51 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": false,
+  "colorGroups": [
+    {
+      "query": "tag:#comp1110",
+      "color": {
+        "a": 1,
+        "rgb": 1461189
+      }
+    },
+    {
+      "query": "tag:#MATH1013  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#BIOL2161  ",
+      "color": {
+        "a": 1,
+        "rgb": 1102109
+      }
+    },
+    {
+      "query": "tag:#MATH1005  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.2,
   "nodeSizeMultiplier": 0.881339696723531,
   "lineSizeMultiplier": 1.99588072028161,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.356586785810994,
   "repelStrength": 10.5544272948822,
   "linkStrength": 0.651198212835093,
   "linkDistance": 118,
-  "scale": 0.22920132864389844,
+  "scale": 0.12368095275444106,
   "close": true
 }

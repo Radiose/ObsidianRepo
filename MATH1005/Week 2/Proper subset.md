@@ -1,3 +1,6 @@
+---
+{}
+---
 Proper subset 
 A proper [[subset]] ,$\supset$, is defined when a set containing a subset has at least one element that is not in the subset.
 This is different to a regular subset, as a regular subset of a set could be identical to the original set.

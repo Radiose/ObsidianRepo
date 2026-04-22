@@ -1,3 +1,6 @@
+---
+{}
+---
 Transcription unit 
 region of DNA that gets transcribed into RNA from the template strand 
 CAN encode multiple genes such as in [[Operon]]s

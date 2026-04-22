@@ -1,3 +1,6 @@
+---
+{}
+---
 Linear functions 
 Def
 a function $f: Q^n \to Q^n$ is called **linear** if and only if 

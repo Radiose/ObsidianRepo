@@ -1,6 +1,11 @@
+---
+{}
+---
 Different to a [[non sealed interface]]
 
-A way to group several types together under a single type 
+A way to group several types together under a single type.
+This is an example of an **algebraic datatype**
+
 
 ```java
 enum Level{UG,PG}

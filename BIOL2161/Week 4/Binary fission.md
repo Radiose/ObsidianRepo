@@ -1,3 +1,6 @@
+---
+{}
+---
 Binary fission
 A kind of asexual reproduction utilised by [[prokaryote cells]]. 
 The general process:

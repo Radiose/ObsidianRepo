@@ -1,3 +1,6 @@
+---
+{}
+---
 Switch construct 
 ```java
 void congratulate(Student stu){

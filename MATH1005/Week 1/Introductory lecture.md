@@ -1,3 +1,6 @@
+---
+{}
+---
 proofs, notation, prove/disprove using logical structure etc
 
 Lecture notes should have enough information for most students. 

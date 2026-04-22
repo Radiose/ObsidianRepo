@@ -1,3 +1,6 @@
+---
+{}
+---
 Antibiotic targeting of ribosomes 
 Tetracycline
 Blocks binding of aa-tRNA to the A-site of ribosome 

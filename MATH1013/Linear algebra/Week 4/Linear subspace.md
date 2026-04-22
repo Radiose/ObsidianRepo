@@ -1,3 +1,6 @@
+---
+{}
+---
 Linear subspaces
 
 The span of a set of [[vector]]s is a linear subspace

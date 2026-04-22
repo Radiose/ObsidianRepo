@@ -1,3 +1,6 @@
+---
+{}
+---
 Linearly dependent
 An equation is linearly dependent if  there are weights that are not all zero in a homogenous system. 
 A system is linearly dependent if some of the [[vector]]s that comprise it are facing the same direction.

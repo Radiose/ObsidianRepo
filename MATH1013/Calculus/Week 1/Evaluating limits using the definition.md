@@ -1,3 +1,6 @@
+---
+{}
+---
 Evaluating limits using the definition
  Limit of a constant
  Prove that $\lim_{ k \to a }(k)=k$, where k is a constant

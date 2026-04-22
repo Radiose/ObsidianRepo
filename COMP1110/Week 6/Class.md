@@ -1,3 +1,6 @@
+---
+{}
+---
 Class 
 A class is a key part of **object orientated programming**. The idea of object orientated programming is that we want the types in our program to model actual things. The capabilities of an object is defined as its [[Method]]s. We use classes to model the real world as a system of classes that interact with each other through methods. A [[Class]] is often an implementation of an [[non sealed interface|interface]]
 

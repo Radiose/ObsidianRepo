@@ -1,3 +1,6 @@
+---
+{}
+---
 Sigma factors 
 Sigma factors enable RNA polymerase to recognise a promoter region - without cannot bind to DNA 
 

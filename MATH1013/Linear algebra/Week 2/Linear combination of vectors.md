@@ -1,3 +1,6 @@
+---
+{}
+---
 Linear combination of vectors 
 this [[theorem]] states that each vector is comprised of smaller vectors and their corresponding weights. 
 In maths: given vectors $v_{1},v_{2}\dots p$, and scalars $c_{1},c_{2}\dots p$, the vector 

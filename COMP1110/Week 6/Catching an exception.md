@@ -1,3 +1,6 @@
+---
+{}
+---
 Catching an exception 
 Take the generator [[Class]]. 
 

@@ -1,3 +1,6 @@
+---
+{}
+---
 DNA structure
 [[DNA]] must be stable and protected to store genetic information and prevent damage, or mutation
 DNA must be accessible so that information can be used to produce functional cells. It must be easy to open up the structure and begin transcription

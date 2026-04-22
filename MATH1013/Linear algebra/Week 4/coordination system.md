@@ -1,3 +1,6 @@
+---
+{}
+---
  coordination system inside of $\mathbb{R}^n$
 ![[The basis of a Linear subspace]]
 

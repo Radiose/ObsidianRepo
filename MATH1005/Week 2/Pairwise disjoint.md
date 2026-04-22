@@ -1,3 +1,6 @@
+---
+{}
+---
 Pairwise disjoint
 Two [[Set]]s are **disjoint** when $a \cap B = \emptyset$. This means that there are no elements in both sets. 
 Given a set of sets $\mathcal{S}$, the sets in S are said to be in pairwise disjoint when 

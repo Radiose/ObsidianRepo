@@ -1,3 +1,6 @@
+---
+{}
+---
 Genome structure 
 [[prokaryote cells]] usually have circular [[Bacterial Chromosome]], and typically has polycistronic [[mRNA]] as a result of [[Operon]]s
 

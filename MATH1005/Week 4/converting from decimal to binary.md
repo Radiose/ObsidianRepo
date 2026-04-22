@@ -1,3 +1,6 @@
+---
+{}
+---
 converting from decimal to binary
 Figure out how to write a number as the sum of powers of 2
 $(71)_{10}=64+7$

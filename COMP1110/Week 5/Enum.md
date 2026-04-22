@@ -1,3 +1,6 @@
+---
+{}
+---
 Enum 
 a type that represents numbers
 When creating types, you want to minimise the amount of possible values for that type 
@@ -31,4 +34,6 @@ void main(String[] args){
 
 ```
 
-Like Strings, enums are pass by reference. HOWEVER, you can treat it like pass by value. This is because the only possible locations in memory are the ones in the type, unlike string which can have a different location in memory for every single string.
+Like Strings, enums are [[reference type]]. HOWEVER, you can treat it like [[Value type]]. This is because the only possible locations in memory are the ones in the type, unlike string which can have a different location in memory for every single string.
+
+

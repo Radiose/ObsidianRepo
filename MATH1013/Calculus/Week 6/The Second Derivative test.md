@@ -1,3 +1,6 @@
+---
+{}
+---
 The [[Second Derivative]] test 
 
 if f'(c) = 0 and f''(c)> 0, then c is a local minimum point of f 

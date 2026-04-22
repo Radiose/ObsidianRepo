@@ -1,3 +1,6 @@
+---
+{}
+---
 Operon 
 A set of genes encoding proteins in the same metabolic pathway found in [[prokaryote cells]]. They are all regulated together. They are often transcribed as a **polycistronic mRNA molecule.** This is an mRNA that has multiple translation start sites in the molecule. 
 

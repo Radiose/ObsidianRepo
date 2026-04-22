@@ -1,3 +1,6 @@
+---
+{}
+---
 proof by contradiction
 
 To prove a statement p, you may prove it to be true by disproving $\neg p$. One way to do this is to suppose $\neg p$, and use this fact to deduce a [[Statement]] we know to false. This is because a true statement cannot **imply** a false statement, so we must have that $\neg p$ is false. So if the hypothesis of an implication is true, then the implication itself must be true. This goes back to [[The conditional statement]] and the logic surrounding that.

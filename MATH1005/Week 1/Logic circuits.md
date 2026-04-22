@@ -1,3 +1,6 @@
+---
+{}
+---
 Logic circuits
 
 in a simple circuit, you can model them with [[logical connectives]]. EG with a basic switch, you can model it with p. EG if p is on, the light is on.

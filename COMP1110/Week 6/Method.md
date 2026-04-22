@@ -1,3 +1,6 @@
+---
+{}
+---
 Method 
 Sometimes when you call a function, such as [[String equality]], **.equals** is a method.
 The way we make [[Method]]s is by putting it in the curly braces when we make custom data types 

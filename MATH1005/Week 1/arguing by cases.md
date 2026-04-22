@@ -1,3 +1,6 @@
+---
+{}
+---
 arguing by cases
 if the domain of a [[predicate]] is partitioned into subsets, you may prove a $\forall$ statement by proving it for each subset
 

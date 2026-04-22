@@ -1,3 +1,6 @@
+---
+{}
+---
 Rho dependent termination
 - **[[Rho]]** protein disassociates RNA polymerase and moves it off the template
 	requires:

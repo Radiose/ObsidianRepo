@@ -1,3 +1,6 @@
+---
+{}
+---
 The existential quantifier
 $\exists$ is read there exists (or for at least one)
 $\exists x p(x)$ there exists at least one x for which p is true in the domain.

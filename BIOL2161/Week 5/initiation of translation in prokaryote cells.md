@@ -1,3 +1,6 @@
+---
+{}
+---
 initiation of translation in [[prokaryote cells]]
 1: Ribosome starts translation at start site -particular codon and it requires initiation factors (proteins)
 

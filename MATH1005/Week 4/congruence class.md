@@ -1,3 +1,6 @@
+---
+{}
+---
 congruence class
 for any $d \in \mathbb{N}$ and any $a \in \mathbb{Z}$, the congruence class$[a]_{d}$ of modulo d is defined as $\{ m \in \mathbb{Z} | \ m \equiv a (mod \ d)\}$
 

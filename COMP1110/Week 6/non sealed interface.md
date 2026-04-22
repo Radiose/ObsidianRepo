@@ -3,6 +3,7 @@ aliases:
   - interface
 ---
 a non sealed interface can be implemented wherever, while a [[sealed interface]] can only be implemented where 
+Interfaces are [[reference type]]. They serve as a contract. Any [[Class]] that implements an [[non sealed interface|interface]] must implement those methods. 
 
 ```java
 interface ChatHistory{

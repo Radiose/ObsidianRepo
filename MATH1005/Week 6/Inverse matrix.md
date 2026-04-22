@@ -1,3 +1,6 @@
+---
+{}
+---
 Inverse matrix 
 ### MATH1005
 An inverse [[Matrix]] is a method to solve a system of linear equations 

@@ -1,3 +1,6 @@
+---
+{}
+---
 Optimisation 
 You can use the tools laid out previously to find out optimal solutions to problems. If [[The closed interval method]] is not able to be used, then you should utilise [[Maxima and minima|maxima or minima]] and reason about the shape of the graph to find the optimal solution. 
 

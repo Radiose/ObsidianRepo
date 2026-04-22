@@ -1,3 +1,6 @@
+---
+{}
+---
 Skin cancer is a great example of DNA mutations caused by environmental factors. UV light causes [[mutation]] in the DNA. Accumulation of DNA mutations cause cancer.
 ![[Pyrimidine dimers]]
 

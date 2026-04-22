@@ -1,3 +1,6 @@
+---
+{}
+---
 Chromosome
 [[DNA]] is packaged with histone proteins, so that a chromosome contains roughly equal amounts of [[DNA]] and protein 
 

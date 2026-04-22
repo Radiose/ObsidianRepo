@@ -1,3 +1,6 @@
+---
+{}
+---
 Sketching graphs
 f is strictly increaseing on an interval I
 x1<x2 $\implies$ f(x1)<f(x2)

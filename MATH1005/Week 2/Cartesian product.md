@@ -1,3 +1,6 @@
+---
+{}
+---
 Cartesian product
 Recall the definition of a [[Set]]
 In many situations, the order in which data appears is important, and the same data is sometimes represented multiple times. 

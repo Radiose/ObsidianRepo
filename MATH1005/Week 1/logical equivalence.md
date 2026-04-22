@@ -1,3 +1,6 @@
+---
+{}
+---
 LOGICAL EQUIVALENCE:
 
 Logical equivalence is essentially the same thing as algebraically simplifying things. 

@@ -1,6 +1,11 @@
+---
+{}
+---
 field
 A field can either be public or private. 
 If the field is private, nothing except the [[Method]]s in the class can see the field. Public fields can be accessed by the rest of the program
+If a field is private, it can be accessed 
+
 
 This is really important, as it leads to something called **abstraction**.
 

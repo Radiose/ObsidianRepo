@@ -1,3 +1,6 @@
+---
+{}
+---
 Alternative splicing
 This is a unique case that allows for diversity in eukaryotic cell transcription. A [[Transcription unit]]'s transcript will not always be processed the same way during [[RNA splicing|mRNA processing]]. 
 

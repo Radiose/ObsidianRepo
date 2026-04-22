@@ -1,3 +1,6 @@
+---
+{}
+---
 Leading term factoring
 ```handdrawn-ink
 {

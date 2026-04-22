@@ -1,3 +1,6 @@
+---
+{}
+---
 homogenous system of linear equations 
 A homogenous system of linear equations is one in the form Ax = 0. In this case, there is always the trivial solution x = 0.
 

@@ -1,3 +1,6 @@
+---
+{}
+---
 Principles of counting
 How: we have a collection of counting principles. When we need to count some objects, we analyse those objects until we carefully match the situation to one of the situations in which a counting principle applies. 
 

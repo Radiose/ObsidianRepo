@@ -1,3 +1,6 @@
+---
+{}
+---
 Attenuation of [[TRP Operon]]
 different regions of *leader sequence* with 5' UTR - region between operator and structural genes UTR = untranslated region
 

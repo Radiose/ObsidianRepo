@@ -1,3 +1,6 @@
+---
+{}
+---
 Merge sort 
 A [[Sorting algorithm]]
 

@@ -1,3 +1,6 @@
+---
+{}
+---
 Sequence 
 Let s be a set and $i \subset \mathbb{Z}_{\ge_{0}}$ a function a: I $\to$ S is called a sequence in S. A sequence is a structure that allows us to think about elements of a set occurring in some order.
 

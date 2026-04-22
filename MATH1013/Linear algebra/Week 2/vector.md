@@ -1,3 +1,6 @@
+---
+{}
+---
 vectors
 In the last lecture, weve been looking at linear equations horizontally. IE for every equation, it has one row. 
 

@@ -1,3 +1,6 @@
+---
+{}
+---
 Proving quantifies
 
 To prove $\forall xp(x)$, create a fixed but arbitrary variable of the [[predicate]] domain and argue that p(x) is true.

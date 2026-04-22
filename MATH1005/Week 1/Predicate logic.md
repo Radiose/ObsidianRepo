@@ -1,3 +1,6 @@
+---
+{}
+---
 Predicate logic
 
 ![[predicate]]

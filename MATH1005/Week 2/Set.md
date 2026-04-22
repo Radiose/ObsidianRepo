@@ -1,3 +1,6 @@
+---
+{}
+---
 Set
 A set is a collection of elements. 
 This cannot be understood as a definition, because we dont know what a collection or element is. It is an intuitive [[Statement]].

@@ -1,3 +1,6 @@
+---
+{}
+---
 Fermat's [[theorem]] 
 suppose that f is defined on (a,b) and has a local maximum or minimum point at c for some c in (a,b), if f is differentiable at c, then f'(c) = 0.
 

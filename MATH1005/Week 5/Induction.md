@@ -1,3 +1,6 @@
+---
+{}
+---
 ![[implicit definition of a sequence]]Induction 
 Induction is a method utilised in mathematical [[proof]]s. 
 

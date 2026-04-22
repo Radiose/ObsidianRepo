@@ -1,3 +1,6 @@
+---
+{}
+---
 Index set 
 is a set of the form 
 $I = \{ i \in \mathbb{Z}\ge_{0} : s \le i \le f\}= \{ s\dots f \}$

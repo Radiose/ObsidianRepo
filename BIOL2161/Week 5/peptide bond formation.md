@@ -1,3 +1,6 @@
+---
+{}
+---
 peptide bond formation
 proteins grow from N amino terminus to the C terminus 
 mRNAs are translated from the 5' to the 3' end 

@@ -1,3 +1,6 @@
+---
+{}
+---
 Linked list 
 Has two parts - head and tail - first element and rest of the list 
 This is an example of a *recursive datatype*
@@ -6,6 +9,7 @@ record StudentRoll(Student head, Grade grade){};
 StudentRoll roll = new StudentRoll(stu, new StudentRoll(stu2, new StudentRoll)(stu3, null));
 ```
 This linked list works similarly to how lists work in **Haskell**. Because this is a recursive datatype, the best method to work with it is to utilise [[Recursion]].
+
 ```java
 void printAllStudents(StudentRoll students){
 if (students == null)

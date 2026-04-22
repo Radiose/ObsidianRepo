@@ -1,3 +1,6 @@
+---
+{}
+---
 Injective transformation
 For the linear transformation [[Function]], is it [[Injective Function|injective]]?
 is $T(x_{1}) \not=T_(x_{2})$?

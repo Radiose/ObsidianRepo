@@ -1,3 +1,6 @@
+---
+{}
+---
 Properties of [[Matrix multiplication]]
 **Associative law** $A(BC)=(AB)C$
 **Left distributive law** $A(B+C) = AB + AC$

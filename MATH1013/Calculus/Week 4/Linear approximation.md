@@ -1,3 +1,6 @@
+---
+{}
+---
 Linear approximation 
 
 We know that the slope at the tangent line of f(x) at x = a is given by the [[Derivative]]

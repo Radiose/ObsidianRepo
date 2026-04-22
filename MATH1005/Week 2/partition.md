@@ -1,3 +1,6 @@
+---
+{}
+---
 Partitions
 Let A be a set and $A \subset \mathcal{P}(s)$. (So A is a set, the elements of which are subsets of S). We say that A is a **partition** of S when each of the following are true:
 1: $\emptyset \not\in A$

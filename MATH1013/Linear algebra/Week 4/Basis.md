@@ -1,3 +1,6 @@
+---
+{}
+---
 Basis
 A basis of $\mathbb{R}^n$ is a collection of vectors $\{ v_{1}\dots v_{m} \}$ such that any vector $\vec{v} \in \mathbb{R}^n$ can be uniquely expressed as a linear combination of the basis. 
 $e_{1}e_{2}e_{3}\dots$ is a basis of $\mathbb{R}^n$

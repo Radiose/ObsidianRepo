@@ -1,3 +1,6 @@
+---
+{}
+---
 Positional notation 
 let b, called the base be an integer that is at least 2, and let $d_{0},d_{1}\dots d_{b-1}$. Let these be called digits, that represent the first b non negative integers in order.
 

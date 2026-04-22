@@ -1,3 +1,6 @@
+---
+{}
+---
 DNA [[mutation]] types
 In order of seriousness
 silent mutation 

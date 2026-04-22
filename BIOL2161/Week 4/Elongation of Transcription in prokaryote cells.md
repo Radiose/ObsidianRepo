@@ -1,3 +1,6 @@
+---
+{}
+---
 Elongation of [[Transcription]] in [[prokaryote cells]]
 Dna is unwound as polymerase moves along strand. Nucleotides are added to 3' end of mRNA. As this occurs, the DNA is rewound upstream.
 

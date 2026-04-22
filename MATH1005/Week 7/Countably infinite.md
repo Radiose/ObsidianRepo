@@ -1,3 +1,6 @@
+---
+{}
+---
 Countably infinite
 The sets $\mathbb{P}$ and $\mathbb{N}$ are both countable and infinite. 
 

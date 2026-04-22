@@ -1,3 +1,6 @@
+---
+{}
+---
 TRP [[Operon]]
 Tryptophan - an essential amino acid - used in the biosynthesis of proteins 
 a trp operon has 5 different genes

@@ -1,3 +1,6 @@
+---
+{}
+---
 simplification of compound statements
 For statement variables p and q:
 

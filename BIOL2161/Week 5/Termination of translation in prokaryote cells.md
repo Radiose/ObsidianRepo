@@ -1,3 +1,6 @@
+---
+{}
+---
 Termination of translation in [[prokaryote cells]] 
 protein synthesis ends when ribosome translocates to a stop codon 
 the stop codon has no tRNA equivalent 

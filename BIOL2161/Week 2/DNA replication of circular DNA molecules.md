@@ -1,3 +1,6 @@
+---
+{}
+---
 [[DNA replication]] of circular [[DNA]] molecules
 circular DNA is found in bacteria and some viruses
 single origin of replication

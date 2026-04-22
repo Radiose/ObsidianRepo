@@ -1,3 +1,6 @@
+---
+{}
+---
 logical structure of a [[proof]]
 [[Statement]]
 ...

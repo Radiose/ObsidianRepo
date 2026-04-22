@@ -1,3 +1,6 @@
+---
+{}
+---
 The squeeze thereom
 let f(x), g(x), h(x) be functions
 IF

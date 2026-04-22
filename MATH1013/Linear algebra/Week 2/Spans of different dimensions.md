@@ -1,3 +1,6 @@
+---
+{}
+---
 Spans of different dimensions
 Span of dimension 1 
 span$v_{1}=\{\mathbb{R}\ if\ v\not=0 \\  \}$ if v = 0 then $\vec{0}$

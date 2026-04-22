@@ -1,3 +1,6 @@
+---
+{}
+---
 Rank nullity [[theorem]]
 For any matrix A, the dimension of the [[Column space]] and the dimension of the [[Null space]] is equal to the total number of columns of A.
 
