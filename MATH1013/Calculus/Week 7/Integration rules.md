@@ -5,6 +5,6 @@ Integration rules
 
 ![[reverse Chain rule]]
 
-![[U substitution]]
+![[Integration by substitution]]
 
 ![[Integration by parts]]
