@@ -9,3 +9,6 @@ A [[Function]] f of x is in the set of O of g of x if and only if, there exists 
 
 Big O complexity refers to the **upper bound** of the function 
 - this can be observed by f(n) is always LESS than or equal to c times g of (n)
+
+![[time complexity]]
+![[space complexity]]
