@@ -203,6 +203,45 @@
             }
           },
           {
+            "id": "12a876c77a169ea1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP1110/Week 7/COMP1110 21.04.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "COMP1110 21.04.2026"
+            }
+          },
+          {
+            "id": "64d51a7d98513b9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP1110/Week 7/Collection (interface).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Collection (interface)"
+            }
+          },
+          {
             "id": "2f0de983abe873cf",
             "type": "leaf",
             "state": {
@@ -248,7 +287,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -396,13 +435,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIOL2161/Week 7/Addition of 5' cap.md",
+                "file": "COMP1110/Week 7/Collection (interface).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Addition of 5' cap"
+              "title": "Outline of Collection (interface)"
             }
           },
           {
@@ -437,17 +476,21 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "ad58132221683613",
+  "active": "64d51a7d98513b9f",
   "lastOpenFiles": [
+    "COMP1110/Week 7/COMP1110 21.04.2026.md",
+    "COMP1110/Week 7/Collection (interface).md",
+    "MATH1005/Week 2/Set.md",
+    "BIOL2161/Week 7/5' cap.md",
+    "BIOL2161/Week 7/Addition of 5' cap.md",
+    "BIOL2161/Week 7/Transcription of Eukaryotic cells.md",
+    "BIOL2161/Week 7/BIOL2161 21.04.2026.md",
     "BIOL2161/Week 7/Co transcriptional processing.md",
     "BIOL2161/Week 7/Introns and exonsintron splicing.md",
     "BIOL2161/Week 7/Polyadenylation.md",
     "BIOL2161/Week 7/poly a tail.md",
-    "BIOL2161/Week 7/BIOL2161 21.04.2026.md",
     "COMP1110/Week 1/Main.md",
     "BIOL2161/Week 4/Consensus sequence.md",
-    "BIOL2161/Week 7/Transcription of Eukaryotic cells.md",
-    "BIOL2161/Week 7/Addition of 5' cap.md",
     "BIOL2161/Week 7/Enhancer sequence.md",
     "BIOL2161/Week 7/activator protein.md",
     "BIOL2161/Week 6/Auto induction of bacteria.md",
@@ -465,10 +508,6 @@
     "attachments/Pasted image 20260423163330.png",
     "BIOL2161/Week 2/unwinding DNA.md",
     "BIOL2161/Week 4/Transcription of prokaryote cells.md",
-    "BIOL2161/Week 4/Initiation of Transcription in prokaryote cells.md",
-    "BIOL2161/Week 4/Transcription.md",
-    "BIOL2161/Week 5/Translation.md",
-    "BIOL2161/Week 7/RNA polymerase II.md",
     "attachments/Pasted image 20260420112730.png",
     "attachments/Pasted image 20260420112238.png",
     "attachments/Pasted image 20260420111459.png",
