@@ -49,3 +49,6 @@ RREF(A) = $I_{n}$
 Thus, you end up with $[I_{n}|A^{-1}]$
 
 The existence of an inverse matrix can be tested if the RREF of A has a pivot in every column and row. 
+
+### Properties of inverse matrices
+If A has inverse $A^{-1}$, then $A^{-1}$ is invertible with inverse A 

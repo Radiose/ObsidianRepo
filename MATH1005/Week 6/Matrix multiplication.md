@@ -1,6 +1,3 @@
----
-{}
----
 Matrix multiplication 
 ### MATH1005:
 We design [[Matrix]] multiplication so that it corresponds with the [[composition of Functions|composition]] of [[Linear functions]]
@@ -43,3 +40,13 @@ $BA = 2 \times 2$
 
 
 Square matrices as a result, are the only matrix that can be multiplied by itself. 
+
+## Properties of [[Matrix multiplication]]
+**Associative law** $A(BC)=(AB)C$
+**Left distributive law** $A(B+C) = AB + AC$
+
+**right distributive law** $(B+C)A = BA + CA$
+
+**scalar multiplication** $r(AB) = r(A)B= Ar(B)$
+
+
