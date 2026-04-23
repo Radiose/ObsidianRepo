@@ -143,6 +143,81 @@
             }
           },
           {
+            "id": "444e898e78df327b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIOL2161/Week 7/Transcription of Eukaryotic cells.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Transcription of Eukaryotic cells"
+            }
+          },
+          {
+            "id": "5f78277e554ba563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIOL2161/Week 7/Transcription of Eukaryotic cells.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Transcription of Eukaryotic cells"
+            }
+          },
+          {
+            "id": "b994a2dc8aed4d36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIOL2161/Week 7/BIOL2161 21.04.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "BIOL2161 21.04.2026"
+            }
+          },
+          {
+            "id": "2f0de983abe873cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIOL2161/Week 7/Termination of transcription in Eukaryotic cells.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Termination of transcription in Eukaryotic cells"
+            }
+          },
+          {
+            "id": "0488e34ab80a1d13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIOL2161/Week 7/Elongation of Transcription in Eukaryotic cells.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Elongation of Transcription in Eukaryotic cells"
+            }
+          },
+          {
             "id": "d4fd85d17b324323",
             "type": "leaf",
             "state": {
@@ -158,7 +233,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -306,13 +381,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIOL2161/Week 7/Transcription of Eukaryotic cells.md",
+                "file": "BIOL2161/Week 7/BIOL2161 21.04.2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Transcription of Eukaryotic cells"
+              "title": "Outline of BIOL2161 21.04.2026"
             }
           },
           {
@@ -347,35 +422,38 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "b2ec427731246724",
+  "active": "b994a2dc8aed4d36",
   "lastOpenFiles": [
-    "BIOL2161/Week 2/unwinding DNA.md",
+    "BIOL2161/Week 7/Enhancer sequence.md",
+    "BIOL2161/Week 7/activator protein.md",
+    "BIOL2161/Week 6/Auto induction of bacteria.md",
+    "BIOL2161/Week 6/Expression plasmid.md",
+    "BIOL2161/Week 6/IPTG induction.md",
+    "BIOL2161/Week 7/Co transcriptional processing.md",
     "BIOL2161/Week 7/Transcription of Eukaryotic cells.md",
+    "BIOL2161/Week 7/Termination of transcription in Eukaryotic cells.md",
+    "BIOL2161/Week 7/BIOL2161 21.04.2026.md",
+    "BIOL2161/Week 1/prokaryotic cells.md",
+    "BIOL2161/Week 1/Eukaryotic cells.md",
+    "BIOL2161/Week 7/Elongation of Transcription in Eukaryotic cells.md",
+    "attachments/Pasted image 20260423165335.png",
+    "BIOL2161/Week 7/Initiation of transcription in Eukaryotic cells.md",
+    "attachments/Pasted image 20260423164921.png",
+    "Untitled.base",
+    "BIOL2161/Week 7/C value.md",
+    "attachments/Pasted image 20260423163330.png",
+    "BIOL2161/Week 2/unwinding DNA.md",
     "BIOL2161/Week 4/Transcription of prokaryote cells.md",
     "BIOL2161/Week 4/Initiation of Transcription in prokaryote cells.md",
     "BIOL2161/Week 4/Transcription.md",
     "BIOL2161/Week 5/Translation.md",
-    "BIOL2161/Week 7/BIOL2161 21.04.2026.md",
     "BIOL2161/Week 7/RNA polymerase II.md",
     "BIOL2161/Week 7/RNA polymerase.md",
     "BIOL2161/Week 7/RNA splicing.md",
-    "BIOL2161/Week 7/C value.md",
     "BIOL2161/Week 7/Genome size.md",
     "BIOL2161/Week 3/BIOL2161 10.03.2026.md",
     "BIOL2161/Week 3/Chromatin.md",
-    "BIOL2161/Week 1/Eukaryotic cells.md",
     "COMP1110/Week 4/Big O notation.md",
-    "COMP1110/Week 6/COMP1110 31.03.2026.md",
-    "COMP1110/Week 3/Value type.md",
-    "COMP1110/Week 6/Encapsulation.md",
-    "COMP1110/Week 3/Passing by value.md",
-    "COMP1110/Week 3/COMP1110 10.03.2026.md",
-    "MATH1013/Linear algebra/Week 7/MATH1013 22.04.2026.md",
-    "MATH1005/Week 7/MATH1005 20.04.2026.md",
-    "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
-    "MATH1013/Calculus/Week 7/Integration rules.md",
-    "MATH1013/Calculus/Week 7/MATH1013 21.04.2026.md",
-    "Untitled.base",
     "attachments/Pasted image 20260420112730.png",
     "attachments/Pasted image 20260420112238.png",
     "attachments/Pasted image 20260420111459.png",
@@ -388,9 +466,6 @@
     "attachments/Pasted image 20260402172204.png",
     "attachments/Pasted image 20260401172832.png",
     "attachments/Pasted image 20260401172723.png",
-    "attachments/Pasted image 20260401093219.png",
-    "attachments/Pasted image 20260331173245.png",
-    "attachments/Pasted image 20260331150857.png",
     "Untitled",
     "q",
     "attachments/Ink/Drawing/2026.3.24 - 9.38am.drawing",

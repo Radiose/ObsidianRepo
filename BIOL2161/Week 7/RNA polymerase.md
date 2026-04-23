@@ -1,6 +1,6 @@
 RNA polymerase 
 # In [[Eukaryotic cells]]
-This is an enzyme that is highly involved in the process of [[Transcription]] in both [[prokaryote cells]] and [[Eukaryotic cells|eukaryote]]s . 
+This is an enzyme that is highly involved in the process of [[Transcription]] in both [[prokaryotic cells]] and [[Eukaryotic cells|eukaryote]]s . 
 In prokaryotes, there is one form of RNA polymerase. 
 In [[Eukaryotic cells|eukaryote]]s ,there are 5 
 - pol I - pol III in all eukaryotes.

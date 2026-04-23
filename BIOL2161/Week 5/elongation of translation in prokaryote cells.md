@@ -1,7 +1,7 @@
 ---
 {}
 ---
-elongation of translation in [[prokaryote cells]] 
+elongation of translation in [[prokaryotic cells]] 
 
 AA are joined to create a polypeptide side chain 
 Ribosome attached [[initiation of translation in prokaryote cells]] - now additional tRNA can come 

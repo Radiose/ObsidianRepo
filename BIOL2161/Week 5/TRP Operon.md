@@ -14,4 +14,4 @@ Is repressible (default on) operon under negative [[Transcription control|contro
 
 In [[Eukaryotic cells]], each coding sequence produces one gene. Each has one single promoter and terminator etc. Much more extra work. Much more flexible
 
-In [[prokaryote cells]], TRP is an [[Operon]]
+In [[prokaryotic cells]], TRP is an [[Operon]]

@@ -18,7 +18,7 @@ Therefore, the distinction between the Sense and the antisense strand is determi
 
 An okazaki fragment requires an RNA primer
 
-In [[prokaryote cells]], okazaki fragments are significantly longer, and can be up to 2000 base pairs long. COME Back 
+In [[prokaryotic cells]], okazaki fragments are significantly longer, and can be up to 2000 base pairs long. COME Back 
 
 DNA function is determined by the structure of it. 
 

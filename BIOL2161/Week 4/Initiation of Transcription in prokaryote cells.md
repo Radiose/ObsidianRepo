@@ -1,7 +1,7 @@
 ---
 {}
 ---
-Initiation of [[Transcription]] in [[prokaryote cells]]
+Initiation of [[Transcription]] in [[prokaryotic cells]]
 An RNA polymerase holoenzyme will 
 - bind to consensus sequences
 - unwind dna - [[Transcription]] bubble

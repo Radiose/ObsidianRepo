@@ -1,7 +1,7 @@
 ---
 {}
 ---
-Elongation of [[Transcription]] in [[prokaryote cells]]
+Elongation of [[Transcription]] in [[prokaryotic cells]]
 Dna is unwound as polymerase moves along strand. Nucleotides are added to 3' end of mRNA. As this occurs, the DNA is rewound upstream.
 
 Bacterial transcription occurs at about 14 nucleotides a second compared to [[DNA replication]] in bacteria which is 1000-2000 nucleotides a second (at 37 degrees celcius).

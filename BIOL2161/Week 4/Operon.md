@@ -2,7 +2,7 @@
 {}
 ---
 Operon 
-A set of genes encoding proteins in the same metabolic pathway found in [[prokaryote cells]]. They are all regulated together. They are often transcribed as a **polycistronic mRNA molecule.** This is an mRNA that has multiple translation start sites in the molecule. 
+A set of genes encoding proteins in the same metabolic pathway found in [[prokaryotic cells]]. They are all regulated together. They are often transcribed as a **polycistronic mRNA molecule.** This is an mRNA that has multiple translation start sites in the molecule. 
 
 All operons have 
 - regulatory genes
@@ -21,7 +21,7 @@ Disadvantages
 
 
 
-In [[prokaryote cells]], there are two main types of [[Operon]]s 
+In [[prokaryotic cells]], there are two main types of [[Operon]]s 
 
 ![[Catabolic operons]]
 

@@ -1,7 +1,7 @@
 ---
 {}
 ---
-[[Transcription]] of [[prokaryote cells]]
+[[Transcription]] of [[prokaryotic cells]]
 
 Three stages of [[Transcription]] 
 Initiation of transcription in bacteria 

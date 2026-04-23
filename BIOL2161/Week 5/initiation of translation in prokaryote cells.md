@@ -1,7 +1,7 @@
 ---
 {}
 ---
-initiation of translation in [[prokaryote cells]]
+initiation of translation in [[prokaryotic cells]]
 1: Ribosome starts translation at start site -particular codon and it requires initiation factors (proteins)
 
 2: Requires Shine-Dalgarno sequence 
@@ -20,7 +20,7 @@ once 30s is bound to mRNA - two other initiation factors come in
 
 IF1 binds to 30s - enhances disassociation of large and small ribosomal subunits - keeps them apart more
 
-n-formylmenthionine is an *amino acid* that is specifically used to initiate protein synthesis in [[prokaryote cells]] and other organelles
+n-formylmenthionine is an *amino acid* that is specifically used to initiate protein synthesis in [[prokaryotic cells]] and other organelles
 
 Hydrolysis of GTP to GDP occurs, and initiation factors will dissasociate.
 The 50s [[Ribosomal subunit]] can bind

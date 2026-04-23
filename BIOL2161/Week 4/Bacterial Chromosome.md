@@ -1,7 +1,7 @@
 ---
 {}
 ---
-[[prokaryote cells]] have Bacterial [[Chromosome]]
+[[prokaryotic cells]] have Bacterial [[Chromosome]]
 4 million base pairs in an organised circle. 
 Bacterial chromosomes are highly efficient - most of the regions encode for proteins 
 Mostly haploid - singular chromosome 
