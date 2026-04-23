@@ -1,0 +1,2 @@
+Black box test
+The opposite of [[White box test]]ing. You dont know the implementation at all, all you know is the [[non sealed interface|interface]] (in java). You know what the [[Method]]s are supposed to do, but you dont know how they accomplish it. This is generally more important that white box testing, and theyre easier to use, as they dont rely on **specific implementation** , making it more **maintainable**. 
