@@ -280,13 +280,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP1110/Week 7/COMP1110 21.04.2026.md",
+                "file": "COMP1110/Week 6/field.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "COMP1110 21.04.2026"
+              "title": "field"
             }
           },
           {
@@ -402,7 +402,8 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -483,13 +484,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP1110/Week 7/COMP1110 21.04.2026.md",
+                "file": "COMP1110/Week 6/field.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of COMP1110 21.04.2026"
+              "title": "Outline of field"
             }
           },
           {
@@ -526,11 +527,20 @@
   },
   "active": "2ba3590a10a2474e",
   "lastOpenFiles": [
+    "COMP1110/Week 6/Method.md",
+    "COMP1110/Week 6/abstract data type.md",
+    "COMP1110/Week 5/Linked list.md",
+    "COMP1110/Week 5/sealed interface.md",
+    "COMP1110/Week 6/Exception.md",
+    "COMP1110/Week 6/Abstraction.md",
+    "COMP1110/Week 6/Encapsulation.md",
+    "COMP1110/Week 6/field.md",
+    "COMP1110/Week 6/Class.md",
+    "COMP1110/Week 7/COMP1110 21.04.2026.md",
     "COMP1110/Week 7/Test suite.md",
     "COMP1110/Week 7/Unit testing.md",
     "COMP1110/Week 7/Black box test.md",
     "COMP1110/Week 7/White box test.md",
-    "COMP1110/Week 7/COMP1110 21.04.2026.md",
     "COMP1110/Week 7/Integration testing.md",
     "BIOL2161/Week 3/Mitochondria.md",
     "BIOL2161/Week 3/Telomere.md",
@@ -543,15 +553,6 @@
     "MATH1013/Linear algebra/Week 5/Rank nullity theorem.md",
     "MATH1005/Week 6/Linear functions.md",
     "COMP1110/Week 6/non sealed interface.md",
-    "COMP1110/Week 3/COMP1110 10.03.2026.md",
-    "COMP1110/Week 3/reference type.md",
-    "COMP1110/Week 3/Value type.md",
-    "Math1005 things to learn about the nature of maths.md",
-    "math1013 math tricks.md",
-    "COMP1110/Week 6/Class.md",
-    "COMP1110/Week 6/abstract data type.md",
-    "COMP1110/Week 6/Exception.md",
-    "COMP1110/Week 6/Catching an exception.md",
     "Untitled.base",
     "attachments/Pasted image 20260420112730.png",
     "attachments/Pasted image 20260420112238.png",

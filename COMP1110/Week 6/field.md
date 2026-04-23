@@ -7,6 +7,8 @@ If the field is private, nothing except the [[Method]]s in the class can see the
 If a field is private, it can be accessed 
 
 
-This is really important, as it leads to something called **abstraction**.
+This is really important, as it leads to something called [[Abstraction]].
 
-Abstraction is the general principle that aims to reduce duplication of information within a program.
+Note that to get a field, you can call it without brackets. So `array.length` returns the field associated with the length of an array class. 
+
+On the other hand, string.length() is a method that 
