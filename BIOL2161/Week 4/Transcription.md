@@ -27,8 +27,4 @@ RNA can fold up on itself via complementary base pairing. This leads is to be ca
 ![[bacterial RNA polymerase]]
 ![[Transcription of prokaryote cells]]
 
-[[Transcription]] of [[Eukaryotic cells]]
-Quite similar to eukaryotic cells, with the addition of introns and exons. Introns must be removed via extra processing of [[mRNA]] to undergo RNA splicing 
-![[RNA splicing]]**
-
-![[Introns and exons]]
+![[Transcription of Eukaryotic cells]]
