@@ -8,273 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "776dcad79a04cae9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1005/Week 7/Countable.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Countable"
-            }
-          },
-          {
-            "id": "cca6614412c74768",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1005/Week 7/cardinality.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "cardinality"
-            }
-          },
-          {
-            "id": "2a0e7a597a6b33c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1013/Calculus/Week 6/Optimisation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Optimisation"
-            }
-          },
-          {
-            "id": "179ed64b2ae9dce6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1013/Calculus/Week 6/Definite integral.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Definite integral"
-            }
-          },
-          {
-            "id": "062a81c96bcce54e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1013/Calculus/Week 6/Definite integral.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Definite integral"
-            }
-          },
-          {
-            "id": "cc424ba3864c5a06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1013/Calculus/Week 7/MATH1013 21.04.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MATH1013 21.04.2026"
-            }
-          },
-          {
-            "id": "9b211d82619fc6c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1013/Calculus/Week 7/Integration rules.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Integration rules"
-            }
-          },
-          {
-            "id": "41b84c9827983c0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1013/Calculus/Week 7/Integration rules.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Integration rules"
-            }
-          },
-          {
-            "id": "9360826be1c5cc52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The fundamental theorem of calculus"
-            }
-          },
-          {
-            "id": "7436cbef3a2a1214",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1005/Week 7/MATH1005 20.04.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MATH1005 20.04.2026"
-            }
-          },
-          {
-            "id": "e6166183c40c1c7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1013/Calculus/Week 7/Proof of The fundamental theorem of calculus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Proof of The fundamental theorem of calculus"
-            }
-          },
-          {
-            "id": "574fabfe7effd0c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1013/Linear algebra/Week 7/MATH1013 22.04.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MATH1013 22.04.2026"
-            }
-          },
-          {
-            "id": "ca697695ecec3ed1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1013/Linear algebra/Week 7/MATH1013 22.04.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MATH1013 22.04.2026"
-            }
-          },
-          {
-            "id": "e382a98183e33bae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP1110/Week 3/COMP1110 10.03.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "COMP1110 10.03.2026"
-            }
-          },
-          {
-            "id": "846e586446be8596",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP1110/Week 3/Passing by value.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Passing by value"
-            }
-          },
-          {
-            "id": "30bff01e1a149bb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP1110/Week 6/Encapsulation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Encapsulation"
-            }
-          },
-          {
-            "id": "8a4acd04146416e4",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Juggl"
-            }
-          },
-          {
-            "id": "76c89c61d4a36439",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP1110/Week 3/Value type.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Value type"
-            }
-          },
-          {
-            "id": "dc7d983e63c55016",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP1110/Week 6/COMP1110 31.03.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "COMP1110 31.03.2026"
-            }
-          },
-          {
             "id": "2ba3590a10a2474e",
             "type": "leaf",
             "state": {
@@ -355,6 +88,21 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "BIOL2161/Week 3/BIOL2161 10.03.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "BIOL2161 10.03.2026"
+            }
+          },
+          {
+            "id": "b8ee058eb3d8e772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "BIOL2161/Week 7/BIOL2161 21.04.2026.md",
                 "mode": "source",
                 "source": false,
@@ -363,9 +111,54 @@
               "icon": "lucide-file",
               "title": "BIOL2161 21.04.2026"
             }
+          },
+          {
+            "id": "a937b7f3dda84838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIOL2161/Week 7/RNA polymerase.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "RNA polymerase"
+            }
+          },
+          {
+            "id": "b2ec427731246724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIOL2161/Week 7/Transcription of Eukaryotic cells.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Transcription of Eukaryotic cells"
+            }
+          },
+          {
+            "id": "d4fd85d17b324323",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIOL2161/Week 7/C value.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "C value"
+            }
           }
         ],
-        "currentTab": 24
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -397,7 +190,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "chromati",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -513,13 +306,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIOL2161/Week 7/BIOL2161 21.04.2026.md",
+                "file": "BIOL2161/Week 7/Transcription of Eukaryotic cells.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of BIOL2161 21.04.2026"
+              "title": "Outline of Transcription of Eukaryotic cells"
             }
           },
           {
@@ -554,34 +347,34 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "0f8b87bf8ee77968",
+  "active": "b2ec427731246724",
   "lastOpenFiles": [
+    "BIOL2161/Week 2/unwinding DNA.md",
     "BIOL2161/Week 7/Transcription of Eukaryotic cells.md",
-    "BIOL2161/Week 7/BIOL2161 21.04.2026.md",
+    "BIOL2161/Week 4/Transcription of prokaryote cells.md",
+    "BIOL2161/Week 4/Initiation of Transcription in prokaryote cells.md",
     "BIOL2161/Week 4/Transcription.md",
-    "BIOL2161/Week 7/Transcription unit.md",
-    "MATH1013/Calculus/Week 4/Maxima and minima.md",
-    "MATH1013/Calculus/Week 4/Related rates.md",
-    "MATH1013/Calculus/Week 7/MATH1013 21.04.2026.md",
+    "BIOL2161/Week 5/Translation.md",
+    "BIOL2161/Week 7/BIOL2161 21.04.2026.md",
+    "BIOL2161/Week 7/RNA polymerase II.md",
+    "BIOL2161/Week 7/RNA polymerase.md",
+    "BIOL2161/Week 7/RNA splicing.md",
+    "BIOL2161/Week 7/C value.md",
+    "BIOL2161/Week 7/Genome size.md",
+    "BIOL2161/Week 3/BIOL2161 10.03.2026.md",
+    "BIOL2161/Week 3/Chromatin.md",
+    "BIOL2161/Week 1/Eukaryotic cells.md",
+    "COMP1110/Week 4/Big O notation.md",
+    "COMP1110/Week 6/COMP1110 31.03.2026.md",
+    "COMP1110/Week 3/Value type.md",
+    "COMP1110/Week 6/Encapsulation.md",
+    "COMP1110/Week 3/Passing by value.md",
+    "COMP1110/Week 3/COMP1110 10.03.2026.md",
+    "MATH1013/Linear algebra/Week 7/MATH1013 22.04.2026.md",
+    "MATH1005/Week 7/MATH1005 20.04.2026.md",
     "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
-    "MATH1013/Calculus/Week 7/Proof of The fundamental theorem of calculus.md",
-    "MATH1013/Calculus/Week 6/MATH1013 31.03.2026.md",
-    "MATH1013/Calculus/Week 7/Integration by parts.md",
-    "MATH1013/Calculus/Week 7/integrable.md",
-    "MATH1013/Calculus/Week 7/Indefinite integral.md",
-    "MATH1013/Calculus/Week 3/Product rule.md",
-    "MATH1013/Calculus/Week 3/very important limit.md",
-    "MATH1013/Calculus/Week 3/MATH1013 10.03.2026.md",
-    "MATH1013/Calculus/Week 3/Derivate rules.md",
     "MATH1013/Calculus/Week 7/Integration rules.md",
-    "MATH1013/Calculus/Week 7/Integration by substitution.md",
-    "MATH1013/Calculus/Week 7/reverse Chain rule.md",
-    "COMP1110/Week 7/Data invariant.md",
-    "COMP1110/Week 7/amortisation.md",
-    "COMP1110/Week 7/COMP1110 21.04.2026.md",
-    "COMP1110/Week 7/type generalisation.md",
-    "COMP1110/Week 7/Unit testing.md",
-    "COMP1110/Week 7/White box test.md",
+    "MATH1013/Calculus/Week 7/MATH1013 21.04.2026.md",
     "Untitled.base",
     "attachments/Pasted image 20260420112730.png",
     "attachments/Pasted image 20260420112238.png",
