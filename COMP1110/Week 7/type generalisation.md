@@ -1,0 +1,2 @@
+type generalisation 
+This is a concept in computing that refers to types in java being subtypes of a more general type. A good example is String being a subtype of the Object type. Its similar in concept to how you can convert between numerical `char` instances and `int`, but works closer to extending [[Class]]es.
