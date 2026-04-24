@@ -4,7 +4,7 @@
 Exception 
 Designing your own [[Exception]]s are done using `throw`
 
-When a [[Method]] is asked to do something impossible, you *throw* and [[Exception]].
+When a [[Method]] is asked to do something impossible, you *throw* an [[Exception]].
 
 
 

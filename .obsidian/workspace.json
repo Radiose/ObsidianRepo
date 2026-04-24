@@ -248,13 +248,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIOL2161/Week 7/Elongation of Transcription in Eukaryotic cells.md",
+                "file": "COMP1110/Week 6/Exception.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Elongation of Transcription in Eukaryotic cells"
+              "title": "Exception"
             }
           },
           {
@@ -466,13 +466,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIOL2161/Week 7/Elongation of Transcription in Eukaryotic cells.md",
+                "file": "COMP1110/Week 6/Exception.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Elongation of Transcription in Eukaryotic cells"
+              "title": "Outline of Exception"
             }
           },
           {
@@ -507,8 +507,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f348cd9abe5857a6",
+  "active": "cde4411d98267a4a",
   "lastOpenFiles": [
+    "BIOL2161/Week 7/Elongation of Transcription in Eukaryotic cells.md",
     "MATH1013/Linear algebra/Week 5/Rank nullity theorem.md",
     "MATH1013/Linear algebra/Week 5/Null space.md",
     "MATH1013/Linear algebra/Week 6/Surjective transformation.md",
@@ -534,7 +535,6 @@
     "BIOL2161/Week 7/Addition of 5' cap.md",
     "BIOL2161/Week 7/Transcription of Eukaryotic cells.md",
     "BIOL2161/Week 7/BIOL2161 21.04.2026.md",
-    "BIOL2161/Week 7/Co transcriptional processing.md",
     "attachments/Pasted image 20260423165335.png",
     "attachments/Pasted image 20260423164921.png",
     "Untitled.base",
