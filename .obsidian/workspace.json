@@ -228,6 +228,36 @@
             }
           },
           {
+            "id": "654bea29e220e744",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP1110/Week 7/COMP1110 24.04.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "COMP1110 24.04.2026"
+            }
+          },
+          {
+            "id": "cde4411d98267a4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP1110/Week 7/COMP1110 24.04.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "COMP1110 24.04.2026"
+            }
+          },
+          {
             "id": "64d51a7d98513b9f",
             "type": "leaf",
             "state": {
@@ -288,7 +318,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -477,13 +507,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f348cd9abe5857a6",
+  "active": "cde4411d98267a4a",
   "lastOpenFiles": [
+    "COMP1110/Week 7/Collection (interface).md",
     "COMP1110/Week 7/COMP1110 24.04.2026.md",
+    "COMP1110/Week 7/List (collection).md",
+    "COMP1110 test 2.md",
     "COMP1110/Week 7/White box test.md",
     "COMP1110/Week 6/Exception.md",
     "COMP1110/Week 7/COMP1110 21.04.2026.md",
-    "COMP1110/Week 7/Collection (interface).md",
     "MATH1013/Linear algebra/Week 7/MATH1013 22.04.2026.md",
     "MATH1013/Linear algebra/Week 7/composition of Linear transformations.md",
     "MATH1013/Linear algebra/Week 7/Matrix addition.md",
@@ -503,8 +535,6 @@
     "BIOL2161/Week 7/poly a tail.md",
     "COMP1110/Week 1/Main.md",
     "BIOL2161/Week 4/Consensus sequence.md",
-    "BIOL2161/Week 7/Enhancer sequence.md",
-    "BIOL2161/Week 7/activator protein.md",
     "attachments/Pasted image 20260423165335.png",
     "attachments/Pasted image 20260423164921.png",
     "Untitled.base",

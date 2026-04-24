@@ -3,3 +3,8 @@ An [[non sealed interface|interface]] defined as a collection of elements. Is th
 
 Implemented through `<>`. 
 So, `public interface GuestList <T>` can be thought of as `public interface GuestList <T> extends Collection<T>`
+
+
+### Methods
+here I will list methods that typically need to be called directly to `collections`
+`Collections.sort` - uses **tim sort**,  a [[Sorting algorithm]] that is an interesting hybrid between [[Merge sort]] and other $O\ (n \ log(n))$ algorithms 
