@@ -263,13 +263,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 5/Explicit definition of a Sequence.md",
+                "file": "BIOL2161/Week 4/Transcription.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Explicit definition of a Sequence"
+              "title": "Transcription"
             }
           }
         ],
@@ -421,13 +421,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH1005/Week 5/Explicit definition of a Sequence.md",
+                "file": "BIOL2161/Week 4/Transcription.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Explicit definition of a Sequence"
+              "title": "Outline of Transcription"
             }
           },
           {
@@ -464,6 +464,7 @@
   },
   "active": "64d51a7d98513b9f",
   "lastOpenFiles": [
+    "MATH1005/Week 5/Explicit definition of a Sequence.md",
     "MATH1005/Week 5/Induction.md",
     "COMP1110/Week 7/Collection (interface).md",
     "BIOL2161/Week 7/C value.md",
@@ -489,7 +490,6 @@
     "MATH1005/Week 6/Matrix multiplication.md",
     "MATH1013/Linear algebra/Week 7/Properties of Matrix multiplication.md",
     "BIOL2161/Week 3/Mitochondrial replacement therapy.md",
-    "MATH1005/Week 2/Set.md",
     "attachments/Pasted image 20260423165335.png",
     "attachments/Pasted image 20260423164921.png",
     "Untitled.base",
