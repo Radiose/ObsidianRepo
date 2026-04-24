@@ -248,13 +248,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP1110/Week 6/Exception.md",
+                "file": "math1013 math tricks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Exception"
+              "title": "math1013 math tricks"
             }
           },
           {
@@ -263,62 +263,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP1110/Week 7/Collection (interface).md",
+                "file": "MATH1005/Week 5/Explicit definition of a Sequence.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Collection (interface)"
-            }
-          },
-          {
-            "id": "2f0de983abe873cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 7/Termination of transcription in Eukaryotic cells.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Termination of transcription in Eukaryotic cells"
-            }
-          },
-          {
-            "id": "0488e34ab80a1d13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 7/Elongation of Transcription in Eukaryotic cells.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Elongation of Transcription in Eukaryotic cells"
-            }
-          },
-          {
-            "id": "d4fd85d17b324323",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 7/C value.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "C value"
+              "title": "Explicit definition of a Sequence"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -466,13 +421,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP1110/Week 6/Exception.md",
+                "file": "MATH1005/Week 5/Explicit definition of a Sequence.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Exception"
+              "title": "Outline of Explicit definition of a Sequence"
             }
           },
           {
@@ -507,9 +462,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "cde4411d98267a4a",
+  "active": "64d51a7d98513b9f",
   "lastOpenFiles": [
+    "MATH1005/Week 5/Induction.md",
+    "COMP1110/Week 7/Collection (interface).md",
+    "BIOL2161/Week 7/C value.md",
     "BIOL2161/Week 7/Elongation of Transcription in Eukaryotic cells.md",
+    "BIOL2161/Week 7/Termination of transcription in Eukaryotic cells.md",
+    "math1013 math tricks.md",
+    "COMP1110/Week 6/Exception.md",
     "MATH1013/Linear algebra/Week 5/Rank nullity theorem.md",
     "MATH1013/Linear algebra/Week 5/Null space.md",
     "MATH1013/Linear algebra/Week 6/Surjective transformation.md",
@@ -517,11 +478,9 @@
     "MATH1013/Linear algebra/Week 6/rotation Transformation.md",
     "MATH1013/Linear algebra/Week 7/MATH1013 22.04.2026.md",
     "COMP1110/Week 7/COMP1110 24.04.2026.md",
-    "COMP1110/Week 7/Collection (interface).md",
     "COMP1110/Week 7/List (collection).md",
     "COMP1110 test 2.md",
     "COMP1110/Week 7/White box test.md",
-    "COMP1110/Week 6/Exception.md",
     "COMP1110/Week 7/COMP1110 21.04.2026.md",
     "MATH1013/Linear algebra/Week 7/composition of Linear transformations.md",
     "MATH1013/Linear algebra/Week 7/Matrix addition.md",
@@ -531,10 +490,6 @@
     "MATH1013/Linear algebra/Week 7/Properties of Matrix multiplication.md",
     "BIOL2161/Week 3/Mitochondrial replacement therapy.md",
     "MATH1005/Week 2/Set.md",
-    "BIOL2161/Week 7/5' cap.md",
-    "BIOL2161/Week 7/Addition of 5' cap.md",
-    "BIOL2161/Week 7/Transcription of Eukaryotic cells.md",
-    "BIOL2161/Week 7/BIOL2161 21.04.2026.md",
     "attachments/Pasted image 20260423165335.png",
     "attachments/Pasted image 20260423164921.png",
     "Untitled.base",

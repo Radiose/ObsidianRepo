@@ -51,3 +51,9 @@ $\sqrt{ \frac{1}{3} }$=$\frac{\sqrt{ 1 }}{\sqrt{ 3 }}$=$\frac{1}{\sqrt{ 3 }}$
 
 sum of n natural numbers 
 $\sum_{k=1}^k1=\frac{n(n+1}{2})$
+
+
+The definite integral of a constant 
+$\int_{1}^3 c = c(3-1)$
+
+
