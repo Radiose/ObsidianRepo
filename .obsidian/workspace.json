@@ -263,17 +263,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIOL2161/Week 4/Transcription.md",
+                "file": "COMP1110/Week 7/COMP1110 21.04.2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Transcription"
+              "title": "COMP1110 21.04.2026"
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -421,13 +421,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIOL2161/Week 4/Transcription.md",
+                "file": "math1013 math tricks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Transcription"
+              "title": "Outline of math1013 math tricks"
             }
           },
           {
@@ -462,15 +462,19 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "64d51a7d98513b9f",
+  "active": "cde4411d98267a4a",
   "lastOpenFiles": [
+    "COMP1110/Week 7/COMP1110 24.04.2026.md",
+    "math1013 math tricks.md",
+    "COMP1110/Week 7/COMP1110 21.04.2026.md",
+    "COMP1110/Week 7/Test suite.md",
+    "BIOL2161/Week 4/Transcription.md",
     "MATH1005/Week 5/Explicit definition of a Sequence.md",
     "MATH1005/Week 5/Induction.md",
     "COMP1110/Week 7/Collection (interface).md",
     "BIOL2161/Week 7/C value.md",
     "BIOL2161/Week 7/Elongation of Transcription in Eukaryotic cells.md",
     "BIOL2161/Week 7/Termination of transcription in Eukaryotic cells.md",
-    "math1013 math tricks.md",
     "COMP1110/Week 6/Exception.md",
     "MATH1013/Linear algebra/Week 5/Rank nullity theorem.md",
     "MATH1013/Linear algebra/Week 5/Null space.md",
@@ -478,18 +482,14 @@
     "MATH1013/Linear algebra/Week 6/Range of a transformation.md",
     "MATH1013/Linear algebra/Week 6/rotation Transformation.md",
     "MATH1013/Linear algebra/Week 7/MATH1013 22.04.2026.md",
-    "COMP1110/Week 7/COMP1110 24.04.2026.md",
     "COMP1110/Week 7/List (collection).md",
     "COMP1110 test 2.md",
     "COMP1110/Week 7/White box test.md",
-    "COMP1110/Week 7/COMP1110 21.04.2026.md",
     "MATH1013/Linear algebra/Week 7/composition of Linear transformations.md",
     "MATH1013/Linear algebra/Week 7/Matrix addition.md",
     "MATH1013/Linear algebra/Week 7/Transpose of a matrix.md",
     "MATH1005/Week 6/Inverse matrix.md",
     "MATH1005/Week 6/Matrix multiplication.md",
-    "MATH1013/Linear algebra/Week 7/Properties of Matrix multiplication.md",
-    "BIOL2161/Week 3/Mitochondrial replacement therapy.md",
     "attachments/Pasted image 20260423165335.png",
     "attachments/Pasted image 20260423164921.png",
     "Untitled.base",
