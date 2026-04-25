@@ -248,13 +248,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math1013 math tricks.md",
+                "file": "COMP1110 test 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "math1013 math tricks"
+              "title": "COMP1110 test 2"
             }
           },
           {
@@ -421,13 +421,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math1013 math tricks.md",
+                "file": "COMP1110 test 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of math1013 math tricks"
+              "title": "Outline of COMP1110 test 2"
             }
           },
           {
@@ -464,8 +464,8 @@
   },
   "active": "cde4411d98267a4a",
   "lastOpenFiles": [
-    "COMP1110/Week 7/COMP1110 24.04.2026.md",
     "math1013 math tricks.md",
+    "COMP1110/Week 7/COMP1110 24.04.2026.md",
     "COMP1110/Week 7/COMP1110 21.04.2026.md",
     "COMP1110/Week 7/Test suite.md",
     "BIOL2161/Week 4/Transcription.md",
