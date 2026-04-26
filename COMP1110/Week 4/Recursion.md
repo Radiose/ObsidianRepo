@@ -39,4 +39,4 @@ int binarySearch(int[] haystack, int needle,
     return binarySearch(haystack,needle,from, mid-1);
   }
 ```
-The inductive hypothesis here is that we assume that the result of the recursive call will be correct. We assume that each call of the recursion is correct, and this allows the result of the recursive call. 
+The inductive hypothesis here is that we assume that the result of the recursive call will be correct. 
