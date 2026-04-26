@@ -8,3 +8,5 @@ So, `public interface GuestList <T>` can be thought of as `public interface Gues
 ### Methods
 here I will list methods that typically need to be called directly to `collections`
 `Collections.sort` - uses **tim sort**,  a [[Sorting algorithm]] that is an interesting hybrid between [[Merge sort]] and other $O\ (n \ log(n))$ algorithms 
+collections.addAll();
+This is how you add other collections to a collections. 

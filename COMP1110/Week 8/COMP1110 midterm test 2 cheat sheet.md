@@ -1,0 +1,5 @@
+![[Recursion]]
+
+Examples: 
+
+[[Collection (interface)]]

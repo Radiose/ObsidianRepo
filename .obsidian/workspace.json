@@ -293,6 +293,21 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "COMP1110/Week 5/Recursive backtracking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Recursive backtracking"
+            }
+          },
+          {
+            "id": "7d2543ac90999a5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "COMP1110/Week 7/Collection (interface).md",
                 "mode": "source",
                 "source": false,
@@ -318,7 +333,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -490,7 +505,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -506,10 +522,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "10935237c7f66f11",
+  "active": "7d2543ac90999a5d",
   "lastOpenFiles": [
+    "COMP1110/Week 8/COMP1110 midterm test 2 cheat sheet.md",
+    "COMP1110/Week 5/Recursive backtracking.md",
+    "COMP1110/Week 7/Collection (interface).md",
     "COMP1110/Week 4/Recursion.md",
-    "Untitled.md",
     "MATH1013/Linear algebra/Week 5/Null space.md",
     "BIOL2161/Week 7/BIOL2161 22.04.2026.md",
     "attachments/Pasted image 20260425175818.png",
@@ -534,11 +552,9 @@
     "BIOL2161/Week 4/Transcription.md",
     "MATH1005/Week 5/Explicit definition of a Sequence.md",
     "MATH1005/Week 5/Induction.md",
-    "COMP1110/Week 7/Collection (interface).md",
     "BIOL2161/Week 7/C value.md",
     "BIOL2161/Week 7/Elongation of Transcription in Eukaryotic cells.md",
     "BIOL2161/Week 7/Termination of transcription in Eukaryotic cells.md",
-    "COMP1110/Week 6/Exception.md",
     "attachments/Pasted image 20260423165335.png",
     "attachments/Pasted image 20260423164921.png",
     "Untitled.base",
