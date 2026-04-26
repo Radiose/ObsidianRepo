@@ -293,13 +293,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP1110/Week 4/Recursion.md",
+                "file": "COMP1110/Week 7/Collection (interface).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Recursion"
+              "title": "Collection (interface)"
             }
           },
           {
@@ -466,13 +466,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP1110/Week 4/Recursion.md",
+                "file": "COMP1110/Week 7/Collection (interface).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Recursion"
+              "title": "Outline of Collection (interface)"
             }
           },
           {
@@ -508,8 +508,8 @@
   },
   "active": "10935237c7f66f11",
   "lastOpenFiles": [
-    "Untitled.md",
     "COMP1110/Week 4/Recursion.md",
+    "Untitled.md",
     "MATH1013/Linear algebra/Week 5/Null space.md",
     "BIOL2161/Week 7/BIOL2161 22.04.2026.md",
     "attachments/Pasted image 20260425175818.png",
