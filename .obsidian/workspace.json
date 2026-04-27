@@ -327,6 +327,21 @@
             }
           },
           {
+            "id": "a969947c7e31b0cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "binding an integral.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "binding an integral"
+            }
+          },
+          {
             "id": "64d51a7d98513b9f",
             "type": "leaf",
             "state": {
@@ -342,7 +357,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -490,13 +505,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math1013 math tricks.md",
+                "file": "binding an integral.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of math1013 math tricks"
+              "title": "Outline of binding an integral"
             }
           },
           {
@@ -527,16 +542,17 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "juggl:Juggl global graph": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d2543ac90999a5d",
+  "active": "a969947c7e31b0cd",
   "lastOpenFiles": [
+    "attachments/Ink/Drawing/2026.4.27 - 18.13pm.drawing",
+    "math1013 math tricks.md",
+    "binding an integral.md",
     "MATH1013/Calculus/Week 7/Indefinite integral.md",
     "MATH1013/Calculus/Week 7/Integration rules.md",
     "MATH1013/Calculus/Week 6/Definite integral.md",
-    "math1013 math tricks.md",
     "COMP1110/Week 6/Exception.md",
     "COMP1110 test 2.md",
     "COMP1110/Week 8/COMP1110 midterm test 2 cheat sheet.md",
@@ -562,8 +578,6 @@
     "BIOL2161/Week 7/Co transcriptional processing.md",
     "COMP1110/Week 7/COMP1110 24.04.2026.md",
     "COMP1110/Week 7/Test suite.md",
-    "BIOL2161/Week 4/Transcription.md",
-    "MATH1005/Week 5/Explicit definition of a Sequence.md",
     "attachments/Pasted image 20260423165335.png",
     "attachments/Pasted image 20260423164921.png",
     "Untitled.base",
