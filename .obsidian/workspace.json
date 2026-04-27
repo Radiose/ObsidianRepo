@@ -308,13 +308,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP1110/Week 8/COMP1110 midterm test 2 cheat sheet.md",
+                "file": "math1013 math tricks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "COMP1110 midterm test 2 cheat sheet"
+              "title": "math1013 math tricks"
             }
           },
           {
@@ -481,13 +481,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP1110/Week 8/COMP1110 midterm test 2 cheat sheet.md",
+                "file": "math1013 math tricks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of COMP1110 midterm test 2 cheat sheet"
+              "title": "Outline of math1013 math tricks"
             }
           },
           {
@@ -524,8 +524,10 @@
   },
   "active": "7d2543ac90999a5d",
   "lastOpenFiles": [
-    "COMP1110/Week 7/Collection (interface).md",
+    "COMP1110/Week 6/Exception.md",
+    "COMP1110 test 2.md",
     "COMP1110/Week 8/COMP1110 midterm test 2 cheat sheet.md",
+    "COMP1110/Week 7/Collection (interface).md",
     "COMP1110/Week 5/Recursive backtracking.md",
     "COMP1110/Week 4/Recursion.md",
     "MATH1013/Linear algebra/Week 5/Null space.md",
@@ -545,7 +547,6 @@
     "BIOL2161/Week 7/Exon shuffling.md",
     "BIOL2161/Week 1/Eukaryotic cells.md",
     "BIOL2161/Week 7/Co transcriptional processing.md",
-    "COMP1110 test 2.md",
     "math1013 math tricks.md",
     "COMP1110/Week 7/COMP1110 24.04.2026.md",
     "COMP1110/Week 7/Test suite.md",
@@ -554,7 +555,6 @@
     "MATH1005/Week 5/Induction.md",
     "BIOL2161/Week 7/C value.md",
     "BIOL2161/Week 7/Elongation of Transcription in Eukaryotic cells.md",
-    "BIOL2161/Week 7/Termination of transcription in Eukaryotic cells.md",
     "attachments/Pasted image 20260423165335.png",
     "attachments/Pasted image 20260423164921.png",
     "Untitled.base",

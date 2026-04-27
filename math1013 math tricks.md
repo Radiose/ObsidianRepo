@@ -8,6 +8,8 @@ $\frac{a}{\frac{b}{c}}=\frac{a*c}{b}$
 $\cos^2\theta +\sin^2\theta=1$
 
 
+$(1+\sqrt{ x+y })^2 \not= (1^2)+(x+y)= a^2+2ab+b^2$
+
 $\sin(a+b)=\sin(a)\cos (b)+\cos a\sin b$
 $\cos a+b=\cos a\cos b$ ....
 
@@ -57,3 +59,6 @@ The definite integral of a constant
 $\int_{1}^3 c = c(3-1)$
 
 
+
+
+**Difficult questions to remember**
