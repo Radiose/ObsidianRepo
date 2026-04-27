@@ -308,13 +308,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP1110/Week 7/Collection (interface).md",
+                "file": "COMP1110/Week 8/COMP1110 midterm test 2 cheat sheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Collection (interface)"
+              "title": "COMP1110 midterm test 2 cheat sheet"
             }
           },
           {
@@ -481,13 +481,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP1110/Week 7/Collection (interface).md",
+                "file": "COMP1110/Week 8/COMP1110 midterm test 2 cheat sheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Collection (interface)"
+              "title": "Outline of COMP1110 midterm test 2 cheat sheet"
             }
           },
           {
@@ -524,9 +524,9 @@
   },
   "active": "7d2543ac90999a5d",
   "lastOpenFiles": [
+    "COMP1110/Week 7/Collection (interface).md",
     "COMP1110/Week 8/COMP1110 midterm test 2 cheat sheet.md",
     "COMP1110/Week 5/Recursive backtracking.md",
-    "COMP1110/Week 7/Collection (interface).md",
     "COMP1110/Week 4/Recursion.md",
     "MATH1013/Linear algebra/Week 5/Null space.md",
     "BIOL2161/Week 7/BIOL2161 22.04.2026.md",
