@@ -332,13 +332,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "binding an integral.md",
+                "file": "math1013 math tricks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "binding an integral"
+              "title": "math1013 math tricks"
+            }
+          },
+          {
+            "id": "4a7e3f5076d9c0c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Determining the standard matrix of rotations.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Determining the standard matrix of rotations"
+            }
+          },
+          {
+            "id": "d3ae327bc906a7d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Determining the standard matrix of rotations.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Determining the standard matrix of rotations"
             }
           },
           {
@@ -357,7 +387,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -545,11 +575,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a969947c7e31b0cd",
+  "active": "d3ae327bc906a7d3",
   "lastOpenFiles": [
-    "attachments/Ink/Drawing/2026.4.27 - 18.13pm.drawing",
+    "Proof of all trigonometric identities.md",
+    "attachments/Ink/Drawing/2026.4.27 - 19.33pm.drawing",
+    "Determining the standard matrix of rotations.md",
+    "attachments/Ink/Drawing/2026.4.27 - 19.09pm.drawing",
+    "attachments/Ink/Drawing/2026.4.27 - 19.03pm.drawing",
+    "MATH1013/Linear algebra/Week 6/Rotation Matrix.md",
     "math1013 math tricks.md",
-    "binding an integral.md",
+    "COMP1110/Week 7/binding an integral.md",
+    "attachments/Ink/Drawing/2026.4.27 - 18.13pm.drawing",
     "MATH1013/Calculus/Week 7/Indefinite integral.md",
     "MATH1013/Calculus/Week 7/Integration rules.md",
     "MATH1013/Calculus/Week 6/Definite integral.md",
@@ -575,9 +611,6 @@
     "COMP1110/Week 7/COMP1110 21.04.2026.md",
     "BIOL2161/Week 7/Exon shuffling.md",
     "BIOL2161/Week 1/Eukaryotic cells.md",
-    "BIOL2161/Week 7/Co transcriptional processing.md",
-    "COMP1110/Week 7/COMP1110 24.04.2026.md",
-    "COMP1110/Week 7/Test suite.md",
     "attachments/Pasted image 20260423165335.png",
     "attachments/Pasted image 20260423164921.png",
     "Untitled.base",
@@ -589,10 +622,6 @@
     "Untitled 4.base",
     "Untitled 2.base",
     "Ink/Drawing/2026.2.23 - 16.52pm.drawing",
-    "Untitled",
-    "q",
-    "attachments/Ink/Drawing/2026.3.24 - 9.38am.drawing",
-    "attachments/Ink/Drawing/2026.3.24 - 9.34am.drawing",
     "Untitled.canvas"
   ]
 }
