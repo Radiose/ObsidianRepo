@@ -1,4 +1,3 @@
-![[Recursion]]
 
 Examples: 
 
@@ -13,3 +12,22 @@ remember to check on the specifications for your interfaces. In particular when 
 if shape = an interface, circle = class, then 
 `Shape s = new Circle();`
 `s.draw()` will use the circle draw method, provided that the method is outlined in the interface. 
+
+
+
+Testing used in practice test 
+
+- the class was empty when initialised
+- installing a package will lead to its dependencies being installed(via javadocs)
+-  installing a package will not lead to non dependent packages being installed
+ 
+- data abstraction and encapsulation is maintained. Anything returned does not effect the final result `Set<Package> s = sys.allInstalled();`
+	`s.clear()`
+	a bunch of other tests. 
+	
+ continue  
+ 
+
+
+
+It is very important to remember to read javadocs and questions fully during this test. 
