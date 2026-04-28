@@ -1,3 +1,7 @@
+---
+aliases:
+  - FTC
+---
 The fundamental [[theorem]] of calculus
 
 # Part I
@@ -7,7 +11,13 @@ $g(x) = \int_{a}^xf(t) dt$
 
 Then, $g$ is the [[Indefinite integral|antiderivative]] of the function $f$ on $[a,b]$. ($g'(x)=f(x)$)
 
+Because of this, g(x) can be interpreted as the net area on $[a,x]$ between the $t$ axis and the graph $y =f(t)$. The net area so far function. 
 
+
+Remarks:
+This part of the FTC tells us that every [[Function]] defined as an [[Definite integral|integral]] is differentiable, and that the derivative of that function is equal to the integrand. 
+
+![[Applications of The fundamental theorem of calculus]]
 
 
 # Part II
@@ -26,7 +36,7 @@ there may be(usually almost always are) many antiderivatives for a [[Function]].
 ## Proof of [[The fundamental theorem of calculus]] 
 The essence of the fundamental theorem of calculus is that integration and differentiation are inverses that undo each other. So the area under a curve is the inverse of the instantaneous rate of change. The beauty of this is that before this fundamental theorem, integration is treated as a [[Riemann sum]]. This [[theorem]] shows how [[Derivative]]s and [[Definite integral]]s are intrinsically linked. 
 
-### as explained in the course 
+### as explained in the course (Part II)
 
 Suppose that a, b are real numbers such that a < b and f is a function that
 is continuous on an interval \[a, b]. Let F be a function that is continuous
