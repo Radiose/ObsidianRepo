@@ -59,7 +59,14 @@ The definite integral of a constant
 $\int_{1}^3 c = c(3-1)$
 
 
+Difference of cubes 
+$a^3-b^3=(a-b)(a^2+2ab+b^2)$
 
+The discriminant
+$b^2-4ac$
+if less than zero, no real solutions, 
+greater, two solutions 
+equal, one solution 
 
 
 **Difficult questions to remember**
@@ -67,3 +74,6 @@ $\int_{1}^3 c = c(3-1)$
 
 
 [[Implicit differentiation]] questions
+
+
+
