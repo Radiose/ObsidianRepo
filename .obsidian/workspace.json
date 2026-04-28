@@ -8,352 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ba3590a10a2474e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP1110/Week 4/Big O notation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Big O notation"
-            }
-          },
-          {
-            "id": "a74f26f44e8af79b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP1110/Week 4/Big O notation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Big O notation"
-            }
-          },
-          {
-            "id": "a582a3efc9f69a68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP1110/Week 7/COMP1110 21.04.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "COMP1110 21.04.2026"
-            }
-          },
-          {
-            "id": "c406e084c0fd47ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1013/Calculus/Week 3/Derivate rules.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Derivate rules"
-            }
-          },
-          {
-            "id": "acd8630f8e9b6655",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1013/Calculus/Week 4/Maxima and minima.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Maxima and minima"
-            }
-          },
-          {
-            "id": "0f8b87bf8ee77968",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 3/BIOL2161 10.03.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "BIOL2161 10.03.2026"
-            }
-          },
-          {
-            "id": "b8ee058eb3d8e772",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 7/BIOL2161 21.04.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "BIOL2161 21.04.2026"
-            }
-          },
-          {
-            "id": "a937b7f3dda84838",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 7/RNA polymerase.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "RNA polymerase"
-            }
-          },
-          {
-            "id": "b2ec427731246724",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 7/Transcription of Eukaryotic cells.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Transcription of Eukaryotic cells"
-            }
-          },
-          {
-            "id": "444e898e78df327b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 7/Transcription of Eukaryotic cells.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Transcription of Eukaryotic cells"
-            }
-          },
-          {
-            "id": "5f78277e554ba563",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 7/Transcription of Eukaryotic cells.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Transcription of Eukaryotic cells"
-            }
-          },
-          {
-            "id": "b994a2dc8aed4d36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 7/Polyadenylation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Polyadenylation"
-            }
-          },
-          {
-            "id": "ad58132221683613",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 7/Addition of 5' cap.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Addition of 5' cap"
-            }
-          },
-          {
-            "id": "12a876c77a169ea1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "fa70e07ab254cc4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP1110/Week 7/COMP1110 24.04.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "COMP1110 24.04.2026"
-            }
-          },
-          {
-            "id": "654bea29e220e744",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP1110/Week 7/COMP1110 24.04.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "COMP1110 24.04.2026"
-            }
-          },
-          {
-            "id": "cde4411d98267a4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP1110 test 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "COMP1110 test 2"
-            }
-          },
-          {
-            "id": "5edbfc8255803f15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 7/Alternative splicing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Alternative splicing"
-            }
-          },
-          {
-            "id": "7c13755ba8500c7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP1110/Week 4/Recursion.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Recursion"
-            }
-          },
-          {
-            "id": "10935237c7f66f11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP1110/Week 5/Recursive backtracking.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Recursive backtracking"
-            }
-          },
-          {
-            "id": "7d2543ac90999a5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "math1013 math tricks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "math1013 math tricks"
-            }
-          },
-          {
-            "id": "a969947c7e31b0cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "math1013 math tricks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "math1013 math tricks"
-            }
-          },
-          {
             "id": "4a7e3f5076d9c0c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Determining the standard matrix of rotations.md",
+                "file": "MATH1013/Calculus/Week 7/Integration by parts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Determining the standard matrix of rotations"
+              "title": "Integration by parts"
             }
           },
           {
@@ -386,8 +52,7 @@
               "title": "COMP1110 21.04.2026"
             }
           }
-        ],
-        "currentTab": 23
+        ]
       }
     ],
     "direction": "vertical"
@@ -575,42 +240,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3ae327bc906a7d3",
+  "active": "4a7e3f5076d9c0c6",
   "lastOpenFiles": [
     "Determining the standard matrix of rotations.md",
+    "math1013 math tricks.md",
+    "COMP1110/Week 5/Recursive backtracking.md",
+    "COMP1110/Week 4/Recursion.md",
+    "BIOL2161/Week 7/Alternative splicing.md",
+    "COMP1110 test 2.md",
+    "COMP1110/Week 7/COMP1110 24.04.2026.md",
+    "BIOL2161/Week 7/Addition of 5' cap.md",
+    "BIOL2161/Week 7/Polyadenylation.md",
+    "BIOL2161/Week 7/Transcription of Eukaryotic cells.md",
+    "BIOL2161/Week 7/RNA polymerase.md",
+    "BIOL2161/Week 7/BIOL2161 21.04.2026.md",
+    "BIOL2161/Week 3/BIOL2161 10.03.2026.md",
+    "MATH1013/Calculus/Week 4/Maxima and minima.md",
+    "MATH1013/Calculus/Week 3/Derivate rules.md",
+    "COMP1110/Week 7/COMP1110 21.04.2026.md",
+    "COMP1110/Week 4/Big O notation.md",
     "Proof of all trigonometric identities.md",
     "attachments/Ink/Drawing/2026.4.27 - 19.33pm.drawing",
     "attachments/Ink/Drawing/2026.4.27 - 19.09pm.drawing",
     "attachments/Ink/Drawing/2026.4.27 - 19.03pm.drawing",
     "MATH1013/Linear algebra/Week 6/Rotation Matrix.md",
-    "math1013 math tricks.md",
     "COMP1110/Week 7/binding an integral.md",
     "attachments/Ink/Drawing/2026.4.27 - 18.13pm.drawing",
     "MATH1013/Calculus/Week 7/Indefinite integral.md",
     "MATH1013/Calculus/Week 7/Integration rules.md",
     "MATH1013/Calculus/Week 6/Definite integral.md",
     "COMP1110/Week 6/Exception.md",
-    "COMP1110 test 2.md",
     "COMP1110/Week 8/COMP1110 midterm test 2 cheat sheet.md",
     "COMP1110/Week 7/Collection (interface).md",
-    "COMP1110/Week 5/Recursive backtracking.md",
-    "COMP1110/Week 4/Recursion.md",
-    "MATH1013/Linear algebra/Week 5/Null space.md",
-    "BIOL2161/Week 7/BIOL2161 22.04.2026.md",
     "attachments/Pasted image 20260425175818.png",
-    "BIOL2161/Week 7/5' cap.md",
-    "BIOL2161/Week 7/Alternative splicing.md",
-    "BIOL2161/Week 7/Intron splicing.md",
     "attachments/Pasted image 20260425174724.png",
-    "BIOL2161/Week 7/Spliceosome.md",
     "attachments/Pasted image 20260425174348.png",
     "attachments/Pasted image 20260425173525.png",
     "attachments/Pasted image 20260425173429.png",
-    "BIOL2161/Week 7/intron splicing.md",
-    "BIOL2161/Week 7/Introns and exons.md",
-    "COMP1110/Week 7/COMP1110 21.04.2026.md",
-    "BIOL2161/Week 7/Exon shuffling.md",
-    "BIOL2161/Week 1/Eukaryotic cells.md",
     "attachments/Pasted image 20260423165335.png",
     "attachments/Pasted image 20260423164921.png",
     "Untitled.base",

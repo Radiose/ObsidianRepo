@@ -13,3 +13,4 @@ $\implies \int u(x)v'(x)\ dx = u(x)v(x) - \int u'(x)v(x)\ dx$
 Therefore the rule 
 $\int u(x)v'(x) = u(x)v(x) - \int u'(x)v(x)\ dx + c$ is known as integration by parts 
 When an integrand is a product of two functions, the product becomes simpler when we find the [[Indefinite integral|antiderivative]] of one and the [[Derivative]] of the other. 
+
