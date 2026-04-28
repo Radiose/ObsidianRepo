@@ -21,4 +21,5 @@ g2 = g.run(5);
 }
 ```
 
-A method is a function associated with a particular object
+A method is a function associated with a particular object.
+

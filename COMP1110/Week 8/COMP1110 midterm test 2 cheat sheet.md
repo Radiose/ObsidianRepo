@@ -4,8 +4,7 @@ Examples:
 
 [[Collection (interface)]]
 
-
-An immutable class is one that has been declared as` FINAL`
+Making a class immutable is mainly about 
 Records are immutable.
 
 remember to check on the specifications for your interfaces. In particular when do they throw exceptions?

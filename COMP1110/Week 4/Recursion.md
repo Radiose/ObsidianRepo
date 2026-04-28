@@ -40,3 +40,6 @@ int binarySearch(int[] haystack, int needle,
   }
 ```
 The inductive hypothesis here is that we assume that the result of the recursive call will be correct. 
+
+
+Recursion is not without its own problems though. In particular, it has quite average [[space complexity]] and a constant [[time complexity]] of polynomial. The poor space complexity can be attributed to the fact that each call of a recursive function designates another 
