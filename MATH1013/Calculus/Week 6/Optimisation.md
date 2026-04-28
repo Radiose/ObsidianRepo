@@ -8,7 +8,7 @@ You can use the tools laid out previously to find out optimal solutions to probl
 Steps are: 
 Get the overall relation between desired quantity and other factors (volume = formula, heat  = formula etc)
 
-Write out the [[Function]] in terms of a singular variable 
+Write out the [[function]] in terms of a singular variable 
 	do this via finding some relationship. It could be described in 
 Then find local [[Maxima and minima|maxima or minima]] to find what you are looking for, using [[The first Derivative test]] and [[The Second Derivative test]]
 

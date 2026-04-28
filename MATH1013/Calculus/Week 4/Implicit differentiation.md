@@ -2,9 +2,9 @@
 {}
 ---
 Implicit differentiation
-This occurs when you cannot easily/at all express y EXPLICITLY as a [[Function]] of x
+This occurs when you cannot easily/at all express y EXPLICITLY as a [[function]] of x
 
-It gives a way of getting the [[Derivative]] of a [[Function]]
+It gives a way of getting the [[Derivative]] of a [[function]]
 EG
 get the derivative of the following:
 suppose that y is a function of x, and that $4x^2+y^2=16$

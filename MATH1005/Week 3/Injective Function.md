@@ -3,7 +3,7 @@ aliases:
   - injective
   - one to one
 ---
-Injective [[Function]]s
+Injective [[function]]s
 Let $f: A \to B$ be a function. We say that f is one-to-one, or that f is injective when 
 $\forall a_{1},a_{2} \in A(a_{1} \not=a_{2}) \implies f(a_{1})\not=f(a_{2})$
 For every input, there exists a unique output **and for every output, there exists a unique input**. So it passes the horizontal line test. 

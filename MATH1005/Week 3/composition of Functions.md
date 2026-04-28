@@ -2,7 +2,7 @@
 aliases:
   - composition
 ---
-composition of [[Function]]s
+composition of [[function]]s
 $(f \circ g) = f(g(x))$
 Important note is that the order of them is of ultra importance.
 

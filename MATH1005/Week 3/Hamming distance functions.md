@@ -1,7 +1,7 @@
 ---
 {}
 ---
-Hamming distance [[Function]]s 
+Hamming distance [[function]]s 
 Let B = {0,1} and $n \in \mathbb{N}$ 
 
 we defined a set $B_{n} = {B \times B \dots B}$ n times

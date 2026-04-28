@@ -2,7 +2,7 @@
 {}
 ---
 integrable 
-A [[Function]] is integrable if  the [[limits|limit]] definition of the [[Definite integral]] applies over the entire [[Function]].
+A [[function]] is integrable if  the [[limits|limit]] definition of the [[Definite integral]] applies over the entire [[function]].
 
 It is easy to prove a function is not integrable if we assume the function is integrable, and utilise a [[proof by contradiction]].
 

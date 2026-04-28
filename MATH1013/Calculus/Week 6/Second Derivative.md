@@ -2,7 +2,7 @@
 {}
 ---
 Second [[Derivative]]
-In the same way that the [[Derivative]] tells us if a [[Function]] is increasing or decreasing, a second [[Derivative]] will tell us about concavity.
+In the same way that the [[Derivative]] tells us if a [[function]] is increasing or decreasing, a second [[Derivative]] will tell us about concavity.
 
 For example, the following graph![[Pasted image 20260331143417.png]]
  shows the functions $f(x) = \sqrt{ x }$ and $f(x) = x^2$

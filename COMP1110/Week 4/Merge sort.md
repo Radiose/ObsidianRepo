@@ -5,7 +5,7 @@ Merge sort
 A [[Sorting algorithm]]
 
 Computing based 
-A merge [[Function]] is one that takes in two pre sorted lists and returns a merged list of both combined
+A merge [[function]] is one that takes in two pre sorted lists and returns a merged list of both combined
 
 Merge sort is a **not [[In place algorithm]]** 
 

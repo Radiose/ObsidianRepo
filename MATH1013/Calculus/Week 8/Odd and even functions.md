@@ -6,7 +6,7 @@ aliases:
 Odd and even functions
 
 Symmetries across the origin, or the Y axis can be used to simplify the process of [[Definite integral|integration]].
-These symmetries can be given by determining whether a given integrand is an odd, or an even [[Function]]. 
+These symmetries can be given by determining whether a given integrand is an odd, or an even [[function]]. 
 
 ### Even functions
 $\forall x (0,\infty)$, a function is even if $f(-x) = f(x)$. 

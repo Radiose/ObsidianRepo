@@ -2,7 +2,7 @@
 {}
 ---
 Injective transformation
-For the linear transformation [[Function]], is it [[Injective Function|injective]]?
+For the linear transformation [[function]], is it [[Injective Function|injective]]?
 is $T(x_{1}) \not=T_(x_{2})$?
 $Ax_{1} \not= Ax_{2}$
 $A(x_{1}-x_{2})\not=0$? - very important due to [[linearity]]

@@ -5,7 +5,7 @@ aliases:
 The fundamental [[theorem]] of calculus
 
 # Part I
-let a function $f$ be [[continuous function|continuous]] on $[a,b]$. Let $g : [a,b] \to \mathbb{R}$ be the [[Function]] that evaluates to the [[Definite integral]] from $a$  to $x$ of $f(x)$. 
+let a function $f$ be [[continuous function|continuous]] on $[a,b]$. Let $g : [a,b] \to \mathbb{R}$ be the [[function]] that evaluates to the [[Definite integral]] from $a$  to $x$ of $f(x)$. 
 
 $g(x) = \int_{a}^xf(t) dt$
 
@@ -15,22 +15,22 @@ Because of this, g(x) can be interpreted as the net area on $[a,x]$ between the 
 
 
 Remarks:
-This part of the FTC tells us that every [[Function]] defined as an [[Definite integral|integral]] is differentiable, and that the derivative of that function is equal to the integrand. 
+This part of the FTC tells us that every [[function]] defined as an [[Definite integral|integral]] is differentiable, and that the derivative of that function is equal to the integrand. 
 
 ![[Applications of The fundamental theorem of calculus]]
 
 
 # Part II
 
-If $f,F$ are [[Function]]s defined on (a,b), then we say that F is an **antiderivative** of f on (a,b) if $F'(x) = f(x)$ for all x $\in (a,b)$
+If $f,F$ are [[function]]s defined on (a,b), then we say that F is an **antiderivative** of f on (a,b) if $F'(x) = f(x)$ for all x $\in (a,b)$
 
 [[theorem]]
 
-i: Let g : $[a,b] \to \mathbb{R}$ be the [[Function]] g(x) = $\int_{a}^x f(t)dt$. Then g is an antiderivative of f on (a,b).
+i: Let g : $[a,b] \to \mathbb{R}$ be the [[function]] g(x) = $\int_{a}^x f(t)dt$. Then g is an antiderivative of f on (a,b).
 
 ii: If F is [[continuous function|continuous]] on \[a,b] and an antiderivative of f on (a,b), then $\int_{a}^b f(x)dx = F(b)-F(a)$
 
-there may be(usually almost always are) many antiderivatives for a [[Function]].
+there may be(usually almost always are) many antiderivatives for a [[function]].
 
 
 ## Proof of [[The fundamental theorem of calculus]] 
@@ -50,7 +50,7 @@ regular partition of \[a, b] with $\Delta x = \frac{b-a}{n}$ and $x_{i}=a+i\Delt
 
 ($\Delta x$ is the width of the [[partition]], n is the amount of subintervals)
 
-Since F is differentiable on \[a,b], we may apply [[The mean value theorem]] on each subinterval $[x_{i-1},x_{i}]$. 
+Since F is differentiable on \[a,b], we may apply [[mean value theorem]] on each subinterval $[x_{i-1},x_{i}]$. 
 
 $\exists _c f'(c) =\frac{f(b)-f(a)}{b-a}$
 thus 

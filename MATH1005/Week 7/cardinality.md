@@ -7,7 +7,7 @@ For a finite set A, this size or cardinality of a set is just the number of memb
 
 Let A be a set. Suppose there exists a [[Bijective|bijection]] from A to a [[subset]] of the natural numbers of the form $\{ 1,2,..,n \}$ for some $n \in \mathbb{N}$. Then, the cardinality, or size of the set A, written $|A|$ is n, thus $|A|=n$.
 
-So you [[Function|map]] each element to elements in natural numbers. 
+So you [[function|map]] each element to elements in natural numbers. 
 
 The [[cardinality|cardinality]] of the empty [[Set]] is said to be 0
 Any set with [[cardinality|cardinality]] $|S|$ where s is a non negative integer is said to be finite

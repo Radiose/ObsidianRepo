@@ -16,7 +16,7 @@ x = lx = $(A^{-1}A)x=A^{-1}(Ax) = A^{-1}b$
 The nature of an inverse matrix (IE that $AA^{-1}=I_{n}$ and that $A^{-1}A = I_{n}$) ensure that only square [[Matrix|matrices]] have inverses. 
 
 Not every square matrix has an inverse 
-***A* has an inverse if and only if the [[Function]] $A \mapsto Ax$ is a [[Bijective Transformation]]**
+***A* has an inverse if and only if the [[function]] $A \mapsto Ax$ is a [[Bijective Transformation]]**
 This is why it must be a square matrix, as it all relates back to [[Null space]] and [[Column space]] of said [[Transformation]]. 
 
 

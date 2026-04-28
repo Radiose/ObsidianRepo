@@ -13,7 +13,7 @@ We could also write
 
 f(x) $\approx f(a)+f'(a)(x-a)$
 
-We can approximate values of a [[Function]] by using a line 
+We can approximate values of a [[function]] by using a line 
 
 Example: 
 estimate$\sqrt{ 16.001 }$ 

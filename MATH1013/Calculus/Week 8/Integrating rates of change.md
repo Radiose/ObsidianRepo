@@ -14,4 +14,4 @@ due to [[The fundamental theorem of calculus|FTC]] II, $\int_{a}^b F'(x)dx =F(b)
 If $F'(x)$ is described as the rate of change of F with respect to $x$, then **the integral of a rate of change over an interval is the net change over that interval**.
 
 Suppose S(t) gives speed in relation to time, and D gives distance travelled in relation to time 
-$\int_{t_{1}}^{t_{2}}s(t)dt = \int_{t_{1}}^{t_{2}}$
+$\int_{t_{1}}^{t_{2}}s(t)dt = \int_{t_{1}}^{t_{2}}D'(t)dt = D(t_{2})-D(t_{1})$. Thus this integral has given the net change in distance over the interval $[t_{1},t_{2}]$
