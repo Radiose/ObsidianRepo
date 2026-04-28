@@ -8,22 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4a7e3f5076d9c0c6",
+            "id": "d3ae327bc906a7d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP1110/Week 8/COMP1110 midterm test 2 cheat sheet.md",
+                "file": "COMP1110 test 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "COMP1110 midterm test 2 cheat sheet"
+              "title": "COMP1110 test 2"
             }
           },
           {
-            "id": "d3ae327bc906a7d3",
+            "id": "fdd7ee6a2c32ccfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,7 +52,8 @@
               "title": "COMP1110 21.04.2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,8 +241,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a7e3f5076d9c0c6",
+  "active": "fdd7ee6a2c32ccfc",
   "lastOpenFiles": [
+    "MATH1013/Calculus/Week 8/MATH1013 28.03.2026.md",
+    "MATH1013/Linear algebra/Week 6/Transformation.md",
+    "MATH1013/Calculus/Week 7/binding an integral.md",
+    "COMP1110/Week 8/COMP1110 midterm test 2 cheat sheet.md",
     "COMP1110/Week 7/COMP1110 21.04.2026.md",
     "MATH1013/Calculus/Week 7/Integration by parts.md",
     "Determining the standard matrix of rotations.md",
@@ -265,13 +270,9 @@
     "attachments/Ink/Drawing/2026.4.27 - 19.09pm.drawing",
     "attachments/Ink/Drawing/2026.4.27 - 19.03pm.drawing",
     "MATH1013/Linear algebra/Week 6/Rotation Matrix.md",
-    "COMP1110/Week 7/binding an integral.md",
     "attachments/Ink/Drawing/2026.4.27 - 18.13pm.drawing",
     "MATH1013/Calculus/Week 7/Indefinite integral.md",
     "MATH1013/Calculus/Week 7/Integration rules.md",
-    "MATH1013/Calculus/Week 6/Definite integral.md",
-    "COMP1110/Week 6/Exception.md",
-    "COMP1110/Week 8/COMP1110 midterm test 2 cheat sheet.md",
     "attachments/Pasted image 20260425175818.png",
     "attachments/Pasted image 20260425174724.png",
     "attachments/Pasted image 20260425174348.png",
