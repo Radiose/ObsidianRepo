@@ -1,6 +1,16 @@
 The fundamental [[theorem]] of calculus
 
-two parts:
+# Part I
+let a function $f$ be [[continuous function|continuous]] on $[a,b]$. Let $g : [a,b] \to \mathbb{R}$ be the [[Function]] that evaluates to the [[Definite integral]] from $a$  to $x$ of $f(x)$. 
+
+$g(x) = \int_{a}^xf(t) dt$
+
+Then, $g$ is the [[Indefinite integral|antiderivative]] of the function $f$ on $[a,b]$. ($g'(x)=f(x)$)
+
+
+
+
+# Part II
 
 If $f,F$ are [[Function]]s defined on (a,b), then we say that F is an **antiderivative** of f on (a,b) if $F'(x) = f(x)$ for all x $\in (a,b)$
 

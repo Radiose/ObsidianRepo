@@ -31,3 +31,6 @@ Testing used in practice test
 
 
 It is very important to remember to read javadocs and questions fully during this test. 
+Remember to make fields private when necessary 
+
+Remember to use `this.`

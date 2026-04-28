@@ -1,5 +1,7 @@
 ---
-{}
+aliases:
+  - integral
+  - integration
 ---
 Definite integral 
 For any function f, and any real numbers a, b such that $a<b$ and f is defined on $[a,b]$, we say that *f is integrable on \[a,b]*  if there exists a real number L with the following property: $\forall_{\epsilon} \in (0,\infty),\ \ \exists_{\delta} (0,\infty)$
