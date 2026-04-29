@@ -11,3 +11,5 @@ We account for [[overcounting]] however, via removing copies.
 $\frac{11!}{2!3!2!}$
 
 11 total words, remove combinations of L (2!), combinations of I (3!), combinations of M (2!).
+
+![[Pasted image 20260429120354.png]]

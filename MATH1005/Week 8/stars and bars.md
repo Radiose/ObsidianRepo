@@ -12,3 +12,12 @@ $\frac{(r+n-1)!}{r! \times(n-1)!}$ is the formula where you are finding the amou
 If n is a positive integer, how many 5-tuples of integers from 1
 through n can be formed in which the elements of the 5-tuple are
 written in decreasing order?
+
+First, we note that there is only one possible way that a multiset can be arranged to be decreasing. Secondly, we note that this question allows repetition, IE, that there can be multiple copies of an integer. 
+
+Thus, we denote that there exists a [[Bijective|bijection]] between the amount of n tuples and the amount of [[multiset]]s present. Thus, the answer is n bins, and 5 stars. 
+
+
+
+
+![[Pasted image 20260429120403.png]]
