@@ -9,3 +9,5 @@ As we can see, there are copies of certain letters. Swapping these letters would
 Total ways to combine: 11! (11 letters)
 We account for [[overcounting]] however, via removing copies.
 $\frac{11!}{2!3!2!}$
+
+11 total words, remove combinations of L (2!), combinations of I (3!), combinations of M (2!).
