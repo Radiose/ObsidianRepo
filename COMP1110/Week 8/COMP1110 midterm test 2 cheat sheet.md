@@ -27,7 +27,7 @@ Testing used in practice test
 	
  continue  
  
-
+MAINTAIN [[Encapsulation]] at all times. When calling from the recursive methods, copy the result of the call into the fourth question
 
 
 It is very important to remember to read javadocs and questions fully during this test. 
