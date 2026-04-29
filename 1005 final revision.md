@@ -1,3 +1,0 @@
-powersets 
-partitions 
-etc 
