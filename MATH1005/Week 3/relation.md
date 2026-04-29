@@ -2,7 +2,7 @@
 {}
 ---
 relation
-let A,B be non empty [[Set]]s. Any [[subset]] of AxB is called a relation from A to B. A relation from A to A is called a relation on A. 
+let A,B be non empty [[set]]s. Any [[subset]] of AxB is called a relation from A to B. A relation from A to A is called a relation on A. 
 A [[Cartesian product]]s subset is a relation
 
 For example, 1,2 is a relation from the set of even numbers to the set of odd numbers 

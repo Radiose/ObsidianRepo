@@ -12,7 +12,7 @@ However, any infinite subset S of $\mathbb{N}$ has the same cardinality as $\mat
 It follows that proving an arbitrary infinite set S is countably infinite if it can be 'well-ordered'
 
 The most surprising fact:
-The set of all rational numbers is [[Countable]]/countably infinite 
+The set of all rational numbers is [[countable]]/countably infinite 
 
 The set of all real numbers is uncountable. This is because there is no [[surjective function]] that can map $\mathbb{R}$ to $\mathbb{N}$
 

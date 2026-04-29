@@ -26,3 +26,15 @@ $\implies x(2y-4)=-3y-1$
 $\implies x= \frac{-3y-1}{2y-4}$
 Now, we have $f^{-1}(x)=\frac{-3x-1}{2y-4}$
 
+## Graphing inverse functions
+An interesting feature of inverse functions is that they appear as a reflection to the original function across the identity function. This makes it easier to graph certain inverse functions. 
+
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "attachments/Ink/Drawing/2026.4.29 - 10.07am.drawing",
+	"width": 500,
+	"aspectRatio": 1
+}
+```

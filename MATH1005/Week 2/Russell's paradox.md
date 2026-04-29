@@ -2,7 +2,7 @@
 {}
 ---
 Russell's paradox
-Most [[Set]]s are not members of themselves
+Most [[set]]s are not members of themselves
 P = {pigeon, parrot). $P \not\in P$
 Some sets are members of themselves
 IE the set of all sets, the set of all things that are not birds

@@ -133,13 +133,112 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Calculus/Week 8/Inverse function.md",
+                "file": "MATH1005/Week 7/principles of counting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Inverse function"
+              "title": "principles of counting"
+            }
+          },
+          {
+            "id": "666163d640fd3d55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 7/MATH1005 20.04.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MATH1005 20.04.2026"
+            }
+          },
+          {
+            "id": "e0448a9f1a29e562",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 7/MATH1005 20.04.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MATH1005 20.04.2026"
+            }
+          },
+          {
+            "id": "03c411fdd8847cc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 8/MATH1005 28.04.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MATH1005 28.04.2026"
+            }
+          },
+          {
+            "id": "0fe1c9bdbe04f259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 8/MATH1005 28.04.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MATH1005 28.04.2026"
+            }
+          },
+          {
+            "id": "b42cf8c99396d69d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 8/overcounting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "overcounting"
+            }
+          },
+          {
+            "id": "30b6bfb14d8a4fc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 7/set counting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "set counting"
             }
           },
           {
@@ -173,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -361,11 +460,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec5ad3b347c1b797",
+  "active": "b42cf8c99396d69d",
   "lastOpenFiles": [
+    "MATH1005/Week 8/MATH1005 28.04.2026.md",
+    "MATH1005/Week 8/overcounting.md",
+    "MATH1005/Week 8/combination.md",
+    "MATH1005/Week 7/MATH1005 20.04.2026.md",
+    "MATH1005/Week 8/permutation.md",
+    "MATH1005/Week 7/pigeonhole principle.md",
+    "MATH1005/Week 7/principles of counting.md",
+    "MATH1005/Week 7/set counting.md",
+    "MATH1005/Week 7/countably infinite.md",
+    "MATH1005/Week 7/countable.md",
+    "MATH1005/Week 7/multiset.md",
+    "MATH1005/Week 7/cardinality.md",
+    "MATH1005/Week 2/set.md",
+    "MATH1013/Calculus/Week 8/Inverse function.md",
+    "attachments/Ink/Drawing/2026.4.29 - 10.07am.drawing",
     "MATH1013/Calculus/Week 8/MATH1013 28.04.2026.md",
     "math1013 math tricks.md",
-    "MATH1013/Calculus/Week 8/Inverse function.md",
     "MATH1005/Week 3/Injective Function.md",
     "MATH1005/Week 3/function.md",
     "MATH1005/Week 3/inverse relation.md",
@@ -380,19 +493,6 @@
     "MATH1013/Calculus/Week 8/Odd and even functions.md",
     "attachments/Ink/Drawing/2026.4.28 - 18.02pm.drawing",
     "attachments/Ink/Drawing/2026.4.28 - 18.00pm.drawing",
-    "MATH1013/Calculus/Week 6/Definite integral.md",
-    "MATH1013/Calculus/Week 3/Quotient rule.md",
-    "COMP1110/Week 8/COMP1110 midterm test 2 cheat sheet.md",
-    "MATH1013/Linear algebra/Week 7/MATH1013 22.04.2026.md",
-    "MATH1013/Linear algebra/Week 7/Determining the standard matrix of rotations.md",
-    "COMP1110/Week 6/Setter and getter methods.md",
-    "COMP1110/Week 8/Java stack and heap.md",
-    "COMP1110/Week 8/Class mutability.md",
-    "COMP1110/Week 4/Recursion.md",
-    "COMP1110/Week 6/Method.md",
-    "COMP1110/Week 6/Abstraction.md",
-    "COMP1110/Week 7/COMP1110 24.04.2026.md",
-    "COMP1110/Week 7/COMP1110 21.04.2026.md",
     "attachments/Ink/Drawing/2026.4.27 - 19.33pm.drawing",
     "attachments/Ink/Drawing/2026.4.27 - 19.09pm.drawing",
     "attachments/Ink/Drawing/2026.4.27 - 19.03pm.drawing",
@@ -408,7 +508,6 @@
     "attachments/Pasted image 20260423163330.png",
     "attachments/Pasted image 20260420112730.png",
     "attachments/Pasted image 20260420112238.png",
-    "Untitled 3.base",
     "Untitled.canvas"
   ]
 }

@@ -3,7 +3,7 @@
 ---
 equivalence class
 Take a set S and put an [[equivalence relation]] on it
-For each element s, we define a [[Set]] that has all the elements from S that are related to s. 
+For each element s, we define a [[set]] that has all the elements from S that are related to s. 
 For example, all the way to write the fraction 4/6. 
 
 The set of equivalent classes is a [[partition]] of s. There is no empty bucket due to the fact that its a [[symmetric relation]]. There are no elements in more than one bucket because of its symmetry. So the properties of an [[equivalence relation]] matches up well with a good classification. 

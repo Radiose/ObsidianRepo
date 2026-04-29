@@ -2,7 +2,7 @@
 {}
 ---
 element proof 
-a type of proof that shows that two [[Set]]s are equal
+a type of proof that shows that two [[set]]s are equal
 
 The way to show this is to show that an element from the right hand side of the equation is also in the left hand side of the equation. X is in the left hand side if and only if, x is in the right hand side. 
 

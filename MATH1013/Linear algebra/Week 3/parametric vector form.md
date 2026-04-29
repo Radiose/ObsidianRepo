@@ -17,12 +17,12 @@ As we can see, x2 is a pivot, making x1 and x3 free variables.
 Therefore, we can write x2 in terms of x3 (x1 is harder as it has 0 as a coefficient)
 $x_{2}=1-3x_{3}$. Remember that $x_{1},x_{3}$ are any real number
 
-putting the solutions into a vector yields the solution [[Set]] $\{  \begin{pmatrix}x_{1}  \\  1-3x_{3}  \\ x_{3}\end{pmatrix}|x_{1},x_{3} \in \mathbb{R}\}$. Now simplifying this into [[parametric vector form]], we get $\{\begin{pmatrix}0  \\  1 \\ 0 \end{pmatrix} + x_{1}\begin{pmatrix}1 \\ 0 \\ 0\end{pmatrix} +x_{2}\begin{pmatrix}0 \\ -3 \\ 1\end{pmatrix}|x_{1},x_{2} \in \mathbb{R}\}$. So the plane in $\mathbb{R}^3$ are any vectors in this format. 
+putting the solutions into a vector yields the solution [[set]] $\{  \begin{pmatrix}x_{1}  \\  1-3x_{3}  \\ x_{3}\end{pmatrix}|x_{1},x_{3} \in \mathbb{R}\}$. Now simplifying this into [[parametric vector form]], we get $\{\begin{pmatrix}0  \\  1 \\ 0 \end{pmatrix} + x_{1}\begin{pmatrix}1 \\ 0 \\ 0\end{pmatrix} +x_{2}\begin{pmatrix}0 \\ -3 \\ 1\end{pmatrix}|x_{1},x_{2} \in \mathbb{R}\}$. So the plane in $\mathbb{R}^3$ are any vectors in this format. 
 
 Remember that for an equation to [[Span]] a plane in $\mathbb{R}^3$, there must 2 free variables. If theres one, it spans only a line. 
 ![[Pasted image 20260311121702.png]]
 
-This image may aid in geometrically understanding the solution [[Set]]
+This image may aid in geometrically understanding the solution [[set]]
 
 
 

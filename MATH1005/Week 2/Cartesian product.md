@@ -2,7 +2,7 @@
 {}
 ---
 Cartesian product
-Recall the definition of a [[Set]]
+Recall the definition of a [[set]]
 In many situations, the order in which data appears is important, and the same data is sometimes represented multiple times. 
 
 for example, in the coordinate plane, order matters.

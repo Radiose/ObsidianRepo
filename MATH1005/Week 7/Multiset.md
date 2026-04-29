@@ -2,7 +2,7 @@
 {}
 ---
 Multiset 
-A multiset is a [[Set]] with multiple copies of elements allowed and acknowledged. 
+A multiset is a [[set]] with multiple copies of elements allowed and acknowledged. 
 As for ordinary sets, order is irrelevant
 But the multiplicities do matter 
 Formally, a size r multiset is a set S together with a **multiplicity function** $m: S \to \mathbb{N}$
