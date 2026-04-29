@@ -22,4 +22,4 @@ So if someone gives the [[Transformation]]s domain and codomain, you can find th
 
 
 ## Steps to finding a [[Standard Matrix]]
-Given some examples of the [[Linear transformation]], we relate each standard [[Basis]] [[vector]] to the vectors (find some combination of vectors that gives $e_n$). We take the scalar multipliers, and then apply them to the vectors that are the products
+Given some examples of the [[Linear transformation]], we relate each standard [[Basis]] [[vector]] to the vectors (find some combination of vectors that gives $e_n$). We take the scalar multipliers, and then apply them to the vectors that are the products. Then, we sum them together. 

@@ -31,3 +31,6 @@ $\int 2x \sqrt{ u } \frac{1}{2x}du$
 $\iff \int \sqrt{ u} \ du$
 
 
+
+
+NOTE: when substituting in a [[Definite integral]], you must either change the bounds, or take u out again. If u = 1 + x, and the upper and lower bounds are 2 and 1, then upper = 1 + 2 = 3 and lower  = 1+ 1 =2.
