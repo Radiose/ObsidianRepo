@@ -34,3 +34,7 @@ These enzymes have editing and proofreading mechanisms
 ![[Termination of translation in prokaryote cells]]
 
 ![[Antibiotic targeting of ribosomes]]
+
+
+
+![[Translation in Eukaryotic cellseukaryotes]]

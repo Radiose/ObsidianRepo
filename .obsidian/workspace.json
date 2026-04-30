@@ -257,13 +257,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 8/MATH1005 29.04.2026.md",
+                "file": "BIOL2161/Week 5/Translation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1005 29.04.2026"
+              "title": "Translation"
+            }
+          },
+          {
+            "id": "f7bb5ab08939ac72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIOL2161/Week 7/BIOL2161 22.04.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "BIOL2161 22.04.2026"
+            }
+          },
+          {
+            "id": "79c30cd15438168b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -357,7 +387,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -545,10 +575,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "385ccb68ad423a93",
+  "active": "79c30cd15438168b",
   "lastOpenFiles": [
-    "MATH1005/Week 7/set counting.md",
+    "BIOL2161/Week 7/BIOL2161 22.04.2026.md",
+    "Untitled.md",
+    "BIOL2161/Week 7/BIOL2161 20.04.2026.md",
+    "BIOL2161/Week 7/BIOL2161 21.04.2026.md",
+    "BIOL2161/Week 5/Translation in Eukaryotic cellseukaryotes.md",
+    "BIOL2161/Week 5/Translation.md",
+    "BIOL2161/Week 8/Transcription factor.md",
+    "BIOL2161/Week 8/BIOL 2161 30.04.2026.md",
     "MATH1005/Week 8/MATH1005 29.04.2026.md",
+    "MATH1005/Week 7/set counting.md",
     "Untitled.canvas",
     "2026-04-30.md",
     "MATH1005/Week 8/Relative frequencies.md",
@@ -557,12 +595,9 @@
     "MATH1005/Week 8/combination.md",
     "MATH1005/Week 8/MATH1005 28.04.2026.md",
     "BIOL2161/Week 7/Enhancer and silencer sequence.md",
-    "BIOL2161/Week 8/BIOL 2161 30.04.2026.md",
-    "BIOL2161/Week 8/Transcription factor.md",
     "BIOL2161/Week 7/activator protein.md",
     "BIOL2161/Week 8/Coregulators.md",
     "BIOL2161/Week 8/Topologically associating domain.md",
-    "BIOL2161/Week 7/BIOL2161 22.04.2026.md",
     "COMP1110/Week 6/Setter and getter methods.md",
     "BIOL2161/Week 3/Chromatin.md",
     "BIOL2161/Week 3/histone.md",
@@ -570,10 +605,6 @@
     "BIOL2161/Week 7/Initiation of transcription in Eukaryotic cells.md",
     "attachments/Pasted image 20260430162559.png",
     "BIOL2161/Week 7/Introns and exons.md",
-    "BIOL2161/Week 5/Gene regulation.md",
-    "COMP1110/Week 8/COMP1110 midterm test 2 cheat sheet.md",
-    "COMP1110/Week 5/sealed interface.md",
-    "COMP1110 test 2.md",
     "attachments/Pasted image 20260429192538.png",
     "attachments/Pasted image 20260429120403.png",
     "attachments/Pasted image 20260429120359.png",
