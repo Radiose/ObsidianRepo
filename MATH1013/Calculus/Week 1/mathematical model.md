@@ -1,5 +1,6 @@
 ---
-{}
+aliases:
+  - model
 ---
 mathematical model
 A simple, abstract and idealised description in mathematical language of an object, system or relationship.

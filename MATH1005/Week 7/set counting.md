@@ -1,8 +1,8 @@
 ---
 aliases:
   - inclusion-exclusion principle
-  - the sum rule
-  - the product rule
+  - the sum rule (set cardinality)
+  - the product rule (set cardinality)
 ---
 set counting 
 There are some rules for determining the [[cardinality]] of [[set]]s. 
@@ -34,3 +34,15 @@ two upper case characters with repetition allowed
 four lower case characters with repetition allowed 
 two symbols chosen from the set $\{$ @,$,%,&,!,* $\}$ with repetition allowed. 
 S denotes the set of all possible passwords. What is the [[cardinality]] of S?
+
+The final formula: 
+$|S| = \begin{pmatrix} 12  \\ 4\end{pmatrix} \times \begin{pmatrix} 8  \\ 2\end{pmatrix} \times \begin{pmatrix} 6  \\ 4\end{pmatrix} \times 10^4 \times 26^2 \times 26^4 \times 6^2$
+brief explanation: 12 choose 4 - subset of 4 in 12 for digits 
+						  subset of 2 in 12-2 for upper case
+						  subset of 4 in 12-2-4 for lower case 
+Then 10^4 - ordered combination of digits 0-9 
+			ordered combination of letters 
+			again 
+			ordered combination of characters 
+
+Thus, our final equation. 
