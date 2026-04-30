@@ -17,7 +17,7 @@ if shape = an interface, circle = class, then
 
 Testing used in practice test 
 
-- the class was empty when initialised
+- the class was empty when initialised (isInstalled returns false)
 - installing a package will lead to its dependencies being installed(via javadocs)
 -  installing a package will not lead to non dependent packages being installed
  
@@ -25,7 +25,9 @@ Testing used in practice test
 	`s.clear()`
 	a bunch of other tests. 
 	
- continue  
+- The allInstalled method returns an empty set before anything is installed. 
+- The allInstalled method returns the packages that were installed into the class 
+- 
  
 MAINTAIN [[Encapsulation]] at all times. When calling from the recursive methods, copy the result of the call into the fourth question
 
