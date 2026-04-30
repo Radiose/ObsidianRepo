@@ -10,9 +10,9 @@ e:functional completeness. Not much you can do. Check given equivalence laws to 
 
 2:
 A: minor mistake. Not much you can do.
-2b: Functions are from relations via $(a,b) \subset R$
+2b: Definition of relations are $(a,b) \subset R \iff$
 2d: write down all the subsets that are functions can be done as $\{ (a,1)(a,2) \}$
-
+2e: element proof was not constructed properly. Revisit correct method. 
 
 3:
 ![[Pasted image 20260501075506.png]]
