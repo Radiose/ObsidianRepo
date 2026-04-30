@@ -230,10 +230,15 @@
             "id": "f0f976113377fc2b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 7/countable.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "countable"
             }
           },
           {
@@ -472,6 +477,7 @@
   },
   "active": "f0f976113377fc2b",
   "lastOpenFiles": [
+    "MATH1005/Week 6/Inverse matrix.md",
     "MATH1005/Week 1/MATH1005 25.02.2026.md",
     "MATH1013/Calculus/Week 7/Integration by parts.md",
     "math1013 math tricks.md",
@@ -502,7 +508,6 @@
     "MATH1005/Week 7/multiset.md",
     "MATH1005/Week 7/MATH1005 20.04.2026.md",
     "MATH1005/Week 7/pigeonhole principle.md",
-    "MATH1005/Week 7/principles of counting.md",
     "attachments/Ink/Drawing/2026.4.29 - 10.07am.drawing",
     "attachments/Ink/Drawing/2026.4.28 - 19.32pm.drawing",
     "attachments/Ink/Drawing/2026.4.28 - 19.31pm.drawing",
