@@ -232,13 +232,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 8/stars and bars.md",
+                "file": "MATH1005/Week 5/Sorting algorithm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "stars and bars"
+              "title": "Sorting algorithm"
             }
           },
           {
@@ -477,6 +477,8 @@
   },
   "active": "f0f976113377fc2b",
   "lastOpenFiles": [
+    "MATH1005/Week 7/pigeonhole principle.md",
+    "MATH1005/Week 8/stars and bars.md",
     "MATH1005/Week 7/countable.md",
     "MATH1005/Week 6/Inverse matrix.md",
     "MATH1005/Week 1/MATH1005 25.02.2026.md",
@@ -500,14 +502,12 @@
     "MATH1005/Week 8/MATH1005 28.04.2026.md",
     "MATH1005/Week 8/permutation.md",
     "MATH1005/Week 8/combination.md",
-    "MATH1005/Week 8/stars and bars.md",
     "attachments/Pasted image 20260429120403.png",
     "attachments/Pasted image 20260429120359.png",
     "MATH1005/Week 8/overcounting.md",
     "attachments/Pasted image 20260429120354.png",
     "attachments/Pasted image 20260429120349.png",
     "MATH1005/Week 7/multiset.md",
-    "MATH1005/Week 7/MATH1005 20.04.2026.md",
     "attachments/Ink/Drawing/2026.4.29 - 10.07am.drawing",
     "attachments/Ink/Drawing/2026.4.28 - 19.32pm.drawing",
     "attachments/Ink/Drawing/2026.4.28 - 19.31pm.drawing",
