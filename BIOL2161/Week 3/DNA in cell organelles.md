@@ -6,7 +6,7 @@
 Forms nucleoid, with multiple copies per organelle 
 Sometimes in plants - linear forms but not fully understood
 mutliple copies of the genome - polyploidy
-Compacted by proteins but arent [[histones]] 
+Compacted by proteins but arent [[histone]] 
 Higher [[mutation]] rate in plant [[Mitochondria]] - more about recombination rather than point [[mutation]]
 Encodes genes essential for organelle function 
 oxidative phosphorylation

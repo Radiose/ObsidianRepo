@@ -32,7 +32,7 @@ This is similar to the last one, at the promoter end instead of the terminus. *H
 # Selection 
 Splice site choice depends on 
 **the strength of the site** 
-**presence of [[Enhancer sequence]]s and silencers**
+**presence of [[Enhancer and silencer sequence]]s and silencers**
 **transcription dynamics** - speed of [[RNA polymerase II]] - faster requires stronger binding sites 
 Binding of SR and HNRE proteins - 
 	Serine/Arginine rich proteins bind to splicing enhancers promoting assembly of [[Spliceosome]] and activation of splicing 

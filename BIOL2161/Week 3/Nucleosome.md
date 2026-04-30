@@ -19,7 +19,7 @@ Histone H1 binds to the nucleosome and has a structural role
 
 Each nucleosome is an octamer of two copies of each of the histones.
 
-![[histones]]
+![[histone]]
 
 
 

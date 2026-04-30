@@ -8,7 +8,7 @@ These are regions of DNA which do not code for anything. Present in [[Eukaryotic
 ### Enable [[Alternative splicing]]
 Introns allow for [[Alternative splicing]] to occur, and allows for high levels of regulation. 
 
-Introns also contribute to [[Gene regulation]] directly. They contain [[Enhancer sequence]]s, silencers, and binding sites. 
+Introns also contribute to [[Gene regulation]] directly. They contain [[Enhancer and silencer sequence]]s, silencers, and binding sites. 
 
 They facilitate [[Introns and exons|exon]] shuffling. Recombination between introns can create new gene architectures. 
 ![[Exon shuffling]]
