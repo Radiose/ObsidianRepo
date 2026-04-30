@@ -27,7 +27,10 @@ Testing used in practice test
 	
 - The allInstalled method returns an empty set before anything is installed. 
 - The allInstalled method returns the packages that were installed into the class 
-- 
+- uninstalling a package will lead to it being uninstalled 
+- Uninstalling a package will lead to things that depend on it being uninstalled 
+- Uninstalling a package will not remove things that arent necessary
+- Uninstalling a package will throw the correct error. 
  
 MAINTAIN [[Encapsulation]] at all times. When calling from the recursive methods, copy the result of the call into the fourth question
 
@@ -35,4 +38,6 @@ MAINTAIN [[Encapsulation]] at all times. When calling from the recursive methods
 It is very important to remember to read javadocs and questions fully during this test. 
 Remember to make fields private when necessary 
 
-Remember to use `this.`
+Remember to use `this.` 
+
+assertEquals(expected, thingYoureTesting)
