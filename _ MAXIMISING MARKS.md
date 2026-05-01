@@ -5,14 +5,16 @@ Labs: 5%
 Homework problems: 10% (due weeks 4 and 8)
 Final exam: (50%)
 current: 13.45/17.5 - 76% 
-
+Required final exam: **77/100** 
 
 
 MATH1005:
 Workshop Quizzes: 20%
-Midterm test(redeemable): 20% - week 7
+Midterm test(redeemable): 20% -14.2/20 - week 7
 Final exam: 60%
-current 10/10 marks 
+current 24/30 marks 
+**To get high distinction: requires 75% in final**
+
 
 
 MATH1013:
@@ -24,6 +26,8 @@ workshop - 9% - 6/6 so far
 matlab grader - 4/5 so far 
 total:
 ~14/16 so far 
+**Final exam requires ~70%**
+
 
 
 

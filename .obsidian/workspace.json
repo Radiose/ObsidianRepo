@@ -287,13 +287,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Calculus/Week 8/Odd and even functions.md",
+                "file": "_ MAXIMISING MARKS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Odd and even functions"
+              "title": "_ MAXIMISING MARKS"
             }
           },
           {
@@ -577,8 +577,10 @@
   },
   "active": "79c30cd15438168b",
   "lastOpenFiles": [
-    "MATH1013/Calculus/Week 7/Integration by substitution.md",
     "MATH1013/Calculus/Week 7/Integration by parts.md",
+    "MATH1013/Calculus/Week 8/Applications of The fundamental theorem of calculus.md",
+    "MATH1013/Calculus/Week 8/Odd and even functions.md",
+    "MATH1013/Calculus/Week 7/Integration by substitution.md",
     "MATH1005/Week 6/Matrix multiplication.md",
     "COMP1110/Week 5/Record.md",
     "COMP1110/Week 8/COMP1110 midterm test 2 cheat sheet.md",
@@ -604,8 +606,6 @@
     "MATH1005/Week 8/MATH1005 28.04.2026.md",
     "BIOL2161/Week 7/Enhancer and silencer sequence.md",
     "BIOL2161/Week 7/activator protein.md",
-    "BIOL2161/Week 8/Coregulators.md",
-    "BIOL2161/Week 8/Topologically associating domain.md",
     "attachments/Pasted image 20260430162559.png",
     "attachments/Pasted image 20260429192538.png",
     "attachments/Pasted image 20260429120403.png",
