@@ -7,7 +7,7 @@ This is the equivalent of [[Integration by substitution|U-substitution]] for the
 #### full logic
 $\frac{d}{dx}(u(x)v(x))=u'(x)v(x)+u(x)v'(x)$
 $\implies u(x)v(x)+c = \int u'(x)v(x)+u(x)v'(x)\ dx$
-$\implies u(x)v(x)+C = \int u'(x)v(x)\ dx = \int u(x)v'(x)\ dx$
+$\implies u(x)v(x)+c = \int u'(x)v(x)\ dx = \int u(x)v'(x)\ dx$
 $\implies \int u(x)v'(x)\ dx = u(x)v(x) - \int u'(x)v(x)\ dx$
 
 Therefore the rule 

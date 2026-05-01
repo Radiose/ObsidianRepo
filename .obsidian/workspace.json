@@ -287,13 +287,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP1110/Week 5/Record.md",
+                "file": "MATH1013/Calculus/Week 8/Odd and even functions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Record"
+              "title": "Odd and even functions"
             }
           },
           {
@@ -577,6 +577,10 @@
   },
   "active": "79c30cd15438168b",
   "lastOpenFiles": [
+    "MATH1013/Calculus/Week 7/Integration by substitution.md",
+    "MATH1013/Calculus/Week 7/Integration by parts.md",
+    "MATH1005/Week 6/Matrix multiplication.md",
+    "COMP1110/Week 5/Record.md",
     "COMP1110/Week 8/COMP1110 midterm test 2 cheat sheet.md",
     "Z_MATH help/MATH1005 midsem rundown.md",
     "BIOL2161 16.03.2026.md",
@@ -602,10 +606,6 @@
     "BIOL2161/Week 7/activator protein.md",
     "BIOL2161/Week 8/Coregulators.md",
     "BIOL2161/Week 8/Topologically associating domain.md",
-    "COMP1110/Week 6/Setter and getter methods.md",
-    "BIOL2161/Week 3/Chromatin.md",
-    "BIOL2161/Week 3/histone.md",
-    "BIOL2161/Week 8/promoter region.md",
     "attachments/Pasted image 20260430162559.png",
     "attachments/Pasted image 20260429192538.png",
     "attachments/Pasted image 20260429120403.png",
