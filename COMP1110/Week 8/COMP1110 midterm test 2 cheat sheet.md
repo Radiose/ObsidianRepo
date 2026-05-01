@@ -84,3 +84,4 @@ public Set<Package> allDependencies() {
     return set;  
 }
 ```
+This recursion works, because set.add(this) is the base case. If its in direct dependencies, it depends on it. 
