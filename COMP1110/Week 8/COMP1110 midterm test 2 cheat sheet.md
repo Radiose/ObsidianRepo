@@ -1,7 +1,5 @@
 
 Examples: 
-
-[[Collection (interface)]]
 collections written with Set.of() are immutable.
 `new TreeSet<>(Set.of(...))` will allow a mutable set 
 
