@@ -37,4 +37,4 @@ These enzymes have editing and proofreading mechanisms
 
 
 
-![[Translation in Eukaryotic cellseukaryotes]]
+![[Translation in Eukaryotic cells]]

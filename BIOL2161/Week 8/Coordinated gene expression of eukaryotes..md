@@ -11,6 +11,6 @@ The other method is when a signal(hormone or stress) activates multiple TFs at o
 ## Example
 Glucocorticoid Receptor
 A [[Transcription factor]] regulating hundreds to thousands of genes. 
-In the absence of glucocorticoid hormone, each of these [[Gene]]s have its level of expression already regulated by other TFs. These TFs alone produce low-level expression, thus they are regulated independently generally. 
+In the absence of glucocorticoid hormone (GH), each of these [[Gene]]s have its level of expression already regulated by other TFs. These TFs alone produce low-level expression, thus they are regulated independently generally. 
 
-When GHJ
+When GH enters the cell, it binds with GR, and activates it. The GR now binds [[DNA]], and interacts with TF's already in place, increasing expression of all genes. 

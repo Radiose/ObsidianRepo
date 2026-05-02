@@ -93,6 +93,51 @@
             }
           },
           {
+            "id": "288933890ed37972",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIOL2161/Week 8/RNA interference.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "RNA interference"
+            }
+          },
+          {
+            "id": "e1e4b17a7b0d2b36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIOL2161/Week 8/miRNA and siRNA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "miRNA and siRNA"
+            }
+          },
+          {
+            "id": "618074866c3bcb53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIOL2161/Week 8/BIOL2161 29.04.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "BIOL2161 29.04.2026"
+            }
+          },
+          {
             "id": "33ad309f9877784f",
             "type": "leaf",
             "state": {
@@ -198,7 +243,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -386,9 +431,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33ad309f9877784f",
+  "active": "618074866c3bcb53",
   "lastOpenFiles": [
+    "BIOL2161/Week 8/miRNA and siRNA.md",
     "BIOL2161/Week 8/BIOL2161 29.04.2026.md",
+    "BIOL2161/Week 8/RISC complex.md",
+    "attachments/Pasted image 20260502172829.png",
+    "attachments/Pasted image 20260502171840.png",
+    "attachments/Pasted image 20260502170234.png",
+    "BIOL2161/Week 5/Attenuation.md",
+    "BIOL2161/Week 8/RNA interference.md",
+    "BIOL2161/Week 5/Gene regulation.md",
+    "BIOL2161/Week 5/Translation in Eukaryotic cells.md",
     "BIOL2161/Week 8/Coordinated gene expression of eukaryotes..md",
     "BIOL2161/Week 7/BIOL2161 22.04.2026.md",
     "BIOL2161/Week 5/Translation.md",
@@ -407,13 +461,6 @@
     "BIOL2161/Week 7/RNA polymerase II.md",
     "BIOL2161/Week 7/Elongation of Transcription in Eukaryotic cells.md",
     "COMP1110/Week 6/abstract data type.md",
-    "BIOL2161/Week 7/Genome size.md",
-    "BIOL2161/Week 8/Coregulators.md",
-    "BIOL2161/Week 7/Initiation of transcription in Eukaryotic cells.md",
-    "MATH1013/Linear algebra/Week 6/Standard Matrix.md",
-    "MATH1013/Calculus/Week 7/Integration by parts.md",
-    "MATH1013/Linear algebra/Week 3/parametric vector form.md",
-    "MATH1013/Linear algebra/Week 5/Basis of a nullspace.md",
     "Z_MATH help",
     "attachments/Pasted image 20260501075506.png",
     "Untitled.canvas",
@@ -431,9 +478,6 @@
     "attachments/Ink/Drawing/2026.4.27 - 19.33pm.drawing",
     "attachments/Ink/Drawing/2026.4.27 - 19.09pm.drawing",
     "attachments/Ink/Drawing/2026.4.27 - 19.03pm.drawing",
-    "attachments/Ink/Drawing/2026.4.27 - 18.13pm.drawing",
-    "attachments/Pasted image 20260425175818.png",
-    "attachments/Pasted image 20260425174724.png",
-    "attachments/Pasted image 20260425174348.png"
+    "attachments/Ink/Drawing/2026.4.27 - 18.13pm.drawing"
   ]
 }
