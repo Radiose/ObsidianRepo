@@ -13,4 +13,5 @@ They act as bridges between [[Transcription factor]]s and [[Initiation of transc
 
 Most genes have multiple regulatory elements (enhancers/promoters)
 Each element contains binding sites for different TF's
+
 The combination of bound TF's determines the outcome, the effect of the element on the gene expression. Can be strong, medium, weak or repressed.
