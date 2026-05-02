@@ -2,7 +2,7 @@
 {}
 ---
 nonhomologous end joining
-A different repair mechanism for [[Double stranded DNA breaks]]
+A different repair mechanism for [[Double stranded DNA break]]
 Repairs quickly, and will trim ends. while doing so.
 Broken ends are directly ligated.
 Error prone 

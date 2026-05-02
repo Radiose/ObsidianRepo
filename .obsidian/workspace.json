@@ -138,6 +138,31 @@
             }
           },
           {
+            "id": "a9dfba8d1aab93fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIOL2161/Week 8/BIOL2161 29.04.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "BIOL2161 29.04.2026"
+            }
+          },
+          {
+            "id": "609cdbd564485836",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "33ad309f9877784f",
             "type": "leaf",
             "state": {
@@ -243,7 +268,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -431,10 +456,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "618074866c3bcb53",
+  "active": "609cdbd564485836",
   "lastOpenFiles": [
-    "BIOL2161/Week 8/miRNA and siRNA.md",
+    "BIOL2161/Week 5/BIOL2161 24.03.2026.md",
     "BIOL2161/Week 8/BIOL2161 29.04.2026.md",
+    "BIOL2161/Week 8/CRISPR.md",
+    "BIOL2161/Week 2/Double stranded DNA break.md",
+    "BIOL2161/Week 2/Nuclease.md",
+    "BIOL2161/Week 8/Post translation regulation.md",
+    "BIOL2161/Week 8/miRNA and siRNA.md",
     "BIOL2161/Week 8/RISC complex.md",
     "attachments/Pasted image 20260502172829.png",
     "attachments/Pasted image 20260502171840.png",
@@ -457,10 +487,6 @@
     "MATH1013/Calculus/Week 5/mean value theorem.md",
     "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
     "COMP1110/Week 8/Class mutability.md",
-    "COMP1110/Week 6/Method.md",
-    "BIOL2161/Week 7/RNA polymerase II.md",
-    "BIOL2161/Week 7/Elongation of Transcription in Eukaryotic cells.md",
-    "COMP1110/Week 6/abstract data type.md",
     "Z_MATH help",
     "attachments/Pasted image 20260501075506.png",
     "Untitled.canvas",

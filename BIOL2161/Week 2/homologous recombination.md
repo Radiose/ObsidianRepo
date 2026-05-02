@@ -5,7 +5,7 @@ homologous recombination
 This mediates exchange of genetic information between homologous chromosomes
 It uses an intact homologous DNA molecular as a template for accurate repair - looks for other strand 
 Evolved as a double strand break repair mechanism 
-In meiosis, programmed [[Double stranded DNA breaks]] initiate recombination - thought to evolve to enhance genetic diversity
+In meiosis, programmed [[Double stranded DNA break]] initiate recombination - thought to evolve to enhance genetic diversity
 
 ![[Mitosis]]
 ![[Meiosis]]
@@ -19,7 +19,7 @@ During [[homologous recombination]], big blocks of genes are exchanged at the [[
 
 It is a mechanism for generating genetic diversity but also functions in DNA repair. 
 
-During a [[Double stranded DNA breaks]] on one of the chromosomes, the break can be repaired using a sequence on the other chromosome. This creates ![[holliday junctions]]
+During a [[Double stranded DNA break]] on one of the chromosomes, the break can be repaired using a sequence on the other chromosome. This creates ![[holliday junctions]]
 
 The removal of these holiday junctions is what creates genetic diversity. 
 
