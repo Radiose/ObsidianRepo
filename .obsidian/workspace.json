@@ -156,10 +156,15 @@
             "id": "609cdbd564485836",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "BIOL2161/Week 5/elongation of translation in prokaryote cells.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "elongation of translation in prokaryote cells"
             }
           },
           {
@@ -300,7 +305,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "30s complex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -335,7 +340,8 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -458,12 +464,25 @@
   },
   "active": "609cdbd564485836",
   "lastOpenFiles": [
-    "BIOL2161/Week 5/BIOL2161 24.03.2026.md",
+    "BIOL2161/Week 5/initiation of translation in prokaryote cells.md",
+    "BIOL2161/Week 4/Transcription.md",
+    "BIOL2161/Week 4/Initiation of Transcription in prokaryote cells.md",
+    "COMP1110/Week 8/COMP1110 midterm test 2 cheat sheet.md",
+    "MATH1013/Calculus/Week 7/Integration by parts.md",
+    "MATH1013/Linear algebra/Week 6/Linear transformation.md",
+    "Z_MATH help/MATH1005 midsem rundown.md",
+    "Z_MATH help/math1013 math tricks.md",
+    "BIOL2161/Week 8/BIOL 2161 28.04.2026.md",
     "BIOL2161/Week 8/BIOL2161 29.04.2026.md",
+    "BIOL2161/Week 8/Post translation regulation.md",
+    "BIOL2161/Week 7/RNA splicing.md",
+    "BIOL2161/Week 5/Gene regulation.md",
+    "BIOL2161/Week 7/Transcription of Eukaryotic cells.md",
+    "BIOL2161/Week 4/Catabolic operons.md",
+    "BIOL2161/Week 5/BIOL2161 24.03.2026.md",
     "BIOL2161/Week 8/CRISPR.md",
     "BIOL2161/Week 2/Double stranded DNA break.md",
     "BIOL2161/Week 2/Nuclease.md",
-    "BIOL2161/Week 8/Post translation regulation.md",
     "BIOL2161/Week 8/miRNA and siRNA.md",
     "BIOL2161/Week 8/RISC complex.md",
     "attachments/Pasted image 20260502172829.png",
@@ -471,22 +490,9 @@
     "attachments/Pasted image 20260502170234.png",
     "BIOL2161/Week 5/Attenuation.md",
     "BIOL2161/Week 8/RNA interference.md",
-    "BIOL2161/Week 5/Gene regulation.md",
     "BIOL2161/Week 5/Translation in Eukaryotic cells.md",
     "BIOL2161/Week 8/Coordinated gene expression of eukaryotes..md",
     "BIOL2161/Week 7/BIOL2161 22.04.2026.md",
-    "BIOL2161/Week 5/Translation.md",
-    "BIOL2161/Week 8/Transcription factor.md",
-    "BIOL2161/Week 8/Promoter proximal pausing.md",
-    "BIOL2161/Week 8/BIOL 2161 28.04.2026.md",
-    "COMP1110/Week 6/Setter and getter methods.md",
-    "MATH1005/Week 8/MATH1005 28.04.2026.md",
-    "MATH1005/Week 7/MATH1005 20.04.2026.md",
-    "MATH1005/Week 7/principles of counting.md",
-    "MATH1013/Calculus/Week 8/MATH1013 28.04.2026.md",
-    "MATH1013/Calculus/Week 5/mean value theorem.md",
-    "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
-    "COMP1110/Week 8/Class mutability.md",
     "Z_MATH help",
     "attachments/Pasted image 20260501075506.png",
     "Untitled.canvas",
