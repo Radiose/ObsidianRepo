@@ -11,15 +11,10 @@
             "id": "d3ae327bc906a7d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP1110 test 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "COMP1110 test 2"
+              "title": "New tab"
             }
           },
           {
@@ -30,126 +25,6 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "385ccb68ad423a93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 5/Translation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Translation"
-            }
-          },
-          {
-            "id": "f7bb5ab08939ac72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 7/BIOL2161 22.04.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "BIOL2161 22.04.2026"
-            }
-          },
-          {
-            "id": "79c30cd15438168b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1013/Linear algebra/Week 6/Standard Matrix.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Standard Matrix"
-            }
-          },
-          {
-            "id": "bc769862ee37cb9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 8/BIOL2161 29.04.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "BIOL2161 29.04.2026"
-            }
-          },
-          {
-            "id": "288933890ed37972",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 8/RNA interference.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "RNA interference"
-            }
-          },
-          {
-            "id": "e1e4b17a7b0d2b36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 8/miRNA and siRNA.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "miRNA and siRNA"
-            }
-          },
-          {
-            "id": "618074866c3bcb53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 8/BIOL2161 29.04.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "BIOL2161 29.04.2026"
-            }
-          },
-          {
-            "id": "a9dfba8d1aab93fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 8/BIOL2161 29.04.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "BIOL2161 29.04.2026"
             }
           },
           {
@@ -188,122 +63,137 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Linear algebra/Week 8/Proving an Inverse matrix.md",
+                "file": "MATH1005/Week 8/MATH1005 29.04.2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Proving an Inverse matrix"
+              "title": "MATH1005 29.04.2026"
             }
           },
           {
-            "id": "33ad309f9877784f",
+            "id": "d3b8fda4a993b04c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIOL2161/Week 8/Coordinated gene expression of eukaryotes..md",
+                "file": "MATH1005/Week 8/MATH1005 29.04.2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Coordinated gene expression of eukaryotes."
+              "title": "MATH1005 29.04.2026"
             }
           },
           {
-            "id": "3a4426487b036ce2",
+            "id": "98bb8f5f78599921",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIOL2161/Week 8/Promoter proximal pausing.md",
+                "file": "MATH1005/Week 8/MATH1005 29.04.2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Promoter proximal pausing"
+              "title": "MATH1005 29.04.2026"
             }
           },
           {
-            "id": "ba846f02dcafcc10",
+            "id": "95418305e66382fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 8/Relative frequencies.md",
+                "file": "MATH1005/Week 8/Sample space.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Relative frequencies"
+              "title": "Sample space"
             }
           },
           {
-            "id": "e0868697096cc059",
+            "id": "828ed28fbe6e522c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIOL2161/Week 8/Topologically associating domain.md",
+                "file": "MATH1005/Week 8/Experiment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Topologically associating domain"
+              "title": "Experiment"
             }
           },
           {
-            "id": "0ed4b5bd042fe831",
+            "id": "78c2fb65287637c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIOL2161/Week 8/Transcription factor.md",
+                "file": "MATH1005/Week 8/Uniform density and distribution.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Transcription factor"
+              "title": "Uniform density and distribution"
             }
           },
           {
-            "id": "d8745a280ae5ab35",
+            "id": "f1940807721a0bd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP1110/Week 6/Setter and getter methods.md",
+                "file": "MATH1005/Week 8/Density function.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Setter and getter methods"
+              "title": "Density function"
             }
           },
           {
-            "id": "64d51a7d98513b9f",
+            "id": "bce7cb767e3d77c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP1110/Week 7/COMP1110 21.04.2026.md",
+                "file": "MATH1005/Week 8/Cumulative probability distribution function.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "COMP1110 21.04.2026"
+              "title": "Cumulative probability distribution function"
+            }
+          },
+          {
+            "id": "8742a65551a18204",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 8/Probability rules.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Probability rules"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -491,46 +381,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5f0fdd8b393a082",
+  "active": "98bb8f5f78599921",
   "lastOpenFiles": [
-    "MATH1013/Linear algebra/Week 8/MATH1013 29.04.2026.md",
-    "MATH1013/Linear algebra/Week 8/Proving an Inverse matrix.md",
-    "MATH1005/Week 6/Inverse matrix.md",
+    "attachments/Pasted image 20260503161531.png",
+    "MATH1005/Week 8/Equal likelihood models.md",
+    "MATH1005/Week 8/MATH1005 29.04.2026.md",
+    "MATH1005/Week 8/Sample space.md",
+    "MATH1005/Week 8/Experiment.md",
+    "MATH1005/Week 8/Density function.md",
+    "attachments/Pasted image 20260503160145.png",
+    "MATH1005/Week 8/Cumulative probability distribution function.md",
+    "MATH1005/Week 8/Uniform density and distribution.md",
+    "attachments/Pasted image 20260503160001.png",
+    "attachments/Pasted image 20260503155834.png",
+    "attachments/Pasted image 20260503155221.png",
+    "MATH1005/Week 8/Probability rules.md",
     "MATH1013/Calculus/Week 5/The closed interval method.md",
-    "MATH1013/Calculus/Week 6/Riemann sum.md",
-    "MATH1013/Calculus/Week 7/Integration by parts.md",
-    "MATH1005/Week 6/Matrix multiplication.md",
-    "MATH1013/Linear algebra/Week 6/Linear transformation.md",
-    "MATH1013/Linear algebra/Week 5/Basis of a nullspace.md",
-    "MATH1013/Linear algebra/Week 4/Basis.md",
-    "MATH1013/Linear algebra/Week 5/Null space.md",
-    "MATH1013/Linear algebra/Week 3/parametric vector form.md",
-    "COMP1110/Week 8/COMP1110 midterm test 2 cheat sheet.md",
+    "BIOL2161/Week 8/BIOL2161 29.04.2026.md",
+    "BIOL2161/Week 8/miRNA and siRNA.md",
+    "BIOL2161/Week 8/RNA interference.md",
+    "MATH1013/Linear algebra/Week 6/Standard Matrix.md",
+    "BIOL2161/Week 7/BIOL2161 22.04.2026.md",
+    "BIOL2161/Week 5/Translation.md",
+    "COMP1110/Week 7/COMP1110 21.04.2026.md",
+    "COMP1110/Week 6/Setter and getter methods.md",
+    "BIOL2161/Week 8/Transcription factor.md",
+    "BIOL2161/Week 8/Topologically associating domain.md",
+    "MATH1005/Week 8/Relative frequencies.md",
+    "BIOL2161/Week 8/Promoter proximal pausing.md",
+    "BIOL2161/Week 8/Coordinated gene expression of eukaryotes..md",
+    "attachments/Pasted image 20260503154926.png",
+    "MATH1005/Week 8/Frequency Histogram.md",
+    "attachments/Pasted image 20260503154800.png",
+    "attachments/Pasted image 20260503154612.png",
+    "MATH1013/Linear algebra/Week 8/Proving an Inverse matrix.md",
+    "MATH1013/Linear algebra/Week 8/MATH1013 29.04.2026.md",
     "attachments/Pasted image 20260425173429.png",
     "attachments/Pasted image 20260429120359.png",
-    "BIOL2161/Week 8/CRISPR.md",
-    "Work to get done.md",
-    "BIOL2161/Week 1/Eukaryotic cells.md",
-    "BIOL2161/Week 5/TRP Operon.md",
-    "BIOL2161/Week 5/Attenuation of TRP Operon.md",
-    "BIOL2161/Week 5/elongation of translation in prokaryote cells.md",
-    "BIOL2161/Week 5/initiation of translation in prokaryote cells.md",
-    "BIOL2161/Week 4/Transcription.md",
-    "BIOL2161/Week 4/Initiation of Transcription in prokaryote cells.md",
-    "Z_MATH help/MATH1005 midsem rundown.md",
-    "Z_MATH help/math1013 math tricks.md",
-    "BIOL2161/Week 8/BIOL 2161 28.04.2026.md",
-    "BIOL2161/Week 8/BIOL2161 29.04.2026.md",
     "attachments/Pasted image 20260502172829.png",
-    "attachments/Pasted image 20260502171840.png",
-    "attachments/Pasted image 20260502170234.png",
     "Z_MATH help",
-    "attachments/Pasted image 20260501075506.png",
     "Untitled.canvas",
-    "attachments/Pasted image 20260430162559.png",
-    "attachments/Pasted image 20260429192538.png",
-    "attachments/Pasted image 20260429120403.png",
-    "attachments/Pasted image 20260429120354.png",
     "attachments/Ink/Drawing/2026.4.29 - 10.07am.drawing",
     "attachments/Ink/Drawing/2026.4.28 - 19.32pm.drawing",
     "attachments/Ink/Drawing/2026.4.28 - 19.31pm.drawing",
