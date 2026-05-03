@@ -1,3 +1,7 @@
+---
+aliases:
+  - choose
+---
 combination
 
 This is used when order *doesn't* matter. IE, when you are treating [[subset]]s of a set by definition. 
