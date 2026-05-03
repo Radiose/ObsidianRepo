@@ -180,9 +180,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "6c8f8cd0a485dd70",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-05-03 20.06.52.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-03 20.06.52.excalidraw"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -370,8 +382,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80ca80fcb103b61b",
+  "active": "6c8f8cd0a485dd70",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-05-03 20.06.52.excalidraw.md",
     "BIOL2161/Week 5/Attenuation of TRP Operon.md",
     "attachments/Pasted image 20260503191002.png",
     "Untitled.base",
@@ -408,7 +421,6 @@
     "BIOL2161/Week 8/miRNA and siRNA.md",
     "BIOL2161/Week 8/RNA interference.md",
     "MATH1013/Linear algebra/Week 6/Standard Matrix.md",
-    "BIOL2161/Week 7/BIOL2161 22.04.2026.md",
     "Z_MATH help",
     "Untitled.canvas",
     "attachments/Ink/Drawing/2026.4.29 - 10.07am.drawing",
