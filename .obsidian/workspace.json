@@ -158,13 +158,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 6/Matrix multiplication.md",
+                "file": "MATH1013/Calculus/Week 7/Integration by parts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Matrix multiplication"
+              "title": "Integration by parts"
             }
           },
           {
@@ -463,6 +463,7 @@
   },
   "active": "609cdbd564485836",
   "lastOpenFiles": [
+    "MATH1005/Week 6/Matrix multiplication.md",
     "MATH1013/Linear algebra/Week 6/Linear transformation.md",
     "MATH1013/Linear algebra/Week 5/Basis of a nullspace.md",
     "MATH1013/Linear algebra/Week 4/Basis.md",
@@ -490,7 +491,6 @@
     "BIOL2161/Week 5/Gene regulation.md",
     "BIOL2161/Week 7/Transcription of Eukaryotic cells.md",
     "BIOL2161/Week 4/Catabolic operons.md",
-    "BIOL2161/Week 5/BIOL2161 24.03.2026.md",
     "attachments/Pasted image 20260502172829.png",
     "attachments/Pasted image 20260502171840.png",
     "attachments/Pasted image 20260502170234.png",
