@@ -187,14 +187,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-05-03 20.06.52.excalidraw.md"
+                "file": "Excalidraw/MATH1013 assignment 4.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-03 20.06.52.excalidraw"
+              "title": "MATH1013 assignment 4"
+            }
+          },
+          {
+            "id": "f3be98c32f21c26a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/MATH1005 workshop week 9.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "MATH1005 workshop week 9.excalidraw"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -226,7 +238,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "password",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -382,9 +394,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c8f8cd0a485dd70",
+  "active": "f3be98c32f21c26a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-05-03 20.06.52.excalidraw.md",
+    "MATH1005/Week 7/set counting.md",
+    "Excalidraw/MATH1005 workshop week 9.excalidraw.md",
+    "Excalidraw/MATH1013 assignment 4.md",
+    "COMP1110/Week 1/COMP1110 27.02.2026.md",
+    "MATH1005/Week 8/Sample space.md",
     "BIOL2161/Week 5/Attenuation of TRP Operon.md",
     "attachments/Pasted image 20260503191002.png",
     "Untitled.base",
@@ -393,7 +409,6 @@
     "MATH1005/Week 8/Density function.md",
     "MATH1005/Week 8/Uniform density and distribution.md",
     "MATH1005/Week 8/Experiment.md",
-    "MATH1005/Week 8/Sample space.md",
     "MATH1005/Week 7/pigeonhole principle.md",
     "Base1.md",
     "Untitled.md",
@@ -418,9 +433,6 @@
     "attachments/Pasted image 20260503155221.png",
     "MATH1013/Calculus/Week 5/The closed interval method.md",
     "BIOL2161/Week 8/BIOL2161 29.04.2026.md",
-    "BIOL2161/Week 8/miRNA and siRNA.md",
-    "BIOL2161/Week 8/RNA interference.md",
-    "MATH1013/Linear algebra/Week 6/Standard Matrix.md",
     "Z_MATH help",
     "Untitled.canvas",
     "attachments/Ink/Drawing/2026.4.29 - 10.07am.drawing",

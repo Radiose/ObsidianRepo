@@ -1,4 +1,5 @@
 Sample space 
 The sample space of an experiment is the set of all possible outcomes of the [[Experiment]]. 
-An event is any [[subset]] of the sample space 
+An event is any [[subset]] of the sample space.
+
 ![[Probability of an event]]
