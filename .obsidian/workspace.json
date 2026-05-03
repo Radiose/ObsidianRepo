@@ -138,13 +138,52 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 8/Binomial theorem.md",
+                "file": "MATH1005/Week 8/Equal likelihood models.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Equal likelihood models"
+            }
+          },
+          {
+            "id": "d413f4d1b6db1746",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 8/Sample space.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Binomial theorem"
+              "title": "Sample space"
+            }
+          },
+          {
+            "id": "80ca80fcb103b61b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 8/The birthday problem.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "The birthday problem"
             }
           },
           {
@@ -238,7 +277,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -270,7 +309,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "30s complex",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -426,20 +465,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c46f91504ff28e3",
+  "active": "80ca80fcb103b61b",
   "lastOpenFiles": [
+    "MATH1005/Week 8/The birthday problem.md",
+    "MATH1005/Week 8/MATH1005 29.04.2026.md",
+    "MATH1005/Week 8/Probability of an event.md",
+    "MATH1005/Week 8/Sample space.md",
+    "MATH1005/Week 8/Probability rules.md",
+    "MATH1005/Week 8/Equal likelihood models.md",
+    "MATH1005/Week 8/permutation.md",
+    "MATH1005/Week 8/Binomial theorem.md",
     "MATH1005/Week 8/Tree diagram.md",
     "attachments/Pasted image 20260503170028.png",
     "attachments/Pasted image 20260503165915.png",
-    "MATH1005/Week 8/MATH1005 29.04.2026.md",
-    "MATH1005/Week 8/Binomial theorem.md",
     "MATH1005/Week 8/combination.md",
     "attachments/Pasted image 20260503164334.png",
     "MATH1005/Week 8/Pascals triangle.md",
     "attachments/Pasted image 20260503162152.png",
     "attachments/Pasted image 20260503161531.png",
-    "MATH1005/Week 8/Equal likelihood models.md",
-    "MATH1005/Week 8/Sample space.md",
     "MATH1005/Week 8/Experiment.md",
     "MATH1005/Week 8/Density function.md",
     "attachments/Pasted image 20260503160145.png",
@@ -448,7 +491,6 @@
     "attachments/Pasted image 20260503160001.png",
     "attachments/Pasted image 20260503155834.png",
     "attachments/Pasted image 20260503155221.png",
-    "MATH1005/Week 8/Probability rules.md",
     "MATH1013/Calculus/Week 5/The closed interval method.md",
     "BIOL2161/Week 8/BIOL2161 29.04.2026.md",
     "BIOL2161/Week 8/miRNA and siRNA.md",
@@ -460,8 +502,6 @@
     "COMP1110/Week 6/Setter and getter methods.md",
     "BIOL2161/Week 8/Transcription factor.md",
     "BIOL2161/Week 8/Topologically associating domain.md",
-    "MATH1005/Week 8/Relative frequencies.md",
-    "BIOL2161/Week 8/Promoter proximal pausing.md",
     "attachments/Pasted image 20260503154926.png",
     "Z_MATH help",
     "Untitled.canvas",
