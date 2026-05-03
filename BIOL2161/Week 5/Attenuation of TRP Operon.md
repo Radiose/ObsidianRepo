@@ -17,3 +17,4 @@ mRNA polymerase continues transcription, regions two and three cause hairpin, po
 When tryp is high, theres enough [[tRNA]]
 When region 3 is done, the region 2 will be covererd by the ribosome. Then, three and four create hairpin. Unlike 2 and 3, there is a string of uracils between 3 and 4 that will be able to terminate the transcription. 
 
+![[Pasted image 20260503191002.png]]
