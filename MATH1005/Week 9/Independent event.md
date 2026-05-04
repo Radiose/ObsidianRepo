@@ -13,4 +13,4 @@ $\mathbb{P}(G)\times P(A)=\frac{1}{4}$
 Thus, the first toss being heads is an independent even from the second toss being tails.
 
 
-The only way to prove that a [[Sample space]] is comprised of independent events, is 
+The only way to prove that two [[Random variable]]s are independent is to prove all entries are independent of each other. For example, to prove that height and grades are uncorrelated, youd have to test the 
