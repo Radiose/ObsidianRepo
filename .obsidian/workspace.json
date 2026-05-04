@@ -209,12 +209,15 @@
             "id": "49bc5ccea563c305",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/MATH1005 workshop week 9.excalidraw.md"
+                "file": "MATH1013/Calculus/Week 5/The closed interval method.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MATH1005 workshop week 9.excalidraw"
+              "icon": "lucide-file",
+              "title": "The closed interval method"
             }
           },
           {
@@ -453,13 +456,14 @@
   },
   "active": "49bc5ccea563c305",
   "lastOpenFiles": [
+    "MATH1005/Week 7/MATH1005 20.04.2026.md",
+    "Excalidraw/MATH1005 workshop week 9.excalidraw.md",
     "BIOL2161/Week 9/BIOL2161 04.05.2026.md",
     "BIOL2161/Week 3/Telomere.md",
     "BIOL2161/Week 9/Epigenetic.md",
     "BIOL2161/Week 9/DNA methylation.md",
     "BIOL2161/Week 9/Chromatin remodelling.md",
     "BIOL2161/Week 8/miRNA and siRNA.md",
-    "Excalidraw/MATH1005 workshop week 9.excalidraw.md",
     "MATH1005/Week 7/set counting.md",
     "Excalidraw/MATH1013 assignment 4.md",
     "COMP1110/Week 1/COMP1110 27.02.2026.md",
@@ -480,7 +484,6 @@
     "MATH1005/Week 8/MATH1005 29.04.2026.md",
     "MATH1005/Week 8/Probability of an event.md",
     "MATH1005/Week 8/Equal likelihood models.md",
-    "MATH1005/Week 8/permutation.md",
     "attachments/Pasted image 20260503170028.png",
     "attachments/Pasted image 20260503165915.png",
     "attachments/Pasted image 20260503164334.png",
