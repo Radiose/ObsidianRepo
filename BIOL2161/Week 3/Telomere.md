@@ -12,7 +12,7 @@ Telomeres extend for 100-1000s of bps, depending on the species.
 
 Unlike in regular [[DNA replication]], telomeres are not replicated perfectly. In somatic cells, without telomerase, telomeres shorten every cell division leading to aging. 
 
-
+Telomeres contain constitutive heterochromatin. 
 
 
 ![[Telomerase]]
