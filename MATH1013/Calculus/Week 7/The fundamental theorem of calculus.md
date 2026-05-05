@@ -17,6 +17,8 @@ Because of this, g(x) can be interpreted as the net area on $[a,x]$ between the 
 Remarks:
 This part of the FTC tells us that every [[function]] defined as an [[Definite integral|integral]] is differentiable, and that the derivative of that function is equal to the integrand. 
 
+
+
 ![[Applications of The fundamental theorem of calculus]]
 
 

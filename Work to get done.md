@@ -1,3 +1,0 @@
-1013 assignment + lots of practice
-1005 lecture  
-BIOL2161 eukaryote flashcards......
