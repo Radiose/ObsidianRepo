@@ -21,4 +21,27 @@ Using the [[Proof of all trigonometric identities|trig identity]] $\sin^2(\theta
 $\cos(\theta)=\frac{1}{\sqrt{ 1-x^2 }}$ (because $\sin(\theta)=x$)
 
 
-Cos
+# inverse of Cosine 
+Similar to how we defined restricted sin, we restrict cosine over the interval $Cos:[0,\pi] \to [-1,1]$ to get $\arccos:[-1,1] \to [0,\pi]$, where $\arccos(x)=\theta$
+
+Similarly to how the [[Derivative]] of arcsin was defined, we define the derivative of arccos as follows
+$\frac{d}{dx}\arccos(x)=-\frac{1}{\sqrt{ 1-x^2 }}$
+
+
+# Inverse of Tan 
+We restrict tan on the interval $\left[- \frac{\pi}{2} , \frac{\pi}{2}\right]$, with its codomain being $\mathbb{R}$
+Thus, we define $\arctan:\mathbb{R}\to\left[ -\frac{\pi}{2}, \frac{\pi}{2} \right]$ , with $\arctan(x)=\theta$
+
+Via the inverse function theorem ,$\frac{d}{dx}\arctan(x)=\frac{1}{\sec^2(\theta)}$
+Now getting it terms of x 
+$\sin^2+\cos^2=1$(using [[Proof of all trigonometric identities|trig identity]]s)
+$\iff \tan^2\theta+1=\sec^2(\theta)$
+$\iff x^2+1=\sec^2(\theta)$
+thus, $\frac{d}{dx}(\arctan(x))=\frac{1}{1+x^2}$
+
+
+
+# Use in [[Definite integral|integration]]
+The fact that the inverse trig functions have derivatives that take these forms mean that they are very useful in certain integration problems
+In particular if an integrand has the form 
+$\int$
