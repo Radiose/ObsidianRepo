@@ -68,6 +68,10 @@ if less than zero, no real solutions,
 greater, two solutions 
 equal, one solution 
 
+Getting derivative of substitution. $u = 5x$ $\frac{du}{dx}=5$. The pattern is that the substitute thing is divided by the type on the other side. 
+$x = \sin(\theta)$ then $\frac{dx}{d\theta}=\cos(\theta)$
+
+
 
 **Difficult questions to remember**
 ![[binding an integral]]
