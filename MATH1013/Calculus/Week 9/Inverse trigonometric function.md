@@ -106,6 +106,8 @@ $\frac{1}{2}x\times \sqrt{ 1-x^2 }+\frac{1}{2}\arcsin(x)+c$
 
 
 $\int \sqrt{ 16-9x^2 }\ \ dx$
+
+
 In order to effectively substitute using inverse trig functions, we must first get the integrand into the form $\sqrt{ a^2 -x^2}$
 $\int 3 \sqrt{ \frac{16}{9}-x^2 } \ dx$
 $3 \int \sqrt{ \frac{16}{9}-x^2 }$
@@ -113,19 +115,26 @@ $a^2 = \frac{16}{9} \iff a = \frac{4}{3}$
 $x = \frac{4}{3}\sin(\theta)$
 $\frac{dx}{d\theta}=\frac{4}{3}\cos \theta \iff dx = \frac{4}{3}\cos \theta \times d\theta$
 $\sin \theta=\frac{3x}{4}$
-$\iff \arcsin\left( \frac{4}{3}x\right)=\theta$
+$\iff \arcsin\left( \frac{3}{4}x\right)=\theta$
 We can substitute this back into the original integrand (reduced no longer serves its purpose)
 $\int \sqrt{ 16-9x^2 } \iff \int \sqrt{ 16-9 \times \frac{16}{9}\sin^2(\theta) } \iff \int \sqrt{  16-16\sin^2\theta}$ 
 $\iff \int \sqrt{ 16(1-\sin^2\theta) }\iff 4\int \sqrt{ 1-\sin^2\theta }$
 $\iff 4 \int \sqrt{ \cos^2 \theta }dx$
 $\iff {4} \int \cos(\theta) \frac{4}{3}\cos \theta d\theta$
 $\iff \frac{16}{3} \int{\cos ^2 \theta \ d\theta}$
+
 Hard parts done, now the easy part 
 $\cos^2\theta= \frac{1+\cos(2\theta)}{2}$
 $\frac{16}{3} \int \frac{1}{2} d\theta +\frac{1}{2} \int \cos 2 \theta d\theta$
 $\frac{16}{3}(\frac{1}{2}\theta+ \int \cos 2\theta d\theta)$
 $\frac{16}{3}(\frac{1}{2}(\theta+\sin (2\theta)))$
 Remember $\sin 2\theta =2\sin \theta \cos \theta$
-$\frac{16}{2}\left( \frac{1}{2}(\theta+2\sin \theta \cos \theta) \right)$
-Now we go all the way back to the top of the working out 
-$\frac{16}{2}\left( \frac{1}{2}\left( \theta+2\sin \arcsin\left( \frac{4}{3}x \right) \cos \arcsin\left( \frac{4}{3}x \right) \right) \right)$
+$\frac{16}{3}\left( \frac{1}{2}(\theta+2\sin \theta \cos \theta) \right)$
+Now we go all the way back to the top of the working out and substitute x.
+
+$\frac{16}{3}\left( \frac{1}{2}\left(\arcsin\left( \frac{3}{4}x \right) +\sin \arcsin\left( \frac{3}{4}x \right) \cos \arcsin\left( \frac{3}{4}x \right) \right) \right)$
+
+$\frac{16}{3} \left(\frac{1}{2} \arcsin\left( \frac{3}{4}x \right) +\frac{1}{2} \left( \frac{3}{4}x \right) \cos \arcsin\left( \frac{3}{4}x \right) \right)$
+
+$\frac{16}{6} \arcsin\left( \frac{3}{4}x \right) + \frac{16}{6} \left( \frac{3}{4}x \right) \cos \arcsin\left( \frac{3}{4}x \right) +c$
+
