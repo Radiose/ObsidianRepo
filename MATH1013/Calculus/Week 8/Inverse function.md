@@ -2,7 +2,8 @@ Inverse [[function]]
 A [[function]] has an inverse if and only if it is a [[Bijective|bijection]].
 
 ## MATH1013
-In this course, we treat functions as able to have inverses if and only if they are [[Injective Function|injective]].
+## Injectivity
+In this course, we treat functions as able to have inverses if they are [[Injective Function|injective]].
 We test for function injectivity by algebraically manipulating the definition of injection 
 Let F be a function $F:A \to B$
 $\forall x_{1},x_{2} \in A\ \  x_{1}\not=x_{2} \implies f(x_{1})\not=f(x_{2})$
@@ -38,3 +39,26 @@ An interesting feature of inverse functions is that they appear as a reflection 
 	"aspectRatio": 1
 }
 ```
+## [[surjective function|surjective]] functions
+The requirement of surjective functions to create an inverse is also important.  We can make a function [[Bijective]] via restricting both the **domain** of the function, and as a result, the **codomain** of the function to ensure the range is the same as the codomain. 
+
+
+# Properties of [[Inverse function]]s
+As is standard, the [[composition of Functions|composition]] of a function and its inverse results in the identity function. 
+That is, $f^{-1}(f(x))= f(f^{-1}(x))=x$
+
+Perhaps the most important property is that if $y = f(x), \text{then} f^{-1}(y)=x)$
+
+
+Another important set of properties is that [[continuous function|continuous]]ness and differentiability are conserved across inverse functions. If a function is continuous and/or differentiable, its inverse will be as well.
+
+### [[Derivative]] of inverse function
+$f^{-1}(f(x))=x$
+$\iff \frac{d}{dx} f^{-1}(f(x))=\frac{d}{dx}x$
+$\iff (f^{-1})' (f(x)) \times f'(x)=1$
+$\iff (f^{-1})'f(x)=\frac{1}{f(x)'}$
+$\iff (f^{-1})'(y)=\frac{1}{f'(f^{-1}(y))}$
+Thus the final [[theorem]]
+$f^{-1}(a)=\frac{1}{f'(f^{-1}(a))}$
+This theorem tell us that inverse function is differentiable at a, and tells you the value. 
+

@@ -1,3 +1,7 @@
+---
+aliases:
+  - trig identity
+---
 Proof that $\sin(90+\theta) = \cos(\theta)$ and $\cos(90+\theta) = -\sin(\theta)$
 
 ```handdrawn-ink

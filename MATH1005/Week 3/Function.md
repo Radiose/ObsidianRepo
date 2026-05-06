@@ -35,4 +35,4 @@ $R((a,b)) = R(a,b)$
 
 ![[Injective Function]]
 
-![[surjective function]]![[Bijective Function]]
+![[surjective function]]![[Bijective|bijection]]

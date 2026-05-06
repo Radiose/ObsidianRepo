@@ -1,6 +1,3 @@
----
-{}
----
 relation
 let A,B be non empty [[set]]s. Any [[subset]] of AxB is called a relation from A to B. A relation from A to A is called a relation on A. 
 A [[Cartesian product]]s subset is a relation
@@ -23,3 +20,19 @@ Therefore, we have defined a relation < on $\mathbb{Z}$
 
 
 ![[inverse relation]]
+
+# properties of relations 
+
+![[reflexive relation]]
+![[symmetric relation]]
+![[transitive relation]]
+
+
+![[equivalence relation]]
+
+
+let s be a set, and let ~ a relation on S. 
+![[antisymmetric relation]]
+![[Partial order]]
+![[comparable]]
+![[Total order]]
