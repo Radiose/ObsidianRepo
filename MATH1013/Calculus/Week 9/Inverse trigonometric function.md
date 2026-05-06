@@ -42,6 +42,46 @@ thus, $\frac{d}{dx}(\arctan(x))=\frac{1}{1+x^2}$
 
 
 # Use in [[Definite integral|integration]]
-The fact that the inverse trig functions have derivatives that take these forms mean that they are very useful in certain integration problems
-In particular if an integrand has the form 
-$\int$
+The fact that the inverse trig functions have derivatives that take these forms mean that they are very useful in certain integration problems. There are two main methods:
+## Direct [[Indefinite integral|antiderivative]]s
+
+$\int \frac{1}{\sqrt{ 1-x^2 }}dx$
+$\arcsin(x)+c$
+
+$\int \frac{1}{\sqrt{ 16-9x^2 }}$ - The goal is to algebraically manipulate this to get the integrand $\frac{1}{\sqrt{  1-x^2}}$
+
+$\int \frac{1}{16\left( 1-\frac{9}{16}x^2 \right)}$
+$\frac{1}{4}\int \frac{1}{\sqrt{ 1-\frac{9x^2}{16} }}$
+$\frac{1}{4} \int \frac{1}{\sqrt{ 1-\left( \frac{3x}{4} \right)^2 }}$
+Using U substitution
+$u = \frac{3}{4}x$
+$\frac{du}{dx}=\frac{3}{4}$
+$dx=\frac{4}{3}du$
+$\frac{1}{4} \int \frac{1}{\sqrt{ 1-u^2 }} \frac{4}{3}du$
+$\frac{1}{3} \int \frac{1}{ 1- u^2} du$
+$\frac{1}{3}\arcsin(u)+c$
+$\frac{1}{3}\arcsin\left( \frac{4x}{3} \right)+c$
+
+Without a fraction 
+$\int \sqrt{ 1-x^2 }$
+Let $x = \sin \theta$, where $\theta \in [-\frac{\pi}{2}, \frac{\pi}{2}]$
+$\frac{dx}{d\theta}=\cos(\theta)$
+$\cos \theta \times d\theta=\cos(x)$
+$\int \sqrt{ 1-x^2 } = \int \sqrt{ 1-\sin^2 \theta } = \int \sqrt{ \cos^2\theta }dx$
+$\int \sqrt{ \cos^2\theta }\cos \theta \times d\theta$
+$\int \cos^2\theta d\theta$
+
+Oh you thought we were done?
+by the trig identity $\cos^2\theta=\frac{1+\cos(2\theta)}{2}$
+
+$\int \frac{1}{2}+ \frac{1}{2}\int \cos(2\theta)d\theta$
+$\frac{1}{2}\left[ \frac{1}{2}\sin(2\theta) +\theta+c\right]$
+$\frac{1}{4}\sin \theta + \frac{\theta}{2}+c$
+using double angle [[Proof of all trigonometric identities|trig identity]]($\sin (2\theta)=\sin \theta \cos \theta+\sin \theta \cos \theta$)
+$\frac{1}{2}\sin \theta \cos \theta+\frac{1}{2}\theta+c$
+
+
+
+Inverse trig substitution
+$\int \sqrt{ a^2-x^2 }$
+$$
