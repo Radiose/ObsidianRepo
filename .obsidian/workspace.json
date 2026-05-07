@@ -73,197 +73,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 9/Markov process.md",
+                "file": "BIOL2161/Week 9/BIOL2161 04.05.2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Markov process"
+              "title": "BIOL2161 04.05.2026"
             }
           },
           {
-            "id": "1f4e3a7663ded245",
+            "id": "91a8c87267805c8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 9/Steady state vector.md",
+                "file": "BIOL2161/Week 7/BIOL2161 20.04.2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Steady state vector"
+              "title": "BIOL2161 20.04.2026"
             }
           },
           {
-            "id": "8ff3a3f4feed0324",
+            "id": "1b33b5ab751b13a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 9/Transition diagram.md",
+                "file": "BIOL2161/Week 8/Topologically associating domain.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Transition diagram"
-            }
-          },
-          {
-            "id": "59a4668d91fb6abf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1005/Week 9/Markov process.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Markov process"
-            }
-          },
-          {
-            "id": "3ed7cd724b0e3467",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1005/Week 9/MATH1005 04.05.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "MATH1005 04.05.2026"
-            }
-          },
-          {
-            "id": "a12db5ebd31c674d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1005/Week 9/MATH1005 04.05.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "MATH1005 04.05.2026"
-            }
-          },
-          {
-            "id": "abd7f201b27ac8c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1005/Week 9/Conditional probability.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Conditional probability"
-            }
-          },
-          {
-            "id": "10ca5e6a9a62698e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1013/Calculus/Week 8/MATH1013 28.04.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "MATH1013 28.04.2026"
-            }
-          },
-          {
-            "id": "1e59943761af94ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1013/Calculus/Week 9/MATH1013 05.05.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "MATH1013 05.05.2026"
-            }
-          },
-          {
-            "id": "ba3b4038957192e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The fundamental theorem of calculus"
-            }
-          },
-          {
-            "id": "7ed9a05fdaf1eace",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 9/Epigenetic.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Epigenetic"
-            }
-          },
-          {
-            "id": "44189c985a95e8fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 9/DNA methylation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "DNA methylation"
-            }
-          },
-          {
-            "id": "cb871a29ed6d5cd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 9/Chromatin remodelling.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Chromatin remodelling"
+              "title": "Topologically associating domain"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -452,37 +302,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fd1563143a8aa25",
+  "active": "91a8c87267805c8e",
   "lastOpenFiles": [
-    "MATH1005/Week 9/MATH1005 05.05.2026.md",
-    "MATH1005/Week 9/Transition Matrix.md",
-    "MATH1005/Week 9/Markov process.md",
-    "MATH1005/Week 9/Steady state vector.md",
-    "MATH1005/Week 9/Transition diagram.md",
-    "attachments/Ink/Drawing/2026.5.7 - 10.55am.drawing",
-    "MATH1005/Week 9/MATH1005 04.05.2026.md",
-    "MATH1005/Week 1/theorem.md",
-    "MATH1013/Calculus/Week 9/Eulers number and the exponential.md",
+    "BIOL2161/Week 7/BIOL2161 22.04.2026.md",
+    "BIOL2161/Week 7/Initiation of transcription in Eukaryotic cells.md",
+    "BIOL2161/Week 8/Promoter proximal pausing.md",
+    "BIOL2161/Week 7/Enhancer and silencer sequence.md",
+    "BIOL2161/Week 8/Coregulators.md",
+    "BIOL2161/Week 7/Transcription of Eukaryotic cells.md",
+    "BIOL2161/Week 8/Topologically associating domain.md",
+    "BIOL2161/Week 8/Coordinated gene expression of eukaryotes..md",
+    "BIOL2161/Week 8/Transcription factor.md",
+    "BIOL2161/Week 4/Transcription.md",
+    "BIOL2161/Week 8/BIOL 2161 28.04.2026.md",
+    "BIOL2161/Week 9/Chromatin remodelling.md",
+    "BIOL2161/Week 9/DNA methylation.md",
+    "BIOL2161/Week 9/Epigenetic.md",
+    "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
     "MATH1013/Calculus/Week 9/MATH1013 05.05.2026.md",
-    "MATH1013/Calculus/Week 9/Natural logarithm.md",
-    "MATH1013/Calculus/Week 9/Inverse trigonometric function.md",
+    "MATH1013/Calculus/Week 8/MATH1013 28.04.2026.md",
+    "MATH1005/Week 9/Conditional probability.md",
+    "MATH1005/Week 9/MATH1005 04.05.2026.md",
+    "MATH1005/Week 9/Markov process.md",
+    "MATH1005/Week 9/Transition diagram.md",
+    "MATH1005/Week 9/Steady state vector.md",
+    "BIOL2161/Week 7/BIOL2161 20.04.2026.md",
+    "BIOL2161/Week 7/Spliceosome.md",
+    "BIOL2161/Week 7/BIOL2161 21.04.2026.md",
+    "BIOL2161 07.05.2026.md",
+    "attachments/Ink/Drawing/2026.5.7 - 10.55am.drawing",
     "attachments/Pasted image 20260506200103.png",
-    "Z_MATH help/math1013 math tricks.md",
-    "Z_MATH help/Proof of all trigonometric identities.md",
     "attachments/Ink/Drawing/2026.5.6 - 10.32am.drawing",
-    "MATH1005/Week 3/Partial order.md",
-    "MATH1005/Week 3/relation.md",
-    "MATH1005/Week 3/reflexive relation.md",
-    "MATH1005/Week 3/properties of relations.md",
-    "MATH1005/Week 3/MATH1005 10.02.2026.md",
-    "MATH1013/Calculus/Week 8/Inverse function.md",
-    "MATH1005/Week 6/Inverse matrix.md",
-    "MATH1005/Week 3/function.md",
-    "MATH1005/Week 3/Bijective Function.md",
-    "MATH1005/Week 3/Bijective.md",
-    "_ MAXIMISING MARKS.md",
-    "End of semester stuff.md",
-    "Math1005 things to learn about the nature of maths.md",
     "attachments/Pasted image 20260503191002.png",
     "Untitled.base",
     "attachments/Pasted image 20260503170028.png",
