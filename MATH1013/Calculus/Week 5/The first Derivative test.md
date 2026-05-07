@@ -12,3 +12,6 @@ if $f'$ is *positive* to the left of c, and *negative* to the right of c, then *
 if $f'$ is *negative* to the left of c, and *positive* to the right of c, then **f has a local minima at c**
 If $f'$ does not change sign at c, then f has neither a local minimum or maximum at c
 
+
+
+
