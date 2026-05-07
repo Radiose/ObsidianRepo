@@ -126,15 +126,23 @@ $\iff \frac{16}{3} \int{\cos ^2 \theta \ d\theta}$
 Hard parts done, now the easy part 
 $\cos^2\theta= \frac{1+\cos(2\theta)}{2}$
 $\frac{16}{3} \int \frac{1}{2} d\theta +\frac{1}{2} \int \cos 2 \theta d\theta$
-$\frac{16}{3}(\frac{1}{2}\theta+ \int \cos 2\theta d\theta)$
-$\frac{16}{3}(\frac{1}{2}(\theta+\sin (2\theta)))$
+$\frac{16}{3}\left( \frac{1}{2}\theta+ \frac{1}{2}\int \cos 2\theta d\theta \right)$
+u sub 
+$2\theta = u$
+$\frac{du}{d\theta}=2 \iff d\theta = \frac{du}{2}$
+
+$\frac{16}{3} \left(  \frac{1}{2}\theta + \frac{1}{2}\int \cos u \times \frac{du}{2}\right)$
+
+$\frac{16}{3} \left(  \frac{1}{2}\theta + \frac{1}{4} \sin 2\theta\right)$
+
+$\frac{16}{3}\left( \frac{1}{2}\left( \theta+ \frac{1}{2}\sin (2\theta) \right) \right)$ 
 Remember $\sin 2\theta =2\sin \theta \cos \theta$
-$\frac{16}{3}\left( \frac{1}{2}(\theta+2\sin \theta \cos \theta) \right)$
+$\frac{16}{6}\left(\theta+ \sin \theta \cos \theta\right)$
 Now we go all the way back to the top of the working out and substitute x.
 
-$\frac{16}{3}\left( \frac{1}{2}\left(\arcsin\left( \frac{3}{4}x \right) +\sin \arcsin\left( \frac{3}{4}x \right) \cos \arcsin\left( \frac{3}{4}x \right) \right) \right)$
+$\frac{16}{6}\left( \left(\arcsin\left( \frac{3}{4}x \right) + \sin \arcsin\left( \frac{3}{4}x \right) \cos \arcsin\left( \frac{3}{4}x \right) \right) \right)$
 
-$\frac{16}{3} \left(\frac{1}{2} \arcsin\left( \frac{3}{4}x \right) +\frac{1}{2} \left( \frac{3}{4}x \right) \cos \arcsin\left( \frac{3}{4}x \right) \right)$
+$\frac{16}{6} \left( \arcsin\left( \frac{3}{4}x \right) +  \left( \frac{3}{4}x \right) \cos \arcsin\left( \frac{3}{4}x \right) \right)$
 
 $\frac{16}{6} \arcsin\left( \frac{3}{4}x \right) + \frac{16}{6} \left( \frac{3}{4}x \right) \cos \arcsin\left( \frac{3}{4}x \right) +c$
 
