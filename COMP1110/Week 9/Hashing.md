@@ -19,7 +19,9 @@ Hashing with strings would get the [[Modular arithmetic|modulus]] of the hashcod
 
 The basics of hashing in java takes advantage of this. It uses an [[Array]] with a fixed size. Each element in the array contains a linked list. The [[Linked list]] entries contains an integer denoting its count, and the string that it is. Its a sort of nested data structure, an array of linked lists.
 
-Mutable keys: The key to a hash is the type of variable that you want to map to words. The key must NOT be [[Class mutability|mutable]]. You dont want the key to change when. 
+Mutable keys: The key to a hash is the type of variable that you want to map to words. The key must NOT be [[Class mutability|mutable]]. You dont want the key to change.
+
+Average complexity of a hash table, provided that you create enough pigeonholes, would be close to O(1).
 
 # GET CODE FOR HASHING WHEN RELEASED - MOST COMMON STRING
 
