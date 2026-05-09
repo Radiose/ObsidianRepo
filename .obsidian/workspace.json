@@ -235,7 +235,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "COME BACK",
+                "query": "transition mutation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -271,7 +271,8 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -392,7 +393,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad314dfd5411edc9",
+  "active": "e9433c2d2fbca9a5",
   "lastOpenFiles": [
     "BIOL2161/Week 7/Co transcriptional processing.md",
     "BIOL2161/Week 7/Prokaryotic gene structure.md",
