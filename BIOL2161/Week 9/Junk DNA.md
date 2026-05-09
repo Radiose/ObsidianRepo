@@ -1,0 +1,12 @@
+Junk DNA
+includes repetitive elements (ATATATATATATATATAT)
+Jumping genes - transposable elements (TEs)
+Molecular fossils - genes that have been lost over time that dont serve any purpose anymore. 
+
+An example: Chitinase genes. Humans have four of the five ancestral genes, all inactivated via evolution. Chitin is what exoskeletons of insects are made of, and these genes enabled ancestral organisms to eat insects. 
+
+Jumping gene example: 11% of DNA consists of repeats of variants of the Alu element. Most of the repeats of the Alu element is methylated and/or inaccessible in hetero[[Chromatin]].
+# Uses
+While most of JUNK DNA is thought to be useless, it actually has lots of uses in evolution, particularly in relation to [[homologous recombination]].
+
+The key point that is driven across many times in this course: Junk DNA is present mainly because there is no real harm for most organisms. If quick [[DNA replication|replication]] is necessary, eg [[Escherichia coli|E. coli]] multifork replication, then genomes will shrink.
