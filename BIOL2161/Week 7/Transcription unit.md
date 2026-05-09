@@ -15,9 +15,8 @@ requires
 
 There are two main types of transcription units in [[Eukaryotic cells]]
 
-Simple transcription units 
+### Simple transcription units 
 One transcription unit encodes for one pre [[mRNA]] which then is turned into a singular mature mRNA during processing 
 
-Complex transcription units 
-A singular pre mRNA can be spliced into multiple forms of mature [[mRNA]] 
-
+### Complex transcription units 
+A singular pre mRNA can be spliced into multiple forms of mature [[mRNA]]
