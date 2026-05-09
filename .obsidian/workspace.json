@@ -133,13 +133,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "End of sem checklist.md",
+                "file": "BIOL2161/Week 9/BIOL2161 05.05.2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "End of sem checklist"
+              "title": "BIOL2161 05.05.2026"
+            }
+          },
+          {
+            "id": "c7c94b101daf9829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Genome.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Genome"
             }
           },
           {
@@ -158,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -190,7 +205,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "COME BACK",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -347,11 +362,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc8af22f1369b108",
+  "active": "c7c94b101daf9829",
   "lastOpenFiles": [
+    "BIOL2161/Week 7/Genome structure.md",
+    "Genome.md",
+    "BIOL2161/Week 7/Gene.md",
+    "BIOL2161/Week 7/Genome size.md",
+    "BIOL2161/Week 9/BIOL2161 05.05.2026.md",
+    "BIOL2161/Week 9/Genome.md",
+    "BIOL2161/Week 9/DNA methylation.md",
+    "BIOL2161/Week 9/Epigenetic.md",
+    "BIOL2161/Week 8/miRNA and siRNA.md",
+    "BIOL2161/Week 9/BIOL2161 04.05.2026.md",
+    "BIOL2161/Week 8/BIOL 2161 28.04.2026.md",
+    "BIOL2161/Week 8/BIOL2161 29.04.2026.md",
+    "End of sem checklist.md",
     "BIOL2161/Week 4/Initiation of Transcription in prokaryote cells.md",
     "BIOL2161/Week 7/Initiation of transcription in Eukaryotic cells.md",
-    "End of sem checklist.md",
     "COMP1110/Week 9/Hashing.md",
     "MATH1005/Week 3/Injective Function.md",
     "MATH1013/Linear algebra/Week 8/Proving an Inverse matrix.md",
@@ -361,20 +388,8 @@
     "MATH1013/Calculus/Week 8/mean value theorem for integrals.md",
     "MATH1013/Calculus/Week 8/Integrating rates of change.md",
     "COMP1110/Week 9/COMP1110 08.05.2026.md",
-    "BIOL2161/Week 9/BIOL2161 07.05.2026.md",
     "MATH1013/Calculus/Week 5/Signs of powers in sketching.md",
     "MATH1013/Calculus/Week 5/MATH1013 24.03.2026.md",
-    "MATH1013/Calculus/Week 5/The first Derivative test.md",
-    "MATH1013/Calculus/Week 5/Sketching graphs.md",
-    "MATH1013/Calculus/Week 3/Derivative.md",
-    "MATH1013/Calculus/Week 3/Derivate rules.md",
-    "MATH1013/Calculus/Week 4/Implicit differentiation.md",
-    "MATH1013/Calculus/Week 4/Related rates.md",
-    "MATH1013/Calculus/Week 4/Linear approximation.md",
-    "MATH1013/Calculus/Week 4/Differentiable approximation.md",
-    "MATH1013/Calculus/Week 4/Extreme value theorem.md",
-    "MATH1013/Calculus/Week 6/Optimisation.md",
-    "MATH1013/Calculus/Week 6/Sequence definition of the Definite integral.md",
     "attachments/Ink/Drawing/2026.5.7 - 10.55am.drawing",
     "attachments/Pasted image 20260506200103.png",
     "attachments/Ink/Drawing/2026.5.6 - 10.32am.drawing",

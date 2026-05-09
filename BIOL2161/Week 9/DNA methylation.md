@@ -14,6 +14,6 @@ DNA methylation is always repressive. It will always block recruitment of [[Init
 
 
 
-[[RNA]] directed [[DNA methylation]]
+## [[RNA]] directed [[DNA methylation]]
 
 This is when the short [[miRNA and siRNA|siRNA]] end up in the nucleus and bind to [[DNA]]. When that occurs, it recruits certain [[DNA methylation]] enzymes. This has evolved because there are lots of viruses that insert themselves into our DNA and try to express a gene very highly. The methylation is a natural protection to prevent excessive gene expression. 

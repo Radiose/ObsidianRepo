@@ -21,7 +21,9 @@ The kids that in utero had their mothers starving. Thus, the babies developed a 
 
 
 ### inactivated x chromosome 
-In placental mammals: whether you have one or two x [[Chromosome]]s can lead to [[Epigenetic]] regulation of an x chromosome. *Xist* will shut down one of the chromosomes in organisms that have two x chromosomes, leading to appropriate levels of [[Gene]] expression. There is no favouring of the maternal or the paternal X [[Chromosome]]. The Tsix gene is complementary to the Xist gene, so the Tsix gene inactivates the Xist gene. Come back. 
+In placental mammals: whether you have one or two x [[Chromosome]]s can lead to [[Epigenetic]] regulation of an x chromosome. The T six gene is a gene on the x chromosome that is complementary to the Xist gene. Recall that double stranded RNA will be created by complementary RNA, making [[miRNA and siRNA|siRNA]]. Thus, the complete inactivation of one gene in the x chromosome is favouring the retained activation in the other chromosome. 
+
+*Xist* will shut down one of the chromosomes in organisms that have two x chromosomes, leading to appropriate levels of [[Gene]] expression. There is no favouring of the maternal or the paternal X [[Chromosome]]. The Tsix gene is complementary to the Xist gene, so the Tsix gene inactivates the Xist gene. 
 
 
 The lyon hypothesis:

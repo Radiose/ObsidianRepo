@@ -1,5 +1,6 @@
 Genome size
-Size of genomes are only loosely correlated with organism complexity.
+Genome size is measured as the haploid number of base pairs. Genome size is effectively larger in animals that sexually reproduce - gene variants from both parents - haploid, 
+Size of genomes are only loosely correlated with organism complexity. 
 
 One theory
 If you can regulate a few genes well, a smaller genome is sufficient. If you cannot however, then you need a separate gene for a separate task, and then genome size will increase. 
