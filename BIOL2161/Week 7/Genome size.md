@@ -18,3 +18,4 @@ However, most of [[DNA]] in [[Eukaryotic cells|eukaryote]]s is thought to be jun
 - pseudogenes (old genes that are no longer used in modern organisms)
 - spacers - the distance between genes is important so they need to spaced accordingly. 
 
+Note that some [[Eukaryotic cells|eukaryote]]s do have small genomes. For example, yeast has a small, compact eukaryotic [[Genome]]. 

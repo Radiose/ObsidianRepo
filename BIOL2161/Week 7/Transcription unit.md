@@ -20,3 +20,6 @@ One transcription unit encodes for one pre [[mRNA]] which then is turned into a 
 
 ### Complex transcription units 
 A singular pre mRNA can be spliced into multiple forms of mature [[mRNA]]
+This is ONLY present in [[Eukaryotic cells|eukaryote]]s.
+
+

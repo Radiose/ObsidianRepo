@@ -8,3 +8,14 @@ In [[Eukaryotic cells]], nucleus is membrane bound. Has multiple linear [[Chromo
 
 For example, the [[TRP Operon]] in bacteria has all genes together closely. In [[Eukaryotic cells|eukaryote]]s, they are spread over 4 different [[Chromosome]]s.
 Eukaryotic genes can be very similarly regulated to eukaryotes, but they dont need to be together. It also allows much more control over regulation, IE more of TRP1 than TRP 2, but no TRP 3. 
+
+
+
+In Eukaryotic cells, genome structure consists of lots and lots of [[Junk DNA]]. This is NOT the same as [[Introns and exons|intron]]s. 
+
+![[Pasted image 20260510112953.png]]
+
+Note that there are a few genes that contain introns, but the spacing between genes contains lots of non coding DNA. Recall that spacers are important though. 
+
+
+
