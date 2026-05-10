@@ -1,0 +1,1 @@
+This is a method of factorising [[Matrix|matrices]] into an upper triangular form and a lower triangular form. 

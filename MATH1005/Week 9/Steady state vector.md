@@ -8,5 +8,5 @@ $T \vec{v}=\vec{v}$
 $\iff T \vec{v}-\vec{v}=0$
 $\iff T \vec{v}-I \vec{v}=0$
 $\iff (T-I) \vec{v}=0$
-Use [[Row operations]] and gaussian elimination to solve.
+Use [[Row operation]] and gaussian elimination to solve.
 
