@@ -8,3 +8,5 @@ Gene loss is selected for in evolution. Smaller genomes allow faster cell duplic
 
 # [[Eukaryotic cells|eukaryote]]s
 Presence of introns will actually somewhat help an organism. The presence of introns give you the ability to produce multiple variations of protein, which aids in complexity. New genes can evolve via [[Exon shuffling]].
+
+Using [[Multigene family]]s allow for much faster genome evolution. Much faster to repurpose old genes rather evolve new ones from scratch

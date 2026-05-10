@@ -19,3 +19,5 @@ Note that there are a few genes that contain introns, but the spacing between ge
 
 
 
+
+About half the genes in the human genome consist of [[Multigene family]]s. So, half the genes look similar to one another. [[Transcription factor]]s are a great example, transporters as well. These make [[Multigene family]]s very important. [[Genome evolution]] 
