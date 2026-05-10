@@ -1,3 +1,7 @@
+---
+aliases:
+  - elementary matrices
+---
 Elementary [[Matrix]]
 The key idea surrounding an elementary [[Matrix]] is that *every* [[Row operation]] corresponds with an elementary matrix.
 
