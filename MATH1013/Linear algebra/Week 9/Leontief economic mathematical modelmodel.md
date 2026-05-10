@@ -15,10 +15,23 @@ we create a [[Transition Matrix]]
   A     M    S
 $\begin{bmatrix}0.0\ \   0.4\ \ 0.6 |A \\ \ \  0.6  \ \ 0.1 \ \ 0.2 |M\ \  \\0.4\ \ 0.5\ \ 0.2| S\end{bmatrix}$
 An important [[theorem]]:
-If the columns of C add up to 1, then $(I_{n}-C)\begin{pmatrix}x_{1} \\ x_{2} \\ x_{3}\end{pmatrix}$ is *not* invertible 
+If the columns of C add up to 1, then $(I_{n}-C)\begin{pmatrix}x_{1} \\ x_{2} \\ x_{3}\end{pmatrix}$ is *not* invertible. If ($I_{n}-c$) is not invertible, then there is no solution. Recall this from [[Proving an Inverse matrix]].
 # productive economic model  
 A productive model is where it requires less than one unit of total input(sum of column) to get a single unit of output. Suppose we have a productive economy, where every column sums to less than 1.
 
 $\begin{bmatrix}b_{a} \\ b_{m}  \\b_{s}\end{bmatrix} = \begin{bmatrix} x_{a}  \\ x_{m}  \\ x_{s}\end{bmatrix}- \begin{bmatrix}0.1\ \  0.2\ \ 0.3  \\ 0.3 \ \ 0.2\ \ 0.2  \\ 0.5 \ \ 0.3\ \ 0.1\end{bmatrix} \cdot \begin{bmatrix}x_{a}  \\  x_{m}  \\ x_{s}\end{bmatrix}$
 $\ \ \ \vec{b}\ \ \ \   =\ \ \ \ \ \ \ \  \vec{x} - \ \ \ \ \ \ \ \ \ \ c \ \ \ \ \ \ \ \ \ \ \times\ \ \ \ \ \ \ \ \ \vec{x}$     
 
+This equation above is finding the amount of output required for a certain surplus to be present. 
+$\vec{x}$ is what was produced, $C \vec{x}$ is how much of that output got consumed by production, thus $\vec{x}-C \vec{x}$ gives the output-input, or surplus ($\vec{b}$)
+
+Extending the [[theorem]]
+If all columns of a matrix C do not add up to 1, then $I_{n}-c$ is invertible, thus there exists a unique solution. 
+
+Using this:
+suppose we want to produced 60 000 dollars worth of surplus of manufacturing, and 30,000 dollars worth of surplus from services
+
+$\begin{bmatrix}30 \\ 60\end{bmatrix} = \begin{bmatrix} x_{a}  \\ x_{m}  \\ \end{bmatrix}- \begin{bmatrix}0.1\ \  0.2  \\ 0.5 \ \ 0.5\end{bmatrix} \cdot \begin{bmatrix}x_{a}  \\  x_{m}\end{bmatrix}$
+For this model, as long as $x_{a}$ and $x_{m}$ are not negative, we can say that there is a solution. There is not simple theorem we can use for this, as the columns are neither summing to 1 or less than 1, so the previous theorems do not apply. The only way to do this is to solve it. 
+$(\begin{bmatrix} 10 \\ 01\end{bmatrix}-\begin{bmatrix}0.1\ \  0.2  \\ 0.5 \ \ 0.5\end{bmatrix})\cdot \begin{bmatrix}x_{a} \\ x_{m}\end{bmatrix}=\begin{bmatrix}30  \\ 60\end{bmatrix}$
+Note that the first matrix is the [[Identity matrix]].
