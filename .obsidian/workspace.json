@@ -110,7 +110,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005 11.05.2026.md",
+                "file": "MATH1005/Week 10/MATH1005 11.05.2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -120,18 +120,78 @@
             }
           },
           {
-            "id": "cdc6f92ab9279df1",
+            "id": "0059e63ff8a48ea8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph.md",
+                "file": "MATH1005/Week 10/graph.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Graph"
+              "title": "graph"
+            }
+          },
+          {
+            "id": "cdc6f92ab9279df1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 10/MATH1005 11.05.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MATH1005 11.05.2026"
+            }
+          },
+          {
+            "id": "5c5642b366b82973",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 10/MATH1005 11.05.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MATH1005 11.05.2026"
+            }
+          },
+          {
+            "id": "4fd3e11389b67e34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 10/MATH1005 11.05.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MATH1005 11.05.2026"
+            }
+          },
+          {
+            "id": "37dcbf85546dc55f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 10/Simple graphs and digraphs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Simple graphs and digraphs"
             }
           },
           {
@@ -140,17 +200,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIOL2161/Week 8/Topologically associating domain.md",
+                "file": "MATH1005/Week 10/Simple graphs and digraphs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Topologically associating domain"
+              "title": "Simple graphs and digraphs"
+            }
+          },
+          {
+            "id": "eb4c62a6a4746ec5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 10/Simple graphs and digraphs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Simple graphs and digraphs"
+            }
+          },
+          {
+            "id": "3fb6b9965529d66d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -339,11 +424,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4347caef426c7c9a",
+  "active": "3fb6b9965529d66d",
   "lastOpenFiles": [
-    "Graph.md",
+    "MATH1005/Week 10/Simple graphs and digraphs.md",
+    "MATH1005/Week 10/Complete graph.md",
+    "MATH1005/Week 10/MATH1005 11.05.2026.md",
+    "MATH1005/Week 10/Cycle graph.md",
+    "attachments/Pasted image 20260511163029.png",
+    "BIOL2161/Week 8/Topologically associating domain.md",
+    "Untitled 3.md",
+    "attachments/Pasted image 20260511162750.png",
+    "MATH1005/Week 10/graph.md",
+    "MATH1005/Week 10/Directed graph.md",
+    "MATH1005/Week 10/Isomorphism.md",
+    "attachments/Pasted image 20260511155322.png",
+    "Untitled 2.md",
+    "MATH1005/Week 10/Adjacent vertices.md",
+    "attachments/Pasted image 20260511154729.png",
     "attachments/Pasted image 20260511153019.png",
-    "MATH1005 11.05.2026.md",
     "MATH1013/Linear algebra/Week 8/MATH1013 29.04.2026.md",
     "BIOL2161/Week 9/BIOL2161 06.05.2026.md",
     "BIOL2161/Week 9/Copy number variation.md",
@@ -356,17 +454,9 @@
     "BIOL2161/Week 9/BIOL2161 04.05.2026.md",
     "MATH1005/Week 9/MATH1005 05.05.2026.md",
     "MATH1013/Calculus/Week 9/MATH1013 05.05.2026.md",
-    "BIOL2161/Week 8/Topologically associating domain.md",
     "Genome evolution.md",
     "BIOL2161/Week 9/DNA fingerprinting.md",
     "Excalidraw/MATH1005 workshop week 10.excalidraw.md",
-    "BIOL2161/Week 10/BIOL2161 practical 2 strategy lecture.md",
-    "MATH1005/Week 9/Steady state vector.md",
-    "MATH1005/Week 9/Bayes theorem.md",
-    "MATH1005/Week 9/Markov process.md",
-    "MATH1005/Week 9/Transition Matrix.md",
-    "MATH1005/Week 8/MATH1005 29.04.2026.md",
-    "MATH1005/Week 9/Conditional probability.md",
     "attachments/Pasted image 20260510122930.png",
     "attachments/Pasted image 20260510122806.png",
     "attachments/Pasted image 20260510112953.png",
@@ -375,10 +465,6 @@
     "attachments/Ink/Drawing/2026.5.6 - 10.32am.drawing",
     "attachments/Pasted image 20260503191002.png",
     "Untitled.base",
-    "attachments/Pasted image 20260503170028.png",
-    "attachments/Pasted image 20260503165915.png",
-    "attachments/Pasted image 20260503164334.png",
-    "attachments/Pasted image 20260503162152.png",
     "Z_MATH help",
     "Untitled.canvas",
     "attachments/Ink/Drawing/2026.4.29 - 10.07am.drawing",
