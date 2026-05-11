@@ -8,261 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34a97d55f7f22e5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1013/Calculus/Week 9/MATH1013 05.05.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "MATH1013 05.05.2026"
-            }
-          },
-          {
-            "id": "c9a705a3a06f7517",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1013/Calculus/Week 9/MATH1013 05.05.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "MATH1013 05.05.2026"
-            }
-          },
-          {
-            "id": "c009409c3ba4d141",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1013/Calculus/Week 9/MATH1013 05.05.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "MATH1013 05.05.2026"
-            }
-          },
-          {
-            "id": "d93ae98820746de8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1005/Week 9/MATH1005 05.05.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "MATH1005 05.05.2026"
-            }
-          },
-          {
-            "id": "8fd1563143a8aa25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 9/BIOL2161 04.05.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "BIOL2161 04.05.2026"
-            }
-          },
-          {
-            "id": "91a8c87267805c8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1013/Calculus/Week 5/MATH1013 24.03.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "MATH1013 24.03.2026"
-            }
-          },
-          {
-            "id": "a54e0d111597335b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1013/Calculus/Week 5/Signs of powers in sketching.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Signs of powers in sketching"
-            }
-          },
-          {
-            "id": "b788a6cd877556a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP1110/Week 9/COMP1110 08.05.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "COMP1110 08.05.2026"
-            }
-          },
-          {
-            "id": "fc8af22f1369b108",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 9/BIOL2161 05.05.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "BIOL2161 05.05.2026"
-            }
-          },
-          {
-            "id": "c7c94b101daf9829",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 9/BIOL2161 05.05.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "BIOL2161 05.05.2026"
-            }
-          },
-          {
-            "id": "ad314dfd5411edc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 7/Exon shuffling.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Exon shuffling"
-            }
-          },
-          {
-            "id": "2ba44db8bfbe043c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 7/Introns and exons.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Introns and exons"
-            }
-          },
-          {
-            "id": "c7fe9e659ca5e0d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 9/BIOL2161 06.05.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "BIOL2161 06.05.2026"
-            }
-          },
-          {
-            "id": "4d395008ff4fb2f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 9/BIOL2161 06.05.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "BIOL2161 06.05.2026"
-            }
-          },
-          {
-            "id": "8d2d9f6b8a1762d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 9/Copy number variation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Copy number variation"
-            }
-          },
-          {
-            "id": "1ef843b5335763f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 9/BIOL2161 06.05.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "BIOL2161 06.05.2026"
-            }
-          },
-          {
-            "id": "103cf554512e24f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOL2161/Week 9/BIOL2161 06.05.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "BIOL2161 06.05.2026"
-            }
-          },
-          {
             "id": "a984e9bb6696e7ac",
             "type": "leaf",
             "state": {
@@ -360,33 +105,33 @@
             }
           },
           {
-            "id": "aab43288029cd92d",
+            "id": "4347caef426c7c9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIOL2161/Week 9/DNA fingerprinting.md",
+                "file": "MATH1005 11.05.2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "DNA fingerprinting"
+              "title": "MATH1005 11.05.2026"
             }
           },
           {
-            "id": "eb20b3afb2d39ad7",
+            "id": "cdc6f92ab9279df1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genome evolution.md",
+                "file": "Graph.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Genome evolution"
+              "title": "Graph"
             }
           },
           {
@@ -405,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -594,34 +339,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ade676b9b9a71a5",
+  "active": "4347caef426c7c9a",
   "lastOpenFiles": [
+    "Graph.md",
+    "attachments/Pasted image 20260511153019.png",
+    "MATH1005 11.05.2026.md",
+    "MATH1013/Linear algebra/Week 8/MATH1013 29.04.2026.md",
+    "BIOL2161/Week 9/BIOL2161 06.05.2026.md",
+    "BIOL2161/Week 9/Copy number variation.md",
+    "BIOL2161/Week 7/Introns and exons.md",
+    "BIOL2161/Week 7/Exon shuffling.md",
+    "BIOL2161/Week 9/BIOL2161 05.05.2026.md",
+    "COMP1110/Week 9/COMP1110 08.05.2026.md",
+    "MATH1013/Calculus/Week 5/Signs of powers in sketching.md",
+    "MATH1013/Calculus/Week 5/MATH1013 24.03.2026.md",
+    "BIOL2161/Week 9/BIOL2161 04.05.2026.md",
+    "MATH1005/Week 9/MATH1005 05.05.2026.md",
+    "MATH1013/Calculus/Week 9/MATH1013 05.05.2026.md",
+    "BIOL2161/Week 8/Topologically associating domain.md",
+    "Genome evolution.md",
+    "BIOL2161/Week 9/DNA fingerprinting.md",
     "Excalidraw/MATH1005 workshop week 10.excalidraw.md",
     "BIOL2161/Week 10/BIOL2161 practical 2 strategy lecture.md",
     "MATH1005/Week 9/Steady state vector.md",
     "MATH1005/Week 9/Bayes theorem.md",
-    "MATH1005/Week 9/MATH1005 05.05.2026.md",
     "MATH1005/Week 9/Markov process.md",
     "MATH1005/Week 9/Transition Matrix.md",
     "MATH1005/Week 8/MATH1005 29.04.2026.md",
     "MATH1005/Week 9/Conditional probability.md",
-    "MATH1013/Linear algebra/Week 9/MATH1013 06.05.2026.md",
-    "MATH1013/Linear algebra/Week 9/Leontief economic mathematical modelmodel.md",
-    "MATH1013/Linear algebra/Week 9/LU factorisation.md",
-    "MATH1013/Calculus/Week 1/mathematical model.md",
-    "CHEM1101/Week 1/Introductory lecture.md",
-    "MATH1013/Linear algebra/Week 9/elementary Matrix.md",
-    "MATH1013/Calculus/Week 3/very important limit.md",
-    "MATH1013/Linear algebra/Week 1/Row operation.md",
-    "MATH1013/Linear algebra/Week 8/MATH1013 29.04.2026.md",
-    "BIOL2161/Week 9/BIOL2161 05.05.2026.md",
-    "BIOL2161/Week 9/Epigenetic.md",
-    "BIOL2161/Week 9/Organelle DNA.md",
-    "BIOL2161/Week 9/BIOL2161 06.05.2026.md",
-    "BIOL2161/Week 9/DNA fingerprinting.md",
-    "BIOL2161/Week 9/Multigene family.md",
-    "Untitled 1.md",
-    "BIOL2161/Week 9/Tandemly repeated DNA.md",
     "attachments/Pasted image 20260510122930.png",
     "attachments/Pasted image 20260510122806.png",
     "attachments/Pasted image 20260510112953.png",
@@ -634,7 +379,6 @@
     "attachments/Pasted image 20260503165915.png",
     "attachments/Pasted image 20260503164334.png",
     "attachments/Pasted image 20260503162152.png",
-    "attachments/Pasted image 20260503161531.png",
     "Z_MATH help",
     "Untitled.canvas",
     "attachments/Ink/Drawing/2026.4.29 - 10.07am.drawing",
