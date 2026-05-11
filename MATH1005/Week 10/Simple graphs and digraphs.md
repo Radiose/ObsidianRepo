@@ -16,5 +16,4 @@ Some special simple graphs:
 
 ![[Complete graph]]
 
-Bipartite graph
-A bipartite [[graph]] is 
+![[Bipartite graph]]

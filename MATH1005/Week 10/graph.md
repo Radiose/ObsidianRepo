@@ -22,3 +22,14 @@ An edge is an incident on its edge points
 A vertex with no incident edges is isolated 
 A graph with no vertices is empty 
 The **order** of a graph G is the number of vertices in it. 
+
+
+
+## Degrees
+The degree of a vertex is the number of edges that incident on it. We can determine this by drawing a circle around it, and the number of intersections that are present determines the degree of it.
+### Degree of a graph
+$\sum_{v \in V(G)} deg(v)$ 
+![[Handshake theorem]]
+
+Corollary 
+In any [[graph]], there is an even number of vertices of odd degree .

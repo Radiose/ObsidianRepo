@@ -95,16 +95,6 @@
             }
           },
           {
-            "id": "6ade676b9b9a71a5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "4347caef426c7c9a",
             "type": "leaf",
             "state": {
@@ -117,6 +107,21 @@
               },
               "icon": "lucide-file",
               "title": "MATH1005 11.05.2026"
+            }
+          },
+          {
+            "id": "856f13af9f733238",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BlendED future of work and AI.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "BlendED future of work and AI"
             }
           },
           {
@@ -228,14 +233,49 @@
             "id": "3fb6b9965529d66d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 10/Simple graphs and digraphs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Simple graphs and digraphs"
+            }
+          },
+          {
+            "id": "9877cd620c700083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 10/MATH1005 11.05.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MATH1005 11.05.2026"
+            }
+          },
+          {
+            "id": "59742bf41096101c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 10/graph.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "graph"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -424,17 +464,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fb6b9965529d66d",
+  "active": "856f13af9f733238",
   "lastOpenFiles": [
+    "BIOL2161/Week 5/Translation in Eukaryotic cells.md",
+    "MATH1005/Week 10/MATH1005 11.05.2026.md",
+    "MATH1005/Week 10/Walk.md",
+    "MATH1005/Week 10/graph.md",
+    "MATH1005/Week 10/Handshake theorem.md",
+    "MATH1005/Week 10/subgraph.md",
+    "MATH1005/Week 10/Bipartite graph.md",
     "MATH1005/Week 10/Simple graphs and digraphs.md",
     "MATH1005/Week 10/Complete graph.md",
-    "MATH1005/Week 10/MATH1005 11.05.2026.md",
     "MATH1005/Week 10/Cycle graph.md",
     "attachments/Pasted image 20260511163029.png",
     "BIOL2161/Week 8/Topologically associating domain.md",
     "Untitled 3.md",
     "attachments/Pasted image 20260511162750.png",
-    "MATH1005/Week 10/graph.md",
     "MATH1005/Week 10/Directed graph.md",
     "MATH1005/Week 10/Isomorphism.md",
     "attachments/Pasted image 20260511155322.png",
@@ -452,11 +497,6 @@
     "MATH1013/Calculus/Week 5/Signs of powers in sketching.md",
     "MATH1013/Calculus/Week 5/MATH1013 24.03.2026.md",
     "BIOL2161/Week 9/BIOL2161 04.05.2026.md",
-    "MATH1005/Week 9/MATH1005 05.05.2026.md",
-    "MATH1013/Calculus/Week 9/MATH1013 05.05.2026.md",
-    "Genome evolution.md",
-    "BIOL2161/Week 9/DNA fingerprinting.md",
-    "Excalidraw/MATH1005 workshop week 10.excalidraw.md",
     "attachments/Pasted image 20260510122930.png",
     "attachments/Pasted image 20260510122806.png",
     "attachments/Pasted image 20260510112953.png",
