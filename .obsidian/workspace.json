@@ -353,12 +353,10 @@
             "id": "6ade676b9b9a71a5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/MATH1005 workshop week 10.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "MATH1005 workshop week 10.excalidraw"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -598,8 +596,8 @@
   },
   "active": "6ade676b9b9a71a5",
   "lastOpenFiles": [
-    "BIOL2161/Week 10/BIOL2161 practical 2 strategy lecture.md",
     "Excalidraw/MATH1005 workshop week 10.excalidraw.md",
+    "BIOL2161/Week 10/BIOL2161 practical 2 strategy lecture.md",
     "MATH1005/Week 9/Steady state vector.md",
     "MATH1005/Week 9/Bayes theorem.md",
     "MATH1005/Week 9/MATH1005 05.05.2026.md",
