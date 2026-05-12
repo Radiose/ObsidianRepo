@@ -367,7 +367,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "the discriminant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -526,8 +526,9 @@
   },
   "active": "0d79a9cdce107288",
   "lastOpenFiles": [
-    "MATH1013/Calculus/Week 10/MATH1013 12.05.2026.md",
     "MATH1013/Calculus/Week 10/Antiderivatives of rational functions.md",
+    "MATH1005/Week 3/Injective Function.md",
+    "MATH1013/Calculus/Week 10/MATH1013 12.05.2026.md",
     "MATH1013/Calculus/Week 10/L'Hopital's rule.md",
     "MATH1013/Calculus/Week 10/General logarithm.md",
     "MATH1013/Calculus/Week 10/General exponential function.md",
@@ -553,7 +554,6 @@
     "MATH1005/Week 10/Cycle graph.md",
     "attachments/Pasted image 20260511163029.png",
     "BIOL2161/Week 8/Topologically associating domain.md",
-    "Untitled 3.md",
     "attachments/Pasted image 20260511162750.png",
     "attachments/Pasted image 20260511155322.png",
     "attachments/Pasted image 20260511154729.png",
