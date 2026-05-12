@@ -28,9 +28,32 @@ There are four cases we shall deal with for decomposing a rational function $\fr
 This looks like 
 $\frac{x-3}{(x-1)(x-2)}$ = $\frac{A}{(x-1)}+\frac{B}{x-2}$
 
-
+To solve, create a large fraction containing both 
+$A(x-2)+B(x-1) = (x-3)$
+Find x's that zero out a factor, EG x = 2 
+$A(0)+B(2-1)=2-3$
+$\therefore B\times 1=-1$
+$\implies B = -1$
+and $x = 1$
+$A(1-2)+B(0)=(1-3)$
+$-A = -2$
+$A = 2$
 ## q(x) is a product of linear factors, some of which are repeated
 
-## q(x) contains irreducible quadratic factors, none of which are repeated
+This looks like 
+$\frac{x^2+2}{(x+4)^3}$ or $\frac{x^2+2}{(x-2)^2(x-1)}$
+these get turned into 
+$\frac{A}{(x+4)} + \frac{B}{(x+4)^2}+\frac{C}{(x+4)^3}$
+and 
+$\frac{A}{(x-1)} + \frac{B}{(x-2)} + \frac{C}{(x-2)^2}$
+
+You can solve this in a similar way. Youd end up with 
+$A(x-2)^2 +B(x-1)(x-2)+C(x-1) = x^2 +2$
 
 ## q(x) contains irreducible quadratic factors, none of which are repeated
+These look like $\frac{x^2+x}{(x-1)(x^2+9)} \to \frac{A}{x-1}+ \frac{Bx+C}{x^2+9}$
+and $\frac{x^3-2x+4}{(x^2+5)(x^2+x+1)} \to \frac{Ax+B}{x^2+5} + \frac{Cx + D}{x^2+x+1}$
+
+## q(x) contains irreducible quadratic factors, none of which are repeated
+Same as for linear factors 
+![[Pasted image 20260513081228.png]]
