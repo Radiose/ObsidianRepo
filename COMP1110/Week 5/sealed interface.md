@@ -6,7 +6,7 @@ Different to a [[non sealed interface]]
 A way to group several types together under a single type.
 This is an example of an **algebraic datatype**
 
-*Sealed* interfaces allow for grouping of *records* together. This is different to a [[Record]], as a record groups together under the AND [[logical connective]]. Sealed interfaces group together under the OR. 
+*Sealed* interfaces allow for grouping of *records* together. This is different to a [[Record]], as a record groups together under the AND connective. Sealed interfaces group together under the OR. 
 
 
 ```java
