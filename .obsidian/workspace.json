@@ -21,8 +21,69 @@
               "icon": "lucide-file",
               "title": "graph"
             }
+          },
+          {
+            "id": "547b1f7856c78a15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIOL2161/Week 10/BIOL2161 12.05.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "BIOL2161 12.05.2026"
+            }
+          },
+          {
+            "id": "b89d86b68371d701",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIOL2161/Week 10/Transposable elements.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Transposable elements"
+            }
+          },
+          {
+            "id": "963a7a648f0f01fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIOL2161/Week 10/Replication strand slippage.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Replication strand slippage"
+            }
+          },
+          {
+            "id": "e73f96a2ec2b8367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIOL2161/Week 10/Point mutation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Point mutation"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -54,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "the discriminant",
+                "query": "alu elements BIOL21",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -211,8 +273,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59742bf41096101c",
+  "active": "b89d86b68371d701",
   "lastOpenFiles": [
+    "BIOL2161/Week 10/BIOL2161 12.05.2026.md",
+    "BIOL2161/Week 7/BIOL2161 21.04.2026.md",
+    "BIOL2161/Week 10/Transposable elements.md",
+    "BIOL2161/Week 10/Point mutation.md",
+    "BIOL2161/Week 10/Replication strand slippage.md",
+    "attachments/Pasted image 20260513125843.png",
+    "BIOL2161/Week 1/mutation.md",
+    "BIOL2161/Week 3/DNA in cell organelles.md",
+    "MATH1005/Week 10/graph.md",
     "MATH1005/Week 10/MATH1005 11.05.2026.md",
     "MATH1005/Week 10/Simple graphs and digraphs.md",
     "MATH1005/Week 10/Tree.md",
@@ -231,14 +302,6 @@
     "MATH1005/Week 10/Circuit.md",
     "MATH1005/Week 10/Path.md",
     "MATH1005/Week 8/Tree diagram.md",
-    "MATH1005/Week 10/Hamilton Circuit.md",
-    "MATH1005/Week 10/Hamilton Path.md",
-    "MATH1005/Week 10/Euler Circuit.md",
-    "MATH1005/Week 10/Euler Path.md",
-    "MATH1005/Week 10/Cut vertex.md",
-    "MATH1005/Week 10/Bridge.md",
-    "MATH1005/Week 10/Component of a graph.md",
-    "MATH1005/Week 10/Directed walk.md",
     "attachments/Pasted image 20260513081228.png",
     "attachments/Pasted image 20260512175346.png",
     "attachments/Pasted image 20260511163029.png",
@@ -248,7 +311,6 @@
     "attachments/Pasted image 20260511153019.png",
     "attachments/Pasted image 20260510122930.png",
     "attachments/Pasted image 20260510122806.png",
-    "attachments/Pasted image 20260510112953.png",
     "attachments/Ink/Drawing/2026.5.7 - 10.55am.drawing",
     "attachments/Ink/Drawing/2026.5.6 - 10.32am.drawing",
     "Untitled.base",
