@@ -33,3 +33,4 @@ $\sum_{v \in V(G)} deg(v)$
 
 Corollary 
 In any [[graph]], there is an even number of vertices of odd degree .
+
