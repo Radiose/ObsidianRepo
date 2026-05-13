@@ -3,7 +3,7 @@
 ---
 abstract data type 
 
-An ADT is defined solely by the [[non sealed interface|interface]] of it. 
+An ADT is defined solely by its [[non sealed interface|interface]]. The implementation is irrelevant. 
 The generator class 
 ```java
 class Generator{
