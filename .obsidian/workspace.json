@@ -38,18 +38,78 @@
             }
           },
           {
-            "id": "b89d86b68371d701",
+            "id": "7384e1ba1ad45e18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIOL2161/Week 10/Transposable elements.md",
+                "file": "COMP1110/Week 6/abstract data type.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Transposable elements"
+              "title": "abstract data type"
+            }
+          },
+          {
+            "id": "b89d86b68371d701",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIOL2161/Week 10/Transposable element.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Transposable element"
+            }
+          },
+          {
+            "id": "ce5e5b96043f3c23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIOL2161/Week 10/Alu element.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Alu element"
+            }
+          },
+          {
+            "id": "e93b8a4872798ce5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIOL2161/Week 7/Genome size.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Genome size"
+            }
+          },
+          {
+            "id": "8bf100c5f9212292",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIOL2161/Week 7/pseudogene.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "pseudogene"
             }
           },
           {
@@ -115,7 +175,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alu elements BIOL21",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,8 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -273,11 +332,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b89d86b68371d701",
+  "active": "7384e1ba1ad45e18",
   "lastOpenFiles": [
+    "BIOL2161/Week 10/Onsen.md",
     "BIOL2161/Week 10/BIOL2161 12.05.2026.md",
+    "BIOL2161/Week 9/Genome evolution.md",
+    "BIOL2161/Week 7/Genome size.md",
+    "BIOL2161/Week 7/pseudogene.md",
+    "BIOL2161/Week 10/Transposable element.md",
+    "BIOL2161/Week 10/Alu element.md",
+    "BIOL2161/Week 10/selfish DNA.md",
+    "attachments/Pasted image 20260513133617.png",
+    "attachments/Pasted image 20260513133327.png",
     "BIOL2161/Week 7/BIOL2161 21.04.2026.md",
-    "BIOL2161/Week 10/Transposable elements.md",
     "BIOL2161/Week 10/Point mutation.md",
     "BIOL2161/Week 10/Replication strand slippage.md",
     "attachments/Pasted image 20260513125843.png",
@@ -296,12 +363,6 @@
     "Excalidraw/MATH1005 workshop week 10.excalidraw.md",
     "MATH1005/Week 9/Bayes theorem.md",
     "MATH1013/Linear algebra/Week 9/MATH1013 06.05.2026.md",
-    "MATH1013/Linear algebra/Week 8/MATH1013 29.04.2026.md",
-    "MATH1005/Week 2/subset.md",
-    "MATH1005/Week 10/Spanning Tree.md",
-    "MATH1005/Week 10/Circuit.md",
-    "MATH1005/Week 10/Path.md",
-    "MATH1005/Week 8/Tree diagram.md",
     "attachments/Pasted image 20260513081228.png",
     "attachments/Pasted image 20260512175346.png",
     "attachments/Pasted image 20260511163029.png",
@@ -309,8 +370,6 @@
     "attachments/Pasted image 20260511155322.png",
     "attachments/Pasted image 20260511154729.png",
     "attachments/Pasted image 20260511153019.png",
-    "attachments/Pasted image 20260510122930.png",
-    "attachments/Pasted image 20260510122806.png",
     "attachments/Ink/Drawing/2026.5.7 - 10.55am.drawing",
     "attachments/Ink/Drawing/2026.5.6 - 10.32am.drawing",
     "Untitled.base",
