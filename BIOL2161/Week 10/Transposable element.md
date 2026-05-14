@@ -37,3 +37,12 @@ We recognise, cut and reinsert the transposon
 DNA transposon have terminal inverted repeats, and a 9 bp flanking direct repeat. We have flanking direct repeats which are important for recognition by transposing proteins 
 The coding region minimally encodes a **transposase enzyme** but can also encode other proteins. Genes are carried along with the transposon. 
 ![[Pasted image 20260513133327.png]]
+
+
+
+
+# effects of retrotransposons
+Some changes we can get: 
+Insertion into an intron can provide new alternative splicing, where it includes the transposon. 
+Over time, a retrotransposons internal sequence will pick up other bits of genetic sequence. This is another way that lets them shuttle genetic material across the genome.  
+
