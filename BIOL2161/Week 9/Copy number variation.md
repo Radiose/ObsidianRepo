@@ -6,4 +6,9 @@ CNV's affecting genes have functional implications, so the presence of more than
 Another example - 
 
 ![[Tandemly repeated DNA]]
-Different types of mobile DNA elements account for 45% of the human genome. 
+Different types of mobile DNA elements account for 45% of the human genome.
+
+
+
+There is lots of copy number variation in all organisms 
+OUt of 849 people, 9000 CNV variations, with average length being 10,000 BP - this process is still ongoing
