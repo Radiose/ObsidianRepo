@@ -2,7 +2,7 @@
 aliases:
   - elementary matrices
 ---
-Elementary [[Matrix]]
+ Elementary [[Matrix]]
 The key idea surrounding an elementary [[Matrix]] is that *every* [[Row operation]] corresponds with an elementary matrix.
 
 The three key row operations can be expressed as elementary matrices. Note that for each of these, the row dimension is the only important dimension to creating an elementary matrix (ROW operation). 
