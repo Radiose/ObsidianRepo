@@ -6,6 +6,13 @@ The basis of the model is as follows:
 Suppose that for each sector, we know the total output for 1 year, and we know now this output maps to other areas of the economy. Let the total dollar value of a sector be called the *price* of that amount. 
 There exists equilibrium prices that can be assigned to the total outputs of the various sectors in such a way that the income of each sector exactly balances its expenses. 
 
+
+For this system, $C$, the matrix, denotes the consumption matrix. Its entry Its entry $c_{ij}$​ is the amount of sector $i$'s output required as input to produce *one unit* of sector $j$'s output.
+The augmented column, $b$, is what what is the leaves the system to consumers. The vector $\vec{x}$ is everything the system has to churn out so that b can leave it. 
+
+
+
+
 # closed economic model 
 Every column tells you *one* unit of output. Each entry in the column builds up to the total(all entries in a column sum to one).
 We set up a linear system as follows. 
