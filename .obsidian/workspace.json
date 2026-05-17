@@ -98,6 +98,21 @@
             }
           },
           {
+            "id": "183fd518a428ec12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1013/Linear algebra/Week 10/The determinant.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "The determinant"
+            }
+          },
+          {
             "id": "73bb6e4dfd229a4d",
             "type": "leaf",
             "state": {
@@ -233,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -422,10 +437,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11931c225a79cb31",
+  "active": "183fd518a428ec12",
   "lastOpenFiles": [
-    "MATH1013/Linear algebra/Week 10/homogenous coordinates.md",
+    "MATH1013/Linear algebra/Week 3/linearly independent.md",
+    "MATH1013/Linear algebra/Week 10/The determinant.md",
+    "attachments/Pasted image 20260517134550.png",
+    "attachments/Pasted image 20260517133226.png",
+    "attachments/Pasted image 20260517133041.png",
+    "attachments/Pasted image 20260517130555.png",
+    "attachments/Pasted image 20260517130416.png",
     "MATH1013/Linear algebra/Week 10/MATH1013 13.05.2026.md",
+    "MATH1013/Linear algebra/Week 10/homogenous coordinates.md",
     "MATH1013/Linear algebra/Week 9/Leontief economic model.md",
     "BIOL2161/Week 10/BIOL2161 practical 2 strategy lecture.md",
     "COMP1110/Week 10/graph interface.md",
@@ -448,18 +470,11 @@
     "BIOL2161/Week 8/BIOL 2161 28.04.2026.md",
     "BIOL2161/Week 7/BIOL2161 21.04.2026.md",
     "BIOL2161/Week 7/BIOL2161 20.04.2026.md",
-    "BIOL2161/Week 5/Attenuation of TRP Operon.md",
-    "Untitled 2.md",
     "attachments/Pasted image 20260514173120.png",
     "attachments/Pasted image 20260514172346.png",
     "attachments/Pasted image 20260514172257.png",
     "attachments/Pasted image 20260514164944.png",
     "attachments/Pasted image 20260514162041.png",
-    "attachments/Pasted image 20260514155448.png",
-    "attachments/Pasted image 20260513133617.png",
-    "attachments/Pasted image 20260513133327.png",
-    "attachments/Pasted image 20260513125843.png",
-    "attachments/Pasted image 20260513081228.png",
     "attachments/Ink/Drawing/2026.5.7 - 10.55am.drawing",
     "attachments/Ink/Drawing/2026.5.6 - 10.32am.drawing",
     "Untitled.base",
