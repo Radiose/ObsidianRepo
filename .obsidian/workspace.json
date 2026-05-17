@@ -98,6 +98,21 @@
             }
           },
           {
+            "id": "73bb6e4dfd229a4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1013/Linear algebra/Week 10/homogenous coordinates.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "homogenous coordinates"
+            }
+          },
+          {
             "id": "739a17e7148ee465",
             "type": "leaf",
             "state": {
@@ -407,10 +422,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f348cd9abe5857a6",
+  "active": "11931c225a79cb31",
   "lastOpenFiles": [
-    "MATH1013/Linear algebra/Week 9/Leontief economic model.md",
+    "MATH1013/Linear algebra/Week 10/homogenous coordinates.md",
     "MATH1013/Linear algebra/Week 10/MATH1013 13.05.2026.md",
+    "MATH1013/Linear algebra/Week 9/Leontief economic model.md",
     "BIOL2161/Week 10/BIOL2161 practical 2 strategy lecture.md",
     "COMP1110/Week 10/graph interface.md",
     "COMP1110/Week 10/COMP1110 12.05.2026.md",
@@ -434,7 +450,6 @@
     "BIOL2161/Week 7/BIOL2161 20.04.2026.md",
     "BIOL2161/Week 5/Attenuation of TRP Operon.md",
     "Untitled 2.md",
-    "BIOL2161/Week 10/Transposable element.md",
     "attachments/Pasted image 20260514173120.png",
     "attachments/Pasted image 20260514172346.png",
     "attachments/Pasted image 20260514172257.png",
