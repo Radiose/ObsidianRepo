@@ -83,15 +83,18 @@
             }
           },
           {
-            "id": "11931c225a79cb31",
+            "id": "dd5a7c9eeb591896",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/MATH1005 workshop week 11.excalidraw.md"
+                "file": "BIOL2161/Week 11/BIOL2161 18.05.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MATH1005 workshop week 11.excalidraw"
+              "icon": "lucide-file",
+              "title": "BIOL2161 18.05.2026"
             }
           },
           {
@@ -257,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -446,10 +449,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11931c225a79cb31",
+  "active": "183fd518a428ec12",
   "lastOpenFiles": [
-    "MATH1005/Week 10/graph.md",
+    "BIOL2161/Week 11/BIOL2161 18.05.2026.md",
     "Excalidraw/MATH1005 workshop week 11.excalidraw.md",
+    "MATH1005/Week 10/graph.md",
     "MATH1005/Week 10/Tree.md",
     "MATH1013/Linear algebra/Week 9/Leontief economic model.md",
     "End of sem checklist.md",
@@ -463,7 +467,6 @@
     "MATH1013/Linear algebra/Week 10/MATH1013 13.05.2026.md",
     "BIOL2161/Week 10/BIOL2161 practical 2 strategy lecture.md",
     "MATH1005/Week 10/Adjacent vertices.md",
-    "Untitled 1.md",
     "To Do list.md",
     "MATH1013/Linear algebra/Week 10/The determinant.md",
     "attachments/Pasted image 20260517143705.png",
