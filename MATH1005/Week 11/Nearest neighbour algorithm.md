@@ -1,6 +1,8 @@
 Nearest neighbour algorithm
 
 This is an attempt to solve the travelling salesman problem, IE, find the shortest [[Path]] that can visit n nodes. It should output a [[Hamilton Circuit]] of minimum possible weight. 
+We should input a [[weighted graph]]/[[Complete graph]] with n vertices
+
 The algorithm:
  1. Initialise L to the empty list, W to 0 and index i to 1
 2. Choose any vertex and append it to L as L(1).
