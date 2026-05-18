@@ -101,12 +101,15 @@
             "id": "183fd518a428ec12",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/MATH1005 workshop week 11.excalidraw.md"
+                "file": "MATH1005/Week 10/graph.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MATH1005 workshop week 11.excalidraw"
+              "icon": "lucide-file",
+              "title": "graph"
             }
           },
           {
@@ -451,8 +454,8 @@
   },
   "active": "183fd518a428ec12",
   "lastOpenFiles": [
-    "BIOL2161/Week 11/BIOL2161 18.05.2026.md",
     "Excalidraw/MATH1005 workshop week 11.excalidraw.md",
+    "BIOL2161/Week 11/BIOL2161 18.05.2026.md",
     "MATH1005/Week 10/graph.md",
     "MATH1005/Week 10/Tree.md",
     "MATH1013/Linear algebra/Week 9/Leontief economic model.md",
