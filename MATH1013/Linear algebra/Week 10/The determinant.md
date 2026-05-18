@@ -99,4 +99,4 @@ Find the area of a shape bound by a standard ellipse
 
 
 ![[Pasted image 20260517143705.png]]
-Basically, the magnitude of the ellipse times the unit circle gives the answer 
+Basically, the magnitude of the ellipse times the unit circle gives the answer. This is because the ellipse is symmetrical. 
