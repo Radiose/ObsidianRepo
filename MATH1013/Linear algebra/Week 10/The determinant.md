@@ -100,3 +100,30 @@ Find the area of a shape bound by a standard ellipse
 
 ![[Pasted image 20260517143705.png]]
 Basically, the magnitude of the ellipse times the unit circle gives the answer. This is because the ellipse is symmetrical. 
+
+
+
+# Three dimensions 
+Find the volume of a parallelepiped spanned by three vectors in $\mathbb{R}^3$
+Let vol($\vec{u},\vec{v},\vec{w}$) denote the oriented volume of the parallelepiped spanned by the three vectors 
+
+From the same intuition from 2d, vol($\vec{u},\vec{v},\vec{w}$) should satisfy 5 rules 
+1: vol($\vec{u_{1}}+\vec{u}_{2},\vec{v},\vec{w}$ = vol($\vec{u_{1}},\vec{v},\vec{w}$) + vol($\vec{u_{2}},\vec{v},\vec{w}$) and similarly for the other vectors 
+2: vol($\lambda\vec{u},\vec{v},\vec{w}$) = $\lambda$vol($\vec{u},\vec{v},\vec{w}$) for any $\lambda \in \mathbb{R}$, and similarly for the other two vectors
+3: Swapping any vectors should change the sign, so vol($\vec{u},\vec{v},\vec{w}$) = - vol($\vec{u},\vec{w},\vec{v}$)
+4: vol($\begin{bmatrix}1  \\ 0 \\ 0\end{bmatrix},\begin{bmatrix}0  \\ 1  \\ 0\end{bmatrix},\begin{bmatrix}0  \\ 0  \\ 1\end{bmatrix}$) should be 1, the unit cube 
+5vol($\vec{u},\vec{v},\vec{w}$) = 0  $\iff\{ \vec{u}, \vec{v}, \vec{w} \}$ is a linearly dependent set of vectors 
+
+Now we apply these rules ![[Pasted image 20260518165702.png]]
+![[Pasted image 20260518165728.png]]
+Remove linearly dependent sets 
+![[Pasted image 20260518165757.png]]
+
+![[Pasted image 20260518165833.png]]
+
+Now apply rules 2, 3 and 4 
+![[Pasted image 20260518165900.png]]
+
+This leaves us with the final equation 
+
+$\det \begin{bmatrix}a_{11} \ a_{12} \ a_{13}  \\ a_{21} \ a_{22} \ a_{23}  \\ a_{31} \ a_{32} \ a_{33}\end{bmatrix}$ = $a_{11}a_{22}a_{33}-a_{11}a_{23}a_{32}-a_{12}a_{21}a_{33}+a_{13}a_{21}a_{32}+a_{12}a_{23}a_{31}-a_{13}a_{22}a_{31}$

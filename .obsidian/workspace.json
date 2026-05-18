@@ -148,13 +148,88 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP1110/Week 11/Pathfinding algorithm.md",
+                "file": "MATH1005/Week 11/dijkstras algorithm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Pathfinding algorithm"
+              "title": "dijkstras algorithm"
+            }
+          },
+          {
+            "id": "a13a81c325b2de9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 11/MATH1005 18.05.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MATH1005 18.05.2026"
+            }
+          },
+          {
+            "id": "448ccbc11222a0e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 11/MATH1005 18.05.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MATH1005 18.05.2026"
+            }
+          },
+          {
+            "id": "5159a555217fef1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 11/MATH1005 18.05.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MATH1005 18.05.2026"
+            }
+          },
+          {
+            "id": "7ead057e79b4e331",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 11/greedy algorithm.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "greedy algorithm"
+            }
+          },
+          {
+            "id": "bcc251e93a84b458",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 11/Nearest neighbour algorithm.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Nearest neighbour algorithm"
             }
           },
           {
@@ -323,7 +398,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -512,13 +587,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f4e555b2f9f7a91",
+  "active": "bcc251e93a84b458",
   "lastOpenFiles": [
+    "MATH1005/Week 10/Hamilton Circuit.md",
+    "MATH1005/Week 11/Nearest neighbour algorithm.md",
+    "MATH1005/Week 11/greedy algorithm.md",
+    "MATH1005/Week 11/MATH1005 18.05.2026.md",
+    "MATH1005/Week 11/Minimal Spanning Tree.md",
+    "attachments/Pasted image 20260518171830.png",
+    "attachments/Pasted image 20260518171818.png",
+    "MATH1005/Week 10/Spanning Tree.md",
+    "MATH1005/Week 11/weighted graph.md",
+    "MATH1005/Week 11/dijkstras algorithm.md",
+    "MATH1013/Linear algebra/Week 10/MATH1013 13.05.2026.md",
     "MATH1013/Linear algebra/Week 10/The determinant.md",
+    "attachments/Pasted image 20260518165900.png",
+    "attachments/Pasted image 20260518165833.png",
+    "attachments/Pasted image 20260518165757.png",
+    "attachments/Pasted image 20260518165728.png",
+    "attachments/Pasted image 20260518165702.png",
+    "COMP1110/Week 11/Pathfinding algorithm.md",
+    "MATH1013/Linear algebra/Week 10/homogenous coordinates.md",
+    "MATH1005/Week 3/comparable.md",
     "Z_MATH help/MATH1005 midsem rundown.md",
     "Z_MATH help/Proof of all trigonometric identities.md",
-    "COMP1110/Week 11/Pathfinding algorithm.md",
-    "MATH1005/Week 11/dijkstras algorithm.md",
     "COMP1110/Week 11/COMP1110 15.05.2026.md",
     "COMP1110/Week 8/Java call stack and heap.md",
     "COMP1110/Week 10/graph interface.md",
@@ -530,26 +622,9 @@
     "MATH1013/Linear algebra/Week 9/Leontief economic model.md",
     "End of sem checklist.md",
     "MATH1005/Week 10/Bipartite graph.md",
-    "MATH1005/Week 10/Walk.md",
-    "MATH1005/Week 10/Connected graph.md",
-    "MATH1005/Week 10/Circuit.md",
-    "MATH1005/Week 10/Closed walk.md",
-    "MATH1005/Week 10/Path.md",
-    "MATH1005/Week 10/Simple graphs and digraphs.md",
-    "MATH1013/Linear algebra/Week 10/MATH1013 13.05.2026.md",
-    "BIOL2161/Week 10/BIOL2161 practical 2 strategy lecture.md",
-    "MATH1005/Week 10/Adjacent vertices.md",
-    "To Do list.md",
     "attachments/Pasted image 20260517143705.png",
     "attachments/Pasted image 20260517143303.png",
     "attachments/Pasted image 20260517135238.png",
-    "attachments/Pasted image 20260517135136.png",
-    "attachments/Pasted image 20260517135114.png",
-    "attachments/Pasted image 20260517134932.png",
-    "attachments/Pasted image 20260517134550.png",
-    "attachments/Pasted image 20260517133226.png",
-    "attachments/Pasted image 20260517133041.png",
-    "attachments/Pasted image 20260517130555.png",
     "attachments/Ink/Drawing/2026.5.7 - 10.55am.drawing",
     "attachments/Ink/Drawing/2026.5.6 - 10.32am.drawing",
     "Untitled.base",

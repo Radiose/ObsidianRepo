@@ -1,0 +1,2 @@
+weighted [[graph]]
+Sometimes we want to associate numbers to connections. These numbers we call weights. Weighted graphs is a graph G together with a weight [[function]] $E(G) \to \mathbb{Q}^+$. Some examples of uses of this include airline tickets, with cost being weights and fibre telecommunications.
