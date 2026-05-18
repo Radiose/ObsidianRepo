@@ -1,4 +1,4 @@
-26.5/38 points 
+**26**.5/38 points 
 1:
 b: A predicate is a sentence containing one or more variables which is not a
 statement, but the becomes a statement when each variable is assigned
