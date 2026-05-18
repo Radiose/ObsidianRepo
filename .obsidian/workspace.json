@@ -221,10 +221,15 @@
             "id": "bcc251e93a84b458",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 11/MATH1005 18.05.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MATH1005 18.05.2026"
             }
           },
           {
