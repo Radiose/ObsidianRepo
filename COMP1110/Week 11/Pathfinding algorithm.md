@@ -11,7 +11,7 @@ Importantly, a recursive function does not lend itself well to breadth first sea
 Note that to create a good [[Pathfinding algorithm]], often you need to use a [[set]] to track whats 'visited'. This prevents [[Cycle graph]]s forming. This isnt needed when working with [[Tree]]s. 
 
 
-Creating a pathfinding algorithm that works with weights is essentially just implementing [[dijkstras algorithm]]. This changes the set of untested vertices to be something called a **priority Queue**. A priority queue will order the elements by a particular convention dictated using a [[comparable]] relation definition. 
+Creating a pathfinding algorithm that works with weights is essentially just implementing [[dijkstra's algorithm]]. This changes the set of untested vertices to be something called a **priority Queue**. A priority queue will order the elements by a particular convention dictated using a [[comparable]] relation definition. 
 
 This can be done as shown below 
 ```java

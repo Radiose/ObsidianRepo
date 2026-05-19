@@ -100,7 +100,7 @@ public class AdjacencyMatrixGraph<V> implements Graph<V> {
     }
 }
 ```
-This implementation will utilise indices as a map between a vertex and a row/column, just like in a real [[Adjacent vertices|adjacent matrix]]. *Note, this implementation is for a [[directed graphs|digraph]].* If we use a regular [[graph]], we can store these values in half the size(symmetric matrix is useless)
+This implementation will utilise indices as a map between a vertex and a row/column, just like in a real [[Adjacent vertices|adjacent matrix]]. *Note, this implementation is for a [[directed graph|digraph]].* If we use a regular [[graph]], we can store these values in half the size(symmetric matrix is useless)
 You could make this labelled, for example contain things like airline ticket prices between vertices. Then you change the type of the array to `int`
 
 Size is a tracker to make sure it stays within the size of the array(100), and if it exceeds that, it will throw an [[Exception]]

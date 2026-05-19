@@ -1,7 +1,7 @@
-dijkstras algorithm
+Dijkstra's algorithm
 
 This is a solution to finding the shortest possible [[Path]] between two vertices. 
-The basics of the algorithm are that you utilise a [[Nearest neighbour algorithm]], but at each iteration, you keep track of the shortest distance to the vertex that you want. 
+The basics of the algorithm are that you utilize a [[Nearest neighbour algorithm]], but at each iteration, you keep track of the shortest distance to the vertex that you want. 
 Demonstrating:
 Below is a complete connected graph, we aim to find the shorted [[Path]] between vertices A and C
 ![[Pasted image 20260518180736.png]]
