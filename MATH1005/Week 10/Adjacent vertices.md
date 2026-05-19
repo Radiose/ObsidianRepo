@@ -2,6 +2,7 @@
 aliases:
   - adjacent matrices
   - adjacent matrix
+  - adjacency matrix
 ---
 Adjacent vertices 
 U,V are adjacent if $\{ u,v \} \in E(g)$. They are basically adjacent if they have an edge between them.
