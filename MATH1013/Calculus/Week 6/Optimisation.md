@@ -9,7 +9,7 @@ Steps are:
 Get the overall relation between desired quantity and other factors (volume = formula, heat  = formula etc)
 
 Write out the [[function]] in terms of a singular variable 
-	do this via finding some relationship. It could be described in 
+	do this via finding some relationship. 
 Then find local [[Maxima and minima|maxima or minima]] to find what you are looking for, using [[The first Derivative test]] and [[The Second Derivative test]]
 
 

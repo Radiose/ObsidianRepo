@@ -19,4 +19,4 @@ Thus we write the general solution as $y = y(0)e^Ce^{kt}$
 
 [[theorem]] from ODEs 
 The only solutions of $\frac{dy}{dt}=ky$ are the exponential functions: 
-$$
+$y = Ae^{kt}$ and $y = Ae^{-kt}$,
