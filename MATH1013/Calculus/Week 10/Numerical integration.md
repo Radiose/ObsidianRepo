@@ -11,3 +11,5 @@ Here are three methods of numerical integration
 ![[Midpoint rule]]
 
 ![[Trapezoidal rule]]
+
+![[Simpson's rule]]
