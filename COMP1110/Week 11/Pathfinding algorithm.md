@@ -1,6 +1,5 @@
 
-Depth first pathfinding algorithm 
-This is a [[Recursive backtracking]] algorithm goes all the way down the bottom of the [[Tree]] until it reaches a leaf, and then does the next leaf etc. [[Recursion]] naturally lends itself to depth first traversals.
+![[Depth first pathfinding algorithm]]
 
 
 There is also another form of depth first you can create where you use iterative processes. Utilising a [[Stack]] as the data type that contains the set of untested vertices, it is depth first. Using iterative algorithms that instead are a [[Queue]], it will be **breadth first**.
