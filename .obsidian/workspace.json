@@ -193,13 +193,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP1110/Week 11/dijkstra's algorithm in java.md",
+                "file": "COMP1110/Week 11/breadth first search.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "dijkstra's algorithm in java"
+              "title": "breadth first search"
             }
           },
           {
@@ -409,9 +409,9 @@
   },
   "active": "3a6a80cdc8eb4fef",
   "lastOpenFiles": [
+    "COMP1110/Week 11/dijkstra's algorithm in java.md",
     "COMP1110/Week 11/Pathfinding algorithm.md",
     "COMP1110/Week 11/COMP1110 15.05.2026.md",
-    "COMP1110/Week 11/dijkstra's algorithm in java.md",
     "MATH1005/Week 10/Path.md",
     "MATH1005/Week 11/dijkstra's algorithm.md",
     "COMP1110/Week 11/breadth first search.md",
