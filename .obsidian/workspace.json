@@ -163,13 +163,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIOL2161/Week 9/BIOL2161 04.05.2026.md",
+                "file": "MATH1013/Complex numbers/Complex number.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "BIOL2161 04.05.2026"
+              "title": "Complex number"
             }
           },
           {
@@ -379,11 +379,13 @@
   },
   "active": "1e69643de1579f95",
   "lastOpenFiles": [
+    "BIOL2161/Week 9/BIOL2161 04.05.2026.md",
+    "MATH1013/Complex numbers/Complex number.md",
+    "MATH1013/Complex numbers",
     "BIOL2161/Week 9/Chromatin remodelling.md",
     "BIOL2161/Week 11/BIOL2161 18.05.2026.md",
     "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
     "COMP1110/Week 11/Pathfinding algorithm.md",
-    "BIOL2161/Week 9/BIOL2161 04.05.2026.md",
     "BIOL2161/Week 9/DNA methylation.md",
     "COMP1110/Week 11/Depth first search.md",
     "MATH1005/Week 11/dijkstra's algorithm.md",
@@ -411,7 +413,6 @@
     "COMP1110/Week 11/COMP1110 15.05.2026.md",
     "MATH1005/Week 11/dijkstras algorithm.md",
     "MATH1005/Week 11/MATH1005 18.05.2026.md",
-    "MATH1013/Calculus/Week 10/Numerical integration.md",
     "attachments/Pasted Image 20260518201708_328.png",
     "attachments/Pasted image 20260518181647.png",
     "attachments/Pasted image 20260518181551.png",
@@ -424,7 +425,6 @@
     "Untitled.canvas",
     "attachments/Ink/Drawing/2026.4.29 - 10.07am.drawing",
     "attachments/Ink/Drawing/2026.4.28 - 19.32pm.drawing",
-    "attachments/Ink/Drawing/2026.4.28 - 19.31pm.drawing",
-    "attachments/Ink/Drawing/2026.4.28 - 18.02pm.drawing"
+    "attachments/Ink/Drawing/2026.4.28 - 19.31pm.drawing"
   ]
 }
