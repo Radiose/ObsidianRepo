@@ -25,3 +25,6 @@ Again, and lock in B
 ![[Pasted image 20260518181647.png]]
 
 We are now left with the final path. We can trace it backwards. C to B to E to D to A via the labels. 
+
+
+![[dijkstra's algorithm in java]]
