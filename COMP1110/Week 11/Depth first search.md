@@ -53,4 +53,6 @@ List<Airport> routeDFS(Airport from, Airport to, Graph<Airport> routes) {
 }
 ```
 Note that `LiamsStack` is an explicit stack. 
-The basics of this algorithm is that `frontier` is all routes that we *havent* tried yet
+The basics of this algorithm is that `frontier` is all routes that we *havent* tried yet.
+
+While frontiers not empty, first check that the top of frontier isnt the destination we want. Then, go through all airports connected to the top of frontier, if we havent already visited it, then add its route to get there and itself onto frontier. This way frontier is all adjacent nodes to the recent node we processed. 
