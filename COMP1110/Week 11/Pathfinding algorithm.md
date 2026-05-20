@@ -1,5 +1,5 @@
 
-![[Depth first pathfinding algorithm]]
+![[Depth first search]]
 
 
 There is also another form of depth first you can create where you use iterative processes. Utilising a [[Stack]] as the data type that contains the set of untested vertices, it is depth first. Using iterative algorithms that instead are a [[Queue]], it will be **breadth first**.

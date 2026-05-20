@@ -148,13 +148,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP1110/Week 11/Depth first pathfinding algorithm.md",
+                "file": "COMP1110/Week 11/Depth first search.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Depth first pathfinding algorithm"
+              "title": "Depth first search"
             }
           },
           {
@@ -361,7 +361,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -376,10 +377,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f348cd9abe5857a6",
+  "active": "f5c6914d50de5796",
   "lastOpenFiles": [
     "COMP1110/Week 11/Pathfinding algorithm.md",
-    "COMP1110/Week 11/Depth first pathfinding algorithm.md",
+    "MATH1005/Week 11/dijkstra's algorithm.md",
+    "COMP1110/Week 11/Depth first search.md",
     "Excalidraw/MATH1013 assignment 5.excalidraw.md",
     "attachments/Pasted Image 20260520101430_146.png",
     "attachments/Pasted Image 20260520101400_970.png",
@@ -410,7 +412,6 @@
     "BIOL2161/Week 10/Replication strand slippage.md",
     "BIOL2161/Week 7/pseudogene.md",
     "BIOL2161/Week 7/Genome size.md",
-    "BIOL2161/Week 10/Alu element.md",
     "attachments/Pasted Image 20260518201708_328.png",
     "attachments/Pasted image 20260518181647.png",
     "attachments/Pasted image 20260518181551.png",
