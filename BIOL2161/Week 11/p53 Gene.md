@@ -49,4 +49,21 @@ ATM/R start phosphorylation on both MDM2 and p53. This produces a conformational
 p53 then creates a tetramer (four subunits) and from there binds to the DNA. It acts as a TF and enhancers tumour suppressant genes. 
 
 
-# Stress signals that p53 can respond to
+## Stress signals that p53 can respond to
+
+DNA damage is a good example of an intrinsic signal, but there are many extrinsic signals, such as response to TNF$\alpha$ (tumour necrosis factor alpha)
+TNF$\alpha$ is a secreted extracellular signalling protein that is secreted by activated immune cells 
+This is an organism response to cancer from immune cells. They detect the cancer and tell the cells around to die.  TNF response is a good example of a method surrounding how a cell can respond to external stress signals, even when by itself it hasnt detected any internal damage. 
+
+## TNF pathway  
+TNF alpha binds to the receptor and sends a signal to the p38 kinase. It phosphorylates p53 and the same action of binding to DNA is done. 
+
+
+## Specialised forms of p53
+[[Alternative splicing]] is the method that eukaryotes use to create different variants of p53 
+
+This is necessary for a few reasons: 
+The role of isoforms created through [[Alternative splicing]] is to modulate the character of the response. When things go bad, immediate response is needed. This is why base p53 is always present and degraded continuously by mdm2. Once response has started and cell cycle has been halted, the cell can tailor its p53 forms more carefully. 
+
+## Therapies for cancer using p53
+![[Pasted image 20260521132243.png]]
