@@ -283,13 +283,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP1110/Week 11/Inheritance.md",
+                "file": "COMP1110/Week 11/Liskov Substitution principle.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Inheritance"
+              "title": "Liskov Substitution principle"
+            }
+          },
+          {
+            "id": "5e1c7018df57c99f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP1110/Week 11/Liskov Substitution principle.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Liskov Substitution principle"
             }
           }
         ],
@@ -485,6 +500,9 @@
   "active": "562ad067e85dbd43",
   "lastOpenFiles": [
     "COMP1110/Week 11/COMP1110 21.04.2026.md",
+    "BIOL2161/Week 7/C value.md",
+    "COMP1110/Week 11/Liskov Substitution principle.md",
+    "BIOL2161/Week 2/DNA polymerase III.md",
     "COMP1110/Week 11/Inheritance.md",
     "BIOL2161/Week 11/p53 Gene.md",
     "attachments/Pasted image 20260521132243.png",
@@ -511,11 +529,8 @@
     "attachments/Pasted Image 20260520101430_146.png",
     "attachments/Pasted Image 20260520101400_970.png",
     "Excalidraw/MATH1005 workshop week 11.excalidraw.md",
-    "To Do list.md",
-    "MATH1013/Calculus/Week 11/volumes of shapes via integration.md",
     "attachments/Ink/Drawing/2026.5.19 - 15.56pm.drawing",
     "attachments/Ink/Drawing/2026.5.19 - 15.54pm.drawing",
-    "MATH1013/Calculus/Week 11/MATH1013 19.05.2026.md",
     "attachments/Pasted image 20260519152443.png",
     "attachments/Pasted image 20260519152439.png",
     "attachments/Pasted image 20260519152232.png",
