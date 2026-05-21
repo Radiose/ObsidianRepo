@@ -19,3 +19,7 @@ If A is a subtype of B
 
 ## Importance
 This is very important, often debugging becomes much harder because all code can be working perfectly, but weird behaviour occurs and it becomes difficult to locate why.
+
+Subtyping is also a [[transitive relation]]. If a is a subtype of b, and b is a subtype of c, then a is a subtype of c. 
+
+the most convenient superclass for code reuse is not always the correct one for behaviour subtyping
