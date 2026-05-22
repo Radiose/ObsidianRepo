@@ -65,7 +65,7 @@ $\frac{1}{4} \int \frac{1}{\sqrt{ 1-u^2 }} \frac{4}{3}du$
 $\frac{1}{3} \int \frac{1}{ 1- u^2} du$
 $\frac{1}{3}\arcsin(u)+c$
 $\frac{1}{3}\arcsin\left( \frac{4x}{3} \right)+c$
-
+![[Pasted image 20260522120814.png]]
 
 
 # Inverse trigonometric substitution
