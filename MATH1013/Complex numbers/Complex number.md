@@ -1,3 +1,7 @@
+---
+aliases:
+  - complex
+---
 A complex number is one from the [[set]] $\mathbb{C}$
 The uses for complex numbers include: 
 - Solving arbitrary polynomial equations where the solution is not real
@@ -26,5 +30,4 @@ $z_{1}z_{2} = (x_{1}x_{2}-y_1y_{2})+(y_{1}x_{1}+x_{1}y_{1})i$
 
 
 ## Finding roots of quadratics
-There are two methods that we will utilise, being completing the square, and roots of unity 
-
+There are two methods that we will utilise, being ![[completing the square]], and roots of unity 
