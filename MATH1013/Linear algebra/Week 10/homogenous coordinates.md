@@ -1,6 +1,6 @@
 homogenous coordinates 
 rotation by a fixed coordinate is not defined as a [[Linear transformation]], this is because $T(\vec{0}) \not= \vec{0}$
-Instead, we utilise a trick to convert a [[rotation Transformation]] into a [[Linear transformation]] by taking the [[vector]] into a higher dimensional space. Similar problems also occur during translation transformations. 
+Instead, we utilise a trick to convert a [[rotation transformation]] into a [[Linear transformation]] by taking the [[vector]] into a higher dimensional space. Similar problems also occur during translation transformations. 
 
 This is done by making the nth entry in a vector 1 when converting from $\mathbb{R}^{n-1} \to \mathbb{R}^n$, so $\begin{bmatrix} 2 \\  5\end{bmatrix} \to \begin{bmatrix} 2 \\ 5 \\ 1\end{bmatrix}$
 Then plugging this in a rotation matrix:

@@ -1,3 +1,7 @@
+---
+aliases:
+  - determinant
+---
 The determinant
 
 # Motivation for the determinant 

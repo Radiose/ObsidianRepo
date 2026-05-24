@@ -26,4 +26,4 @@ A is called the standard [[Matrix]] of T
 
 
 Examples of [[Linear transformation]] 
-![[rotation Transformation]]
+![[rotation transformation]]

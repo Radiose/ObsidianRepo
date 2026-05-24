@@ -1,6 +1,6 @@
 {
-  "provider": "openai",
-  "selectedModelId": "openai-gpt-5.4",
+  "provider": "claude",
+  "selectedModelId": "claude-opus-4-7",
   "openaiModel": "gpt-5.4",
   "qwenModel": "qwen-vl-max",
   "customBaseUrl": "",
