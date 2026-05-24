@@ -1,0 +1,14 @@
+{
+  "provider": "openai",
+  "selectedModelId": "openai-gpt-5.4",
+  "openaiModel": "gpt-5.4",
+  "qwenModel": "qwen-vl-max",
+  "customBaseUrl": "",
+  "customModelName": "",
+  "ollamaBaseUrl": "http://localhost:11434/v1",
+  "ollamaModel": "gemma3:4b",
+  "dpi": 200,
+  "timeout": 60,
+  "maxRetries": 3,
+  "conflictResolution": "by-model"
+}

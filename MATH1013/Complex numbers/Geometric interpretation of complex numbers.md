@@ -29,6 +29,9 @@ This can be thought of as addition of [[vector]]s in $\mathbb{R}^2$
 ```
 ##  Geometric representation of [[Complex conjugate]]s
 
+Note that $|z|=|\bar{z}|$ and $arg(z)=arg(|\bar{z}|)(mod (2\pi))$
+
+
 ```handdrawn-ink
 {
 	"versionAtEmbed": "0.3.4",
@@ -38,3 +41,6 @@ This can be thought of as addition of [[vector]]s in $\mathbb{R}^2$
 }
 ```
 ## Geometric representation of multiplication 
+We brute force multiply
+$z_{1}z_{2} = r_{1}r_{2}\ cis\theta_{1}cis\theta_{2} = r_{1}r_{2}cis(\theta_{1}+\theta_{2})$
+

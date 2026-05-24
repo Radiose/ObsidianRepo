@@ -328,13 +328,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Complex numbers/Geometric complex numbers.md",
+                "file": "MATH1013/Complex numbers/Inverse complex numbers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Geometric complex numbers"
+              "title": "Inverse complex numbers"
+            }
+          },
+          {
+            "id": "708e759aa5008c6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1013/Complex numbers/complex numbers defined as a linear transformation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "complex numbers defined as a linear transformation"
             }
           },
           {
@@ -353,7 +368,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -542,12 +557,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1c0593240a81169",
+  "active": "708e759aa5008c6a",
   "lastOpenFiles": [
+    "MATH1013/Linear algebra/Week 6/Standard Matrix.md",
+    "MATH1013/Complex numbers/complex numbers defined as a linear transformation.md",
+    "MATH1013/Linear algebra/Week 3/linearly independent.md",
+    "MATH1013/Complex numbers/Inverse complex numbers.md",
+    "attachments/Ink/Drawing/2026.5.24 - 14.58pm.drawing",
+    "MATH1013/Complex numbers/Geometric interpretation of complex numbers.md",
     "attachments/Ink/Drawing/2026.5.24 - 14.40pm.drawing",
     "attachments/Ink/Drawing/2026.5.24 - 14.39pm.drawing",
     "MATH1013/Linear algebra/Week 2/The magnitude of a vector.md",
-    "MATH1013/Complex numbers/Geometric complex numbers.md",
     "attachments/Ink/Drawing/2026.5.24 - 14.31pm.drawing",
     "MATH1013/Complex numbers/Fundamental theorem of algebra.md",
     "MATH1013/Complex numbers/Complex number.md",
@@ -571,9 +591,6 @@
     "BIOL2161/Week 6/BIOL2161 31.03.2026.md",
     "BIOL2161/Week 5/Translation in Eukaryotic cells.md",
     "BIOL2161/Week 2/Implications of Deamination of methyl cytosine..md",
-    "BIOL2161/Week 2/Initiation of DNA replication.md",
-    "BIOL2161/Week 2/Meiosis.md",
-    "BIOL2161/Week 2/Mitosis.md",
     "attachments/Pasted image 20260521132243.png",
     "MATH1013/Complex numbers",
     "attachments/Pasted Image 20260520101430_146.png",
@@ -588,8 +605,6 @@
     "attachments/Pasted image 20260518181551.png",
     "attachments/Ink/Drawing/2026.5.7 - 10.55am.drawing",
     "attachments/Ink/Drawing/2026.5.6 - 10.32am.drawing",
-    "Untitled.base",
-    "Z_MATH help",
     "Untitled.canvas"
   ]
 }
