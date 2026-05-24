@@ -15,7 +15,7 @@ Substituting into A
 $A = \frac{h}{3}(y_{0}+4y_{1}+y_{2})$
 
 ## Approximation 
-$S_{n}=\frac{\Delta x}{3}[f(x_{0})+4f(x_{1}+2f(x_{2}))\dots 2f (x_{n−2}) + 4f (x_{}{n−1}) + f (x_{n})]$
+$S_{n}=\frac{\Delta x}{3}[f(x_{0})+4f(x_{1})+2f(x_{2})\dots 2f (x_{n−2}) + 4f (x_{}{n−1}) + f (x_{n})]$
 where $\Delta x =\frac{b-a}{n}$ and $x_i=a+i\Delta x$
 **IMPORTANT**: For [[Simpson's rule]], we specifically require an even number of [[partition]]s
 
