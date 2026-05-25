@@ -131,3 +131,12 @@ Now apply rules 2, 3 and 4
 This leaves us with the final equation 
 
 $\det \begin{bmatrix}a_{11} \ a_{12} \ a_{13}  \\ a_{21} \ a_{22} \ a_{23}  \\ a_{31} \ a_{32} \ a_{33}\end{bmatrix}$ = $a_{11}a_{22}a_{33}-a_{11}a_{23}a_{32}-a_{12}a_{21}a_{33}+a_{13}a_{21}a_{32}+a_{12}a_{23}a_{31}-a_{13}a_{22}a_{31}$
+
+we group these into terms 
+$a_{11}(a_{22}a_{33}-a_{23}a_{32})$
+$-a_{12}(a_{21}a_{33}-a_{23}a_{31})$
+$+a_{13}(a_{21}a_{32}-a_{22}a_{31})$
+we use mathematical [[Induction]] to cook up a formula 
+
+
+ ![[cofactor expansion]]
