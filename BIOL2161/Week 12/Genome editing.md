@@ -13,7 +13,9 @@ RSB future crop
 Working on flowering time - disease resistance - drought resistance 
 
 6 steps:
-Know where the target site is, then create a vector. Screen for mutations, then construct delivery. 
+Know where the target site is, then create a vector. Screen for mutations, then construct delivery. Regenerate plant, then screen for mutants. 
+
+
 We want specific, but efficient guide sequences.  -
 
 

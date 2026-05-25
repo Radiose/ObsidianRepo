@@ -1,4 +1,4 @@
-1 :biol2161 flashcards and final lecture
+1 :biol2161 flashcards and quiz 
 2: math1013 matlab grader
 3: **revise** math1005 
 
