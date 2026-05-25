@@ -25,6 +25,6 @@ $\begin{bmatrix}1 0 0 0 0\\00010 \\ 00100  \\ 01000  \\ 00001\end{bmatrix}$
 Addition of rows
 $R_{i} \to R_{i}+cR_{j}$
 
-$\begin{bmatrix}a_{11}a_{12} \\ a_{21} a_{22}  \\ a_{31} a_{32}\end{bmatrix} \to \begin{bmatrix}a_{11}+ca_{31} a_{12}+c_{32}  \\ a_{21} a_{22}  \\ a_{31} a_{32}\end{bmatrix}$  is expressed as 
+$\begin{bmatrix}a_{11}a_{12} \\ a_{21} a_{22}  \\ a_{31} a_{32}\end{bmatrix} \to \begin{bmatrix}(a_{11}+ca_{31})( a_{12}+c_{32})  \\ a_{21} a_{22}  \\ a_{31} a_{32}\end{bmatrix}$  is expressed as 
 $\begin{bmatrix}1 0c  \\ 0 10 \\ 001\end{bmatrix} \begin{bmatrix}a_{11}a_{12} \\ a_{21} a_{22}  \\ a_{31} a_{32}\end{bmatrix}$
 An easy way to think about this is what row are we doing it to, and what row is doing it? The row that we are doing it to is the row in the elementary matrix, while the row that is doing it is the column number. 

@@ -78,7 +78,7 @@ Therefore, Area$(\begin{bmatrix} a \\ c\end{bmatrix},\begin{bmatrix}b \\ d\end{b
 
 
 
-# Definition of [[The determinant]]
+# Definition of [[The determinant]] for two dimensions
  for $\mathbb{R}^2: \det \begin{bmatrix}a \ b \\ c\ d\end{bmatrix}$ = ad-bc, using the motivation shown above 
  Some useful properties (based on the above proofs)  
  
@@ -140,3 +140,7 @@ we use mathematical [[Induction]] to cook up a formula
 
 
  ![[cofactor expansion]]
+
+
+
+![[Row operation effect on determinants]]
