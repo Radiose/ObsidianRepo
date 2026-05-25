@@ -20,4 +20,6 @@ where $\Delta x =\frac{b-a}{n}$ and $x_i=a+i\Delta x$
 **IMPORTANT**: For [[Simpson's rule]], we specifically require an even number of [[partition]]s
 
 ## Binding error 
-$\exists K \in \mathbb{R} \forall x \in [a,b] |f''(x)| \le K \implies |E_{s}|\le$$\frac{K(b-a)^5}{180n^4}$
+$\exists K \in \mathbb{R} \forall x \in [a,b] |f''''(x)| \le K \implies |E_{s}|\le$$\frac{K(b-a)^5}{180n^4}$
+
+Remember that the minimum n must be even, and a whole number. 

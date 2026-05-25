@@ -1,7 +1,8 @@
-2: comp1110 homework - friday week 12 
-3: biol2161 flashcards and peerwise
+1: finish math1013 notes 
+2:biol2161 flashcards and final 2 lectures
+3: **revise** math1005 
 
 
-Math1013 assignment and complex numbers - submit tomorrow
+
 
 7: math1013 final 2 questions workshop week 10
