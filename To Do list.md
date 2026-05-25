@@ -1,5 +1,5 @@
-1: finish math1013 notes 
-2:biol2161 flashcards and final 2 lectures
+1 :biol2161 flashcards and final lecture
+2: math1013 matlab grader
 3: **revise** math1005 
 
 
