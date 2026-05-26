@@ -42,12 +42,35 @@ Thus, we obtain the volume through integration as $V = \int_{a}^bA(x)dx$
 
 # Cylindrical shells
 
-Sometimes, 
+Sometimes, its more convenient to find the volume of a shape via a different method. \
+
+
 
 Let $D$ be a 2d region in the plane bounded on the left by $x = a$(with $a > 0$),
 on the right by $x = b$, above by $y = f (x)$ and below by $y = g(x)$. Let $E$ be the
-3d region obtained by rotating $D$ through a full rotation about the y-axis.
-Then Volume of $E = \int_{a}^b 2\pi x[f(x)-g(x)]dx$
+3d region obtained by rotating $D$ through a full rotation about the y-axis. 
+![[Pasted image 20260526111057.png]]
+The cross section of $D$ looks like how it looks above, but note we cannot simply multiply this by a circumference to get the area. This is because every point sits at a different distance to the circumference. 
 
+Instead we employ a method where we take a subinterval of D and rotate it around the y axis. We can do this with rectangles.
+
+![[Pasted image 20260526111804.png]]
+Rotating one of these rectangles around the y axis gives us a ring shape that simplifies almost to a rectangular prism 
+![[Pasted image 20260526111842.png]]
+
+
+Doing this many times gives us a shape like this (different example but the idea holds )
+![[Pasted image 20260526111952.png]]
+
+We approximate the area of a single shell as 
+$2\pi ix_{i}^*[f(x_{i}*)-g(x_{i}^*)]\cdot \Delta x$
+which can be visualised below 
+![[Pasted image 20260526112757.png]]
+
+
+
+This can be converted into a [[Riemann sum]], and we can turn this into a sum of these areas 
+
+Then Volume of $E = \int_{a}^b 2\pi x[f(x)-g(x)]dx$
 
 
