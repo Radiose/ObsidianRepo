@@ -74,3 +74,4 @@ This can be converted into a [[Riemann sum]], and we can turn this into a sum of
 Then Volume of $E = \int_{a}^b 2\pi x[f(x)-g(x)]dx$
 
 
+remember to check which of f(x) and g(x) is above and below
