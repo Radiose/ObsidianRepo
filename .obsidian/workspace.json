@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIOL2161/Week 10/BIOL2161 13.05.2026.md",
+                "file": "MATH1013/Linear algebra/Week 10/The determinant.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "BIOL2161 13.05.2026"
+              "title": "The determinant"
             }
           },
           {
@@ -88,17 +88,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Calculus/Week 11/Initial value problem.md",
+                "file": "MATH1013/Calculus/Week 11/volumes of shapes via integration.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Initial value problem"
+              "title": "volumes of shapes via integration"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -287,11 +287,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1fe9ce2b9742f455",
+  "active": "a6a7c1ce962b5b61",
   "lastOpenFiles": [
+    "MATH1013/Calculus/Week 11/ordinary differential equation.md",
+    "MATH1013/Calculus/Week 12/MATH1013 26.05.2026.md",
+    "MATH1013/Calculus/Week 11/Initial value problem.md",
+    "MATH1013/Linear algebra/Week 10/The determinant.md",
+    "BIOL2161/Week 12/BIOL2161 25.05.2026.md",
+    "BIOL2161/Week 11/BIOL2161 19.05.2026.md",
+    "BIOL2161/Week 11/BIOL2161 18.05.2026.md",
+    "BIOL2161/Week 11/BIOL2161 20.05.2026.md",
+    "BIOL2161/Week 10/BIOL2161 13.05.2026.md",
     "BIOL2161/Week 2/homologous recombination.md",
     "BIOL2161/Week 2/holliday junctions.md",
-    "BIOL2161/Week 10/BIOL2161 13.05.2026.md",
     "BIOL2161/Week 10/BIOL2161 12.05.2026.md",
     "BIOL2161/Week 2/Base excision repair.md",
     "BIOL2161/Week 2/Mismatch repair.md",
@@ -300,13 +308,11 @@
     "BIOL2161/Week 9/BIOL2161 05.05.2026.md",
     "BIOL2161/Week 8/BIOL2161 29.04.2026.md",
     "MATH1013/Calculus/Week 12/Gauss least squares.md",
-    "MATH1013/Calculus/Week 11/Initial value problem.md",
     "attachments/Pasted image 20260526155713.png",
     "attachments/Pasted image 20260526155042.png",
     "attachments/Pasted image 20260526153815.png",
     "attachments/Pasted image 20260526153806.png",
     "attachments/Pasted image 20260526153742.png",
-    "MATH1013/Calculus/Week 12/MATH1013 26.05.2026.md",
     "MATH1013/Calculus/Week 12/Blood glucose model.md",
     "MATH1013/Calculus/Week 11/Separable ODE.md",
     "MATH1005/Week 8/stars and bars.md",
@@ -314,17 +320,11 @@
     "MATH1005/Week 7/multiset.md",
     "MATH1005/Week 2/element proof.md",
     "MATH1013/Calculus/Week 12/Centre mass of a thin rod.md",
-    "MATH1013/Calculus/Week 11/volumes of shapes via integration.md",
     "attachments/Pasted image 20260526112757.png",
     "attachments/Pasted image 20260526111952.png",
     "attachments/Pasted image 20260526111842.png",
     "attachments/Pasted image 20260526111804.png",
     "attachments/Pasted image 20260526111057.png",
-    "MATH1013/Calculus/Week 11/MATH1013 19.05.2026.md",
-    "MATH1013/Calculus/Week 11/Midpoint rule.md",
-    "MATH1013/Calculus/Week 11/area between curves.md",
-    "MATH1013/Calculus/Week 8/MATH1013 28.04.2026.md",
-    "BIOL2161/Week 12/Genome editing.md",
     "attachments/Ink/Drawing/2026.5.25 - 14.51pm.drawing",
     "attachments/Ink/Drawing/2026.5.24 - 14.58pm.drawing",
     "attachments/Ink/Drawing/2026.5.24 - 14.40pm.drawing",

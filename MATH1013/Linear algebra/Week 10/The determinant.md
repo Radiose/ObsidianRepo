@@ -143,4 +143,3 @@ we use mathematical [[Induction]] to cook up a formula
 
 
 
-![[Row operation effect on determinants]]
