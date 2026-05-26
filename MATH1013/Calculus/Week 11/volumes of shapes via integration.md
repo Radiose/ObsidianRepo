@@ -35,9 +35,19 @@ Take an arbitrary point in the middle of the shape. To find the cross section, w
 
 
 via Pythagorean [[theorem]] $R^2 = r^2-x^2$
-thus tmnmnmnmnmnmnmnmnmnm
+Thus, we have cross sectional area defined as $A(x)=\pi y^2 = \pi(r^2-x^2)$
+
+Thus, we obtain the volume through integration as $V = \int_{a}^bA(x)dx$
+
+
 # Cylindrical shells
+
+Sometimes, 
+
 Let $D$ be a 2d region in the plane bounded on the left by $x = a$(with $a > 0$),
 on the right by $x = b$, above by $y = f (x)$ and below by $y = g(x)$. Let $E$ be the
 3d region obtained by rotating $D$ through a full rotation about the y-axis.
 Then Volume of $E = \int_{a}^b 2\pi x[f(x)-g(x)]dx$
+
+
+
