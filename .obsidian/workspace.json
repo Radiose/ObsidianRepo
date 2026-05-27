@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 7/multiset.md",
+                "file": "MATH1013 revision sheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "multiset"
+              "title": "MATH1013 revision sheet"
             }
           },
           {
@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 3/function.md",
+                "file": "MATH1005/Week 2/subset.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "function"
+              "title": "subset"
             }
           },
           {
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -317,11 +317,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb151f3347cff2ba",
+  "active": "7c7375fb582fd172",
   "lastOpenFiles": [
-    "Z_MATH help/MATH1005 midsem rundown.md",
-    "MATH1013 revision sheet.md",
+    "Z_MATH help/math1013 math tricks.md",
+    "MATH1005/Week 7/multiset.md",
+    "MATH1005/Week 2/subset.md",
+    "MATH1005/Week 2/powerset.md",
+    "MATH1005/Week 2/element proof.md",
+    "MATH1005/Week 2/MATH1005 02.03.2026.md",
+    "MATH1005/Week 2/axiomatic set theory.md",
+    "MATH1005/Week 1/logical structure of a proof.md",
     "MATH 1005 definition list.md",
+    "Z_MATH help/MATH1005 midsem rundown.md",
+    "MATH1005/Week 1/predicate.md",
+    "MATH1013 revision sheet.md",
+    "MATH1005/Week 3/function.md",
     "MATH1013/Calculus/Week 12/MATH1013 26.05.2026.md",
     "COMP1110/Week 11/COMP1110 22.05.2026.md",
     "MATH1013/Linear algebra/Week 5/Basis of a nullspace.md",
@@ -335,16 +345,6 @@
     "MATH1005/Week 7/cardinality.md",
     "MATH1013/Linear algebra/Week 11/cofactor expansion.md",
     "MATH1013/Calculus/Week 11/volumes of shapes via integration.md",
-    "_ MAXIMISING MARKS.md",
-    "To Do list.md",
-    "MATH1013/Calculus/Week 11/ordinary differential equation.md",
-    "MATH1013/Calculus/Week 11/Initial value problem.md",
-    "BIOL2161/Week 12/BIOL2161 25.05.2026.md",
-    "BIOL2161/Week 11/BIOL2161 19.05.2026.md",
-    "BIOL2161/Week 11/BIOL2161 18.05.2026.md",
-    "BIOL2161/Week 11/BIOL2161 20.05.2026.md",
-    "BIOL2161/Week 10/BIOL2161 13.05.2026.md",
-    "BIOL2161/Week 2/homologous recombination.md",
     "attachments/Pasted image 20260526155713.png",
     "attachments/Pasted image 20260526155042.png",
     "attachments/Pasted image 20260526153815.png",

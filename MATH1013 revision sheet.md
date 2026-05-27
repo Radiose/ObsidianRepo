@@ -25,3 +25,16 @@ Dimension of null(A) = no of free variable
 Dim of col(A) = no of pivot columns 
 Rank nullity theorem: dim of null space + dim col(A) = dim of the domain $\mathbb{R}^n$
 Note that they are not subspaces related directly, as col $\in \mathbb{R}^m$and null $\subset \mathbb{R}^N$, but the dimensions are through rank nullity
+
+
+Notes of fundamental theorem of algebra:
+If all coefficients of the polynomial are real, then all complex numbers must come in complex conjugate pairs. If some coefficients are complex, then its not guaranteed 
+
+Lontief econ mod:
+if the model has entries such that the entries sum up to be strictly less than 1, the matrix  I_n-C is invertible. Because of this, we can solve based on the demand.
+"In the exam, you're going to be given a very concrete matrix C. You set up the equation and you have to solve that equation to make sure its invertible and you have to solve for the equation to find the total production satisfying a certain demand."
+
+You have to solve some equation like $I-C\times \vec{y}=\vec{d}$
+
+We never required I-C to be strictly invertible for any specific problem, you have to analyse whether it is invertible in general 
+
