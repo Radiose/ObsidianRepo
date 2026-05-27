@@ -2,7 +2,7 @@
 aliases:
   - FTC
 ---
-The fundamental [[theorem]] of calculus
+	The fundamental [[theorem]] of calculus
 
 # Part I
 let a function $f$ be [[continuous function|continuous]] on $[a,b]$. Let $g : [a,b] \to \mathbb{R}$ be the [[function]] that evaluates to the [[Definite integral]] from $a$  to $x$ of $f(x)$. 
