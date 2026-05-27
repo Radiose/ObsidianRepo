@@ -65,5 +65,4 @@ $$
 \begin{aligned} \det \begin{bmatrix} 2 & 2 & a & b \\ 1 & 3 & c & d \\ 0 & 0 & 3 & 4 \\ 0 & 0 & 1 & 1 \end{bmatrix} &= 2 \cdot C_{11} + 1 \cdot C_{21} \\ &= 2 \cdot (-1)^{1+1} \det A_{11} + 1 \cdot (-1)^{2+1} \det A_{21} \\ &= 2 \det \begin{bmatrix} 3 & c & d \\ 0 & 3 & 4 \\ 0 & 1 & 1 \end{bmatrix} - 1 \cdot \det \begin{bmatrix} 2 & a & b \\ 0 & 3 & 4 \\ 0 & 1 & 1 \end{bmatrix} \\ &= 2 \cdot 3 \cdot \det \begin{bmatrix} 3 & 4 \\ 1 & 1 \end{bmatrix} - 1 \cdot 2 \cdot \det \begin{bmatrix} 3 & 4 \\ 1 & 1 \end{bmatrix} \\ &= \det \begin{bmatrix} 2 & 2 \\ 1 & 3 \end{bmatrix} \cdot \det \begin{bmatrix} 3 & 4 \\ 1 & 1 \end{bmatrix} \end{aligned}$$
 We can also use this concept for any column in a [[Matrix]], not just the ones on the edges. 
 $$\begin{aligned} \det \begin{bmatrix} 1 & 1 & 0 & 2 \\ 2 & 0 & 0 & 3 \\ 3 & 2 & 1 & 4 \\ 4 & 3 & 0 & 5 \end{bmatrix} &= 1 \cdot C_{33} = 1 \cdot (-1)^{3+3} \det A_{33} \\ &= \det \begin{bmatrix} 1 & 1 & 2 \\ 2 & 0 & 3 \\ 4 & 3 & 5 \end{bmatrix} = \cdots \end{aligned}$$
-Which can be simplified again using the middle row. 
-
+Which can be simplified again using the middle row.
