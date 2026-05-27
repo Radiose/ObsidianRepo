@@ -24,4 +24,4 @@ Note that this is not IFF, as $BA=I_{n}$ sometimes happens for $b$ = mxn and A =
 Dimension of null(A) = no of free variable 
 Dim of col(A) = no of pivot columns 
 Rank nullity theorem: dim of null space + dim col(A) = dim of the domain $\mathbb{R}^n$
-Note that they are not subspaces related directly, as col $\in \mathbb{R}^m$and null $\subset \mathbb{R}^N$, but t
+Note that they are not subspaces related directly, as col $\in \mathbb{R}^m$and null $\subset \mathbb{R}^N$, but the dimensions are through rank nullity
