@@ -58,13 +58,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Calculus/Week 12/MATH1013 26.05.2026.md",
+                "file": "MATH1013 revision sheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1013 26.05.2026"
+              "title": "MATH1013 revision sheet"
+            }
+          },
+          {
+            "id": "169ca7ecb951411b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1013/Linear algebra/Week 6/Injective transformation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Injective transformation"
             }
           },
           {
@@ -73,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Linear algebra/Week 10/The determinant.md",
+                "file": "MATH1013/Linear algebra/Week 5/Basis of a nullspace.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "The determinant"
+              "title": "Basis of a nullspace"
             }
           },
           {
@@ -88,17 +103,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Linear algebra/Week 11/cofactor expansion.md",
+                "file": "MATH1005/Week 7/set counting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cofactor expansion"
+              "title": "set counting"
+            }
+          },
+          {
+            "id": "579cf662b0b31ab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 1/Statement.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Statement"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -287,15 +317,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6a7c1ce962b5b61",
+  "active": "fb151f3347cff2ba",
   "lastOpenFiles": [
+    "MATH 1005 definition list.md",
+    "MATH1013/Calculus/Week 12/MATH1013 26.05.2026.md",
+    "COMP1110/Week 11/COMP1110 22.05.2026.md",
+    "MATH1013/Linear algebra/Week 5/Basis of a nullspace.md",
+    "MATH1013 revision sheet.md",
+    "MATH1005/Week 6/Inverse matrix.md",
+    "MATH1013/Linear algebra/Week 10/The determinant.md",
+    "MATH1013/Linear algebra/Week 6/Injective transformation.md",
+    "MATH1005/Week 1/sufficient and necessary conditions.md",
+    "MATH1005/Week 7/set counting.md",
+    "MATH1005/Week 1/Statement.md",
+    "MATH1005/Week 1/MATH1005 23.02.2026.md",
+    "MATH1005/Week 7/cardinality.md",
+    "MATH1013/Linear algebra/Week 11/cofactor expansion.md",
     "MATH1013/Calculus/Week 11/volumes of shapes via integration.md",
     "_ MAXIMISING MARKS.md",
     "To Do list.md",
     "MATH1013/Calculus/Week 11/ordinary differential equation.md",
-    "MATH1013/Calculus/Week 12/MATH1013 26.05.2026.md",
     "MATH1013/Calculus/Week 11/Initial value problem.md",
-    "MATH1013/Linear algebra/Week 10/The determinant.md",
     "BIOL2161/Week 12/BIOL2161 25.05.2026.md",
     "BIOL2161/Week 11/BIOL2161 19.05.2026.md",
     "BIOL2161/Week 11/BIOL2161 18.05.2026.md",
@@ -303,23 +345,11 @@
     "BIOL2161/Week 10/BIOL2161 13.05.2026.md",
     "BIOL2161/Week 2/homologous recombination.md",
     "BIOL2161/Week 2/holliday junctions.md",
-    "BIOL2161/Week 10/BIOL2161 12.05.2026.md",
-    "BIOL2161/Week 2/Base excision repair.md",
-    "BIOL2161/Week 2/Mismatch repair.md",
-    "BIOL2161/Week 9/BIOL2161 06.05.2026.md",
-    "BIOL2161/Week 9/BIOL2161 05.05.2026.md",
-    "BIOL2161/Week 8/BIOL2161 29.04.2026.md",
-    "MATH1013/Calculus/Week 12/Gauss least squares.md",
     "attachments/Pasted image 20260526155713.png",
     "attachments/Pasted image 20260526155042.png",
     "attachments/Pasted image 20260526153815.png",
     "attachments/Pasted image 20260526153806.png",
     "attachments/Pasted image 20260526153742.png",
-    "MATH1013/Calculus/Week 12/Blood glucose model.md",
-    "MATH1013/Calculus/Week 11/Separable ODE.md",
-    "MATH1005/Week 8/stars and bars.md",
-    "MATH1013/Complex numbers/Complex conjugate.md",
-    "MATH1005/Week 7/multiset.md",
     "attachments/Pasted image 20260526112757.png",
     "attachments/Pasted image 20260526111952.png",
     "attachments/Pasted image 20260526111842.png",

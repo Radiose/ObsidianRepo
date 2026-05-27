@@ -17,3 +17,4 @@ Is there a pivot in each column?
 
 Different perspective 
 If the null space is not zero, then T must be forgetting lots of information, therefore it must not be [[Injective Function|one to one]]
+
