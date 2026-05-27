@@ -59,7 +59,8 @@ EXAM TIMING
 Final day of teaching: 29.05.2026
 MATH1005 exam: 6 days after 
 MATH1013: 8 days after 1005, 14 days after end of teaching 
-BIOL2161: 1 day after 1013, 9 days after 1005, 15 days after end of teaching 
+BIOL2161: 1 day after 1013, 9 days after 1005, 15 days after end of teaching
+	 one A4 page with handwritten notes on both sides.
 COMP1110: 4 days after 2161, 13 days after 1005. 19 days after end of teaching 
 
 5 full days for 1005 
