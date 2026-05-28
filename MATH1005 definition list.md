@@ -61,3 +61,4 @@
 Mistakes: 
 Probability:
 x OR y - likely exlusive or - remember to subtract p(x^y)
+Estimate vs exact - makes difference between independence of two random variables 
