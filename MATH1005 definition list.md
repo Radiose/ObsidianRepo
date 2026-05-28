@@ -39,6 +39,22 @@
 	This means every element of s is related to t, and that t is related to s.
 	The less than or equal to is not symmetric. 6 is less than or equal to 7, but 7 is not less than or equal to 6.
 
+- an equivalence relation is a [[reflexive relation]], [[transitive relation]] [[symmetric relation]]. This means that it could serve as your idea of somethings being the same.
+
+- We say that the [[relation]] is antisymmetric when $\forall s,t \in S((s \textasciitilde t)\land (t \textasciitilde s) \to s = t)$
+
+- Partial order If ~ is a [[reflexive relation]], a [[transitive relation]] and asymmetric, then we say that ~ is a partial order on s.
+
+
+- Function: 
+	- let A,B be sets. A [[relation]] F from A to B is called a function from A to B when $\forall a \in A \exists!b\in B (a,b) \in f$
+
+- injective: $\forall a_{1},a_{2} \in A(a_{1} \not=a_{2}) \implies f(a_{1})\not=f(a_{2})$
+- surjective  $\forall b \in B \exists a \in A f(a)=b$.
+- bijection - injective and surjective OR $∀y∈B, ∃!x∈A, f(x)=y$
+
+
+
 
 
 
