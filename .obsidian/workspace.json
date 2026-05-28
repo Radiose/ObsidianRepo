@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 2/subset.md",
+                "file": "Z_MATH help/MATH1005 midsem rundown.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "subset"
+              "title": "MATH1005 midsem rundown"
             }
           },
           {
@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 6/Matrix multiplication.md",
+                "file": "MATH1005/Week 2/set.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Matrix multiplication"
+              "title": "set"
             }
           },
           {
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -200,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -317,8 +318,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1fe9ce2b9742f455",
+  "active": "fb151f3347cff2ba",
   "lastOpenFiles": [
+    "MATH1005/Week 2/subset.md",
+    "MATH1005/Week 2/set.md",
+    "MATH1005/Week 6/Matrix multiplication.md",
     "MATH1005 definition list.md",
     "MATH1005/Week 8/Density function.md",
     "MATH1005/Week 9/Random variable.md",
@@ -342,9 +346,6 @@
     "MATH1005/Week 9/Conditional probability.md",
     "MATH1005/Week 8/Sample space.md",
     "MATH1005/Week 8/Frequency Histogram.md",
-    "BIOL2161/Week 5/Attenuation of TRP Operon.md",
-    "MATH1005/Week 1/Statement.md",
-    "MATH1005/Week 3/MATH1005 10.02.2026.md",
     "attachments/Pasted image 20260526155713.png",
     "attachments/Pasted image 20260526155042.png",
     "attachments/Pasted image 20260526153815.png",
