@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 3/symmetric relation.md",
+                "file": "MATH1005/Week 10/MATH1005 11.05.2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "symmetric relation"
+              "title": "MATH1005 11.05.2026"
             }
           },
           {
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -318,8 +317,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb151f3347cff2ba",
+  "active": "7c7375fb582fd172",
   "lastOpenFiles": [
+    "MATH1005/Week 3/symmetric relation.md",
+    "MATH1005/Week 9/Steady state vector.md",
     "Z_MATH help/MATH1005 midsem rundown.md",
     "MATH1005/Week 2/subset.md",
     "MATH1005/Week 2/set.md",
@@ -330,7 +331,6 @@
     "MATH1005/Week 9/Independent event.md",
     "MATH1013/Linear algebra/Week 5/Basis of a nullspace.md",
     "MATH1005/Week 3/function.md",
-    "MATH1005/Week 3/symmetric relation.md",
     "MATH1005/Week 9/Markov process.md",
     "MATH1005/Week 8/MATH1005 29.04.2026.md",
     "MATH1005/Week 8/Binomial theorem.md",
@@ -345,7 +345,6 @@
     "MATH1005/Week 3/Injective Function.md",
     "MATH1005/Week 7/set counting.md",
     "MATH1005/Week 9/Conditional probability.md",
-    "MATH1005/Week 8/Sample space.md",
     "attachments/Pasted image 20260526155713.png",
     "attachments/Pasted image 20260526155042.png",
     "attachments/Pasted image 20260526153815.png",
