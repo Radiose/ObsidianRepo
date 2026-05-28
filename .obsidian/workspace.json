@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_MATH help/MATH1005 midsem rundown.md",
+                "file": "MATH1005/Week 9/Steady state vector.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1005 midsem rundown"
+              "title": "Steady state vector"
             }
           },
           {
@@ -320,6 +320,7 @@
   },
   "active": "fb151f3347cff2ba",
   "lastOpenFiles": [
+    "Z_MATH help/MATH1005 midsem rundown.md",
     "MATH1005/Week 2/subset.md",
     "MATH1005/Week 2/set.md",
     "MATH1005/Week 6/Matrix multiplication.md",
@@ -345,7 +346,6 @@
     "MATH1005/Week 7/set counting.md",
     "MATH1005/Week 9/Conditional probability.md",
     "MATH1005/Week 8/Sample space.md",
-    "MATH1005/Week 8/Frequency Histogram.md",
     "attachments/Pasted image 20260526155713.png",
     "attachments/Pasted image 20260526155042.png",
     "attachments/Pasted image 20260526153815.png",
