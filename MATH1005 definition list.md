@@ -6,7 +6,7 @@
 
 - Pairwise disjoint: Two [[set]]s are **disjoint** when $a \cap B = \emptyset$. This means that there are no elements in both sets. 
 	Given a set of sets $\mathcal{S}$, the sets in S are said to be in pairwise disjoint when 
-	$\forall A,B \in S | A\not=B$ and $A \cap B = \emptyset$
+	$\forall a,b \subset S | a\not=b$ and $a \cap b = \emptyset$
 - Axiom of extensionality: A [set](app://obsidian.md/set) is defined solely by the elements that comprise it .                     
 	No importance is given to order or frequency of elements
 
