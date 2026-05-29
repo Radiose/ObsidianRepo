@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Calculus/Week 11/volumes of shapes via integration.md",
+                "file": "MATH1005/Week 10/Simple graphs and digraphs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "volumes of shapes via integration"
+              "title": "Simple graphs and digraphs"
             }
           },
           {
@@ -200,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -319,6 +320,7 @@
   },
   "active": "7c7375fb582fd172",
   "lastOpenFiles": [
+    "MATH1013/Calculus/Week 11/volumes of shapes via integration.md",
     "MATH1005/Week 6/Inverse matrix.md",
     "MATH1013/Calculus/Week 12/Centre mass of a thin rod.md",
     "MATH1013/Calculus/Week 6/Riemann sum.md",
@@ -344,7 +346,6 @@
     "MATH1005/Week 3/antisymmetric relation.md",
     "MATH1005/Week 3/equivalence relation.md",
     "COMP1110/Week 11/COMP1110 22.05.2026.md",
-    "MATH1005/Week 3/equivalence class.md",
     "attachments/Pasted image 20260526155713.png",
     "attachments/Pasted image 20260526155042.png",
     "attachments/Pasted image 20260526153815.png",
