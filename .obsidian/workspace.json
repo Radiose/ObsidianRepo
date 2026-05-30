@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 10/MATH1005 12.05.2026.md",
+                "file": "MATH1005/Week 8/combination.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1005 12.05.2026"
+              "title": "combination"
             }
           },
           {
@@ -319,8 +319,15 @@
   },
   "active": "99f9f803d483a374",
   "lastOpenFiles": [
-    "MATH1005/Week 10/Path.md",
+    "MATH1005/Week 7/MATH1005 20.04.2026.md",
+    "MATH1005/Week 7/multiset.md",
+    "MATH1005/Week 6/Inverse matrix.md",
+    "MATH1005/Week 7/set counting.md",
+    "MATH1005/Week 11/dijkstra's algorithm.md",
+    "MATH1005/Week 11/PageRank algorithm.md",
+    "MATH1005/Week 10/Simple graphs and digraphs.md",
     "MATH1005/Week 10/MATH1005 12.05.2026.md",
+    "MATH1005/Week 10/Path.md",
     "MATH1005/Week 10/Euler Path.md",
     "MATH1005/Week 10/Euler Circuit.md",
     "MATH1005/Week 10/MATH1005 11.05.2026.md",
@@ -329,7 +336,6 @@
     "MATH1005/Week 10/graph.md",
     "COMP1110/Week 11/COMP1110 22.05.2026.md",
     "MATH1005/Week 10/Handshake theorem.md",
-    "MATH1005/Week 10/Simple graphs and digraphs.md",
     "MATH1005/Week 8/stars and bars.md",
     "MATH1005/Week 10/Bipartite graph.md",
     "MATH1005/Week 10/Adjacent vertices.md",
@@ -337,14 +343,8 @@
     "MATH1013/Calculus/Week 2/MATH1013 03.03.2026.md",
     "MATH1013/Calculus/Week 1/limits.md",
     "MATH1013/Calculus/Week 11/volumes of shapes via integration.md",
-    "MATH1005/Week 6/Inverse matrix.md",
     "MATH1013/Calculus/Week 12/Centre mass of a thin rod.md",
     "MATH1013/Calculus/Week 6/Riemann sum.md",
-    "MATH1005/Week 3/symmetric relation.md",
-    "MATH1005/Week 9/Steady state vector.md",
-    "Z_MATH help/MATH1005 midsem rundown.md",
-    "MATH1005/Week 2/subset.md",
-    "MATH1005/Week 2/set.md",
     "attachments/Pasted image 20260526155713.png",
     "attachments/Pasted image 20260526155042.png",
     "attachments/Pasted image 20260526153815.png",
