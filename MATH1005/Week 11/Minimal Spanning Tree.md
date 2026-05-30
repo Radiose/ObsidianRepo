@@ -7,6 +7,7 @@ This algorithm is a modification to the original spanning tree algorithm laid ou
 The basic idea: Will adding this edge make a non trivial [[Circuit]]? 
 The extension: We use the edge that has the lowest weight. Will adding this weight create a non trivial [[Circuit]]? If it will, try the next smallest weight. 
 
+
 The algorithm we implement: 
 1. Initialise T to have all the vertices of G but no edges.
 Initialise W to 0.
