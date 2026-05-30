@@ -54,8 +54,30 @@
 - bijection - injective and surjective OR $∀y∈B, ∃!x∈A, f(x)=y$
 
 
+graphs: 
 
 
+
+- A graph G is a pair comprising of the following : 1: A set $V(G)$ of vertices, also known as nodes
+	 2: A possibly empty [[multiset]] $E(G)$ of edges where the elements are size 2 multisets of vertices
+
+- The degree of a vertex is the number of edges that incident on it. We can determine this by drawing a circle around it, and the number of intersections that are present determines the degree of it.
+
+- Handshake theorem 
+	 Handshake [theorem](app://obsidian.md/theorem)  
+	 If G is any [graph](app://obsidian.md/graph), then the total degree of G equals twice the number of edges of G   
+	 This is because when we count degrees we are counting edges, but we count both ends of each edge, hence we count all the edges twice. 
+	- Corollary  In any [graph](app://obsidian.md/graph), there is an even number of vertices of odd degree .
+
+
+- Adjacent vertices  
+	U,V are adjacent if . They are basically adjacent if they have an edge between them.
+
+- Isomorphism 
+	An isomorphism between two [[graph]]s $G_{1} \ \text{and } G_{2}$ is a [[Bijective|bijection]] 
+	$f: G_{1}(V_{1}) \to G_{2}(V_{2})$ such that $(u,v)$ is an edge in $E(G_{1})$ exactly as many times as $(f(u),f(v))$ is an edge in $E(G_{2})$
+	This mapping must preserve multiplicity of edges and non edges.
+	If an isomorphism exists between two graphs, we say that they are **isomorphic**.
 
 
 Mistakes: 
@@ -63,5 +85,23 @@ Probability:
 x OR y - likely exlusive or - remember to subtract p(x^y)
 Estimate vs exact - makes difference between independence of two random variables 
 
+
+
+Counting the number of subgraphs
+
 Don’t forget that every set has itself and the empty set as subsets.
-The number of subgraphs can be determined by fixing the number of vertices and counting the amount of possible edges 
+
+The number of subgraphs of a completed graph can be determined by fixing the number of vertices and counting the amount of possible edges 
+logic has to follow these conventions:
+First, determine the total amount of edges present. 
+Then, we determine the total amount of graphs that could be present for each amount of vertices 
+For example, $k_{4}$ has 6 edges 
+In the case of 4 vertices, 
+$\begin{pmatrix}4  \\ 4\end{pmatrix}\cdot {2}^6$ - the choose function is the number of ways you can combine the vertices, and the $2^6$ is the formula for the [[powerset]] of the edges. 
+$+ \begin{pmatrix}4  \\ 3\end{pmatrix} \cdot 2^3$ - we note that for each size 3 subgraph, there are at most 3 vertices, and a similar story happens, where we get the powerset of that graph  
+$+ \begin{pmatrix}4  \\ 2\end{pmatrix} \cdot 2^1$ - there is at most one edge. 
+$+ \begin{pmatrix}4  \\ 1\end{pmatrix}$ - there are no possible edges 
+$+ 1$ - for empty set 
+ sum these together for the final answer 
+
+
