@@ -62,3 +62,6 @@ Mistakes:
 Probability:
 x OR y - likely exlusive or - remember to subtract p(x^y)
 Estimate vs exact - makes difference between independence of two random variables 
+
+Don’t forget that every set has itself and the empty set as subsets.
+The number of subgraphs can be determined by fixing the number of vertices and counting the amount of possible edges 
