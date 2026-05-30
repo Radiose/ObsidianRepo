@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Calculus/Week 2/MATH1013 03.03.2026.md",
+                "file": "MATH1005/Week 10/Bipartite graph.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1013 03.03.2026"
+              "title": "Bipartite graph"
             }
           },
           {
@@ -200,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -319,6 +320,7 @@
   },
   "active": "7c7375fb582fd172",
   "lastOpenFiles": [
+    "MATH1013/Calculus/Week 2/MATH1013 03.03.2026.md",
     "MATH1013/Calculus/Week 1/limits.md",
     "MATH1005/Week 10/MATH1005 12.05.2026.md",
     "MATH1005/Week 10/MATH1005 11.05.2026.md",
@@ -344,7 +346,6 @@
     "MATH1005/Week 8/Binomial theorem.md",
     "MATH1005/Week 3/Partial order.md",
     "MATH1005/Week 3/Hamming distance functions.md",
-    "MATH1005/Week 3/inverse relation.md",
     "attachments/Pasted image 20260526155713.png",
     "attachments/Pasted image 20260526155042.png",
     "attachments/Pasted image 20260526153815.png",
