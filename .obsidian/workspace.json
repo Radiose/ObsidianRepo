@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 10/Euler Path.md",
+                "file": "MATH1013/Calculus/Week 1/Evaluating limits using the definition.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Euler Path"
+              "title": "Evaluating limits using the definition"
             }
           },
           {
@@ -288,6 +288,7 @@
   },
   "active": "de5676153c2ef4a7",
   "lastOpenFiles": [
+    "MATH1005/Week 10/Euler Path.md",
     "MATH1005/Week 9/Random variable.md",
     "MATH1005 definition list.md",
     "MATH1005/Week 9/Steady state vector.md",
@@ -305,7 +306,6 @@
     "MATH1005/Week 10/Simple graphs and digraphs.md",
     "MATH1005/Week 10/MATH1005 12.05.2026.md",
     "MATH1005/Week 10/Path.md",
-    "MATH1005/Week 10/Euler Path.md",
     "MATH1005/Week 10/Euler Circuit.md",
     "MATH1005/Week 10/Isomorphism.md",
     "MATH1005/Week 10/graph.md",
