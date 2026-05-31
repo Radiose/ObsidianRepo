@@ -70,6 +70,8 @@ COMP1110: 4 days after 2161, 13 days after 1005. 19 days after end of teaching
 
 
 
-REQUIRED MARKS 
-COMP1110: 
-
+## REQUIRED MARKS ON FINALS
+BIOL2161: 75
+COMP1110: 76.5
+MATH1013: 63.8
+MATH1005: 75 
