@@ -59,6 +59,17 @@
 
 
 
+the quotient remainder [[theorem]]
+$\forall z \in \mathbb{Z} \forall d \in \mathbb{N} \exists!q \in \mathbb{Z}\exists!r \in \mathbb{Z}(z = qd+r)\land(0 \le r \le d)$ 
+Basically, for all integers, there exists a quotient, a divider and a remainder such that the remainder is less than the divisors. 
+
+A digit in base 2 is called a bit
+a block of 8 bits is called a byte
+a block of 4 bits is called a nibble
+a sequence of several adjacent **bytes** is called a word. The number of bytes varies, depending on the purpose of the word. For example, a 2 byte word can store non negative integers in the range from 0 to $2^{16}-1$.
+
+
+
 
 
 
@@ -86,6 +97,7 @@ graphs:
 	$f: G_{1}(V_{1}) \to G_{2}(V_{2})$ such that $(u,v)$ is an edge in $E(G_{1})$ exactly as many times as $(f(u),f(v))$ is an edge in $E(G_{2})$
 	This mapping must preserve multiplicity of edges and non edges.
 	If an isomorphism exists between two graphs, we say that they are **isomorphic**.
+
 
 
 

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 2/powerset.md",
+                "file": "MATH1005 definition list.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "powerset"
+              "title": "MATH1005 definition list"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 11/dijkstra's algorithm.md",
+                "file": "BIOL2161/Week 1/Introductory lecture.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "dijkstra's algorithm"
+              "title": "Introductory lecture"
             }
           },
           {
@@ -97,7 +97,8 @@
               "title": "function"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -286,16 +287,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "579cf662b0b31ab2",
+  "active": "de5676153c2ef4a7",
   "lastOpenFiles": [
-    "MATH1005/Week 2/subset.md",
-    "MATH1005/Week 4/two's complement.md",
-    "MATH1005/Week 3/MATH1005 13.03.2026.md",
+    "MATH1005/Week 4/MATH1005 16.03.2026.md",
+    "MATH1005/Week 4/Representing rational numbers in a computer.md",
     "MATH1005 definition list.md",
+    "MATH1005/Week 4/Modular arithmetic.md",
+    "MATH1005/Week 4/two's complement.md",
+    "MATH1005/Week 8/MATH1005 28.04.2026.md",
+    "MATH1005/Week 11/dijkstra's algorithm.md",
+    "MATH1005/Week 2/powerset.md",
+    "MATH1005/Week 2/subset.md",
+    "MATH1005/Week 3/MATH1005 13.03.2026.md",
     "MATH1005/Week 3/equivalence relation.md",
     "MATH1005/Week 3/equivalence class.md",
     "MATH1005/Week 9/Steady state vector.md",
-    "MATH1005/Week 11/dijkstra's algorithm.md",
     "MATH1013/Complex numbers/Geometric interpretation of complex numbers.md",
     "MATH1013/Complex numbers/Fundamental theorem of algebra.md",
     "MATH1013/Complex numbers/Complex conjugate.md",
@@ -309,11 +315,6 @@
     "MATH1005/Week 11/Minimal Spanning Tree.md",
     "MATH1005/Week 8/combination.md",
     "MATH1005/Week 7/MATH1005 20.04.2026.md",
-    "MATH1005/Week 7/multiset.md",
-    "MATH1005/Week 6/Inverse matrix.md",
-    "MATH1005/Week 7/set counting.md",
-    "MATH1005/Week 11/PageRank algorithm.md",
-    "MATH1005/Week 10/Simple graphs and digraphs.md",
     "attachments/Pasted image 20260526155713.png",
     "attachments/Pasted image 20260526155042.png",
     "attachments/Pasted image 20260526153815.png",
