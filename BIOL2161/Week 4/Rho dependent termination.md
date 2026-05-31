@@ -10,3 +10,4 @@ Rho dependent termination
 	- polymerase will reach site and slow down [[Transcription]]
 	- [[Rho]] will then activate and catch up - unwinds DNA RNA hybrid with [[Helicase]] activity 
 	- **doesnt require hairpin**
+-
