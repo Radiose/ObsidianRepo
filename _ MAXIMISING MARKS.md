@@ -68,3 +68,8 @@ COMP1110: 4 days after 2161, 13 days after 1005. 19 days after end of teaching
 5 full days for 2161
 5 full days for comp1110
 
+
+
+REQUIRED MARKS 
+COMP1110: 
+
