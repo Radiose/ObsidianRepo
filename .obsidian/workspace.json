@@ -8,6 +8,21 @@
         "type": "tabs",
         "children": [
           {
+            "id": "579cf662b0b31ab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 2/powerset.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "powerset"
+            }
+          },
+          {
             "id": "de5676153c2ef4a7",
             "type": "leaf",
             "state": {
@@ -80,21 +95,6 @@
               },
               "icon": "lucide-file",
               "title": "function"
-            }
-          },
-          {
-            "id": "579cf662b0b31ab2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1005 definition list.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "MATH1005 definition list"
             }
           }
         ]
@@ -286,8 +286,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de5676153c2ef4a7",
+  "active": "579cf662b0b31ab2",
   "lastOpenFiles": [
+    "MATH1005/Week 2/subset.md",
+    "MATH1005/Week 4/two's complement.md",
+    "MATH1005/Week 3/MATH1005 13.03.2026.md",
+    "MATH1005 definition list.md",
+    "MATH1005/Week 3/equivalence relation.md",
+    "MATH1005/Week 3/equivalence class.md",
+    "MATH1005/Week 9/Steady state vector.md",
+    "MATH1005/Week 11/dijkstra's algorithm.md",
     "MATH1013/Complex numbers/Geometric interpretation of complex numbers.md",
     "MATH1013/Complex numbers/Fundamental theorem of algebra.md",
     "MATH1013/Complex numbers/Complex conjugate.md",
@@ -295,8 +303,6 @@
     "MATH1013/Calculus/Week 1/Evaluating limits using the definition.md",
     "MATH1005/Week 10/Euler Path.md",
     "MATH1005/Week 9/Random variable.md",
-    "MATH1005 definition list.md",
-    "MATH1005/Week 9/Steady state vector.md",
     "MATH1005/Week 10/MATH1005 11.05.2026.md",
     "MATH1005/Week 8/overcounting.md",
     "MATH1005/Week 1/sufficient and necessary conditions.md",
@@ -306,14 +312,8 @@
     "MATH1005/Week 7/multiset.md",
     "MATH1005/Week 6/Inverse matrix.md",
     "MATH1005/Week 7/set counting.md",
-    "MATH1005/Week 11/dijkstra's algorithm.md",
     "MATH1005/Week 11/PageRank algorithm.md",
     "MATH1005/Week 10/Simple graphs and digraphs.md",
-    "MATH1005/Week 10/MATH1005 12.05.2026.md",
-    "MATH1005/Week 10/Path.md",
-    "MATH1005/Week 10/Euler Circuit.md",
-    "MATH1005/Week 10/Isomorphism.md",
-    "MATH1005/Week 10/graph.md",
     "attachments/Pasted image 20260526155713.png",
     "attachments/Pasted image 20260526155042.png",
     "attachments/Pasted image 20260526153815.png",

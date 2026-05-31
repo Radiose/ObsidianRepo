@@ -46,12 +46,20 @@
 - Partial order If ~ is a [[reflexive relation]], a [[transitive relation]] and asymmetric, then we say that ~ is a partial order on s.
 
 
+
+
 - Function: 
 	- let A,B be sets. A [[relation]] F from A to B is called a function from A to B when $\forall a \in A \exists!b\in B (a,b) \in f$
 
 - injective: $\forall a_{1},a_{2} \in A(a_{1} \not=a_{2}) \implies f(a_{1})\not=f(a_{2})$
 - surjective  $\forall b \in B \exists a \in A f(a)=b$.
 - bijection - injective and surjective OR $∀y∈B, ∃!x∈A, f(x)=y$
+
+
+
+
+
+
 
 
 graphs: 
@@ -78,6 +86,10 @@ graphs:
 	$f: G_{1}(V_{1}) \to G_{2}(V_{2})$ such that $(u,v)$ is an edge in $E(G_{1})$ exactly as many times as $(f(u),f(v))$ is an edge in $E(G_{2})$
 	This mapping must preserve multiplicity of edges and non edges.
 	If an isomorphism exists between two graphs, we say that they are **isomorphic**.
+
+
+
+
 
 
 Mistakes: 

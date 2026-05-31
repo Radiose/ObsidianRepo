@@ -3,7 +3,7 @@
 ---
 two's complement 
 We fix a number of bits, say *t* to use for each integer. A string of *t* bits $d_{1} d_{2}\dots d_{t}$ is interpreted as a number in one of two ways, depending on the value of $d_{1}$.
-if $d_{1}$ = 0, then the bit string (1$d_{2}d_{3}\dots d_{t}$) represents $(d_{2}d_{3}\dots d_{t})_{2}-2^{t-1}$. This is equivilanet to negative \[$(e_{2}e_{3}\dots e_{t})+001_{2}$]
+if $d_{1}$ = 0, then the bit string (1$d_{2}d_{3}\dots d_{t}$) represents $(d_{2}d_{3}\dots d_{t})_{2}-2^{t-1}$. This is equivalent to negative \[$(e_{2}e_{3}\dots e_{t})+001_{2}$]
 where 
 e, if $d_{1}=0$, is one or if $d_{1}=1$, then its zero. 
 
