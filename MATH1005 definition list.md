@@ -70,6 +70,11 @@ a sequence of several adjacent **bytes** is called a word. The number of bytes v
 
 
 
+$P:S→\mathbb{Q}^+$  $X:S→\mathbb{Q}$
+The random variable maps an element in the sample space to an outcome. For example, this job maps to this life outcome.
+
+
+For a [[Sample space]] S with probability [[Density function]] P. $E,F \in \mathcal{P}(S)$ are called *independent* events when $\mathbb{P}(E \cap F)=\mathbb{P}(E)\times \mathbb{P}(F)$
 
 
 
