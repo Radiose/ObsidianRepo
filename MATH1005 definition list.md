@@ -129,3 +129,7 @@ $+ 1$ - for empty set
  sum these together for the final answer 
 
 
+
+More graph counting: 
+Number of edges in a [[Complete graph]]: $\begin{pmatrix}n  \\ 2\end{pmatrix}$
+The amount of possible ways edges can be arranged with n vertices $2^{\begin{pmatrix}n  \\ 2\end{pmatrix}}$

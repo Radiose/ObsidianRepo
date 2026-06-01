@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005 definition list.md",
+                "file": "MATH1005/Week 10/Handshake theorem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1005 definition list"
+              "title": "Handshake theorem"
             }
           },
           {
@@ -289,8 +289,9 @@
   },
   "active": "de5676153c2ef4a7",
   "lastOpenFiles": [
-    "MATH1013 revision sheet.md",
+    "MATH1005/Week 10/Euler Circuit.md",
     "MATH1005 definition list.md",
+    "MATH1013 revision sheet.md",
     "MATH1005/Week 10/Complete graph.md",
     "MATH1005/Week 10/Simple graphs and digraphs.md",
     "MATH1005/Week 10/Connected graph.md",
@@ -314,7 +315,6 @@
     "BIOL2161/Week 4/Intrinsic termination.md",
     "BIOL2161/Week 4/Rho dependent termination.md",
     "BIOL2161/Week 1/Introductory lecture.md",
-    "MATH1005/Week 4/MATH1005 16.03.2026.md",
     "attachments/Pasted image 20260526155713.png",
     "attachments/Pasted image 20260526155042.png",
     "attachments/Pasted image 20260526153815.png",

@@ -1,6 +1,6 @@
 Euler [[Circuit]]
 A circuit that passes through every edge
-A euler circuit exists IFF each of its vertices have an odd degree 
+A euler circuit exists IFF each of its vertices have an even degree 
 
 We have a simple algorithm for locating [[Euler Circuit]]s
 As we cross an edge, we mark it as used/remove it
