@@ -62,3 +62,5 @@ $= (α/n)1 + (1 − α)TP_{k−1}$
 where 1 is a column of 1's. Its natural to start with all ranks equal. So, the iterative scheme is 
 $P_{0} = (1/n)1; P_{k} = αP_{0} + (1 − α)TP_{k−1}, k ≥ 1$
 So, the first initial vector is just evenly spread between the number of webpages, so 4 pages results in $p_{0}$ looking like 0.25 
+
+
