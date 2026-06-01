@@ -6,8 +6,9 @@ this is the shortest standard
 
 $(-1)^s \times m \times 2^n$
 the sign bit is left most
-mantissa is at least one and is less than 2. Only store the decimals that come after the binary point. (1.44) = (44). 
+mantissa is at least o[[MATH1013 revision sheet]]ne and is less than 2. Only store the decimals that come after the binary point. (1.44) = (44). 
 The exponent n is stored in the 5 digits in between bits (14 to 10).
+n + 15 should equal the result in the 5 digits. 
 
 For example
 
