@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 10/graph.md",
+                "file": "MATH1005 definition list.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "graph"
+              "title": "MATH1005 definition list"
             }
           },
           {
@@ -289,6 +289,13 @@
   },
   "active": "de5676153c2ef4a7",
   "lastOpenFiles": [
+    "MATH1013 revision sheet.md",
+    "MATH1005 definition list.md",
+    "MATH1005/Week 10/Complete graph.md",
+    "MATH1005/Week 10/Simple graphs and digraphs.md",
+    "MATH1005/Week 10/Connected graph.md",
+    "MATH1005/Week 10/graph.md",
+    "connecge.md",
     "MATH1005/Week 3/directed graph.md",
     "MATH1005/Week 8/permutation.md",
     "MATH1005/Week 7/pigeonhole principle.md",
@@ -308,13 +315,6 @@
     "BIOL2161/Week 4/Rho dependent termination.md",
     "BIOL2161/Week 1/Introductory lecture.md",
     "MATH1005/Week 4/MATH1005 16.03.2026.md",
-    "MATH1005/Week 4/Representing rational numbers in a computer.md",
-    "MATH1005 definition list.md",
-    "MATH1005/Week 4/Modular arithmetic.md",
-    "MATH1005/Week 4/two's complement.md",
-    "MATH1005/Week 8/MATH1005 28.04.2026.md",
-    "MATH1005/Week 11/dijkstra's algorithm.md",
-    "MATH1005/Week 2/powerset.md",
     "attachments/Pasted image 20260526155713.png",
     "attachments/Pasted image 20260526155042.png",
     "attachments/Pasted image 20260526153815.png",
