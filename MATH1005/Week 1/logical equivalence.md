@@ -5,7 +5,7 @@ LOGICAL EQUIVALENCE:
 
 Logical equivalence is essentially the same thing as algebraically simplifying things. 
 
-Logical equivalence is achieved by two statement forms having identical [[TRUTH TABLES]].
+Logical equivalence is achieved by two statement forms having identical [[TRUTH TABLE]].
 
 Knowing logical equivalence helps to simplify complex statements into simpler ones.
 

@@ -4,6 +4,9 @@
 - P is a necessary condition for Q means $\neg p \implies \neg q$
 - Predicate: a sentence containing one or more variables with the property that, when a value from a specified domain is given to each variable, the sentence becomes a [[Statement]]. The specified domain is the domain of the predicate.
 
+
+
+
 - Pairwise disjoint: Two [[set]]s are **disjoint** when $a \cap B = \emptyset$. This means that there are no elements in both sets. 
 	Given a set of sets $\mathcal{S}$, the sets in S are said to be in pairwise disjoint when 
 	$\forall a,b \subset S | a\not=b$ and $a \cap b = \emptyset$

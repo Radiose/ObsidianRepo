@@ -14,10 +14,4 @@ A fixed stochastic matrix, $T \in M_{k}(\mathbb{Q}_{\ge {0}})$ labelled the [[Tr
 - Probability [[vector]]: has non negative entries that sum to 1
 - Stochastic matrix: square matrix such that all columns are probability vectors. Is denoted as positive if all entries are non zero. Denoted as T. 
 - [[Steady state vector]]
-Perron-Frobenius [[theorem]]:
-Let T be a stochastic matrix. If T, or some power of T is a positive matrix, then 
-
-- there exists a **unique** steady state probability vector V with respect to T
-- as $n \to \infty$, $T^n$ converges to the $n \times n$ [[Matrix]] where all columns are V 
-- For any initial probability vector, the [[Sequence]] $V_{0}, TV_{0},T^2V_{0}\dots$ converges to V 
-
+![[Perron-Frobenius theorem]]
