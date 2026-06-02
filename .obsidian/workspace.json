@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 9/Markov process.md",
+                "file": "MATH1005/Week 7/pigeonhole principle.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Markov process"
+              "title": "pigeonhole principle"
             }
           },
           {
@@ -304,13 +304,18 @@
   },
   "active": "c805164d54d14820",
   "lastOpenFiles": [
+    "MATH1005/Week 10/Tree.md",
+    "MATH1005/Week 3/Injective Function.md",
+    "MATH1005 definition list.md",
+    "MATH1005/Week 7/countably infinite.md",
+    "MATH1005/Week 7/pigeonhole principle.md",
+    "MATH1005/Week 6/Identity matrix.md",
+    "MATH1005/Week 9/Markov process.md",
     "MATH1005/Week 1/Functional completeness.md",
     "MATH1005/Week 1/TRUTH TABLE.md",
     "MATH1005/Week 1/predicate.md",
-    "MATH1005 definition list.md",
     "MATH1005/Week 11/PageRank algorithm.md",
     "MATH1005/Week 9/Perron-Frobenius theorem.md",
-    "MATH1005/Week 9/Markov process.md",
     "MATH1005/Week 9/MATH1005 05.05.2026.md",
     "MATH1005/Week 9/Bayes theorem.md",
     "MATH1005/Week 9/Transition Matrix.md",
@@ -321,15 +326,10 @@
     "MATH1005/Week 10/Euler Path.md",
     "MATH1005/Week 10/Connected graph.md",
     "MATH1005/Week 7/set counting.md",
-    "MATH1005/Week 10/Tree.md",
     "BIOL2161/Week 12/BIOL2161 25.05.2026.md",
     "BIOL2161/Week 8/CRISPR.md",
     "MATH1013/Linear algebra/Week 6/Surjective transformation.md",
     "MATH1013/Linear algebra/Week 6/Range of a transformation.md",
-    "MATH1013/Linear algebra/Week 5/Column space.md",
-    "MATH1013/Linear algebra/Week 5/Basis of a column space.md",
-    "MATH1013/Linear algebra/Week 2/Span.md",
-    "MATH1013 revision sheet.md",
     "attachments/Pasted image 20260526155713.png",
     "attachments/Pasted image 20260526155042.png",
     "attachments/Pasted image 20260526153815.png",
