@@ -14,6 +14,7 @@ iv) T contains no non trivial [[Circuit]], but the addition of a single edge con
 
 
 
+
 Every [[Connected graph]] has a [[Spanning Tree]]
 Any two [[Spanning Tree]]s for a graph have the same number of edges
 
