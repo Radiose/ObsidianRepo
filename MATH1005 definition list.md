@@ -156,4 +156,4 @@ We are literally counting. For example, the amount of complete graphs with one n
 
 
 
-TOMORROW: Both exams on studocu - Dijstras algoerithm inputs outputs etc 
+TOMORROW: Both exams on studocu - Dijstras algoerithm inputs outputs etc  - independence, random variables, expected values etc. 
