@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005 definition list.md",
+                "file": "MATH1005/Week 10/Complete graph.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1005 definition list"
+              "title": "Complete graph"
             }
           },
           {
@@ -304,9 +304,9 @@
   },
   "active": "c805164d54d14820",
   "lastOpenFiles": [
+    "MATH1005 definition list.md",
     "Z_MATH help/MATH1005 midsem rundown.md",
     "MATH1005/Week 3/directed graph.md",
-    "MATH1005 definition list.md",
     "MATH1005/Week 10/Tree.md",
     "MATH1005/Week 10/Bipartite graph.md",
     "MATH1005/Week 10/Complete graph.md",
