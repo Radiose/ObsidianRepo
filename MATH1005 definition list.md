@@ -153,3 +153,7 @@ The amount of possible ways edges can be arranged with n vertices $2^{\begin{pma
 
 A very important thing about counting: 
 We are literally counting. For example, the amount of complete graphs with one node removed is the same as the amount of ways to remove one node from a complete graph. 
+
+
+
+TOMORROW: Both exams on studocu - Dijstras algoerithm inputs outputs etc 
