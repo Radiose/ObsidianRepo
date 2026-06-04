@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 10/Isomorphism.md",
+                "file": "MATH1005/Week 9/Markov process.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Isomorphism"
+              "title": "Markov process"
             }
           },
           {
@@ -304,6 +304,8 @@
   },
   "active": "c805164d54d14820",
   "lastOpenFiles": [
+    "MATH1005/Week 9/Conditional probability.md",
+    "MATH1005/Week 10/Isomorphism.md",
     "MATH1005/Week 10/Circuit.md",
     "MATH1005/Week 11/Minimal Spanning Tree.md",
     "MATH1005/Week 10/Hamilton Circuit.md",
@@ -328,8 +330,6 @@
     "MATH1005/Week 8/Density function.md",
     "MATH1005/Week 5/Geometric Sequence.md",
     "MATH1005/Week 5/implicit definition of a sequence.md",
-    "MATH1005/Week 5/Index permutation.md",
-    "MATH1005/Week 10/Complete graph.md",
     "attachments/Pasted image 20260526155713.png",
     "attachments/Pasted image 20260526155042.png",
     "attachments/Pasted image 20260526153815.png",
