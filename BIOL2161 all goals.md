@@ -16,3 +16,8 @@ one recognised GT bonds for [[Implications of Deamination of methyl cytosine.]]
 Base excision repair - uses DNA polymerase beta 
 T:G mismatches can escape base excision repair
 ![[Pasted image 20260605152756.png]]
+
+![[Pasted image 20260605153444.png]]
+![[Pasted image 20260605153545.png]]
+
+
