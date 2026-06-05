@@ -46,3 +46,6 @@ EG $\sqrt{ 2x+1 }$
 We fix domain to be all number ST 2x+1 is greater than or equal to zero 
 remember that $(\sqrt{ x })^2=|x|$
 Always verify that 
+
+
+Critical points: A point c in the domain of f such that f'(c) = 0 OR f'(c) DNE. 
