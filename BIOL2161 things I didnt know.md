@@ -42,3 +42,31 @@ A mutation only arises if the damage is not repaired and the change to DNA is
 inherited
 
 The human genome encodes >130 genes for DNA repair proteins 
+
+
+Replication of linear DNA 
+Initiated at multiple origins of replication 
+Bidirectional forks move towards each other, creating replicon bubbles 
+
+Initiation of DNA replication requires many different proteins
+ Initiator proteins
+ Helicase (unwinds the DNA double helix, breaks the hydrogen
+Bonds)
+ Topoisomerase (gyrase) (Relieves twisting stress, supercoiling)
+ Single strand binding protein
+
+AT rich replications of origin 
+Cells usually maintain DNA in a slightly
+negatively supercoiled state - [[Topoisomerase]] gyrases 
+
+only POL I has 5-3 exonuclease activity in eukaryotes to remove RNA primers. DNA pol ε on the leading strand and on the lagging strand DNA pol δ - no 5-3' exonuclease 
+
+Deamination of uracil: 
+CG pair to CU - which after replication is changed to TA - 
+
+Nucleosomes are broken down into their component histones and removed
+ They rapidly re-assemble in replication bubbles using a mix of old and newly
+synthesised histones
+
+![[Pasted image 20260606163436.png]]
+put into notes regarding recombinant expression 
