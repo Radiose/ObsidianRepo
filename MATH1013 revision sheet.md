@@ -49,3 +49,7 @@ Always verify that
 
 
 Critical points: A point c in the domain of f such that f'(c) = 0 OR f'(c) DNE. 
+
+
+![[Pasted image 20260606141431.png]]
+One and two are circles with the equaion 
