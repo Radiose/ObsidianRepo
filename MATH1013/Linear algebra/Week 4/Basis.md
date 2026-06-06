@@ -16,6 +16,13 @@ Intuitively, this can be demonstrated through the following
 $m<n \iff span\{ v_{1} v_{2}\dots v_{m}\} \not= \mathbb{R}^n$ - every vector in R has to expressed 
 when m > n, $\{ v_{1},v_{2}\dots v_{m} \}$ is [[Linearly dependent]].  - has to be unique. The map is not [[Injective Function|injective]].
 
+
+## Expressing a vector with respect to a basis 
+
+If you think about matrices as systems of linear equations, and a basis as a possible way to represent a space, then you can use a basis to represent a vector. If a basis is $\mathcal{B}$, then finding the weights to represent in terms of $\mathcal{B}$ is simply a method of solving $\mathcal{B}\vec{c}=\vec{v}$.
+
+
+
 Consequences of basis:
 
 A basis B of H must satisfy:

@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Linear algebra/Week 4/Basis.md",
+                "file": "MATH1013/Linear algebra/Week 3/parametric vector form.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Basis"
+              "title": "parametric vector form"
             }
           },
           {
@@ -334,6 +334,7 @@
   },
   "active": "93832f4dfffaac2e",
   "lastOpenFiles": [
+    "MATH1013/Linear algebra/Week 4/Basis.md",
     "MATH1013/Calculus/Week 5/mean value theorem.md",
     "MATH1005/Week 4/The discrete logarithm problem.md",
     "MATH1013 revision sheet.md",
@@ -366,7 +367,6 @@
     "MATH1005/Week 10/Hamilton Circuit.md",
     "MATH1005/Week 10/Spanning Tree.md",
     "MATH1005/Week 10/Connected graph.md",
-    "MATH1005/Week 10/Hamilton Path.md",
     "attachments/Pasted image 20260526155713.png",
     "attachments/Pasted image 20260526155042.png",
     "attachments/Pasted image 20260526153815.png",
