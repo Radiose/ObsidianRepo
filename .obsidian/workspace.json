@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIOL2161 things I didnt know.md",
+                "file": "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "BIOL2161 things I didnt know"
+              "title": "The fundamental theorem of calculus"
             }
           },
           {
@@ -334,13 +334,17 @@
   },
   "active": "1fe9ce2b9742f455",
   "lastOpenFiles": [
+    "MATH1005/Week 6/Matrix multiplication.md",
+    "MATH1013/Linear algebra/Week 7/MATH1013 22.04.2026.md",
+    "MATH1013/Linear algebra/Week 7/Determining the standard matrix of rotations.md",
+    "MATH1013/Calculus/Week 4/Fermat's theorem.md",
+    "BIOL2161 things I didnt know.md",
     "attachments/Pasted image 20260606171603.png",
     "BIOL2161/Week 3/Telomere.md",
     "BIOL2161/Week 8/Transcription factor.md",
     "BIOL2161/Week 9/BIOL2161 05.05.2026.md",
     "BIOL2161/Week 10/Alu element.md",
     "BIOL2161/Week 9/Copy number variation.md",
-    "BIOL2161 things I didnt know.md",
     "attachments/Pasted image 20260606163436.png",
     "BIOL2161 all goals.md",
     "attachments/Pasted image 20260606161526.png",
@@ -360,16 +364,12 @@
     "MATH1005/Week 4/The discrete logarithm problem.md",
     "MATH1013/Calculus/Week 4/Critical point of a function.md",
     "MATH1013/Calculus/Week 5/Rolles theorem.md",
-    "MATH1013/Calculus/Week 8/mean value theorem for integrals.md",
     "attachments/Pasted image 20260605153545.png",
     "attachments/Pasted image 20260605153444.png",
-    "BIOL2161/Week 2/homologous recombination.md",
     "attachments/Pasted image 20260605152756.png",
     "attachments/Pasted image 20260605145421.png",
     "attachments/Pasted image 20260605143920.png",
     "attachments/Pasted image 20260605143901.png",
-    "attachments/Pasted image 20260605142438.png",
-    "MATH1013/Calculus/Week 4/Linear approximation.md",
     "attachments/Ink/Drawing/2026.5.25 - 14.51pm.drawing",
     "attachments/Ink/Drawing/2026.5.24 - 14.58pm.drawing",
     "attachments/Ink/Drawing/2026.5.24 - 14.40pm.drawing",
