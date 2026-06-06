@@ -70,3 +70,20 @@ synthesised histones
 
 ![[Pasted image 20260606163436.png]]
 put into notes regarding recombinant expression 
+
+
+DNA polymerases cannot start DNA synthesis de novo. They require a pre-existing 3′-OH group. Cells use a specialized enzyme (primase) that makes a short RNA primer to provide that 3′-OH 
+
+IE - primase is used in all DNA replication to provide 3'OH - POLI uses 5'3 exo activity to remove primers 
+
+URACIL : less energy to make than thymine 
+
+
+Prokaryotes: DNA is circular, compacted into the nucleoid using supercoiling and DNA-
+binding proteins.
+
+[[Telomere]]s:
+ The last RNA primer at the 5’ end of the lagging strand cannot be replaced by
+DNA. There is no upstream 3’ OH group for DNA polymerase to extend from. This creates loss of DNA 
+![[Pasted image 20260606171603.png]]
+
