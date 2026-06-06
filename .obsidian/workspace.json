@@ -118,13 +118,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
+                "file": "MATH1013/Linear algebra/Week 8/MATH1013 29.04.2026.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "The fundamental theorem of calculus"
+              "title": "MATH1013 29.04.2026"
             }
           },
           {
@@ -334,6 +343,11 @@
   },
   "active": "1fe9ce2b9742f455",
   "lastOpenFiles": [
+    "MATH1013/Calculus/Week 2/continuous function.md",
+    "MATH1005/Week 1/theorem.md",
+    "MATH1005/Week 9/Perron-Frobenius theorem.md",
+    "MATH1013 revision sheet.md",
+    "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
     "MATH1005/Week 6/Matrix multiplication.md",
     "MATH1013/Linear algebra/Week 7/MATH1013 22.04.2026.md",
     "MATH1013/Linear algebra/Week 7/Determining the standard matrix of rotations.md",
@@ -355,15 +369,10 @@
     "MATH1005/Week 3/Injective Function.md",
     "MATH1013/Linear algebra/Week 1/row echelon form.md",
     "MATH1013/Linear algebra/Week 6/Standard Matrix.md",
-    "MATH1013 revision sheet.md",
     "attachments/Pasted image 20260606141431.png",
     "MATH1013/Calculus/Week 7/binding an integral.md",
     "MATH1013/Linear algebra/Week 3/parametric vector form.md",
     "MATH1013/Linear algebra/Week 4/Basis.md",
-    "MATH1013/Calculus/Week 5/mean value theorem.md",
-    "MATH1005/Week 4/The discrete logarithm problem.md",
-    "MATH1013/Calculus/Week 4/Critical point of a function.md",
-    "MATH1013/Calculus/Week 5/Rolles theorem.md",
     "attachments/Pasted image 20260605153545.png",
     "attachments/Pasted image 20260605153444.png",
     "attachments/Pasted image 20260605152756.png",
