@@ -1,3 +1,6 @@
+MOD 1:
+
+
 Purine pyrimidine structures 
 DNA exact structure 
 Substrates for DNA synthesis are in the
@@ -71,6 +74,8 @@ synthesised histones
 ![[Pasted image 20260606163436.png]]
 put into notes regarding recombinant expression 
 
+Also write down all 6 levels of chromatin 
+
 
 DNA polymerases cannot start DNA synthesis de novo. They require a pre-existing 3′-OH group. Cells use a specialized enzyme (primase) that makes a short RNA primer to provide that 3′-OH 
 
@@ -87,3 +92,27 @@ binding proteins.
 DNA. There is no upstream 3’ OH group for DNA polymerase to extend from. This creates loss of DNA 
 ![[Pasted image 20260606171603.png]]
 
+
+
+
+DNA in organelles: 
+Mitochondria: Guanine is heavier than cytosine, causing it to be less bouyant that cytosine, giving it the heavy name 
+
+Write down mitotic spindle transfer and replacement therapy on 1.6 
+
+Werner syndrome, Dyskeratosis congenita 
+
+
+
+MOD 2:
+Protein encoding gene - start and stop codons - important to remember 
+Transcription unit - coding region 
+
+Holoenzyme - sigma factors create complex with POL that can actually recognise the promoter 
+sigma factor release induces comformational change 
+
+![[Pasted image 20260607163244.png]]
+
+Catabolite repression 
+
+tandemntly repeated DNA - packs chromatin tighter 
