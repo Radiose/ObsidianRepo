@@ -22,7 +22,7 @@ we create a [[Transition Matrix]]
   A     M    S
 $\begin{bmatrix}0.0\ \   0.4\ \ 0.6 |A \\ \ \  0.6  \ \ 0.1 \ \ 0.2 |M\ \  \\0.4\ \ 0.5\ \ 0.2| S\end{bmatrix}$
 An important [[theorem]]:
-If the columns of C add up to 1, then $(I_{n}-C)\begin{pmatrix}x_{1} \\ x_{2} \\ x_{3}\end{pmatrix}$ is *not* invertible. If ($I_{n}-c$) is not invertible, then there is no solution. Recall this from [[Proving an Inverse matrix]].
+If the columns of C add up to 1, then $(I_{n}-C)\begin{pmatrix}x_{1} \\ x_{2} \\ x_{3}\end{pmatrix}$ is *not* invertible. If ($I_{n}-c$) is not invertible, then there is no solution. Recall this from [[Invertible matrix theorem]].
 # productive economic model  
 A productive model is where it requires less than one unit of total input(sum of column) to get a single unit of output. Suppose we have a productive economy, where every column sums to less than 1.
 

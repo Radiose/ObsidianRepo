@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Calculus/Week 9/Inverse trigonometric function.md",
+                "file": "MATH1005/Week 6/Inverse matrix.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Inverse trigonometric function"
+              "title": "Inverse matrix"
             }
           }
         ],
@@ -319,17 +319,22 @@
   },
   "active": "a6a7c1ce962b5b61",
   "lastOpenFiles": [
-    "MATH1013 revision sheet.md",
+    "MATH1013/Linear algebra/Week 5/Column space.md",
+    "MATH1013/Linear algebra/Week 6/Range of a transformation.md",
+    "MATH1013/Linear algebra/Week 8/MATH1013 29.04.2026.md",
+    "MATH1013/Linear algebra/Week 5/Rank nullity theorem.md",
+    "MATH1005/Week 1/theorem.md",
+    "MATH1013/Linear algebra/Week 5/Basis of a column space.md",
+    "MATH1013/Linear algebra/Week 8/Invertible matrix theorem.md",
     "MATH1013/Calculus/Week 9/Inverse trigonometric function.md",
+    "MATH1013 revision sheet.md",
     "MATH1013/Calculus/Week 8/Inverse function.md",
     "Z_MATH help/math1013 math tricks.md",
     "BIOL2161 things I didnt know.md",
     "MATH1005/Week 3/function.md",
     "MATH1005/Week 4/IEEE half precision floating point.md",
     "MATH1013/Calculus/Week 7/Integration by parts.md",
-    "MATH1013/Linear algebra/Week 8/MATH1013 29.04.2026.md",
     "MATH1013/Calculus/Week 2/continuous function.md",
-    "MATH1005/Week 1/theorem.md",
     "MATH1005/Week 9/Perron-Frobenius theorem.md",
     "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
     "MATH1005/Week 6/Matrix multiplication.md",
@@ -341,13 +346,8 @@
     "BIOL2161/Week 8/Transcription factor.md",
     "BIOL2161/Week 9/BIOL2161 05.05.2026.md",
     "BIOL2161/Week 10/Alu element.md",
-    "BIOL2161/Week 9/Copy number variation.md",
     "attachments/Pasted image 20260606163436.png",
-    "BIOL2161 all goals.md",
     "attachments/Pasted image 20260606161526.png",
-    "BIOL2161 16.03.2026.md",
-    "MATH1005/Week 2/set.md",
-    "BIOL2161/Week 2/Deamination.md",
     "attachments/Pasted image 20260606141431.png",
     "attachments/Pasted image 20260605153545.png",
     "attachments/Pasted image 20260605153444.png",
