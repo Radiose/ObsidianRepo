@@ -2,7 +2,7 @@
 aliases:
   - FTC
 ---
-	The fundamental [[theorem]] of calculus
+The fundamental [[theorem]] of calculus
 
 # Part I
 let a function $f$ be [[continuous function|continuous]] on $[a,b]$. Let $g : [a,b] \to \mathbb{R}$ be the [[function]] that evaluates to the [[Definite integral]] from $a$  to $x$ of $f(x)$. 
@@ -12,7 +12,7 @@ $g(x) = \int_{a}^xf(t) dt$
 Then, $g$ is the [[Indefinite integral|antiderivative]] of the function $f$ on $[a,b]$. ($g'(x)=f(x)$)
 
 Because of this, g(x) can be interpreted as the net area on $[a,x]$ between the $t$ axis and the graph $y =f(t)$. The net area so far function. 
-
+	
 
 Remarks:
 This part of the FTC tells us that every [[function]] defined as an [[Definite integral|integral]] is differentiable, and that the derivative of that function is equal to the integrand. 

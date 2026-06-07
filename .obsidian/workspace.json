@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Calculus/Week 10/L'Hopital's rule.md",
+                "file": "MATH1013/Calculus/Week 10/Numerical integration.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "L'Hopital's rule"
+              "title": "Numerical integration"
             }
           },
           {
@@ -319,6 +319,17 @@
   "active": "579cf662b0b31ab2",
   "lastOpenFiles": [
     "MATH1013 revision sheet.md",
+    "MATH1013/Calculus/Week 9/Inverse trigonometric function.md",
+    "MATH1013/Calculus/Week 8/Applications of The fundamental theorem of calculus.md",
+    "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
+    "MATH1013/Calculus/Week 11/Separable ODE.md",
+    "MATH1013/Calculus/Week 9/MATH1013 05.05.2026.md",
+    "MATH1013/Calculus/Week 9/Eulers number and the exponential.md",
+    "MATH1013/Calculus/Week 8/Integrating rates of change.md",
+    "MATH1013/Calculus/Week 8/Odd and even functions.md",
+    "MATH1013/Calculus/Week 8/Chain rule.md",
+    "MATH1013/Calculus/Week 8/MATH1013 28.04.2026.md",
+    "MATH1013/Calculus/Week 10/L'Hopital's rule.md",
     "MATH1013/Calculus/Week 9/Natural logarithm.md",
     "MATH1013/Complex numbers/Fundamental theorem of algebra.md",
     "MATH1005/Week 7/pigeonhole principle.md",
@@ -334,17 +345,6 @@
     "MATH1013/Linear algebra/Week 6/Range of a transformation.md",
     "MATH1013/Linear algebra/Week 8/MATH1013 29.04.2026.md",
     "MATH1013/Linear algebra/Week 5/Rank nullity theorem.md",
-    "MATH1005/Week 1/theorem.md",
-    "MATH1013/Linear algebra/Week 5/Basis of a column space.md",
-    "MATH1013/Linear algebra/Week 8/Invertible matrix theorem.md",
-    "MATH1013/Calculus/Week 9/Inverse trigonometric function.md",
-    "MATH1013/Calculus/Week 8/Inverse function.md",
-    "Z_MATH help/math1013 math tricks.md",
-    "MATH1005/Week 3/function.md",
-    "MATH1005/Week 4/IEEE half precision floating point.md",
-    "MATH1013/Calculus/Week 7/Integration by parts.md",
-    "MATH1013/Calculus/Week 2/continuous function.md",
-    "MATH1005/Week 9/Perron-Frobenius theorem.md",
     "attachments/Pasted image 20260606171603.png",
     "attachments/Pasted image 20260606163436.png",
     "attachments/Pasted image 20260606161526.png",

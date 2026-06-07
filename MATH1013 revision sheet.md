@@ -69,3 +69,4 @@ $\ln(f(x))=\frac{f'(x)}{f(x)}$
 
 Remember to use implicit differentiation in logarithmic differentiation 
 Remember to resub y = initial equaiton when done.
+sub dx early in trig sub 
