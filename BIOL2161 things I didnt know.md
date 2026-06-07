@@ -119,3 +119,5 @@ can give same AA
 Catabolite repression 
 
 tandemntly repeated DNA - packs chromatin tighter 
+
+Plasmid DNA sometimes incorporated via homologous recombination
