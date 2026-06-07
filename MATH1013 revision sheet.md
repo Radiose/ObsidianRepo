@@ -55,3 +55,5 @@ Critical points: A point c in the domain of f such that f'(c) = 0 OR f'(c) DNE.
 One and two are circles with the equaion 
 
 Note that limits are in terms of one variable. lim h-> 0 f(x) when you use lhopitals rule will have f(x) = 0
+
+For IBP: Often, with e^X. the integrand is repeated, which allows you to fully solve. 
