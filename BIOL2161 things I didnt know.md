@@ -110,6 +110,9 @@ Transcription unit - coding region
 
 Holoenzyme - sigma factors create complex with POL that can actually recognise the promoter 
 sigma factor release induces comformational change 
+Genetic code 
+Is degenerate (wobble; several codes
+can give same AA
 
 ![[Pasted image 20260607163244.png]]
 
