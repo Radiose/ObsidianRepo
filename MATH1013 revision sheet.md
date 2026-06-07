@@ -58,6 +58,14 @@ Note that limits are in terms of one variable. lim h-> 0 f(x) when you use lhopi
 
 For IBP: Often, with e^X. the integrand is repeated, which allows you to fully solve. 
 
-Prove injectivity with always increasing derivatives. means function is strictly increasing, and thus injective 
+Can prove injectivity with always increasing derivatives. means function is strictly increasing, and thus injective 
 
 arcsin always takes off right side of unit circle 
+
+Revisit the lontief model 
+
+
+$\ln(f(x))=\frac{f'(x)}{f(x)}$
+
+Remember to use implicit differentiation in logarithmic differentiation 
+Remember to resub y = initial equaiton when done.
