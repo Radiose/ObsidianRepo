@@ -42,3 +42,11 @@ $\begin{bmatrix}30 \\ 60\end{bmatrix} = \begin{bmatrix} x_{a}  \\ x_{m}  \\ \end
 For this model, as long as $x_{a}$ and $x_{m}$ are not negative, we can say that there is a solution. There is not simple theorem we can use for this, as the columns are neither summing to 1 or less than 1, so the previous theorems do not apply. The only way to do this is to solve it. 
 $(\begin{bmatrix} 10 \\ 01\end{bmatrix}-\begin{bmatrix}0.1\ \  0.2  \\ 0.5 \ \ 0.5\end{bmatrix})\cdot \begin{bmatrix}x_{a} \\ x_{m}\end{bmatrix}=\begin{bmatrix}30  \\ 60\end{bmatrix}$
 Note that the first matrix is the [[Identity matrix]].
+
+
+To make it simple: 
+$x = Cx+d$
+$\implies x -cx = d$
+$\implies Ix-Cx=d$
+$\implies (I-C)x = d$
+You can solve for X given d using an inverted matrix. 
