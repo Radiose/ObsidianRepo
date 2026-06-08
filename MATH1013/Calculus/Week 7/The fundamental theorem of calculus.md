@@ -71,7 +71,7 @@ $F(x_{n})-F(x_{0})$ = $F(x_{n})-F(x_{n-1})+F(x_{n-1})\dots -F(x_{1})+F(x_{1})-F(
 This is because $-F(x_{n-1})+F(x_{n-1})$=0, so we aren't changing anything 
 
 Rewriting this 
-$(F(x_{n})-F(x_{n-1}))+(F(x_{n-1})-F(x_{n-2}))\dots+(F(x_{1})-F(x_{2}))$
+$(F(x_{n})-F(x_{n-1}))+(F(x_{n-1})-F(x_{n-2}))\dots+(F(x_{1})-F(x_{2}))+(F(x_{1})-F(x_{0}))$
 
 Recall that 
 $F(x_{i})-F(x_{i-1})=f(x_{i}^*)\Delta x$

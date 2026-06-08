@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Calculus/Week 9/Natural logarithm.md",
+                "file": "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Natural logarithm"
+              "title": "The fundamental theorem of calculus"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013 revision sheet.md",
+                "file": "MATH1013/Complex numbers/Fundamental theorem of algebra.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1013 revision sheet"
+              "title": "Fundamental theorem of algebra"
             }
           },
           {
@@ -125,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -314,17 +314,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c805164d54d14820",
+  "active": "de5676153c2ef4a7",
   "lastOpenFiles": [
+    "MATH1013/Calculus/Week 9/Natural logarithm.md",
+    "MATH1013/Complex numbers/Fundamental theorem of algebra.md",
+    "MATH1013 revision sheet.md",
     "MATH1013/Complex numbers/Geometric interpretation of complex numbers.md",
     "MATH1013/Complex numbers/Inverse complex numbers.md",
     "MATH1013/Complex numbers/complex numbers defined as a linear transformation.md",
     "MATH1013/Complex numbers/Roots of unity.md",
     "Excalidraw/MATH1013 complex numbers assignment.excalidraw.md",
     "MATH1013/Complex numbers/matching inverse complex numbers to inverse matrices.md",
-    "MATH1013/Complex numbers/Fundamental theorem of algebra.md",
     "MATH1013/Calculus/Week 8/Applications of The fundamental theorem of calculus.md",
-    "MATH1013 revision sheet.md",
     "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
     "MATH1013/Complex numbers/Complex conjugate.md",
     "MATH1013/Complex numbers/Complex number.md",
@@ -334,7 +335,6 @@
     "MATH1005/Week 9/Steady state vector.md",
     "MATH1013/Linear algebra/Week 6/Injective transformation.md",
     "MATH1013/Linear algebra/Week 9/elementary Matrix.md",
-    "MATH1013/Calculus/Week 9/Natural logarithm.md",
     "BIOL2161 things I didnt know.md",
     "MATH1013/Linear algebra/Week 10/MATH1013 13.05.2026.md",
     "MATH1013/Calculus/Week 11/MATH1013 19.05.2026.md",
