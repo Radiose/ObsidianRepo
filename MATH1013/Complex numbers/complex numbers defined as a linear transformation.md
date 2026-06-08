@@ -1,4 +1,4 @@
-
+	
 
 We first aim to show that every [[Complex number]] $z=x+yi$ is in the $\mathbb{R}$ linear [[Span]] of 1 and i
 
@@ -38,7 +38,7 @@ Recall that the [[Standard Matrix]] is given by $[T(\vec{e_{1}}),T(\vec{e_{2}})]
 The coordinate of $x+yi$ under [[Basis]] $\mathcal{B}=\{1,i)$
 $x+yi = 1x+yi \implies [x+yi]_{B}= \begin{bmatrix} x  \\  y\end{bmatrix}$
 if $T = z: \mathbb{R}^2 \to \mathbb{R}^2$
-$\vec{e}_{1} = \begin{bmatrix}1  \\ 0\end{bmatrix}$ and $\vec{e_{2}} = \begin{bmatrix}0 \\ i\end{bmatrix}$
+$\vec{e}_{1} = \begin{bmatrix}1  \\ 0\end{bmatrix}$ and $\vec{e_{2}} = \begin{bmatrix}0 \\ 1\end{bmatrix}$
 
 Suppose $z = x+yi\ \ \ (x,y\in \mathbb{R})$
 $z(\vec{e}_{1})=z*1=z$

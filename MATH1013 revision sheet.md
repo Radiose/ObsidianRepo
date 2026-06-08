@@ -87,3 +87,5 @@ Remember that to get argument of complex number, arctan has a restricted domain 
 arcsin : -1 1 -> \[-pi/2 pi/2]
 	arccos: -1 1 -> \[0, pi] 
 	arctan: R -> (-pi/2 pi/2)
+
+
