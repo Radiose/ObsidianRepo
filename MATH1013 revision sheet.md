@@ -69,4 +69,14 @@ $\ln(f(x))=\frac{f'(x)}{f(x)}$
 
 Remember to use implicit differentiation in logarithmic differentiation 
 Remember to resub y = initial equaiton when done.
+
 sub dx early in trig sub 
+
+
+
+A quadrilateral is a parallelogram IFF it has two parallel sides that are congruent -find vectors between them 
+
+
+Determinant story: 
+We first talked about finding the area of a parallelogram 
+We 
