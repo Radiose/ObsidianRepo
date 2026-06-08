@@ -78,5 +78,5 @@ A quadrilateral is a parallelogram IFF it has two parallel sides that are congru
 
 
 Determinant story: 
-We first talked about finding the area of a parallelogram 
-We 
+We first talked about finding the area of a parallelogram in $\mathbb{R}^2$
+We did this through demonstrating proofs that the vectors are both linear 
