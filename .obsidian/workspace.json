@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Linear algebra/Week 9/LU factorisation.md",
+                "file": "MATH1013/Calculus/Week 10/Decomposition of rational functions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "LU factorisation"
+              "title": "Decomposition of rational functions"
             }
           }
         ],
@@ -319,8 +319,8 @@
   },
   "active": "a6a7c1ce962b5b61",
   "lastOpenFiles": [
-    "MATH1013/Linear algebra/Week 9/elementary Matrix.md",
     "MATH1013/Linear algebra/Week 9/LU factorisation.md",
+    "MATH1013/Linear algebra/Week 9/elementary Matrix.md",
     "BIOL2161/Week 4/plasmid.md",
     "BIOL2161 things I didnt know.md",
     "MATH1013/Linear algebra/Week 10/The determinant.md",

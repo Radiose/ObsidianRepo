@@ -4,7 +4,7 @@ Some examples of rational functions
 $\int \frac{6}{(x+10)^3}dx$ - this can be done with u substitution 
 
 Another one 
-$\int \frac{x}{x^2+2x+10}dx$ - use u substitution, except represent x as a multiple of derivative of the denominator. 
+$\int \frac{x}{x^2+2x+10}dx$ - use u substitution, except represent x as a multiple of derivative of the denominator.  Allows ln to be used 
 
 ### Terminology
 $f$ is a rational function if $f(x) = \frac{p(x)}{q(x)}$ where p and q are polynomials 
