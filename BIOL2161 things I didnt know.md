@@ -121,3 +121,9 @@ Catabolite repression
 tandemntly repeated DNA - packs chromatin tighter 
 
 Plasmid DNA sometimes incorporated via homologous recombination
+
+
+
+Eukaryote section :
+not all prokaryote genes are in operons, but 50-70% are  
+Mendelian, molecular, functional gene definitions 
