@@ -80,3 +80,10 @@ A quadrilateral is a parallelogram IFF it has two parallel sides that are congru
 Determinant story: 
 We first talked about finding the area of a parallelogram in $\mathbb{R}^2$
 We did this through demonstrating proofs that the vectors are both linear 
+Then showed scalars are linear 
+
+
+Remember that to get argument of complex number, arctan has a restricted domain from -pi/2 to pi/2. 
+arcsin : -1 1 -> \[-pi/2 pi/2]
+	arccos: -1 1 -> \[0, pi] 
+	arctan: R -> (-pi/2 pi/2)

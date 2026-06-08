@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Complex numbers/Roots of unity.md",
+                "file": "MATH1013 revision sheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Roots of unity"
+              "title": "MATH1013 revision sheet"
             }
           },
           {
@@ -316,16 +316,16 @@
   },
   "active": "c805164d54d14820",
   "lastOpenFiles": [
+    "MATH1013/Complex numbers/Geometric interpretation of complex numbers.md",
     "MATH1013/Complex numbers/Inverse complex numbers.md",
-    "MATH1013/Complex numbers/matching inverse complex numbers to inverse matrices.md",
     "MATH1013/Complex numbers/complex numbers defined as a linear transformation.md",
     "MATH1013/Complex numbers/Roots of unity.md",
     "Excalidraw/MATH1013 complex numbers assignment.excalidraw.md",
+    "MATH1013/Complex numbers/matching inverse complex numbers to inverse matrices.md",
     "MATH1013/Complex numbers/Fundamental theorem of algebra.md",
     "MATH1013/Calculus/Week 8/Applications of The fundamental theorem of calculus.md",
     "MATH1013 revision sheet.md",
     "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
-    "MATH1013/Complex numbers/Geometric interpretation of complex numbers.md",
     "MATH1013/Complex numbers/Complex conjugate.md",
     "MATH1013/Complex numbers/Complex number.md",
     "MATH1013/Linear algebra/Week 10/The determinant.md",
