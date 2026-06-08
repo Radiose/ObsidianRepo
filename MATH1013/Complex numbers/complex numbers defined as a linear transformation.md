@@ -8,7 +8,7 @@ That is, $Span_{\mathbb{R}}\{ 1,i \}=\{ x_{1}\times_{1} + x_{2}i | x_{1},x_{2} \
 # Proof of [[linearly independent |linear independence]]
 To demonstrate this rigorously, we have to show that 1 and $i$ are $\mathbb{R}$ [[linearly independent]]
 We prove this through the following [[Statement]]:
-If there is a [[Linear combination of vectors]] $a \times 1 + B \times i =0$ ($a,b \in \mathbb{R}$), we have to show that $a = b = 0$
+If there is a [[Linear combination of vectors]] $a \times 1 + b \times i =0$ ($a,b \in \mathbb{R}$), we have to show that $a = b = 0$
 This proof relies on the fact that $i^2 = -1$
 if $b = 0, \ a+bi = 0 \implies a =0$ so proven 
 
