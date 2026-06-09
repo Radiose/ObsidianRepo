@@ -132,3 +132,34 @@ Mendelian, molecular, functional gene definitions
 cannot access an exon attached to a promoter region unless you utilise that promoter region. For this reason, mRNA1 skips over [[Introns and exons|exon]] 1b. 
 
 write down polyadenylation and cap adding 
+
+
+
+Introns did not evolve because they are useful.
+Rather, they persist because they are not strongly selected
+against, and some have become useful.
+• Alternative splicing likely being the most important functional consequence of introns
+in complex eukaryotes.
+
+Generally, introns are being spliced out during
+transcription in the 5’ -> 3’ direction.
+However:
+• Significant fraction of introns at 3’ end is spliced out post-transcription
+
+
+
+
+the strength of the site, e.g. sequence conservation and composition
+• presence of enhancers and silencers in the RNA – enhancers promote nearby splicing sites, silencers
+do the opposite
+• transcription dynamics – speed of Pol II elongation phase – the faster the transcription the stronger the
+splicing site needs to be to be used
+
+Serine/Arginine-rich proteins (SR proteins) bind to splicing enhancers promoting assembly of
+spliceosome and activation of splicing. This results in exon inclusion.
+• Heterogeneous Nuclear Ribonucleoproteins (hnRNP proteins) bind to splicing silencers
+inhibiting assembly of spliceosome and deactivate splicing. This results in exon exclusion as
+the affected exon is ‘overlooked‘ and treated as part of the intron.
+• Presence of SR and hnRNP (and RNA-binding proteins) is cell-type and temporally specific.
+
+Poly a tail role in translation 
