@@ -2,7 +2,7 @@
 aliases:
   - determinant
 ---
-The determinant
+	The determinant
 
 # Motivation for the determinant 
 
