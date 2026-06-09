@@ -81,6 +81,8 @@ DNA polymerases cannot start DNA synthesis de novo. They require a pre-existing 
 
 IE - primase is used in all DNA replication to provide 3'OH - POLI uses 5'3 exo activity to remove primers 
 
+
+
 URACIL : less energy to make than thymine 
 
 
@@ -122,7 +124,7 @@ tandemntly repeated DNA - packs chromatin tighter
 
 Plasmid DNA sometimes incorporated via homologous recombination
 
-
+N terminus to C terminus of amino acids.
 
 Eukaryote section :
 not all prokaryote genes are in operons, but 50-70% are  
