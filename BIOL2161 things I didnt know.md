@@ -127,3 +127,8 @@ Plasmid DNA sometimes incorporated via homologous recombination
 Eukaryote section :
 not all prokaryote genes are in operons, but 50-70% are  
 Mendelian, molecular, functional gene definitions 
+
+
+cannot access an exon attached to a promoter region unless you utilise that promoter region. For this reason, mRNA1 skips over [[Introns and exons|exon]] 1b. 
+
+write down polyadenylation and cap adding 
