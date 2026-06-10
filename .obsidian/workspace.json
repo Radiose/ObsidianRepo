@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIOL2161 things I didnt know.md",
+                "file": "MATH1013/Calculus/Week 10/Decomposition of rational functions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "BIOL2161 things I didnt know"
+              "title": "Decomposition of rational functions"
             }
           },
           {
@@ -315,9 +315,9 @@
   },
   "active": "579cf662b0b31ab2",
   "lastOpenFiles": [
+    "BIOL2161 things I didnt know.md",
     "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
     "BIOL2161/Week 7/Alternative splicing.md",
-    "BIOL2161 things I didnt know.md",
     "MATH1013/Linear algebra/Week 9/elementary Matrix.md",
     "MATH1013/Calculus/Week 11/volumes of shapes via integration.md",
     "MATH1013/Calculus/Week 6/Riemann sum.md",
