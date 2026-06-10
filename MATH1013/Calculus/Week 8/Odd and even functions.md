@@ -51,3 +51,4 @@ $\int_{-a}^a\sin(x)=0$, because sin is an **odd** function
 $\int_{-a}^a\cos(x)=2\int_{0}^a\cos(x)$, because cos is an **even** function.
 
 
+

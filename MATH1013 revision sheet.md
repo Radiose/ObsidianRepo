@@ -44,7 +44,7 @@ Recall that you fix a codomain to make a function surjective.
 Sometimes you also have to fix the domain. 
 EG $\sqrt{ 2x+1 }$
 We fix domain to be all number ST 2x+1 is greater than or equal to zero 
-remember that $(\sqrt{ x })^2=|x|$
+remember that $(\sqrt{ x })^2=x$, and $\sqrt{ x^2 }= |x|$
 Always verify that 
 
 
