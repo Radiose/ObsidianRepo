@@ -53,6 +53,21 @@
             }
           },
           {
+            "id": "df99c62d643fbb03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP1110 things I didnt know.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "COMP1110 things I didnt know"
+            }
+          },
+          {
             "id": "d6c12699282222f3",
             "type": "leaf",
             "state": {
@@ -125,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -314,8 +329,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c805164d54d14820",
+  "active": "df99c62d643fbb03",
   "lastOpenFiles": [
+    "BIOL2161 things I didnt know.md",
+    "COMP1110 things I didnt know.md",
     "MATH1013/Complex numbers/Fundamental theorem of algebra.md",
     "MATH1013/Linear algebra/Week 6/Injective transformation.md",
     "MATH1005/Week 9/Steady state vector.md",
@@ -324,7 +341,6 @@
     "BIOL2161/Week 7/Addition of 5' cap.md",
     "BIOL2161/Week 7/Alternative splicing.md",
     "BIOL2161/Week 7/Polyadenylation.md",
-    "BIOL2161 things I didnt know.md",
     "BIOL2161/Week 7/Gene.md",
     "BIOL2161/Week 3/Mitochondrial replacement therapy.md",
     "BIOL2161/Week 3/Telomere.md",
@@ -341,7 +357,6 @@
     "MATH1013 revision sheet.md",
     "MATH1013/Linear algebra/Week 10/homogenous coordinates.md",
     "MATH1013/Calculus/Week 11/Trapezoidal rule.md",
-    "MATH1005/Week 3/Injective Function.md",
     "attachments/Pasted image 20260607163244.png",
     "attachments/Pasted image 20260606171603.png",
     "attachments/Pasted image 20260606163436.png",
