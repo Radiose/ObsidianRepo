@@ -165,3 +165,18 @@ the affected exon is ‘overlooked‘ and treated as part of the intron.
 • Presence of SR and hnRNP (and RNA-binding proteins) is cell-type and temporally specific.
 
 Poly a tail role in translation 
+
+
+
+TADS: Bring distant elements together 
+Include genes and regulatory elements 
+
+Summarizing:
+• Clusters of TF binding sites form regulatory
+regions.
+• The cluster of the same structure can activate or
+repress.
+• Cluster function depends on bound proteins and
+context – the type of the cell, and condition in the
+cell
+

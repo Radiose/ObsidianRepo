@@ -125,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -314,8 +314,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6a7c1ce962b5b61",
+  "active": "d6c12699282222f3",
   "lastOpenFiles": [
+    "MATH1013/Linear algebra/Week 8/Invertible matrix theorem.md",
     "MATH1013 revision sheet.md",
     "MATH1013/Linear algebra/Week 10/homogenous coordinates.md",
     "MATH1013/Calculus/Week 11/Trapezoidal rule.md",
@@ -341,7 +342,6 @@
     "MATH1013/Linear algebra/Week 4/Linear subspace.md",
     "MATH1013/Linear algebra/Week 4/Basis.md",
     "MATH1013/Linear algebra/Week 3/MATH1013 11.03.2026.md",
-    "MATH1013/Linear algebra/Week 2/Span.md",
     "attachments/Pasted image 20260607163244.png",
     "attachments/Pasted image 20260606171603.png",
     "attachments/Pasted image 20260606163436.png",
