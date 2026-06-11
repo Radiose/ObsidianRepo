@@ -43,15 +43,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIOL2161/Week 9/Genome evolution.md",
+                "file": "MATH1013/Linear algebra/Week 10/The determinant.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Genome evolution"
-            },
-            "group": "7e94f0ee2eca3ae5"
+              "title": "The determinant"
+            }
           },
           {
             "id": "df99c62d643fbb03",
@@ -142,50 +141,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "b3112981cd89abe2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1b2c3cab7059cebd",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "BIOL2161/Week 9/Genome evolution.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Genome evolution"
-            },
-            "group": "7e94f0ee2eca3ae5"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -376,8 +331,10 @@
   },
   "active": "c805164d54d14820",
   "lastOpenFiles": [
-    "BIOL2161/Week 9/Multigene family.md",
+    "MATH1013/Linear algebra/Week 11/Axiomatic definition of the determinant.md",
+    "MATH1013/Linear algebra/Week 11/cofactor expansion.md",
     "BIOL2161/Week 9/Genome evolution.md",
+    "BIOL2161/Week 9/Multigene family.md",
     "BIOL2161/Week 10/BIOL2161 13.05.2026.md",
     "BIOL2161/Week 2/homologous recombination.md",
     "BIOL2161/Week 11/BIOL2161 18.05.2026.md",
@@ -400,8 +357,6 @@
     "MATH1013/Calculus/Week 5/mean value theorem.md",
     "BIOL2161 things I didnt know.md",
     "MATH1013/Linear algebra/Week 8/MATH1013 29.04.2026.md",
-    "MATH1013/Linear algebra/Week 7/Determining the standard matrix of rotations.md",
-    "MATH1013/Linear algebra/Week 7/Transpose of a matrix.md",
     "attachments/Pasted image 20260607163244.png",
     "attachments/Pasted image 20260606171603.png",
     "attachments/Pasted image 20260606163436.png",
