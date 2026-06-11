@@ -93,3 +93,8 @@ arcsin : -1 1 -> \[-pi/2 pi/2]
 
 Subspace and solution set 
 If a solution set of a system Ax = b is a plane, then if we treat it as a linear subspace, then Ax = 0 is a solution and thus the solution set is identical to the null space. 
+
+
+If a matrix is not injective, then there are infinitely many solutions for any b 
+If a matrix is not surjective, then some bs are not present. 
+
