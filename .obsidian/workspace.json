@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIOL2161/Week 12/Genome editing.md",
+                "file": "MATH1013/Linear algebra/Week 11/Cramers rule.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Genome editing"
+              "title": "Cramers rule"
             }
           },
           {
@@ -340,6 +340,8 @@
   },
   "active": "de5676153c2ef4a7",
   "lastOpenFiles": [
+    "Z_MATH help/Proof of all trigonometric identities.md",
+    "BIOL2161/Week 12/Genome editing.md",
     "BIOL2161/Week 12/BIOL2161 25.05.2026.md",
     "BIOL2161/Week 11/BIOL2161 18.05.2026.md",
     "BIOL2161/Week 11/BIOL2161 20.05.2026.md",
@@ -364,8 +366,6 @@
     "COMP1110/Week 11/COMP1110 22.05.2026.md",
     "COMP1110/Week 7/Data invariant.md",
     "COMP1110/Week 7/type generalisation.md",
-    "COMP1110/Week 7/List (collection).md",
-    "COMP1110/Week 7/Test suite.md",
     "attachments/Pasted image 20260607163244.png",
     "attachments/Pasted image 20260606171603.png",
     "attachments/Pasted image 20260606163436.png",
