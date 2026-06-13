@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP1110/Week 6/COMP1110 31.03.2026.md",
+                "file": "MATH1013/Linear algebra/Week 11/Row operation effect on determinants.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "COMP1110 31.03.2026"
+              "title": "Row operation effect on determinants"
             }
           },
           {
@@ -340,15 +340,16 @@
   },
   "active": "de5676153c2ef4a7",
   "lastOpenFiles": [
+    "COMP1110/Week 5/Enum.md",
+    "COMP1110/Week 7/COMP1110 24.04.2026.md",
+    "COMP1110/Week 7/COMP1110 21.04.2026.md",
+    "COMP1110/Week 6/COMP1110 31.03.2026.md",
     "COMP1110/Week 6/field.md",
     "COMP1110/Week 6/Exception.md",
     "COMP1110/Week 6/Method.md",
     "COMP1110/Week 6/abstract data type.md",
     "COMP1110/Week 6/Setter and getter methods.md",
     "COMP1110/Week 6/non sealed interface.md",
-    "COMP1110/Week 5/Enum.md",
-    "COMP1110/Week 7/COMP1110 24.04.2026.md",
-    "COMP1110/Week 7/COMP1110 21.04.2026.md",
     "BIOL2161/Week 2/homologous recombination.md",
     "BIOL2161/Week 2/holliday junctions.md",
     "BIOL2161/Week 2/Base excision repair.md",
@@ -365,7 +366,6 @@
     "BIOL2161/Week 10/BIOL2161 13.05.2026.md",
     "BIOL2161/Week 9/BIOL2161 04.05.2026.md",
     "MATH1013/Linear algebra/Week 10/homogenous coordinates.md",
-    "BIOL2161/Week 7/Exon shuffling.md",
     "attachments/Pasted image 20260607163244.png",
     "attachments/Pasted image 20260606171603.png",
     "attachments/Pasted image 20260606163436.png",
