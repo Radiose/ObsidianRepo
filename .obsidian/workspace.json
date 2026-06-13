@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Linear algebra/Week 11/Cramers rule.md",
+                "file": "BIOL2161/Week 2/homologous recombination.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cramers rule"
+              "title": "homologous recombination"
             }
           },
           {
@@ -340,6 +340,9 @@
   },
   "active": "de5676153c2ef4a7",
   "lastOpenFiles": [
+    "BIOL2161/Week 2/holliday junctions.md",
+    "BIOL2161/Week 2/Base excision repair.md",
+    "MATH1013/Linear algebra/Week 11/Cramers rule.md",
     "Z_MATH help/Proof of all trigonometric identities.md",
     "BIOL2161/Week 12/Genome editing.md",
     "BIOL2161/Week 12/BIOL2161 25.05.2026.md",
@@ -363,9 +366,6 @@
     "MATH1013/Linear algebra/Week 4/Basis.md",
     "MATH1013/Linear algebra/Week 3/inner products.md",
     "MATH1013/Linear algebra/Week 3/linear relation.md",
-    "COMP1110/Week 11/COMP1110 22.05.2026.md",
-    "COMP1110/Week 7/Data invariant.md",
-    "COMP1110/Week 7/type generalisation.md",
     "attachments/Pasted image 20260607163244.png",
     "attachments/Pasted image 20260606171603.png",
     "attachments/Pasted image 20260606163436.png",
