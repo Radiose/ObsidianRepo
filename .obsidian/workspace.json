@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP1110/Week 10/dijkstra's algorithm in java.md",
+                "file": "COMP1110 things I didnt know.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "dijkstra's algorithm in java"
+              "title": "COMP1110 things I didnt know"
             }
           },
           {
@@ -331,10 +331,12 @@
   },
   "active": "c805164d54d14820",
   "lastOpenFiles": [
+    "COMP1110/Week 3/Passing by value.md",
+    "COMP1110/Week 11/functional programming.md",
+    "COMP1110/Week 10/dijkstra's algorithm in java.md",
     "COMP1110 things I didnt know.md",
     "COMP1110/Week 11/Liskov Substitution principle.md",
     "COMP1110/Week 11/The expression problem.md",
-    "COMP1110/Week 11/functional programming.md",
     "COMP1110/Week 11/COMP1110 21.04.2026.md",
     "COMP1110/Week 5/Record.md",
     "COMP1110/Week 10/breadth first search.md",
@@ -355,8 +357,6 @@
     "COMP1110/Week 7/COMP1110 24.04.2026.md",
     "COMP1110/Week 7/COMP1110 21.04.2026.md",
     "COMP1110/Week 6/COMP1110 31.03.2026.md",
-    "COMP1110/Week 6/field.md",
-    "COMP1110/Week 6/Exception.md",
     "attachments/Pasted image 20260607163244.png",
     "attachments/Pasted image 20260606171603.png",
     "attachments/Pasted image 20260606163436.png",
