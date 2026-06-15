@@ -13,7 +13,8 @@ record PartialRoute(Airport to, List<Airport> steps, int cost)
 }
 
 List<Airport> routeDijkstra(Airport from, Airport to,
-        LabelledGraph<Airport, Integer> routes) {
+		LabelledGraph<Airport, Integer> routes) {
+		
     PriorityQueue<PartialRoute> frontier = new PriorityQueue<>();
     frontier.add(new PartialRoute(from, List.of(from), 0));
     Set<Airport> visited = new HashSet<>();

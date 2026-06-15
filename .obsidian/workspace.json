@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP1110 things I didnt know.md",
+                "file": "COMP1110/Week 10/dijkstra's algorithm in java.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "COMP1110 things I didnt know"
+              "title": "dijkstra's algorithm in java"
             }
           },
           {
@@ -331,8 +331,8 @@
   },
   "active": "c805164d54d14820",
   "lastOpenFiles": [
-    "COMP1110/Week 11/Liskov Substitution principle.md",
     "COMP1110 things I didnt know.md",
+    "COMP1110/Week 11/Liskov Substitution principle.md",
     "COMP1110/Week 11/The expression problem.md",
     "COMP1110/Week 11/functional programming.md",
     "COMP1110/Week 11/COMP1110 21.04.2026.md",
