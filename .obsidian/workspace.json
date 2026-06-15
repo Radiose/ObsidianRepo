@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP1110/Week 10/breadth first search.md",
+                "file": "COMP1110/Week 11/The expression problem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "breadth first search"
+              "title": "The expression problem"
             }
           },
           {
@@ -331,6 +331,10 @@
   },
   "active": "c805164d54d14820",
   "lastOpenFiles": [
+    "COMP1110/Week 11/functional programming.md",
+    "COMP1110/Week 11/COMP1110 21.04.2026.md",
+    "COMP1110/Week 5/Record.md",
+    "COMP1110/Week 10/breadth first search.md",
     "COMP1110 things I didnt know.md",
     "MATH1013/Linear algebra/Week 10/The determinant.md",
     "COMP1110.md",
@@ -353,10 +357,6 @@
     "COMP1110/Week 6/field.md",
     "COMP1110/Week 6/Exception.md",
     "COMP1110/Week 6/Method.md",
-    "COMP1110/Week 6/abstract data type.md",
-    "COMP1110/Week 6/Setter and getter methods.md",
-    "COMP1110/Week 6/non sealed interface.md",
-    "BIOL2161/Week 2/homologous recombination.md",
     "attachments/Pasted image 20260607163244.png",
     "attachments/Pasted image 20260606171603.png",
     "attachments/Pasted image 20260606163436.png",
