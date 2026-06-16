@@ -32,3 +32,4 @@ For an OOP - adding another person is easy - make another class
 Adding a new operation is hard 
 
 Functional approach is slower sometimes but has many other advantages
+

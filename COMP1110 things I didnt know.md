@@ -26,7 +26,7 @@ the most convenient superclass for code reuse is not always the correct one for 
 
 
 
-```
+```java
 enum Airport { SYD, MEL, BNE, PER, ADL, CBR }
 
 List<Airport> route(Airport from, Airport to, Graph<Airport> routes, Set<Airport> visited) {
@@ -50,7 +50,7 @@ List<Airport> route(Airport from, Airport to, Graph<Airport> routes, Set<Airport
 ```
 
 
-```
+```java
 record PartialRoute(Airport to, List<Airport> steps, int cost)
         implements Comparable<PartialRoute> {
     public int compareTo(PartialRoute o) {
@@ -85,8 +85,7 @@ List<Airport> routeDijkstra(Airport from, Airport to,
 
 
 Important recursive functions: 
-```
-
+```java
 public int maxDepth() {  
     List<Integer> lst = new ArrayList<>();  
     int maxNo = 0;  
@@ -127,3 +126,6 @@ public record FamilyTree(String name, Set<FamilyTree> children) {
 ```
 
 Issues have been that `largestNode = child.getLargestNode` needs to be used. 
+
+[[Queue]]: FIFO
+Stack:  FILO
