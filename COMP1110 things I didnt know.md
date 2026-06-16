@@ -51,6 +51,30 @@ List<Airport> route(Airport from, Airport to, Graph<Airport> routes, Set<Airport
 
 
 ```java
+enum Airport { SYD, MEL, BNE, PER, ADL, CBR }
+
+List<Airport> route(Airport from, Airport to, Graph<Airport> routes, Set<Airport> visited) {
+    visited.add(from);
+    if (from == to) {
+        return List.of(from);
+    }
+    for (Airport child : routes.adjacent(from)) {
+        if (!visited.contains(child)) {
+            List<Airport> r = route(child, to, routes, visited);
+            if (r != null) {
+                List<Airport> ret = new ArrayList<>();
+                ret.add(from);
+                ret.addAll(r);
+                return ret;
+            }
+        }
+    }
+    return null;
+}
+```
+
+
+```java
 record PartialRoute(Airport to, List<Airport> steps, int cost)
         implements Comparable<PartialRoute> {
     public int compareTo(PartialRoute o) {
