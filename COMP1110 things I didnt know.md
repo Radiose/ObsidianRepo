@@ -104,3 +104,26 @@ public int maxDepth() {
 }
 ```
 
+```java
+public record FamilyTree(String name, Set<FamilyTree> children) {  
+    private FamilyTree getLargestNode(){  
+        FamilyTree largestNode = this;  
+        if(this.children.isEmpty()){ return largestNode;}  
+  
+        for(FamilyTree child : this.children){  
+            if(child.getLargestNode().children.size() > largestNode.children.size()){  
+                largestNode = child.getLargestNode();  
+            }  
+        }  
+        IO.println(largestNode.name());  
+        return largestNode;  
+    }  
+  
+    public String mostChildren() {  
+        //Hint: you may find it useful to write a private helper method that  
+        // returns a FamilyTree node rather than a String.        return getLargestNode().name;  
+    }  
+}
+```
+
+Issues have been that `largestNode = child.getLargestNode` needs to be used. 

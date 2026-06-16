@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP1110 things I didnt know.md",
+                "file": "COMP1110/Week 11/The expression problem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "COMP1110 things I didnt know"
+              "title": "The expression problem"
             }
           },
           {
@@ -331,19 +331,19 @@
   },
   "active": "c805164d54d14820",
   "lastOpenFiles": [
-    "COMP1110/Week 3/Passing by value.md",
     "COMP1110/Week 11/functional programming.md",
-    "COMP1110/Week 10/dijkstra's algorithm in java.md",
-    "COMP1110 things I didnt know.md",
-    "COMP1110/Week 11/Liskov Substitution principle.md",
     "COMP1110/Week 11/The expression problem.md",
+    "COMP1110/Week 11/Liskov Substitution principle.md",
+    "COMP1110/Week 11/Inheritance.md",
+    "COMP1110 things I didnt know.md",
+    "COMP1110/Week 3/Passing by value.md",
+    "COMP1110/Week 10/dijkstra's algorithm in java.md",
     "COMP1110/Week 11/COMP1110 21.04.2026.md",
     "COMP1110/Week 5/Record.md",
     "COMP1110/Week 10/breadth first search.md",
     "MATH1013/Linear algebra/Week 10/The determinant.md",
     "COMP1110.md",
     "COMP1110/Week 9/Hashing.md",
-    "COMP1110/Week 11/Inheritance.md",
     "COMP1110/Week 10/COMP1110 15.05.2026.md",
     "COMP1110/Week 10/COMP1110 12.05.2026.md",
     "COMP1110/Week 10/graph interface.md",
