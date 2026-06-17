@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP1110/Week 10/graph interface.md",
+                "file": "COMP1110/Week 7/Data invariant.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "graph interface"
+              "title": "Data invariant"
             }
           },
           {
@@ -331,6 +331,7 @@
   },
   "active": "c805164d54d14820",
   "lastOpenFiles": [
+    "COMP1110/Week 10/graph interface.md",
     "COMP1110/Week 11/COMP1110 21.04.2026.md",
     "COMP1110/Week 11/Inheritance.md",
     "COMP1110/Week 11/COMP1110 22.05.2026.md",
@@ -350,7 +351,6 @@
     "COMP1110/Week 10/breadth first search.md",
     "MATH1013/Linear algebra/Week 10/The determinant.md",
     "COMP1110.md",
-    "COMP1110/Week 10/graph interface.md",
     "COMP1110/Week 8/Class mutability.md",
     "COMP1110/Week 8/Java call stack and heap.md",
     "COMP1110/Week 8/COMP1110 midterm test 2 cheat sheet.md",
