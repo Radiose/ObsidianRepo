@@ -32,7 +32,11 @@ Note quickly that the only way that two real numbers can be represented differen
 
 ## Properties of the reals 
 ### Algebraic properties
-The basics of these are that reals can be added, subtracted, multiplied and divided (not by zero) and that these operations are closed, they create more real numbers. 
+The basics of these are that reals can be added, subtracted, multiplied and divided (not by zero) and that these operations are closed, they create more real numbers.
+![[Algebraic and order axioms]]
+
+
+
 ### Order properties 
 The order properties of the reals relates to the order of the number line. If $a,b \in \mathbb{R}$, $a < b \implies$ a is less than b. The order properties are summarised in the following rules
 ![[Inequality]]
