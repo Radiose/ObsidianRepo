@@ -25,6 +25,9 @@ since, this leads to the conclusion that n is even (via similar reasoning to m),
 This contradiction implies that our original assumption was wrong, and that $\sqrt{ 2 }$ is not rational. 
 
 
+## Different decimal expansions for the same number 
+
+
 
 ## Properties of the reals 
 ### Algebraic properties
@@ -34,3 +37,5 @@ The order properties of the reals relates to the order of the number line. If $a
 ![[Inequality]]
 ### Completeness
 If A is any set of real numbers having at least one number in it, and if there exists a real number y s.t $\forall x\in A\ \ \ \ x \le y$, (we denote y the *upper bound*) then there exists a smallest such number, called the *least upper bound*, or *supremum* of A.
+
+
