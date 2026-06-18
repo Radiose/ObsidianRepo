@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP1110/Week 7/Data invariant.md",
+                "file": "COMP1110/Week 10/breadth first search.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Data invariant"
+              "title": "breadth first search"
             }
           },
           {
@@ -331,12 +331,14 @@
   },
   "active": "c805164d54d14820",
   "lastOpenFiles": [
-    "COMP1110/Week 10/graph interface.md",
+    "COMP1110/Week 11/The expression problem.md",
+    "COMP1110/Week 11/functional programming.md",
     "COMP1110/Week 11/COMP1110 21.04.2026.md",
+    "COMP1110/Week 7/Data invariant.md",
+    "COMP1110/Week 10/graph interface.md",
     "COMP1110/Week 11/Inheritance.md",
     "COMP1110/Week 11/COMP1110 22.05.2026.md",
     "COMP1110/Week 11/Liskov Substitution principle.md",
-    "COMP1110/Week 11/functional programming.md",
     "COMP1110/Week 3/Passing by value.md",
     "COMP1110 things I didnt know.md",
     "Z_MATH help/math1013 math tricks.md",
@@ -344,7 +346,6 @@
     "COMP1110/Week 9/Hashing.md",
     "COMP1110/Week 10/COMP1110 12.05.2026.md",
     "COMP1110/Week 10/COMP1110 15.05.2026.md",
-    "COMP1110/Week 11/The expression problem.md",
     "COMP1110/Week 10/Queue.md",
     "COMP1110/Week 10/dijkstra's algorithm in java.md",
     "COMP1110/Week 5/Record.md",
@@ -356,7 +357,6 @@
     "COMP1110/Week 8/COMP1110 midterm test 2 cheat sheet.md",
     "COMP1110/Week 8/COMP1110 test 2.md",
     "COMP1110/Week 9/COMP1110 08.05.2026.md",
-    "MATH1013/Linear algebra/Week 11/Row operation effect on determinants.md",
     "attachments/Pasted image 20260607163244.png",
     "attachments/Pasted image 20260606171603.png",
     "attachments/Pasted image 20260606163436.png",
