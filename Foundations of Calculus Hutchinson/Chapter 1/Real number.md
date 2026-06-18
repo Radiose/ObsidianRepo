@@ -26,6 +26,7 @@ This contradiction implies that our original assumption was wrong, and that $\sq
 
 
 ## Different decimal expansions for the same number 
+Note quickly that the only way that two real numbers can be represented differently is via $\dot{9}$ (which indicates 9 repeating). EG $0.\dot{9} = 1.00$
 
 
 
