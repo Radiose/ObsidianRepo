@@ -18,7 +18,7 @@ For any real numbers, the [[Statement]] $a <b$  is either true of false.
 6: $(a \times b) \times c = a \times (b \times c)$ (associative axiom for multiplication)
 7: $a \times 1 = 1 \times a = a$ and $0 \not=1$(multiplicative identity axiom) 
 8: if $a \not=0$ there is a real number $a^{-1}$ such that $a \times a^{-1} = a^{-1}\times a = 1$ (multiplicative inverse axiom)
-9: $(a + b)\times c = a \times b + a \times c$ (distributive axiom)
+9: $a \times (b + c) = a \times b + a \times c$ (distributive axiom)
 
 
 ## Order axioms 
@@ -48,7 +48,8 @@ If $a, b, c$ are real numbers, and $a + c = b + c$, then $a = b$. Similarly, if 
 
 proof: 
 Assume $a+c = b+c$
-Since $a+c$ and $b+c$ denote the same real number, we obtain the same result if we add -c to it. i.e
+Since $a+c$ and $b+c$ denote the same real number, we obtain the same result if we add -c to it. We obtain this move from the definition of equality
+i.e
 $(a+c) + (-c)  = (b+c)+ (-c)$
 Via the commutative axiom applied twice (to each side of the equation) 
 $a + (c + -c) = b + (c + - c)$
@@ -67,4 +68,3 @@ Via the cancellation theorem, 0 = x. Thus, there is only the number 0.
 A similar thing can be done to prove the uniqueness of $-a$
 Suppose $a+x=0$, we know from the fourth axiom that $a+x = (-a)+a$
 Thus, via cancellation theorem, $x = -a$
-
