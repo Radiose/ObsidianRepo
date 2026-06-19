@@ -36,4 +36,35 @@ We take the symbol $=$ to mean "denotes the same thing as", or equivalently "rep
 
 We are not using subtraction in axiom 4. We are merely stating that a real number with these properties exists. 
 
-Parts of axioms are redundant. 
+Parts of axioms are redundant. For example, from axiom 1, a + 0=a implies 0+a = a
+
+## Defining subtraction and division 
+
+We define the operation $a-b$ to be $a+(-b)$, and we define $a \div b$ to be $a \times b^{-1}$. Division by zero is never defined. 
+
+
+## Cancellation theorem 
+If $a, b, c$ are real numbers, and $a + c = b + c$, then $a = b$. Similarly, if $c + a = c + b \text{, then } a = b$.
+
+proof: 
+Assume $a+c = b+c$
+Since $a+c$ and $b+c$ denote the same real number, we obtain the same result if we add -c to it. i.e
+$(a+c) + (-c)  = (b+c)+ (-c)$
+Via the commutative axiom applied twice (to each side of the equation) 
+$a + (c + -c) = b + (c + - c)$
+Now via axiom 2 applied twice (to each side of the equation) 
+$a +0 = b+0$
+Now from axiom 4 applied twice (to each side of the equation)
+$a=b$
+thus, if $a+c = b+c$, then this implies that $a = b$
+
+
+## Characterisation of *0* and *-a*
+Is there more than one real number such that $a+x = x+a = a$?
+Via axioms 2 and 3, we have that $a+0 = x+a = a$
+Via the cancellation theorem, 0 = x. Thus, there is only the number 0.
+
+A similar thing can be done to prove the uniqueness of $-a$
+Suppose $a+x=0$, we know from the fourth axiom that $a+x = (-a)+a$
+Thus, via cancellation theorem, $x = -a$
+
