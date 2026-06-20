@@ -86,10 +86,15 @@
             "id": "6ea98e2b6635398d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Foundations of Calculus Hutchinson/Chapter 1/Algebraic and order axioms.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Algebraic and order axioms"
             }
           },
           {

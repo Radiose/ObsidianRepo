@@ -103,3 +103,9 @@ If $0 <a$ we say $a$ is *positive* and if $a < 0$ we say $a$ is *negative*
 (5) $|a + b| \leq |a| + |b|$ (triangle inequality)
 (6) $||a| - |b|| \leq |a - b|$ (a consequence of the triangle inequality)
 
+## Natural, rational numbers, integers 
+
+We should note that the natural numbers are not a model of the third axiom, as zero is not a member.
+
+The set of Integers is a model of all axioms except for axiom 8, as a multiplicative inverse is typically not an integer 
+The set of rationals is a model of all axioms 1-13 but not of the completeness axiom 
