@@ -1,3 +1,7 @@
+---
+aliases:
+  - reals
+---
 The real numbers are an essential part of calculus. Simply put, real numbers are numbers that can be expressed as decimals. 
 EG:$5 = 5.000\dots$
 $\frac{1}{3} = 0.33333\dots$
@@ -33,7 +37,7 @@ Note quickly that the only way that two real numbers can be represented differen
 ## Properties of the reals 
 ### Algebraic properties
 The basics of these are that reals can be added, subtracted, multiplied and divided (not by zero) and that these operations are closed, they create more real numbers.
-![[Algebraic and order axioms]]
+![[algebraic and order axioms]]
 
 
 

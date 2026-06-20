@@ -23,8 +23,18 @@ As you can see in the image above, a least upper bound of A implies a greatest l
 
 ## Interpretation of the completeness axiom 
 
-The main consequence of this axiom is that the implication that the [[Real number]]s have no gaps in them. 
+The main consequence of this axiom is that the implication that the [[real number]]s have no gaps in them. 
 
 For example, the rational numbers are not a model of the axiom if, in the statement of the axiom, we replace occurrences of the word *real* with *rational*
 To demonstrate, let $$A = \{ a \in \mathbb{Q}\  | \ 0 \le a \text{ and }a^2 \le 2\} = \{ a \in \mathbb{Q}\ |\ 0 \le a \le \sqrt{ 2 } \}$$
 The first definition of A has the advantage of it not being defined in terms of the irrational number $\sqrt{ 2 }$. There are certainly rational numbers $x$ which are upper bounds of $A$, but we claim that *there is no rational number b which is a least upper bound of A*
+
+Proof
+We note firstly the [[Density of the rational and irrational numbers]]
+Since $\sqrt{ 2 }$ is not rational, it cannot be the required $b$
+
+On the other hand, if $b < \sqrt{ 2 }$, since there is always a rational number between b and $\sqrt{ 2 }$, then this gives a member of A between $b$ and $\sqrt{ 2 }$
+If $b >\sqrt{ 2 }$, then there always exists a rational number between b and $\sqrt{ 2 }$ that is less that b, thus b cannot be the lowest bound. 
+
+We have ruled out the three possibilities $b = √ 2, b < √ 2 \text{  and b } > √ 2$. This completes the proof of the claim. Hence there is no rational number which is a least upper bound for $A$.
+
