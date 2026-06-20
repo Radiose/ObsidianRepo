@@ -88,13 +88,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Calculus Hutchinson/Chapter 1/Algebraic and order axioms.md",
+                "file": "Foundations of Calculus Hutchinson/Chapter 1/Real number.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Algebraic and order axioms"
+              "title": "Real number"
+            }
+          },
+          {
+            "id": "087d7769eecd0a2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Foundations of Calculus Hutchinson/Chapter 1/Completeness axiom.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Completeness axiom"
             }
           },
           {
@@ -210,7 +225,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -399,11 +414,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ea98e2b6635398d",
+  "active": "087d7769eecd0a2b",
   "lastOpenFiles": [
-    "Foundations of Calculus Hutchinson/Chapter 1/Field.md",
-    "Foundations of Calculus Hutchinson/Chapter 1/Algebraic and order axioms.md",
+    "attachments/Pasted image 20260620162921.png",
+    "Foundations of Calculus Hutchinson/Chapter 1/Completeness axiom.md",
     "Foundations of Calculus Hutchinson/Chapter 1/Real number.md",
+    "Foundations of Calculus Hutchinson/Chapter 1/Algebraic and order axioms.md",
+    "Foundations of Calculus Hutchinson/Chapter 1/Field.md",
     "Foundations of Calculus Hutchinson/Chapter 1/Inequality.md",
     "Foundations of Calculus Hutchinson/Chapter 1/Density of the rational and irrational numbers.md",
     "Foundations of Calculus Hutchinson/Chapter 1/Inequalitys relating to absolute value.md",
@@ -433,8 +450,6 @@
     "COMP1110/Week 9/Hashing.md",
     "COMP1110/Week 10/COMP1110 12.05.2026.md",
     "COMP1110/Week 10/COMP1110 15.05.2026.md",
-    "COMP1110/Week 10/Queue.md",
-    "COMP1110/Week 10/dijkstra's algorithm in java.md",
     "attachments/Pasted image 20260607163244.png",
     "attachments/Pasted image 20260606171603.png",
     "attachments/Pasted image 20260606163436.png",
