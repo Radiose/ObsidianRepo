@@ -11,15 +11,25 @@
             "id": "579cf662b0b31ab2",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "6add7b9aa03e8315",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Calculus/Week 9/Inverse trigonometric function.md",
+                "file": "hyperreals.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Inverse trigonometric function"
+              "title": "hyperreals"
             }
           },
           {
@@ -118,13 +128,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Calculus Hutchinson/Chapter 1/archimedean property.md",
+                "file": "Foundations of Calculus Hutchinson/Chapter 1/Completeness axiom.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "archimedean property"
+              "title": "Completeness axiom"
             }
           },
           {
@@ -240,7 +250,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -429,8 +439,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d0fe92e543e1244",
+  "active": "6add7b9aa03e8315",
   "lastOpenFiles": [
+    "Z_MATH help/math1013 math tricks.md",
+    "BIOL2161 16.03.2026.md",
+    "COMP1110.md",
+    "Math1005 things to learn about the nature of maths.md",
+    "hyperreals.md",
+    "To Do list.md",
+    "End of sem checklist.md",
+    "Untitled.base",
+    "MATH1013/Calculus/Week 9/Inverse trigonometric function.md",
     "Foundations of Calculus Hutchinson/Chapter 1/Completeness axiom.md",
     "Foundations of Calculus Hutchinson/Chapter 1/archimedean property.md",
     "Foundations of Calculus Hutchinson/Chapter 1/algebraic and order axioms.md",
@@ -458,14 +477,6 @@
     "COMP1110/Week 10/graph interface.md",
     "COMP1110/Week 11/Inheritance.md",
     "COMP1110/Week 11/COMP1110 22.05.2026.md",
-    "COMP1110/Week 11/Liskov Substitution principle.md",
-    "COMP1110/Week 3/Passing by value.md",
-    "COMP1110 things I didnt know.md",
-    "Z_MATH help/math1013 math tricks.md",
-    "COMP1110/Week 2/Loop invarients.md",
-    "COMP1110/Week 9/Hashing.md",
-    "COMP1110/Week 10/COMP1110 12.05.2026.md",
-    "COMP1110/Week 10/COMP1110 15.05.2026.md",
     "attachments/Pasted image 20260607163244.png",
     "attachments/Pasted image 20260606171603.png",
     "attachments/Pasted image 20260606163436.png",
@@ -476,7 +487,6 @@
     "attachments/Ink/Drawing/2026.5.24 - 14.31pm.drawing",
     "MATH1013/Complex numbers/Untitled",
     "MATH1013/Complex numbers",
-    "attachments/Ink/Drawing/2026.5.19 - 15.56pm.drawing",
     "Untitled.canvas"
   ]
 }
