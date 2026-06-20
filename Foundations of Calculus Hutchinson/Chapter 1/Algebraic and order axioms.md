@@ -38,12 +38,15 @@ We are not using subtraction in axiom 4. We are merely stating that a real numbe
 
 Parts of axioms are redundant. For example, from axiom 1, a + 0=a implies 0+a = a
 
+
+# Algebraic consequences
 ## Defining subtraction and division 
 
 We define the operation $a-b$ to be $a+(-b)$, and we define $a \div b$ to be $a \times b^{-1}$. Division by zero is never defined. 
 
 
 ## Cancellation theorem 
+[[theorem]]:
 If $a, b, c$ are real numbers, and $a + c = b + c$, then $a = b$. Similarly, if $c + a = c + b \text{, then } a = b$.
 
 proof: 
@@ -68,3 +71,35 @@ Via the cancellation theorem, 0 = x. Thus, there is only the number 0.
 A similar thing can be done to prove the uniqueness of $-a$
 Suppose $a+x=0$, we know from the fourth axiom that $a+x = (-a)+a$
 Thus, via cancellation theorem, $x = -a$
+
+
+### Consequences of the algebraic axioms
+(1) $ac = bc$ implies $a = b$. 
+(2) $a0 = 0$ 
+(3) $-(-a) = a$ 
+(4) $(c^{-1})^{-1} = c$ 
+(5) $(-1)a = -a$ 
+(6) $a(-b) = -(ab) = (-a)b$ 
+(7) $(-a) + (-b) = -(a+b)$ 
+(8) $(-a)(-b) = ab$ 
+(9) $(a/c)(b/d) = (ab)/(cd)$
+
+
+
+# Order consequences
+All standard properties of [[Inequality]]s follow from Axioms 1-13
+One defines $>$, $\le$ and $\ge$  in terms of < as follows
+$a > b$ if $b < a$,
+$a \leq b$ if $(a < b$ or $a = b)$,
+$a \geq b$ if $(a > b$ or $a = b)$.
+
+We also define $\sqrt{  b}$  for $b \ge 0$ to be the that number $a\ge 0$ such that $a^2=b$. 
+If $0 <a$ we say $a$ is *positive* and if $a < 0$ we say $a$ is *negative*
+
+(1) $a < b$ and $c < 0$ implies $ac > bc$ 
+(2) $0 < 1$ and $-1 < 0$ 
+(3) $a > 0$ implies $1/a > 0$ 
+(4) $0 < a < b$ implies $0 < 1/b < 1/a$
+(5) $|a + b| \leq |a| + |b|$ (triangle inequality)
+(6) $||a| - |b|| \leq |a - b|$ (a consequence of the triangle inequality)
+

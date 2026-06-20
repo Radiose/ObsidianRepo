@@ -50,7 +50,7 @@ public class AdjacencyListGraph<V> implements Graph<V> {
 }
 ```
 
-This implementation has a private [[field]] that is a HashMap mapping [[Adjacent vertices]], via mapping a vertex to its [[set]] of adjacent vertices. 
+This implementation has a private [[COMP1110/Week 6/field]] that is a HashMap mapping [[Adjacent vertices]], via mapping a vertex to its [[set]] of adjacent vertices. 
 
 This has weaknesses though, using .contains has bad [[time complexity]] (O(n)). isConnected is slow then. 
 

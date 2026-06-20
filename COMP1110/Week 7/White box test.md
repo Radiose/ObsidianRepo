@@ -1,2 +1,2 @@
 White box test
-This is the form of testing where you know the implementation of your code. You know about the presence of private [[field]]s and other parts of the code that wouldn't be obvious to an outside programmer due to [[Abstraction]].
+This is the form of testing where you know the implementation of your code. You know about the presence of private [[COMP1110/Week 6/field]]s and other parts of the code that wouldn't be obvious to an outside programmer due to [[Abstraction]].

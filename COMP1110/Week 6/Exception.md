@@ -32,7 +32,7 @@ If nothing catches, the code will crash.  A try block allows for an exception to
 
 There are some built in exceptions in java
 
-`IllegalStateException`:my private [[field]]s aren't in the right state to do what you're asking me to do
+`IllegalStateException`:my private [[COMP1110/Week 6/field]]s aren't in the right state to do what you're asking me to do
 
 `IllegalArgumentException`
 You gave me an argument that doesn't make sense - giving a value to a method that doesn't make sense. When an object is in an incorrect state for the requested action. 
