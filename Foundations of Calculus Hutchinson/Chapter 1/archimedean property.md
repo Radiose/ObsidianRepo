@@ -9,8 +9,11 @@ $\iff \forall n \in \mathbb{N} \ \ n+1 \le b$
 $\iff \forall n \in \mathbb{N} \ \ n \le b-1$ 
 In other words, $b-1$ is also an upper bound of $\mathbb{N}$, which contradicts that b is a least upper bound $\square$
 
+
+
 A [[Corrolary]] that follows from this, which is important to prove the [[Density of the rational and irrational numbers]].
 
 For any [[real number]] $\epsilon> 0$, there is a natural number $n$ such that $\frac{1}{n}< \epsilon$.
 
-Proof: by the Archimedean property: there is a natural number $n$ such that $n > \frac{1}{\epsilon}$. But then $\frac{1}{n} < \epsilon$
+Proof: by the Archimedean property: there is a natural number $n$ such that $n > \frac{1}{\epsilon}$. But then $\frac{1}{n} < \epsilon$.
+
