@@ -1,6 +1,7 @@
 ---
 aliases:
   - converges
+  - converge
 ---
 The most fundamental concept in the study of sequence is the notion of a convergence in a sequence .
 
@@ -29,3 +30,10 @@ This proof hinges upon the [[archimedean property]] strongly, being that there w
 Another example:
 
 Demonstrate that the sequence [[implicit definition of a sequence|implicitely defined]] by $a_{1}=1$ and $a_{n+1} = \frac{1}{2}a_{n}+2$ for $n \ge 1$. We calculate the first few terms and assume that the [[Sequence]] converges to 4. 
+
+We have a formula of $a_{n+1}$ in terms of $a_{n}$, so we want a formula of $|a_{n+1}-4|$ in terms of $|a_{n}-4|$
+$|a_{n+1}-4| = | \frac{1}{2}n+2-4|=\frac{1}{2}|a_{n}-4|$
+Thus, $|a_{1}-4|=3,$ $|a_{2}-4|=\frac{3}{2}$, $|a_{3}-4| = \frac{3}{2}^2$
+In general, $|a_{n+1}-4|$$=\frac{3}{2^{n-1}}$
+
+It follows that $|a_{n}-4|<\epsilon$ for all $n$ such that $\frac{3}{2^n-1}<\epsilon$

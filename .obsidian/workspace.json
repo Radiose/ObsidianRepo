@@ -38,13 +38,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Calculus Hutchinson/Chapter 2/Convergence of a sequence.md",
+                "file": "Foundations of Calculus Hutchinson/Chapter 2/Divergence of a sequence.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Convergence of a sequence"
+              "title": "Divergence of a sequence"
             }
           },
           {
@@ -441,8 +441,9 @@
   },
   "active": "f05ff2e6b0300488",
   "lastOpenFiles": [
-    "Foundations of Calculus Hutchinson/Chapter 1/archimedean property.md",
     "Foundations of Calculus Hutchinson/Chapter 2/Convergence of a sequence.md",
+    "Foundations of Calculus Hutchinson/Chapter 2/Divergence of a sequence.md",
+    "Foundations of Calculus Hutchinson/Chapter 1/archimedean property.md",
     "Foundations of Calculus Hutchinson/Chapter 2/Untitled.md",
     "Excalidraw/MATH1013 complex numbers assignment.excalidraw.md",
     "MATH1005/Week 5/Sequence.md",
@@ -477,7 +478,6 @@
     "COMP1110/Week 10/breadth first search.md",
     "Foundations of Calculus Hutchinson",
     "COMP1110/Week 11/The expression problem.md",
-    "COMP1110/Week 11/functional programming.md",
     "attachments/Pasted image 20260607163244.png",
     "attachments/Pasted image 20260606171603.png",
     "attachments/Pasted image 20260606163436.png",
