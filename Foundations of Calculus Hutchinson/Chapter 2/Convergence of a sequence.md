@@ -24,4 +24,8 @@ Let $\epsilon > 0$.
 Via the definition, we have $|a_{n}-1| = \frac{1}{n^2}$
 Since $\frac{1}{n^2}<\epsilon$ if $n^2 > \frac{1}{\epsilon}$, 
 IE, if $n > \frac{1}{\sqrt{ \epsilon }}$, we take $N = \left[ \frac{1}{\sqrt{ \epsilon }} \right]$ or any large integer, where \[] denotes the integer part. 
-This proof hinges upon the [[archimedean property]] strongly. There is 
+This proof hinges upon the [[archimedean property]] strongly, being that there will exist a natural number N that is greater than the real number $\frac{1}{\sqrt{ \epsilon }}$
+
+Another example:
+
+Demonstrate that the sequence [[implicit definition of a sequence|implicitely defined]] by $a_{1}=1$ and $a_{n+1} = \frac{1}{2}a_{n}+2$ for $n \ge 1$. We calculate the first few terms and assume that the [[Sequence]] converges to 4. 
