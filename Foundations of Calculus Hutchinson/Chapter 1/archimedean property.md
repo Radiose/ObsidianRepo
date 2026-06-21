@@ -2,6 +2,7 @@ The following property of the [[real number|reals]] is not surprising. It follow
 
 Theorem: For every real number $x$ there is a natural number $n$ such that $x <n$, equivalently, the set $\mathbb{N}$ is not bounded above. 
 
+
 Proof:
 Suppose that the theorem was false. Then there exists a [[real number]] $x$ such that $\forall n \in \mathbb{N}$ $x < n$. This implies $\mathbb{N}$ is bounded by a [[Completeness axiom|least upper bound]] $b$ by the completeness axiom. In other words.
 $\forall n \in \mathbb{N} \ \ n \le b$ 

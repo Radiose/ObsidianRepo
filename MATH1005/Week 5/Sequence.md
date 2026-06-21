@@ -2,6 +2,11 @@
 {}
 ---
 Sequence 
+
+Mathematical definition:
+A sequence is a [[function]] $f$ whos domain is the set of natural numbers. Typically we use $f(n) = a_{n}$ to denote the nth element in the sequence. 
+
+
 Let s be a set and $i \subset \mathbb{Z}_{\ge_{0}}$ a function a: I $\to$ S is called a sequence in S. A sequence is a structure that allows us to think about elements of a set occurring in some order.
 
 
@@ -26,3 +31,6 @@ $(a_{n})_{n\in \mathbb{N}} \subset \mathbb{Z}_{>0}\times \mathbb{Z}_{\ge 0}\time
 ![[Explicit definition of a Sequence]]
 
 ![[implicit definition of a sequence]]
+
+
+![[Convergence of a sequence]]
