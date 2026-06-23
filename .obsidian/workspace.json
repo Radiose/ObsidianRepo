@@ -38,13 +38,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Calculus Hutchinson/Chapter 2/properties of sequence limits.md",
+                "file": "Foundations of Calculus Hutchinson/Chapter 2/Convergence of a sequence.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "properties of sequence limits"
+              "title": "Convergence of a sequence"
             }
           },
           {
@@ -441,12 +441,12 @@
   },
   "active": "f05ff2e6b0300488",
   "lastOpenFiles": [
-    "Foundations of Calculus Hutchinson/Chapter 2/Divergence of a sequence.md",
     "Foundations of Calculus Hutchinson/Chapter 2/properties of sequence limits.md",
+    "MATH1005/Week 5/Sequence.md",
+    "Foundations of Calculus Hutchinson/Chapter 2/Divergence of a sequence.md",
     "Foundations of Calculus Hutchinson/Chapter 2/Convergence of a sequence.md",
     "Foundations of Calculus Hutchinson/Chapter 1/archimedean property.md",
     "Excalidraw/MATH1013 complex numbers assignment.excalidraw.md",
-    "MATH1005/Week 5/Sequence.md",
     "COMP1110/Week 9/Hashing.md",
     "Foundations of Calculus Hutchinson/Chapter 1/hyperreals.md",
     "Foundations of Calculus Hutchinson/Chapter 2",
