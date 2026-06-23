@@ -84,8 +84,13 @@ Note that this does not work for strictly $<$
 
 Proof:
 we utilise a similar proof to that done for theorem 1 
-
-
+Suppose $a_{n} \to a$, $b_{n} \to b$, and $a_{n} \le b_{n}$ ultimately.
+Assume $a>b$. Let $\epsilon = \frac{1}{3}(a-b)$
+Then $a_{n} \in (a-\epsilon, a+\epsilon)$ ultimately. 
+In particular 
+$a_{n} > a-\epsilon$.
+Similar, $b_{n} \in b+\epsilon$ ultimately 
+Since $\epsilon = \frac{1}{3}(a-b)$, then this implies 
 
 
 
