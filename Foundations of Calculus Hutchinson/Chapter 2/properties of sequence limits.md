@@ -13,8 +13,24 @@ Then
 (9)$\lim_{  } \frac{a_{n}}{{b_{n}}}=\frac{a}{b}$ (assuming $b \not=0$)
 Note that (9) implies that ultimately $b_{n} \not=0$ 
 
+
+Theorem: 
+Suppose $\lim_{ } a_{n} = a$ and $\lim_{ }a_{n} = b$, then $a = b$
+Two methods to prove, both via contradiction. The first can be done geometrically, by fixing $\epsilon$ to some value related to the distance between $a$ and $b$, as $a \not=b$ (via contradiction).  We then 
+
+
+
+
 Theorem:
 Suppose $a_n = a$, then the sequence is bounded, that is, there is a [[real number]] $M$ such that $|a_{n}|<M$ for all $n$
+
+Proof:
+let $\epsilon =1$
+Thus, via the definition of convergence, $\forall\epsilon >0 \exists N \in \mathbb{Z}\ \ \ \ n > N \implies |a_{n}-a| < \epsilon$
+$\iff a-1 < a_{n} < a+1$
+We fix N, thus we have a finite set of terms $\{ a_{1},a_{2}\dots a_{N} \}$.
+
+
 
 [[theorem]]:
 Suppose $a_{n} \to a$, $b_{n} \to b$, and $a_{n} \le b_{n}$ ultimately. Then, $a \le b$
