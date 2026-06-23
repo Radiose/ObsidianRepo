@@ -44,5 +44,5 @@ The basics of these are that reals can be added, subtracted, multiplied and divi
 ### Order properties 
 The order properties of the reals relates to the order of the number line. If $a,b \in \mathbb{R}$, $a < b \implies$ a is less than b. The order properties are summarised in the following rules
 ![[Inequality]]
-![[Completeness axiom]]
 
+![[Completeness axiom]]
