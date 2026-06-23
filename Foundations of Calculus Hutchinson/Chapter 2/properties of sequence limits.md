@@ -28,7 +28,10 @@ Proof:
 let $\epsilon =1$
 Thus, via the definition of convergence, $\forall\epsilon >0 \exists N \in \mathbb{Z}\ \ \ \ n > N \implies |a_{n}-a| < \epsilon$
 $\iff a-1 < a_{n} < a+1$
-We fix N, thus we have a finite set of terms $\{ a_{1},a_{2}\dots a_{N} \}$.
+We fix N, thus we have a finite set of terms $\{ a_{1},a_{2}\dots a_{N} \}$. Because it is finite, there must exist real numbers $M_{1}$ and $M_{2}$ such that $M_{1} \le a_{n} \le M_{2}$ for all $n \leq N$.
+let $M = max \{ M_{1},M_{2}\}$
+Thus, $|a| \leq M$
+
 
 
 
@@ -36,6 +39,7 @@ We fix N, thus we have a finite set of terms $\{ a_{1},a_{2}\dots a_{N} \}$.
 Suppose $a_{n} \to a$, $b_{n} \to b$, and $a_{n} \le b_{n}$ ultimately. Then, $a \le b$
 Note that this does not work for strictly $<$
 
-[[squeeze thereom]]:
-suppose $a_{n} \le b_{n} \le c_{n}$ ultimately. Suppose $a_{n} \to L$ and $c_{n} \to L$. Then $b_{n}\to L$
 
+
+
+![[squeeze theorem]]

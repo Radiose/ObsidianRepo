@@ -44,6 +44,6 @@ Before evaluating limits using limit rules, you first should demonstrate that a 
 }
 ```
 
-![[squeeze thereom]]
+![[squeeze theorem]]
 
 
