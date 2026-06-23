@@ -1,9 +1,6 @@
 Its normally pretty inefficient to use the [[limits|limit]] definition to prove [[Convergence of a sequence]].
 There are a number of theorems that will be used instead. 
 
-Theorem 1:
-If two [[Sequence]]s converge, then so does their sum, and the limit of the new sequence is just the sum of the limits of the original sequence. 
-Similar results apply for all products and quotients. 
 
 Suppose $\lim_{ } a_{n} = a$,  $\lim_{ }b_{n}=b$
 Then 
@@ -13,10 +10,38 @@ Then
 (9)$\lim_{  } \frac{a_{n}}{{b_{n}}}=\frac{a}{b}$ (assuming $b \not=0$)
 Note that (9) implies that ultimately $b_{n} \not=0$ 
 
+proof of 6:
+(+) case 
+Suppose $a_{n} \to a$ and $b_{n} \to b$. Let $\epsilon > 0$. Since $a_{n} \to a$, there an integer $N_{1}$ such that 
+$n > N_{1} \implies |a_{n}-a|<\frac{\epsilon}{2}$
+Since $b_{n} \to b$, then similarly $\exists N_{2}$
+$n > N_{2} \implies |b_{n}-b|< \frac{\epsilon}{2}$
+It follows then that if $N = Max\{ N_{1},N_{2} \}$
+then 
+$|(a_{n}+b_{n})|=|(a_{n}-a)+(b_{n}-b)|$
+$< |a_{n}-a|+|b_{n}-n|$ via triangle inequality 
+< $\epsilon$
+
+
+Proof of 7:
+Suppose $a_{n} \to a$
+We aim to show that $|ca_{n}-ca|<\epsilon$ for all sufficiently large $n$ 
+Since $a_{n} \to a$, $\exists N \in \mathbb{Z}$ such that $n > N \implies |a_{n}-a|< \frac{\epsilon}{|c|}$ 
+Multiplying both sides of the inequality by $|c|$ shows that  
+$|c||a_{n}-a|<\epsilon$
+$\iff |ca_{n}-ca|<\epsilon$
+and thus $ca_{n} \to c$
+
+
+
+Theorem 1:
+If two [[Sequence]]s converge, then so does their sum, and the limit of the new sequence is just the sum of the limits of the original sequence. 
+Similar results apply for all products and quotients. 
 
 Theorem: 
 Suppose $\lim_{ } a_{n} = a$ and $\lim_{ }a_{n} = b$, then $a = b$
-Two methods to prove, both via contradiction. The first can be done geometrically, by fixing $\epsilon$ to some value related to the distance between $a$ and $b$, as $a \not=b$ (via contradiction).  We then 
+Two methods to prove, both via contradiction. The first can be done geometrically, by fixing $\epsilon$ to some value related to the distance between $a$ and $b$, as $a \not=b$ (via contradiction).  The other method is to algebraically manipulate via the triangle [[Inequality]].
+
 
 
 
