@@ -13,3 +13,13 @@ Then
 (9)$\lim_{  } \frac{a_{n}}{{b_{n}}}=\frac{a}{b}$ (assuming $b \not=0$)
 Note that (9) implies that ultimately $b_{n} \not=0$ 
 
+Theorem:
+Suppose $a_n = a$, then the sequence is bounded, that is, there is a [[real number]] $M$ such that $|a_{n}|<M$ for all $n$
+
+[[theorem]]:
+Suppose $a_{n} \to a$, $b_{n} \to b$, and $a_{n} \le b_{n}$ ultimately. Then, $a \le b$
+Note that this does not work for strictly $<$
+
+[[squeeze thereom]]:
+suppose $a_{n} \le b_{n} \le c_{n}$ ultimately. Suppose $a_{n} \to L$ and $c_{n} \to L$. Then $b_{n}\to L$
+
