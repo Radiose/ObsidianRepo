@@ -5,7 +5,7 @@ aliases:
 ---
 The most fundamental concept in the study of sequence is the notion of a convergence in a sequence .
 
-The informal idea is that a [[Sequence]] $a_{n}$ converges to $a$ and we write $lim \ a_{n} = a$ if no matter how small a positive number is chosen, the distance between $a_{n}$ and $a$ will always be less than this positive number. The smaller the number, the larger $n$ will need to be.
+The informal idea is that a [[Sequence]] $a_{n}$ converges to $a$ and we write $lim \ a_{n} = a$ if no matter how small a positive number is chosen, the distance between $a_{n}$ and $a$ will always be less than this positive number for some $n$. The smaller the number, the larger $n$ will need to be.
 
 This is an essential application of the [[limits|limit]].
 

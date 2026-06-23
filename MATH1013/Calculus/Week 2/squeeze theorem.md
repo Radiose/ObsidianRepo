@@ -7,6 +7,10 @@ The squeeze [[theorem]]
 Let $a_{n},b_{n},c_{n}$ be sequences. 
 suppose $a_{n} \le b_{n} \le c_{n}$ ultimately. Suppose $a_{n} \to L$ and $c_{n} \to L$. Then $b_{n}\to L$
 
+## Proof
+
+Suppose $a_n \leq b_n \leq c_n$ ultimately. Suppose $a_n \to L$ and $c_n \to L$. Let $\varepsilon > 0$ be given. Since $a_n \to L$ there is some integer $N_1$ such that $$n > N_1 \Rightarrow a_n \in (L - \varepsilon, L + \varepsilon). \tag{21}$$ Since $c_n \to L$ there is some integer $N_2$ such that $$n > N_2 \Rightarrow c_n \in (L - \varepsilon, L + \varepsilon). \tag{22}$$ Let $N = \max\{N_1, N_2\}$. Then since $a_n \leq b_n \leq c_n$ it follows from $(21)$ and $(22)$ that $$n > N \Rightarrow b_n \in (L - \varepsilon, L + \varepsilon).$$ But $\varepsilon$ was an arbitrary positive number, and so it follows that $b_n \to L$. $\blacksquare$
+
 
 
 

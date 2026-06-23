@@ -38,13 +38,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Calculus Hutchinson/Chapter 2/properties of sequence limits.md",
+                "file": "MATH1013/Calculus/Week 2/squeeze theorem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "properties of sequence limits"
+              "title": "squeeze theorem"
             }
           },
           {
@@ -442,8 +442,9 @@
   "active": "f05ff2e6b0300488",
   "lastOpenFiles": [
     "Foundations of Calculus Hutchinson/Chapter 2/properties of sequence limits.md",
-    "MATH1013/Calculus/Week 2/squeeze theorem.md",
     "Foundations of Calculus Hutchinson/Chapter 2/Convergence of a sequence.md",
+    "attachments/Pasted image 20260623193537.png",
+    "MATH1013/Calculus/Week 2/squeeze theorem.md",
     "MATH1013/Calculus/Week 2/approaching limits from one side.md",
     "Foundations of Calculus Hutchinson/Chapter 1/absolute value.md",
     "Foundations of Calculus Hutchinson/Chapter 1/real number.md",
@@ -469,7 +470,6 @@
     "Foundations of Calculus Hutchinson/Chapter 1/Field.md",
     "Foundations of Calculus Hutchinson/Chapter 1/Inequality.md",
     "Foundations of Calculus Hutchinson/Chapter 1/Inequalitys relating to absolute value.md",
-    "MATH1005/Week 2/Russell's paradox.md",
     "attachments/Pasted image 20260618181043.png",
     "Foundations of Calculus Hutchinson/Chapter 1",
     "attachments/Pasted image 20260618141317.png",
@@ -480,7 +480,6 @@
     "Foundations of Calculus Hutchinson",
     "attachments/Pasted image 20260607163244.png",
     "attachments/Pasted image 20260606171603.png",
-    "attachments/Pasted image 20260606163436.png",
     "attachments/Ink/Drawing/2026.5.25 - 14.51pm.drawing",
     "attachments/Ink/Drawing/2026.5.24 - 14.58pm.drawing",
     "attachments/Ink/Drawing/2026.5.24 - 14.40pm.drawing",

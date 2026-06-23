@@ -90,7 +90,15 @@ Then $a_{n} \in (a-\epsilon, a+\epsilon)$ ultimately.
 In particular 
 $a_{n} > a-\epsilon$.
 Similar, $b_{n} \in b+\epsilon$ ultimately 
-Since $\epsilon = \frac{1}{3}(a-b)$, then this implies 
+Since $\epsilon = \frac{1}{3}(a-b)$, then this implies $a_{n}>b_{n}$ ultimately.
+![[Pasted image 20260623193537.png]]
+
+This image above can show this. 
+
+This contradicts $a_{n} \leq b_{n}$ and so the assumption is false. Thus, $a \le b$.
+
+
+
 
 
 
