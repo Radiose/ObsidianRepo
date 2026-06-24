@@ -6,6 +6,3 @@ Subsequences of a sequence are analogous to subsets. The subsequences of a seque
 
 If a sequence does not [[Convergence of a sequence|converge]], then the [[subsequence]] may or may not converge. 
 For example, the sequence $1,2,3,4\dots$ does not converge, neither does any [[subsequence]].
-
-
-A man drives the first 60 km of a route at 80 km/h. Traffic slows him to 40 km/h for the next 40 km. He needs to finish a 180 km route in 2h 15min total, how fast should he travel the last 80 km to do so?
