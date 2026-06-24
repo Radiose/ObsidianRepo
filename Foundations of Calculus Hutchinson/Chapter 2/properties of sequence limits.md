@@ -130,4 +130,5 @@ Since $\epsilon$ is arbitrary, $a_{n}\to L$ while $n \to \infty$ $\blacksquare$
 We can use a similar proof for the following statement: 
 Suppose $S$ is a set of [[real number]]s which has a [[Completeness axiom|least upper bound]], denoted $L$. Then, there is a sequence $x_{n} \in S$ that converges to $L$.
 
-If $L \in S$, then we can take the 
+If $L \in S$, then we can take the constant sequence $L,L, \dots,L$ and its simple to see convergence occurs at L. Otherwise, note that $L-\frac{1}{n}$ is not an upper bound. Thus, there will always exist some integer $n$ such that $x_{n} \in (L-\frac{1}{n}, L)$. This is because $L \not \in S$ $\iff |S| = \infty$.
+
