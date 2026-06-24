@@ -16,7 +16,7 @@ proof of 6:
 (+) case 
 Suppose $a_{n} \to a$ and $b_{n} \to b$. Let $\epsilon > 0$. Since $a_{n} \to a$, there an integer $N_{1}$ such that 
 $n > N_{1} \implies |a_{n}-a|<\frac{\epsilon}{2}$
-Since $b_{n} \to b$, then similarly $\exists N_{2}$
+Since $b_{n} \to b$, then similarly $\exists N_{2}$ s.t
 $n > N_{2} \implies |b_{n}-b|< \frac{\epsilon}{2}$
 It follows then that if $N = Max\{ N_{1},N_{2} \}$
 then 
@@ -122,6 +122,3 @@ Because $L$ is the greatest lower bound, then $L+\epsilon$ is not a lower bound,
 Because this [[Sequence]] is constantly decreasing, then $a_{n}<L+\epsilon$ for all $n \geq k$
 Thus, we have shown that $L \leq a_{n} \leq L+\epsilon$ for all $n \geq k$ ($k$ depends on $\epsilon$)
 Since $\epsilon$ is arbitrary, $a_{n}\to L$ while $n \to \infty$ $\blacksquare$
-
-
-
