@@ -122,3 +122,12 @@ Because $L$ is the greatest lower bound, then $L+\epsilon$ is not a lower bound,
 Because this [[Sequence]] is constantly decreasing, then $a_{n}<L+\epsilon$ for all $n \geq k$
 Thus, we have shown that $L \leq a_{n} \leq L+\epsilon$ for all $n \geq k$ ($k$ depends on $\epsilon$)
 Since $\epsilon$ is arbitrary, $a_{n}\to L$ while $n \to \infty$ $\blacksquare$
+
+
+
+
+## Sequence within a set of reals 
+We can use a similar proof for the following statement: 
+Suppose $S$ is a set of [[real number]]s which has a [[Completeness axiom|least upper bound]], denoted $L$. Then, there is a sequence $x_{n} \in S$ that converges to $L$.
+
+If $L \in S$, then we can take the 
