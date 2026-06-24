@@ -38,13 +38,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Calculus Hutchinson/Chapter 1/Completeness axiom.md",
+                "file": "Foundations of Calculus Hutchinson/Chapter 2/properties of sequence limits.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Completeness axiom"
+              "title": "properties of sequence limits"
             }
           },
           {
@@ -441,8 +441,9 @@
   },
   "active": "f05ff2e6b0300488",
   "lastOpenFiles": [
-    "MATH1013/Calculus/Week 2/squeeze theorem.md",
+    "Foundations of Calculus Hutchinson/Chapter 1/Completeness axiom.md",
     "Foundations of Calculus Hutchinson/Chapter 2/properties of sequence limits.md",
+    "MATH1013/Calculus/Week 2/squeeze theorem.md",
     "Foundations of Calculus Hutchinson/Chapter 2/Convergence of a sequence.md",
     "attachments/Pasted image 20260623193537.png",
     "MATH1013/Calculus/Week 2/approaching limits from one side.md",
@@ -463,7 +464,6 @@
     "End of sem checklist.md",
     "Untitled.base",
     "MATH1013/Calculus/Week 9/Inverse trigonometric function.md",
-    "Foundations of Calculus Hutchinson/Chapter 1/Completeness axiom.md",
     "Foundations of Calculus Hutchinson/Chapter 1/algebraic and order axioms.md",
     "Foundations of Calculus Hutchinson/Chapter 1/Density of the rational and irrational numbers.md",
     "attachments/Pasted image 20260620162921.png",

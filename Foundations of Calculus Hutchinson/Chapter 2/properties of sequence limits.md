@@ -2,6 +2,8 @@ Its normally pretty inefficient to use the [[limits|limit]] definition to prove 
 There are a number of theorems that will be used instead. 
 
 
+
+## Basic properties 
 Suppose $\lim_{ } a_{n} = a$,  $\lim_{ }b_{n}=b$
 Then 
 (6)$\lim_{ }(a_{n}\pm b_{n}) = (a+b)$
@@ -51,7 +53,7 @@ Hence, $|a_{n}b_{n} - ab|<\epsilon$ for all $n > N$ where $N = max\{N_{1},N_{2}\
 
 
 
-
+# Other theorems
 Theorem 1:
 If two [[Sequence]]s converge, then so does their sum, and the limit of the new sequence is just the sum of the limits of the original sequence. 
 Similar results apply for all products and quotients. 
@@ -103,3 +105,20 @@ This contradicts $a_{n} \leq b_{n}$ and so the assumption is false. Thus, $a \le
 
 
 ![[squeeze theorem]]
+
+
+## Bounded sequences 
+
+If a sequence is bounded and ultimately monotone, then it converges. 
+
+We use the [[Completeness axiom]] to prove.
+
+For the ultimately decreasing case:
+Suppose the sequence $a_{n}$ decreases from the $N$th term onwards. Considering terms from this point, we get a sequence $a_{N}, a_{N+1}\dots a_{n}$. This set is bounded below, and thus, via the completeness axiom, this set has a greatest lower bound we denote $L$. We will prove that $\lim a_{n} = L$. 
+
+Suppose $\epsilon > 0$. Because $L$ is a lower bound, then $L \leq a_{n}$ for all $n$.
+Because $L$ is the greatest lower bound, then $L+\epsilon$ is not a lower bound, and so there is a $k \in \mathbb{Z}$ such that $a_{k} < L+\epsilon$ 
+
+Because this [[Sequence]] is constantly decreasing, then $a_{n}<L+\epsilon$ for all $n \geq k$
+Thus, we have shown that $L \leq a_{n} \leq L+\epsilon$ for all $n \geq k$ ($k$ depends on $\epsilon$)
+Since $\epsilon$ is arbitrary, $a_{n}\to L$ while $n \to \infty$
