@@ -121,4 +121,7 @@ Because $L$ is the greatest lower bound, then $L+\epsilon$ is not a lower bound,
 
 Because this [[Sequence]] is constantly decreasing, then $a_{n}<L+\epsilon$ for all $n \geq k$
 Thus, we have shown that $L \leq a_{n} \leq L+\epsilon$ for all $n \geq k$ ($k$ depends on $\epsilon$)
-Since $\epsilon$ is arbitrary, $a_{n}\to L$ while $n \to \infty$
+Since $\epsilon$ is arbitrary, $a_{n}\to L$ while $n \to \infty$ $\blacksquare$
+
+
+
