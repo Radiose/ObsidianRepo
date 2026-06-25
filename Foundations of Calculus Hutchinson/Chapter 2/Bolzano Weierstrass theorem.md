@@ -7,10 +7,20 @@ Note that this theorem only applies closed intervals. For example, $[0,\infty)$ 
 We divide the interval $[a,b]$ into two subintervals, each equal length and a common endpoint being the midpoint. We keep one subinterval (which will contain an infinite [[subsequence]] of $c_{n}$). We then divide this subinterval again and again, keeping one half, until we eventually define a new subsequence of the original interval such that $x_{n}$ is the $n$th subinterval.
 
 ## Formally
-Let $c_{n}$ be a [[Sequence]] of [[real number]]s all of which are contained in the closed bounded interval $[a,b]$.
+Let $c_{n}$ be a [[Sequence]] of [[real number]]s all of which are contained in the closed bounded interval $[a,b]$. (Note that $c_{n}$ is arbitrary, and all we know is that it is infinite).
+
 
 Divide the interval $[a,b]$ into two closed, bounded intervals $\left[ a, \frac{a+b}{2} \right]$ and $\left[ \frac{a+b}{2}, b \right]$ with equal length and common endpoint $\frac{a+b}{2}$. At least one of these subintervals contain an infinite (given) subsequence of the original sequence. We choose one of these and denote it $[a_{1},b_{1}]$. 
 
 Similarly, we subdivide $[a_{1},b_{1}]$ and choose a subinterval that contains an infinite subsequence of the original sequence. We choose one of these and denote it $[a_{2},b_{2}]$. etc etc.
 
 Now we define a subsequence that [[Convergence of a sequence|converges]] $x_{n}$ from the original sequence as follows. Choose some $x_{1}$ from the subinterval $[a_{1},b_{1}]$. Then some $x_{2}$ from $[a_{2},b_{2}]$ that occurs after $x_{1}$ in $c_{n}$. etc etc.
+
+Thus, we have $$a_{1}\leq b_{1},\ \ a_{1}\leq a_{2}\leq b_{2}\leq b_{1},\ \ a_{1}\leq a_{2}\leq a_{3}\leq b_{3}\leq b_{2}\leq b_{1},\ \ \dots$$$$x_{1} \in [a_{1},b_{1}],\ \ x_{2} \in[a_{2},b_{2}],\ \ x_{3} \in[a_{3},b_{3}],\ \ \dots\ $$
+and $x_{n}$ is a subsequence of $c_{n}$.
+
+
+Now, we take the endpoints of each subinterval and create another sequence $a_{1},a_{2}\dots a_{n}$ denoted as $a_{n}$ and then $b_{n}$ for the respective right subintervals. 
+
+Now, importantly, we note that $a_{n}$ by definition is monotonously non decreasing, and additionally, $b_{n}$ is monotonously non increasing.
+Additionally, we note that they are both bounded ($a_{n}$ above and $b_{n}$ below), and thus, $a_{n}$ has a glb and lub via the [[Completeness axiom]].
