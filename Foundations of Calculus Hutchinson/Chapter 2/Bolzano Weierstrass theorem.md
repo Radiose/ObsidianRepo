@@ -23,4 +23,9 @@ and $x_{n}$ is a subsequence of $c_{n}$.
 Now, we take the endpoints of each subinterval and create another sequence $a_{1},a_{2}\dots a_{n}$ denoted as $a_{n}$ and then $b_{n}$ for the respective right subintervals. 
 
 Now, importantly, we note that $a_{n}$ by definition is monotonously non decreasing, and additionally, $b_{n}$ is monotonously non increasing.
-Additionally, we note that they are both bounded ($a_{n}$ above and $b_{n}$ below), and thus, $a_{n}$ has a glb and lub via the [[Completeness axiom]].
+Additionally, we note that they are both bounded ($a_{n}$ above and $b_{n}$ below), and thus, $a_{n}$ has a *glb* $L$ and $b_{n}$ has a *lub* $M$ via the [[Completeness axiom]].
+
+Note, that each $a_{n}$ is a lower bound for each $b_{m}$. Because of this, we note that $\forall n \in \mathbb{Z}_{\geq0} \ a_{n}\leq M$. Hence $L \leq M$
+Now, since $a_{n}\leq L\leq M\leq b_{n}$ for every $n$ and since $b_{n}-a_{n}=2^{-n}(b-a) \to {0}$, it follows that $L = M$
+It follows that $\lim_{ }x_{n} = L= (M)$. 
+
