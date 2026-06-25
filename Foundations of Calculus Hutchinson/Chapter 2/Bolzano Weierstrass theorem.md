@@ -13,4 +13,4 @@ Divide the interval $[a,b]$ into two closed, bounded intervals $\left[ a, \frac{
 
 Similarly, we subdivide $[a_{1},b_{1}]$ and choose a subinterval that contains an infinite subsequence of the original sequence. We choose one of these and denote it $[a_{2},b_{2}]$. etc etc.
 
-Now we define a subsequence that [[Convergence of a sequence|converges]] $x_{n}$ from the original sequence as follows. Choose some $x_{1}$ from the subinterval $[a_{1},b_{1}]$. Then some $x_{2}$ from $[a_{2},b_{2}]$ that occurs after the 
+Now we define a subsequence that [[Convergence of a sequence|converges]] $x_{n}$ from the original sequence as follows. Choose some $x_{1}$ from the subinterval $[a_{1},b_{1}]$. Then some $x_{2}$ from $[a_{2},b_{2}]$ that occurs after $x_{1}$ in $c_{n}$. etc etc.
