@@ -23,13 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Calculus Hutchinson/Chapter 1/algebraic and order axioms.md",
+                "file": "Foundations of Calculus Hutchinson/Chapter 1/Density of the rational and irrational numbers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "algebraic and order axioms"
+              "title": "Density of the rational and irrational numbers"
             }
           }
         ],
@@ -105,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -225,9 +224,12 @@
   },
   "active": "a6a7c1ce962b5b61",
   "lastOpenFiles": [
+    "Foundations of Calculus Hutchinson/Chapter 1/Inequalitys relating to absolute value.md",
+    "Foundations of Calculus Hutchinson/Chapter 1/Density of the rational and irrational numbers.md",
+    "Foundations of Calculus Hutchinson/Chapter 1/algebraic and order axioms.md",
+    "Foundations of Calculus Hutchinson/Chapter 1/archimedean property.md",
     "Foundations of Calculus Hutchinson/Chapter 1/Field.md",
     "Foundations of Calculus Hutchinson/Chapter 1/Completeness axiom.md",
-    "Foundations of Calculus Hutchinson/Chapter 1/algebraic and order axioms.md",
     "Foundations of Calculus Hutchinson/Chapter 1/real number.md",
     "MATH1013/Complex numbers/Geometric interpretation of complex numbers.md",
     "MATH1013/Linear algebra/Week 6/Injective transformation.md",
@@ -235,7 +237,6 @@
     "MATH1013/Calculus/Week 8/mean value theorem for integrals.md",
     "MATH1013/Linear algebra/Week 8/Invertible matrix theorem.md",
     "Foundations of Calculus Hutchinson/Chapter 1/absolute value.md",
-    "Foundations of Calculus Hutchinson/Chapter 1/Density of the rational and irrational numbers.md",
     "COMP1110/Week 10/breadth first search.md",
     "Foundations of Calculus Hutchinson/Chapter 2/Bolzano Weierstrass theorem.md",
     "Foundations of Calculus Hutchinson/Chapter 2/properties of sequence limits.md",
@@ -249,8 +250,6 @@
     "MATH1013/Linear algebra/Week 7/MATH1013 22.04.2026.md",
     "MATH1013/Calculus/Week 12/MATH1013 26.05.2026.md",
     "MATH1013/Calculus/Week 11/MATH1013 19.05.2026.md",
-    "MATH1013/Calculus/Week 10/MATH1013 12.05.2026.md",
-    "MATH1013/Calculus/Week 10/Decomposition of rational functions.md",
     "attachments/Pasted image 20260623193537.png",
     "Foundations of Calculus Hutchinson/Chapter 2",
     "Untitled.base",
