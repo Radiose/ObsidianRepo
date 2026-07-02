@@ -23,13 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Calculus Hutchinson/Chapter 2/Bolzano Weierstrass theorem.md",
+                "file": "Foundations of Calculus Hutchinson/Chapter 2/Divergence of a sequence.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Bolzano Weierstrass theorem"
+              "title": "Divergence of a sequence"
             }
           }
         ],
@@ -224,6 +224,10 @@
   },
   "active": "a6a7c1ce962b5b61",
   "lastOpenFiles": [
+    "Foundations of Calculus Hutchinson/Chapter 2/Convergence of a sequence.md",
+    "Foundations of Calculus Hutchinson/Chapter 2/Useful limits.md",
+    "Foundations of Calculus Hutchinson/Chapter 2/subsequence.md",
+    "Foundations of Calculus Hutchinson/Chapter 2/Bolzano Weierstrass theorem.md",
     "Foundations of Calculus Hutchinson/Chapter 1/algebraic and order axioms.md",
     "Foundations of Calculus Hutchinson/Chapter 1/Completeness axiom.md",
     "Foundations of Calculus Hutchinson/Chapter 1/Density of the rational and irrational numbers.md",
@@ -238,18 +242,14 @@
     "MATH1013/Linear algebra/Week 8/Invertible matrix theorem.md",
     "Foundations of Calculus Hutchinson/Chapter 1/absolute value.md",
     "COMP1110/Week 10/breadth first search.md",
-    "Foundations of Calculus Hutchinson/Chapter 2/Bolzano Weierstrass theorem.md",
     "Foundations of Calculus Hutchinson/Chapter 2/properties of sequence limits.md",
     "MATH1005/Week 5/Sequence.md",
     "MATH1005/Week 10/Isomorphism.md",
-    "Foundations of Calculus Hutchinson/Chapter 2/subsequence.md",
-    "Foundations of Calculus Hutchinson/Chapter 2/Useful limits.md",
     "MATH1005/Week 2/subset.md",
     "MATH1013/Linear algebra/Week 10/MATH1013 13.05.2026.md",
     "MATH1013/Linear algebra/Week 8/MATH1013 29.04.2026.md",
     "MATH1013/Linear algebra/Week 7/MATH1013 22.04.2026.md",
     "MATH1013/Calculus/Week 12/MATH1013 26.05.2026.md",
-    "MATH1013/Calculus/Week 11/MATH1013 19.05.2026.md",
     "attachments/Pasted image 20260623193537.png",
     "Foundations of Calculus Hutchinson/Chapter 2",
     "Untitled.base",
