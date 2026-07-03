@@ -15,7 +15,7 @@ $$|xy - x_0 y_0| < \varepsilon.$$
 $$|y - y_0| < \min\left(\frac{|y_0|}{2}, \frac{\varepsilon |y_0|^2}{2}\right),$$
 then $y \neq 0$ and
 $$\left| \frac{1}{y} - \frac{1}{y_0} \right| < \varepsilon.$$
-
+**
 **PROOF**
 
 **(1)**

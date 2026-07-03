@@ -32,8 +32,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,10 +221,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d4d9ba1e01d9bfa",
+  "active": "303cc670999ec5e2",
   "lastOpenFiles": [
-    "Foundations of Calculus Hutchinson/Chapter 3/The formal definition of a limit.md",
+    "Foundations of Calculus Hutchinson/Chapter 1/Inequality.md",
+    "Foundations of Calculus Hutchinson/Chapter 1/absolute value.md",
     "Foundations of Calculus Hutchinson/Chapter 3/Limit lemma 1.md",
+    "Foundations of Calculus Hutchinson/Chapter 3/The formal definition of a limit.md",
     "Untitled.md",
     "MATH1116/Week 9",
     "MATH1116/Week 8",
@@ -237,8 +238,6 @@
     "MATH1116/Week 2",
     "MATH1116/Week 10",
     "MATH1116/Week 12",
-    "Foundations of Calculus Hutchinson/Chapter 1/absolute value.md",
-    "Foundations of Calculus Hutchinson/Chapter 1/Inequality.md",
     "Foundations of Calculus Hutchinson/Chapter 1/algebraic and order axioms.md",
     "Foundations of Calculus Hutchinson/Chapter 2/Bolzano Weierstrass theorem.md",
     "Foundations of Calculus Hutchinson/Chapter 2/subsequence.md",
