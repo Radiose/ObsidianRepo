@@ -11,3 +11,8 @@ $x \in N(a,\delta_{\epsilon})$, that is |x-a|<$\delta_{\epsilon}$ and  $x \not= 
 if no such $L_a$ exists, we say that $\lim_{ n \to \infty }f(x)$ does not exist 
 
 This is basically saying that for every epsilon difference, there must also be a delta difference.
+
+
+
+HOW TO GO ABOUT PROVING 
+The essence of an $\epsilon-\delta$ problem is to convert the $f(x)-l$ expression into a factorised $|x-a|\times|something|$ . 
