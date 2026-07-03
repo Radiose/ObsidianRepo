@@ -1,4 +1,5 @@
-**LEMMA**
+**LEMMA** for [[limits|limit]]s, involving [[absolute value]]s ($\epsilon,\delta$).
+
 
 **(1)** If
 $$|x - x_0| < \frac{\varepsilon}{2} \quad \text{and} \quad |y - y_0| < \frac{\varepsilon}{2},$$
