@@ -14,5 +14,16 @@ This is basically saying that for every epsilon difference, there must also be a
 
 
 
-HOW TO GO ABOUT PROVING 
+## HOW TO GO ABOUT PROVING 
 The essence of an $\epsilon-\delta$ problem is to convert the $f(x)-l$ expression into a factorised $|x-a|\times|something|$ . 
+
+From here, we create a bound on $|x-a|$ that upon rearranging, gives us $x < z$.
+From here, we use the property of $x < z$ to do a couple of options: 
+1: use the triangle inequality on the $|something|$ and substitute in what $x$ is less than ($x < z$) to get another value $|something|$ is less than. 
+
+Basically, we want to use the property that $|x-a|$ is less than something to find out what $|something|$ is less than. From here, we say $|x-a|\times|something|< |x-a| \times\text{something that |something| is less than}<\epsilon$. then rearrange to get $|x-a|< \frac{\epsilon}{\text{something that |something| is less than}}$
+Thus, delta is $min(z, \frac{\epsilon}{\text{something that |something is less than|}})$
+
+The most important part is understanding 
+$$|x-a|\times|something|< |x-a| \times\text{something that |something| is less than}<
+\epsilon$$
