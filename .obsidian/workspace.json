@@ -23,6 +23,21 @@
             }
           },
           {
+            "id": "93fca48b710b05a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Foundations of Calculus Hutchinson/Chapter 3/Theorems for continuouness.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Theorems for continuouness"
+            }
+          },
+          {
             "id": "2d4d9ba1e01d9bfa",
             "type": "leaf",
             "state": {
@@ -32,7 +47,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,12 +237,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "303cc670999ec5e2",
+  "active": "93fca48b710b05a4",
   "lastOpenFiles": [
+    "Foundations of Calculus Hutchinson/Chapter 3/Limit lemma 1.md",
     "Foundations of Calculus Hutchinson/Chapter 3/The formal definition of a limit.md",
+    "Foundations of Calculus Hutchinson/Chapter 3/Theorems for continuouness.md",
+    "MATH1013/Calculus/Week 2/continuous function.md",
     "MATH1005/Week 1/proof by contradiction.md",
     "MATH1013/Calculus/Week 3/very important limit.md",
-    "Foundations of Calculus Hutchinson/Chapter 3/Limit lemma 1.md",
     "MATH1013/Calculus/Week 2/Existence of a limit.md",
     "existanc.md",
     "Foundations of Calculus Hutchinson/Chapter 1/absolute value.md",
@@ -246,7 +264,6 @@
     "MATH1116/Week 12",
     "Foundations of Calculus Hutchinson/Chapter 2/Bolzano Weierstrass theorem.md",
     "Foundations of Calculus Hutchinson/Chapter 2/subsequence.md",
-    "MATH1013/Calculus/Week 2/continuous function.md",
     "Foundations of Calculus Hutchinson/Chapter 1/archimedean property.md",
     "Foundations of Calculus Hutchinson/Chapter 2/Divergence of a sequence.md",
     "Foundations of Calculus Hutchinson/Chapter 2/Convergence of a sequence.md",
@@ -258,7 +275,6 @@
     "MATH1013/Complex numbers/Geometric interpretation of complex numbers.md",
     "MATH1013/Linear algebra/Week 6/Injective transformation.md",
     "MATH1005/Week 9/Steady state vector.md",
-    "MATH1013/Calculus/Week 8/mean value theorem for integrals.md",
     "attachments/Pasted image 20260623193537.png",
     "attachments/Pasted image 20260620162921.png",
     "attachments/Pasted image 20260618181043.png",
