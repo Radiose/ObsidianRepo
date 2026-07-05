@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Calculus Hutchinson/Chapter 3/The formal definition of a limit.md",
+                "file": "MATH1013/Calculus/Week 2/continuous function.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "The formal definition of a limit"
+              "title": "continuous function"
             }
           },
           {
@@ -223,8 +223,8 @@
   },
   "active": "303cc670999ec5e2",
   "lastOpenFiles": [
-    "MATH1005/Week 1/proof by contradiction.md",
     "Foundations of Calculus Hutchinson/Chapter 3/The formal definition of a limit.md",
+    "MATH1005/Week 1/proof by contradiction.md",
     "MATH1013/Calculus/Week 3/very important limit.md",
     "Foundations of Calculus Hutchinson/Chapter 3/Limit lemma 1.md",
     "MATH1013/Calculus/Week 2/Existence of a limit.md",

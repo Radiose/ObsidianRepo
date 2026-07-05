@@ -47,3 +47,31 @@ $\lim_{ x \to 3 } \frac {(\cos^2(3))} {x-1}$ is continuous around 3, therefore y
 for a piecewise function:
 
 compute the limit when x approaches from the left, and when x approaches from the right. Therefore, the function will be continuous at a if and only if the left hand limit equals the right hand limit. 
+
+
+
+
+Theorems for continuity 
+
+## Simple theorems to make it easier 
+
+Some important theorems that are part of proofs for continuity are the following 
+1: If $f,\ g$ are continuous at $a$, then 
+	- $f+g$ is continuous at $a$
+	- $f \cdot g$ is continuous at $a$
+Moreover, if $g(a) \not=0$, then $\frac{1}{g}$ is continuous at $a$
+
+This theorem is extremely useful for proving compositions of functions are continuous. Because we know that $f(x) = c$, $g(x) = x$ and $h(x) = x^2$ are all continuous at any $a$, then a function $f(x) = \frac{ b_{n}x^n + b_{n-1}x^{n-1}\dots b_{0}}{c_{m}x^m + c_{m-1}x^{m-1}\dots c_{0}}$ is continuous at any $a$.
+
+
+2: If $g$ is continuous at $a$ and $f$ is continuous at $g(a)$, then $f \circ g$ is continuous at $a$. 
+
+(Notice that $f$ is required to be continuous at $g(a)$, not at $a$, which follows from the definition of function [[composition of Functions|composition]]).
+
+We utilise a simple proof 
+Let  $g$ be continuous at $a$, let $f$ be continuous at $g(a)$
+$|x-a| < \delta \implies$ $|(f \circ g)(x) - (f \circ g)(a)| < \epsilon$
+
+Because $f$ is continuous at $g(a)$, $\exists\  \delta' >0 \ \ \forall y$ 
+1: $|y-g(a)|<\delta' \implies|f(y)-f(g(a))|<\epsilon$
+In particular, this means that 
