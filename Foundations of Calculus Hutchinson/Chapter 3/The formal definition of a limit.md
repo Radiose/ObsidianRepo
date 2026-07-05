@@ -27,3 +27,8 @@ Thus, delta is $min(z, \frac{\epsilon}{\text{something that |something is less t
 The most important part is understanding 
 $$|x-a|\times|something|< |x-a| \times\text{something that |something| is less than}<
 \epsilon$$
+
+
+## Proving nonexistence
+Generally, we want to prove nonexistence of a limit formally via [[proof by contradiction]]
+
