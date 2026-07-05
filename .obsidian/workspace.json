@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,12 +237,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93fca48b710b05a4",
+  "active": "2d4d9ba1e01d9bfa",
   "lastOpenFiles": [
+    "MATH1013/Calculus/Week 2/continuous function.md",
+    "Foundations of Calculus Hutchinson/Chapter 3/Theorems for continuouness.md",
     "Foundations of Calculus Hutchinson/Chapter 3/Limit lemma 1.md",
     "Foundations of Calculus Hutchinson/Chapter 3/The formal definition of a limit.md",
-    "Foundations of Calculus Hutchinson/Chapter 3/Theorems for continuouness.md",
-    "MATH1013/Calculus/Week 2/continuous function.md",
     "MATH1005/Week 1/proof by contradiction.md",
     "MATH1013/Calculus/Week 3/very important limit.md",
     "MATH1013/Calculus/Week 2/Existence of a limit.md",
