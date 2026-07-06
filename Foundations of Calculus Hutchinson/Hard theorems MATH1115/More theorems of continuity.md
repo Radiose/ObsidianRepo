@@ -16,4 +16,21 @@ Consider the function shown below
 ![[Pasted image 20260706165453.png]]
 
 The function is defined piecewise as $x \in [0,\sqrt{ 2 }) \iff f(x) = -1$ and $x \in[\sqrt{ 2 },2] \iff f(x)=1$ 
-Obviously, this function is not continuous at $\sqrt{ 2 }$, but it is continuous at all other points in the interval. Additionally, it meets the requirements of theorem 1, with $f(0)<0<f(2)$. 
+Obviously, this function is not continuous at $\sqrt{ 2 }$, but it is continuous at all other points in the interval. Additionally, it meets the requirements of theorem 1, with $f(0)<0<f(2)$, but there is no $x$ such that $f(x) = 0$.
+
+
+
+Similarly, suppose a function $f$ exists as shown below 
+
+![[Pasted image 20260706195408.png]]
+This function is defined piecewise as $f(x)=\frac{1}{x}\iff x\not=0$ and $f(x)=0 \iff x = 0$. This function is continuous on $[0,1]$ for all points except $0$, but we can see it is not bounded. For any number $N>0$, $f\left( \frac{1}{2N} \right)=2N>N$ (because $f\left( \frac{1}{2N} \right)=\frac{1}{\frac{1}{2N}}$). 
+
+This observation also demonstrates how theorem 2 doesn't work on open intervals.
+
+Finally, consider the function shown below 
+![[Pasted image 20260706201200.png]]
+This function is defined piecewise as $f(x) = x^2 \iff x <1$ $f(x)=0 \iff x\geq 1$
+
+On the interval $[0,1]$, $f$ is clearly bounded above, so the function $f$ does satisfy some conclusion of the second theorem, even though its not continuous on $[0,1]$. $f$ does not however, satisfy the conclusion of theorem 3, there is no $y \in[0,1]$ such that $f(y) \geq f(x)$ for all $x \in[0,1]$. This is because there are infinite reals between 0 and 1.
+
+This conclusion shows the strength of theorem 3 being significantly greater than theorem 2. Theorem 3 is often paraphrased by saying that a continuous function on a closed interval takes its maximum value on that interval. 
