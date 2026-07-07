@@ -34,3 +34,17 @@ This function is defined piecewise as $f(x) = x^2 \iff x <1$ $f(x)=0 \iff x\geq 
 On the interval $[0,1]$, $f$ is clearly bounded above, so the function $f$ does satisfy some conclusion of the second theorem, even though its not continuous on $[0,1]$. $f$ does not however, satisfy the conclusion of theorem 3, there is no $y \in[0,1]$ such that $f(y) \geq f(x)$ for all $x \in[0,1]$. This is because there are infinite reals between 0 and 1.
 
 This conclusion shows the strength of theorem 3 being significantly greater than theorem 2. Theorem 3 is often paraphrased by saying that a continuous function on a closed interval takes its maximum value on that interval. 
+
+
+
+
+## More theorems built off the original 3
+Theorem 4:
+if $f$ is continuous on $[a,b]$ and $f(a)<c<f(b)$, then there exists an $x$ in $[a,b]$ such that $f(x) = c$
+Proof:
+Let $g =f-c$. Then, $g$ is continuous and $g(a)<0<g(b)$. By theorem 1, there exists an $x \in [a,b]$ such that $g(x)=0$, but this means that $f(x)=c$.
+
+Theorem 5:
+If $f$ is continuous on $[a,b]$ and $f(a)>c>f(b)$, then there is some $x$ in $[a,b]$ such that $f(x)=c$
+Proof:
+The function $-f$ is continuous on $[a,b]$ and 
