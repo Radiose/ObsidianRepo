@@ -83,7 +83,7 @@ We would like to prove that $f$ is sometimes positive, and sometimes negative. T
 
 We rearrange $f(x)$ into $x^n(1+\frac{a_{n-1}}{x}+\frac{a_{n-2}}{x^2}\dots+\frac{a_{0}}{x^n})$
 Via the triangle inequality, we get $|\frac{a_{n-1}}{x}+\frac{a_{n-2}}{x^{2}}+\dots+\frac{a_{0}}{x^n} \leq \frac{|a_{n-1}|}{|x|} + \frac{|a_{n-2}|}{|x^2|}+\dots+\frac{|a_{0}|}{|x^n|}$
-Consequently, if we choose an $x$ satisfying $|x|>1,2n|a_{n-1}|,2n|a_{0}|$, 
+Consequently, if we choose an $x$ satisfying $|x|>1,2n|a_{n-1}|,\dots,2n|a_{0}|$, 
 then $|x^k|>|x|$ and 
 $$\frac{|a_{n-k}|}{|x^k|} < \frac{|a_{n-k}|}{|x|} < \frac{|a_{n-k}|}{2n|a_{n-k}|} = \frac{1}{2n},$$
 
@@ -111,3 +111,38 @@ Now applying Theorem 1 to the interval $[x_2, x_1]$ we conclude that there is an
 
 Not much can be said currently regarding even degree $n$'s, at least in the current form. If we rearrange however to get $x^n + a_{n-1}x^{n-1}+\dots+a_{0}=c$, where $c$ is allowing the constant term $a_{0}$ to vary. 
 
+The graph of a function $f(x)=x^n+a_{n-1}x^{n-1}+\dots+a_{0}$ where $n$ is even will contain a lowest point. That is, there is a number $y$ such that $f(y)\leq f(x)$ for all numbers $x$. The proof depends on theorem 7 but is tricky. The problem is making sure that the interval selected contains said $y$.
+
+Theorem 10
+if $n$ is even and $f(x) =x^n+a_{n-1}x^{n-1}+\dots+a_{0}$, then there exists a number $y$ such that $f(y)\leq f(x)$
+for all $x$.
+
+Proof:
+Similarly to theorem 9, if $M = max(1,2n|a_{n-1}|,\dots,2n|a_{0}|)$
+Then for all $x$ with $|x|\geq M$ we have $\frac{1}{2}\leq 1+ \frac{a_{n-1}}{x}+\dots+\frac{a_{0}}{x^n}$
+
+Since $n$ is even, then $x^n>0$ for all $x$, so 
+
+$$\frac{x^n}{2} \leq x^n\left(1 + \frac{a_{n-1}}{x} + \cdots + \frac{a_0}{x^n}\right) = f(x),$$
+
+provided that $|x| \geq M$. Now consider the number $f(0)$. Let $b > 0$ be a number such that $b^n \geq 2f(0)$ and also $b > M$. Then, if $x \geq b$, we have (Figure 9)
+
+$$f(x) \geq \frac{x^n}{2} \geq \frac{b^n}{2} \geq f(0).$$
+
+Similarly, if $x \leq -b$, then
+
+$$f(x) \geq \frac{x^n}{2} \geq \frac{(-b)^n}{2} = \frac{b^n}{2} \geq f(0).$$
+
+Summarizing:
+
+$$\text{if } x \geq b \text{ or } x \leq -b, \text{ then } f(x) \geq f(0).$$
+
+Now apply Theorem 7 to the function $f$ on the interval $[-b, b]$. We conclude that there is a number $y$ such that
+
+$$(1) \qquad \text{if } -b \leq x \leq b, \text{ then } f(y) \leq f(x).$$
+
+In particular, $f(y) \leq f(0)$. Thus
+
+$$(2) \qquad \text{if } x \leq -b \text{ or } x \geq b, \text{ then } f(x) \geq f(0) \geq f(y).$$
+
+Combining $(1)$ and $(2)$ we see that $f(y) \leq f(x)$ for all $x$. $\blacksquare$
