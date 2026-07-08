@@ -70,7 +70,8 @@ Consider the function $f(x)=x^2$, which is certainly continuous. Notice the stat
 
 There is obviously a number $b>0$ such that $f(b)>\alpha$. In fact, if $\alpha >1$, we can take $b = \alpha$, else we can take $b = 1$. Since $f(0)<\alpha<f(b)$, theorem 4 applied to $[0,b]$ implies that for some $x \in[0,b]$ $f(x)=\alpha$.
 
-The same argument can be used to prove that a positive number has an $n$th root, for any natural number $n$. If $n$ happens to be odd, one can do better. We can prove that any number, positive or negative, has an $n$th root. This can be done by proving that the positive number $\alpha$ has the $n$th root, then $(-x)^n=-\alpha$ since $n$ is odd. 
+The same argument can be used to prove t
+hat a positive number has an $n$th root, for any natural number $n$. If $n$ happens to be odd, one can do better. We can prove that any number, positive or negative, has an $n$th root. This can be done by proving that the positive number $\alpha$ has the $n$th root, then $(-x)^n=-\alpha$ since $n$ is odd. 
 
 
 Theorem 9:
@@ -78,8 +79,35 @@ if $n$ is odd, then any equation $x^n+a_{n-1}x^{n-1}+\dots+a_{0}$ has a root.
 
 Proof: 
 Consider the function $f(x)=x^n+a_{n-1}x^{n-1}+\dots+a_{0}$
-We would like to prove that $f$ is sometimes positive, and sometimes negative. The idea is that for large $|x|$, the function is like $g(x)=x^n$ and since $n$ is odd, the function is positive for large positive $x$ and negative for large negative $x$. 
+We would like to prove that $f$ is sometimes positive, and sometimes negative. The idea is that for large $|x|$, the function is like $g(x)=x^n$ and since $n$ is odd, the function is positive for large positive $x$ and negative for large negative $x$. Intuitively, 
 
 We rearrange $f(x)$ into $x^n(1+\frac{a_{n-1}}{x}+\frac{a_{n-2}}{x^2}\dots+\frac{a_{0}}{x^n})$
 Via the triangle inequality, we get $|\frac{a_{n-1}}{x}+\frac{a_{n-2}}{x^{2}}+\dots+\frac{a_{0}}{x^n} \leq \frac{|a_{n-1}|}{|x|} + \frac{|a_{n-2}|}{|x^2|}+\dots+\frac{|a_{0}|}{|x^n|}$
-Consequently, if we choose an $x$ satisfying $|x|>1,2n|a_{n-1}|$
+Consequently, if we choose an $x$ satisfying $|x|>1,2n|a_{n-1}|,2n|a_{0}|$, 
+then $|x^k|>|x|$ and 
+$$\frac{|a_{n-k}|}{|x^k|} < \frac{|a_{n-k}|}{|x|} < \frac{|a_{n-k}|}{2n|a_{n-k}|} = \frac{1}{2n},$$
+
+so, 
+$$\left|\frac{a_{n-1}}{x} + \frac{a_{n-2}}{x^2} + \cdots + \frac{a_0}{x^n}\right| \leq \underbrace{\frac{1}{2n} + \cdots + \frac{1}{2n}}_{n \text{ terms}} = \frac{1}{2}.$$
+In other words,
+
+$$-\frac{1}{2} \leq \frac{a_{n-1}}{x} + \cdots + \frac{a_0}{x^n} \leq \frac{1}{2},$$
+
+which implies that
+
+$$\frac{1}{2} \leq 1 + \frac{a_{n-1}}{x} + \cdots + \frac{a_0}{x^n}.$$
+
+Therefore, if we choose an $x_1 > 0$ which satisfies $|x^k|>|x|$, then
+
+$$\frac{(x_1)^n}{2} \leq (x_1)^n \left(1 + \frac{a_{n-1}}{x_1} + \cdots + \frac{a_0}{(x_1)^n}\right) = f(x_1),$$
+
+so that $f(x_1) > 0$. On the other hand, if $x_2 < 0$ satisfies $|x^k|>|x|$, then $(x_2)^n < 0$ and
+
+$$\frac{(x_2)^n}{2} \geq (x_2)^n \left(1 + \frac{a_{n-1}}{x_2} + \cdots + \frac{a_0}{(x_2)^n}\right) = f(x_2),$$
+
+so that $f(x_2) < 0$.
+
+Now applying Theorem 1 to the interval $[x_2, x_1]$ we conclude that there is an $x$ in $[x_2, x_1]$ such that $f(x) = 0$. $\blacksquare$
+
+Not much can be said currently regarding even degree $n$'s, at least in the current form. If we rearrange however to get $x^n + a_{n-1}x^{n-1}+\dots+a_{0}=c$, where $c$ is allowing the constant term $a_{0}$ to vary. 
+
