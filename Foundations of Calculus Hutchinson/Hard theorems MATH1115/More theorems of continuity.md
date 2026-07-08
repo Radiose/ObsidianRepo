@@ -75,3 +75,11 @@ The same argument can be used to prove that a positive number has an $n$th root,
 
 Theorem 9:
 if $n$ is odd, then any equation $x^n+a_{n-1}x^{n-1}+\dots+a_{0}$ has a root. 
+
+Proof: 
+Consider the function $f(x)=x^n+a_{n-1}x^{n-1}+\dots+a_{0}$
+We would like to prove that $f$ is sometimes positive, and sometimes negative. The idea is that for large $|x|$, the function is like $g(x)=x^n$ and since $n$ is odd, the function is positive for large positive $x$ and negative for large negative $x$. 
+
+We rearrange $f(x)$ into $x^n(1+\frac{a_{n-1}}{x}+\frac{a_{n-2}}{x^2}\dots+\frac{a_{0}}{x^n})$
+Via the triangle inequality, we get $|\frac{a_{n-1}}{x}+\frac{a_{n-2}}{x^{2}}+\dots+\frac{a_{0}}{x^n} \leq \frac{|a_{n-1}|}{|x|} + \frac{|a_{n-2}|}{|x^2|}+\dots+\frac{|a_{0}|}{|x^n|}$
+Consequently, if we choose an $x$ satisfying $|x|>1,2n|a_{n-1}|$
