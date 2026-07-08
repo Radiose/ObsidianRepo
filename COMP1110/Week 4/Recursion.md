@@ -10,7 +10,7 @@ A base case -
 - This should always be checked first when writing a program
 An inductive (recursive) case
 - What should the program do if it isn't the base case?
-- How does the program move towards the base case(stopping the recursion)
+- How does the program move towards the base case(stopping the recursion) 
 ### Link to induction 
 Note, that similar to [[Induction]], we make an **inductive hypothesis**. We assume that the **result of the recursive call** is correct for all n up to n. 
 
