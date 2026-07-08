@@ -4,7 +4,7 @@ Employers look for a fit to a company and direct experience. The general bar for
 
 Entry vs non entry levels are relative for some companies - 
 the shift is more towards problem solving versus traditional management and leadership roles (at least in robotics)
-A wholistic skill set is needed more typically.
+A holistic skill set is needed more typically.
 
 Reliance on AI should not be emphasised
 

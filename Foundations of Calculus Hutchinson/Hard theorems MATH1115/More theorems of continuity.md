@@ -38,7 +38,7 @@ This conclusion shows the strength of theorem 3 being significantly greater than
 
 
 
-## More theorems built off the original 3
+## The trivial consequences built off the original 3
 Theorem 4:
 if $f$ is continuous on $[a,b]$ and $f(a)<c<f(b)$, then there exists an $x$ in $[a,b]$ such that $f(x) = c$
 Proof:
@@ -47,4 +47,31 @@ Let $g =f-c$. Then, $g$ is continuous and $g(a)<0<g(b)$. By theorem 1, there exi
 Theorem 5:
 If $f$ is continuous on $[a,b]$ and $f(a)>c>f(b)$, then there is some $x$ in $[a,b]$ such that $f(x)=c$
 Proof:
-The function $-f$ is continuous on $[a,b]$ and 
+The function $-f$ is continuous on $[a,b]$ and $-f(a)<c< -f(b)$.
+Via theorem 4, there exists an $x \in[a,b]$ such that $-f(x)=-c$, which means that $f(x)=c$
+
+Theorem 6:
+If $f$ is continuous on $[a,b]$, then $f$ is bounded below on $[a,b]$, that is, there exists some number $N$ such that $f(x) \geq N$ for all $x \in[a,b]$
+Proof:
+The function $-f$ is continuous on $[a,b]$, so then by theorem 2, there exists a number $M$ such that $-f(x)<M$ for all $x \in[a,b]$. But this means that $f(x) \geq -M$ for all $x \in [a,b]$, so we let $N = -M \blacksquare$
+
+Theorem 7
+
+If $f$ is continuous on $[a,b]$, then there is some $y \in [a,b]$ such that $f(y) ≤ f (x)$ for all $x \in [a,b]$. (A continuous function on a closed interval takes on its minimum value on that interval.) 
+
+PROOF The function $−f$ is continuous on $[a,b]$; by Theorem 3 there is some $y$ in $[a,b]$ such that $−f (y) ≥−f (x)$ for all $x \in [a,b]$, which means that $f (y) ≤ f (x)$ for all $x$ in $[a,b]$.
+
+## Non trivial consequences 
+
+Theorem 8:
+If $\alpha > 0$, then there exists some number $x$ such that $a = x^2$
+Proof
+Consider the function $f(x)=x^2$, which is certainly continuous. Notice the statement of the theorem can be expressed in terms of $f$. We can then use theorem 4.
+
+There is obviously a number $b>0$ such that $f(b)>\alpha$. In fact, if $\alpha >1$, we can take $b = \alpha$, else we can take $b = 1$. Since $f(0)<\alpha<f(b)$, theorem 4 applied to $[0,b]$ implies that for some $x \in[0,b]$ $f(x)=\alpha$.
+
+The same argument can be used to prove that a positive number has an $n$th root, for any natural number $n$. If $n$ happens to be odd, one can do better. We can prove that any number, positive or negative, has an $n$th root. This can be done by proving that the positive number $\alpha$ has the $n$th root, then $(-x)^n=-\alpha$ since $n$ is odd. 
+
+
+Theorem 9:
+if $n$ is odd, then any equation $x^n+a_{n-1}x^{n-1}+\dots+a_{0}$ has a root. 
