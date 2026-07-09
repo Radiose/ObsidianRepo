@@ -146,3 +146,21 @@ In particular, $f(y) \leq f(0)$. Thus
 $$(2) \qquad \text{if } x \leq -b \text{ or } x \geq b, \text{ then } f(x) \geq f(0) \geq f(y).$$
 
 Combining $(1)$ and $(2)$ we see that $f(y) \leq f(x)$ for all $x$. $\blacksquare$
+
+
+
+**Intuitively:**, we first show that for $|x|\geq b$, $f(x)\geq f(0)$. or that for all $x\not \in[-b,b]$ we will have $f(x)\geq f(0)$.
+
+We then apply theorem 7 to $f$ in that interval $[-b,b]$, getting the minimum $y \in[-b,b]$ with $f(y)\leq f(x)$ for all $x \in[-b,b]$.
+
+Additionally, we must $f(0)$ in that interval logically, so for any $x$ outside $[-b,b]$, $f(x)\geq f(0)\geq f(y)$
+
+
+Theorem 11:
+Consider the equation $$(*)\ \ \ x^n+a_{n-1}x^{n-1}+\dots+a_{0}=c$$
+and suppose $n$ is even. Then there exists a number $m$ such that $(*)$ has a solution for $c \geq m$ and has no solution for $c <m$ 
+
+
+Let $f(x) = x^n +a_{n-1}x^{n-1}+\dots+a_{0}$
+According to theorem 10, there is a number $y$ such that $f(y)\leq f(x)$ for all $x$.
+Let $m=f(y)$. If $c<m$, then the equation $(*)$ obviously has no solution. If $c =m$, then $(*)$ has $y$ as a solution. Finally suppose $c > m$. Then, let $b$ be a number such that $b > y$ and $f(b)>c$. Then, $f(y)= m < c <f(b)$. By theorem 4, there is some number $x$ in $[y,b]$ such that $f(x)=c$, so $x$ is a solution of $(*) \blacksquare$.

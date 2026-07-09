@@ -6,8 +6,9 @@ I believe I have the capabilities to take this course. I have good understanding
 
 
 
-I believe I have the capacity to succeed in MATH1116 based on my academic performance and preparation. I started out at the beginning of the year taking the math bridging module with very little mathematical maturity. I worked hard during MATH1013 and MATH1005 and got 82 and 79 respectively in them. This demonstrates my ability to learn and perform well in mathematical courses I was initially uncomfortable to take.
+I believe I have the capacity to succeed in MATH1116 based on my academic performance and preparation. I started out at the beginning of the year taking the math bridging module. I worked hard during MATH1013 and MATH1005 and got 82 and 79 respectively in them. This demonstrates my ability to learn and perform well in mathematical courses and how I have stepped more mathematically maturity. 
 
-During this winter break, I have been reviewing and working through Calculus (Spivak) independently to bridge the gap in real analysis between MATH1013 and MATH1115. Additionally, I have been working through similar discrepancies in the linear algebra component, particularly getting confident with formalism of bases and standard operations on linear transformations. 
+During this winter break, I have been reviewing and working through Calculus (Spivak) independently to bridge the gap in real analysis between MATH1013 and MATH1115. Additionally, I have been working through similar discrepancies in the linear algebra component, particularly getting confident with formalism of bases and the standard operations on linear transformations. Before 1116 starts, I will familiarise myself with multivariable calculus so I can focus more on the analysis taught in 1116 rather than trying to also learn MVC from scratch. 
 
-I havent had a real opportunity to appreciate the elegance of mathematics until recently, and now I'm ready for the next step in MATH1116.
+Most importantly, I am always on top of my course load, I attend all my workshops, am consistent with my study and I will be able to handle the work load that comes with MATH1116. 
+I haven't had a real opportunity to appreciate the elegance of mathematics until recently, and now I'm ready for the next step in MATH1116.
