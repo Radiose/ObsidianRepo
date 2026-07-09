@@ -86,3 +86,8 @@ E(v) =(v) =$\frac{av^3 l}{u-v}$ , domain defined as $v \in (u, \infty)$
 E′(v)=$\frac{2v^3−3v^2u}{(u-v)^2}$​
 Derivative = 0 when v = 0, out of domain. Other time when $v = u 3/2$
 Because there is one turning point, and the limit as v approaches u and v approaches infinity are infinity, there must only be one turning point, being zero. 
+
+
+
+
+## s1-s2 winter break
