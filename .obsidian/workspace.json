@@ -31,16 +31,6 @@
               "icon": "lucide-file",
               "title": "More theorems of continuity"
             }
-          },
-          {
-            "id": "2d4d9ba1e01d9bfa",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
         "currentTab": 1
@@ -234,9 +224,11 @@
   },
   "active": "93fca48b710b05a4",
   "lastOpenFiles": [
+    "MATH1005/Week 10/MATH1005 11.05.2026.md",
+    "MATH1005/Week 1/MATH1005 23.02.2026.md",
+    "Foundations of Calculus Hutchinson/Hard theorems MATH1115/More theorems of continuity.md",
     "attachments/Pasted image 20260709103225.png",
     "ANU permission code draft.md",
-    "Foundations of Calculus Hutchinson/Hard theorems MATH1115/More theorems of continuity.md",
     "Foundations of Calculus Hutchinson/Chapter 3/Theorems for continuouness.md",
     "BlendED future of work and AI.md",
     "COMP1110 things I didnt know.md",
@@ -263,7 +255,6 @@
     "MATH1005/Week 1/proof by contradiction.md",
     "MATH1013/Calculus/Week 3/very important limit.md",
     "MATH1013/Calculus/Week 2/Existence of a limit.md",
-    "existanc.md",
     "MATH1116/Week 9",
     "MATH1116/Week 8",
     "MATH1116/Week 7",
@@ -279,7 +270,6 @@
     "attachments/Pasted image 20260618141317.png",
     "attachments/Pasted image 20260618140834.png",
     "attachments/Pasted image 20260618140319.png",
-    "attachments/Pasted image 20260618140110.png",
     "Untitled.canvas"
   ]
 }

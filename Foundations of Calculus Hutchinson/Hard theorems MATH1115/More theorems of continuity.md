@@ -174,11 +174,15 @@ Proving theorems 1,2 and 3 require the [[Completeness axiom]], because we requir
 ## Trying to prove theorem 1 without the completeness axiom: 
 
 Let us attempt to prove theorem 1 by locating the smallest $x \in[a,b]$ such that $f(x)=0$. 
-Consider the set $A = \{ x \in[a,b]|f(x)<0 \}$. We visualise this below. 
+Consider the set $A = \{ x \in[a,b]|f(t)<0 \text{ for all }t \in[a,x] \}$. We visualise this below. 
 ![[Pasted image 20260709103225.png]]
 $A$ is marked above by the heavy line, $x$ in the diagram is in A, while $x'$ is not. 
 Since $f$ is negative at $a$, and positive at $b$, then the set $A$ itself contains some points greater than $a$. All points sufficiently close to $b$ are not in $A$. Now suppose $\alpha$ is the smallest number which is greater than all members of $A$ (least upper bound). We claim that $f(\alpha)=0$. To prove this we simply eliminate the possibilities $f(\alpha)>0$ and $f(\alpha)<0$. 
 
 Suppose first that $f(\alpha)<0$. Then by theorem 6-3, $f(x)$ would be less than 0 for all $x$ in a small interval containing $\alpha$, in particular for some numbers bigger than $\alpha$. But this contradicts the fact that $\alpha$ is bigger than every member of $A$ (particularly larger numbers than $\alpha$). Thus, $f(\alpha)\not<0$.
 
-Now we deal with the $f(\alpha)>0$ case. Again, applying theorem 6-3, we see that $f(x)$ would be positive for for all $x$ in a small interval around $\alpha$, particularly those less than $\alpha$, which implies that these numbers are not in $A$. 
+Now we deal with the $f(\alpha)>0$ case. Again, applying theorem 6-3, we see that $f(x)$ would be positive for for all $x$ in a small interval around $\alpha$, particularly those less than $\alpha$, which implies that these numbers are not in $A$. Thus, $\alpha$ cannot be the *least* upper bound. Thus, $f(\alpha)=0$. We are tempted to say $\blacksquare$.
+
+However, this proof is missing an important part. This proof assumes that there exists a number $\alpha$ that is the smallest number which is greater than all members of $A$. We have no way of knowing whether this is actually possible without the completeness axiom. 
+
+
