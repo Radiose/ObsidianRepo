@@ -187,3 +187,7 @@ Now we deal with the $f(\alpha)>0$ case. Again, applying theorem 6-3, we see tha
 However, this proof is missing an important part. This proof assumes that there exists a number $\alpha$ that is the smallest number which is greater than all members of $A$. We have no way of knowing whether this is actually possible without the completeness axiom. 
 
 
+# Proving with the axiom 
+We define the set $A$ as follows:
+$A = \{ x : a \le x \le b, \text{ and }f\text{ is negative on the interval }[a,x] \}$
+Clearly, $A \not= \emptyset$, since $a$ is in $A$; in fact, there is some $\delta > 0$ such $A$ contains all points $x$ satisfying $a\le x < a+\delta$. This follows since $f$ is [[continuous function|continuous]] on $[a,b]$ and $f(a)<0$. Similarly, $b$ is an upper bound for $A$, and 

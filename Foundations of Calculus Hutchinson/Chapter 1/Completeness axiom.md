@@ -1,6 +1,8 @@
 ---
 aliases:
   - least upper bound
+  - supremum
+  - infima
 ---
 # Statement
 If A is any set of real numbers having at least one number in it, and if there exists a real number y s.t $\forall x\in A\ \ \ \ x \le y$, (we denote y the *upper bound*) then there exists a smallest such number, called the *least upper bound*, or *supremum* of A.
@@ -37,4 +39,3 @@ On the other hand, if $b < \sqrt{ 2 }$, since there is always a rational number 
 If $b >\sqrt{ 2 }$, then there always exists a rational number between b and $\sqrt{ 2 }$ that is less that b, thus b cannot be the lowest bound. 
 
 We have ruled out the three possibilities $b = √ 2, b < √ 2 \text{  and b } > √ 2$. This completes the proof of the claim. Hence there is no rational number which is a least upper bound for $A$.
-
