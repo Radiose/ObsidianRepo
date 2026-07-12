@@ -1,4 +1,4 @@
-[[theorem]]s:
+e [[theorem]]s:
 
 1:
 If $f$ is [[continuous function|continuous]] on $[a,b]$ and $f(a)<0<f(b)$, then there exists an $x \in[a,b]$ such that $f(x)=0$.
