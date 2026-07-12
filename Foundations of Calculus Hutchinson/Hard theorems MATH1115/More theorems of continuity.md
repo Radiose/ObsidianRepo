@@ -203,3 +203,11 @@ Suppose first that $f(\alpha) < 0$. By Theorem 6, there is a $\delta > 0$ such t
 
 Suppose, on the other hand, that $f(\alpha) > 0$. Then there is a number $\delta > 0$ such that $f(x) > 0$ for $\alpha - \delta < x < \alpha + \delta$.
 Once again we know that there is an $x_0$ in $A$ satisfying $\alpha - \delta < x_0 < \alpha$; but this means that $f$ is negative on $[a, x_0]$, which is impossible, since $f(x_0) > 0$. Thus the assumption $f(\alpha) > 0$ also leads to a contradiction, leaving $f(\alpha) = 0$ as the only possible alternative.
+
+
+## More theorems based off the axiom 
+If $f$ is continuous at $a$, then there is a number $\delta > 0$ such that $f$ is bounded above on the interval $(a-\delta, a+\delta)$.
+
+proof: 
+Since $\lim_{ x \to a } f(x)=f(a)$, then using [[The formal definition of a limit]], $$\forall\epsilon>0 \ \ \ \exists\delta\ \ \ \ s.t\ \ \ 0<|x-a|<\delta \implies|f(x)-f(a)|<\epsilon$$
+Thus, $f$ is bounded above by $f(a)+\epsilon$
