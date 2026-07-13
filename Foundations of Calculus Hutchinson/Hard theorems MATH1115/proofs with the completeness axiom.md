@@ -31,7 +31,8 @@ Thus, $f$ is bounded above by $f(a)+\epsilon$
 If $f$ is continuous on $[a,b]$, then $f$ is bounded above. 
 
 Proof: 
-Let $A =\{ x: a \le x \le b| \text{ and }f \text{ is bounded above on }[a,x] \}$
+Let $A =\{ x: a \le x \le b| \text{ and }f \text{ is bounded above on }[a,x] \}$. This set is the most important bit. If we prove that $b \in A$, then we have proven that $f$ is bounded above on $[a,b]$
+
 Clearly A is not empty, and $A$ is bounded above by $b$, so $A$ has a [[Completeness axiom|least upper bound]] $\alpha$. 
 
 We prove that $\alpha = b$
@@ -49,4 +50,20 @@ There is a $\delta > 0$ such that $f$ is bounded on $\{x : b - \delta < x \leq b
 # Proof that f takes its maximum in an interval 
 If $f$ is [[continuous function|continuous]] on $[a,b]$, then there is a number $y \in[a,b]$ such that $f(y)\geq f(x)$ in $[a,b]$ 
 
-We already know that $f$ is bounded on $[a,b]$, which means that the set $\{ f(x) :x \text{ in }[a,b] \}$ is bounded. This set is obviously not empty, so it has a least upper bound $\alpha$. Since $\alpha \geq f(x)$ for $x$ in $[a,b]$ it suffices to show that $a = f(y)$ for some $y \in[a,b]$
+We already know that $f$ is bounded on $[a,b]$, which means that the set $\{ f(x) :x \text{ in }[a,b] \}$ (the codomain of $f$) is bounded. This set is obviously not empty, so it has a least upper bound $\alpha$. Since $\alpha \geq f(x)$ for $x$ in $[a,b]$ it suffices to show that $a = f(y)$ for some $y \in[a,b]$.
+
+We use a trick to do this. 
+
+Suppose instead that $\alpha \neq f(y)$ for all $y$ in $[a,b]$. Then the function $g$ defined by
+
+$$g(x) = \frac{1}{\alpha - f(x)}, \quad x \text{ in } [a,b]$$
+
+is continuous on $[a,b]$, since the denominator of the right side is never $0$. On the other hand, $\alpha$ is the least upper bound of $\{f(x) : x \text{ in } [a,b]\}$; this means that
+
+$$\text{for every } \varepsilon > 0 \text{ there is } x \text{ in } [a,b] \text{ with } \alpha - f(x) < \varepsilon.$$
+
+This, in turn, means that
+
+$$\text{for every } \varepsilon > 0 \text{ there is } x \text{ in } [a,b] \text{ with } g(x) > 1/\varepsilon.$$
+(because reversing fractions also reverses inequalities)
+But *this* means that $g$ is not bounded on $[a,b]$, contradicting the previous theorem.
