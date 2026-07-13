@@ -45,3 +45,8 @@ The proof is not quite complete—we only know that $f$ is bounded on $[a, x]$ f
 
 There is a $\delta > 0$ such that $f$ is bounded on $\{x : b - \delta < x \leq b\}$. There is $x_0$ in $A$ such that $b - \delta < x_0 < b$. Thus $f$ is bounded on $[a, x_0]$ and also on $[x_0, b]$, so $f$ is bounded on $[a, b]$.
 
+
+# Proof that f takes its maximum in an interval 
+If $f$ is [[continuous function|continuous]] on $[a,b]$, then there is a number $y \in[a,b]$ such that $f(y)\geq f(x)$ in $[a,b]$ 
+
+We already know that $f$ is bounded on $[a,b]$, which means that the set $\{ f(x) :x \text{ in }[a,b] \}$ is bounded. This set is obviously not empty, so it has a least upper bound $\alpha$. Since $\alpha \geq f(x)$ for $x$ in $[a,b]$ it suffices to show that $a = f(y)$ for some $y \in[a,b]$
