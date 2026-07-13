@@ -28,6 +28,15 @@ The most important part is understanding
 $$|x-a|\times|something|< |x-a| \times\text{something that |something| is less than}<
 \epsilon$$
 
+# One sided limits 
+The formal definition of limits from one side are 
+### Right handed
+$\forall \epsilon \ \exists \delta\  s.t \ \ \ a< x<a +\delta \implies |f(x)-L| <\epsilon$
+### Left handed 
+$\forall \epsilon \ \exists \delta\  s.t \ \ \ a-\delta < x<a  |f(x)-L| <\epsilon$
+
+
+
 
 ## Proving nonexistence
 Generally, we want to prove nonexistence of a limit formally via [[proof by contradiction]]
