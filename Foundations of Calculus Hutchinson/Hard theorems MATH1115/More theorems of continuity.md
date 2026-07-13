@@ -187,5 +187,4 @@ Now we deal with the $f(\alpha)>0$ case. Again, applying theorem 6-3, we see tha
 However, this proof is missing an important part. This proof assumes that there exists a number $\alpha$ that is the smallest number which is greater than all members of $A$. We have no way of knowing whether this is actually possible without the completeness axiom. 
 
 
-![[Proving theorems with the completeness axiom]]
-
+![[proofs with the completeness axiom]]
