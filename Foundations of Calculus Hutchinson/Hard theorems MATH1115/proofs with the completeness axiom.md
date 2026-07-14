@@ -67,3 +67,16 @@ This, in turn, means that
 $$\text{for every } \varepsilon > 0 \text{ there is } x \text{ in } [a,b] \text{ with } g(x) > 1/\varepsilon.$$
 (because reversing fractions also reverses inequalities)
 But *this* means that $g$ is not bounded on $[a,b]$, contradicting the previous theorem.
+
+
+Theorem 2:
+$\mathbb{N}$ is not bounded above (the [[archimedean property]])
+![[Pasted image 20260714183820.png]]
+
+
+Theorem 3:
+> [!theorem] Theorem 3
+> For any $\varepsilon > 0$ there is a natural number $n$ with $1/n < \varepsilon$.
+
+**Proof.** Suppose not; then $1/n \geq \varepsilon$ for all $n$ in $\mathbf{N}$. Thus $n \leq 1/\varepsilon$ for all $n$ in $\mathbf{N}$. But this means that $1/\varepsilon$ is an upper bound for $\mathbf{N}$, contradicting Theorem 2. $\blacksquare$
+

@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 3/Injective Function.md",
+                "file": "Foundations of Calculus Hutchinson/Hard theorems MATH1115/proofs with the completeness axiom.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Injective Function"
+              "title": "proofs with the completeness axiom"
             }
           },
           {
@@ -244,10 +244,14 @@
   },
   "active": "b4fe00d766e7b6c2",
   "lastOpenFiles": [
+    "Foundations of Calculus Hutchinson/Chapter 1/archimedean property.md",
+    "Foundations of Calculus Hutchinson/Hard theorems MATH1115/proofs with the completeness axiom.md",
+    "attachments/Pasted image 20260714184012.png",
+    "attachments/Pasted image 20260714183820.png",
+    "Foundations of Calculus Hutchinson/Hard theorems MATH1115/More theorems of continuity.md",
+    "MATH1005/Week 3/Injective Function.md",
     "MATH1013/Calculus/Week 8/Inverse function.md",
     "MATH1013/Calculus/Week 2/continuous function.md",
-    "Foundations of Calculus Hutchinson/Hard theorems MATH1115/proofs with the completeness axiom.md",
-    "Foundations of Calculus Hutchinson/Hard theorems MATH1115/More theorems of continuity.md",
     "MAXIMISING MARKS.md",
     "BIOL2161 all goals.md",
     "BIOL2161 16.03.2026.md",
@@ -270,8 +274,6 @@
     "MATH1013/Calculus/Week 2/approaching limits from one side.md",
     "COMP1110/Week 4/Recursion.md",
     "MATH1005/Week 5/Induction.md",
-    "Foundations of Calculus Hutchinson/Chapter 1/real number.md",
-    "Foundations of Calculus Hutchinson/Chapter 1/algebraic and order axioms.md",
     "attachments/Pasted image 20260706201200.png",
     "attachments/Pasted image 20260706195408.png",
     "attachments/Pasted image 20260706165453.png",
@@ -288,8 +290,6 @@
     "attachments/Pasted image 20260623193537.png",
     "attachments/Pasted image 20260620162921.png",
     "attachments/Pasted image 20260618181043.png",
-    "attachments/Pasted image 20260618141317.png",
-    "attachments/Pasted image 20260618140834.png",
     "Untitled.canvas"
   ]
 }
