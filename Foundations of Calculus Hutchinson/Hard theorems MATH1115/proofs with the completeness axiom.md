@@ -80,3 +80,5 @@ Theorem 3:
 
 **Proof.** Suppose not; then $1/n \geq \varepsilon$ for all $n$ in $\mathbf{N}$. Thus $n \leq 1/\varepsilon$ for all $n$ in $\mathbf{N}$. But this means that $1/\varepsilon$ is an upper bound for $\mathbf{N}$, contradicting Theorem 2. $\blacksquare$
 
+
+
