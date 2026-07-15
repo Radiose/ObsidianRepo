@@ -26,6 +26,8 @@ proof:
 Since $\lim_{ x \to a } f(x)=f(a)$, then using [[The formal definition of a limit]], $$\forall\epsilon>0 \ \ \ \exists\delta\ \ \ \ s.t\ \ \ 0<|x-a|<\delta \implies|f(x)-f(a)|<\epsilon$$
 Thus, $f$ is bounded above by $f(a)+\epsilon$
 
+
+
 # Proof of the binding of f using axioms 
 
 If $f$ is continuous on $[a,b]$, then $f$ is bounded above. 
