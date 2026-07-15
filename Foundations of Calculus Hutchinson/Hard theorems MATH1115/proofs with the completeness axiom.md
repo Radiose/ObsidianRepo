@@ -9,7 +9,7 @@ We wish to show that $f(\alpha)=0$ via eliminating possibilities $f(\alpha)<0$ a
 
 
 
-Suppose first that $f(\alpha) < 0$. By Theorem 6, there is a $\delta > 0$ such that $f(x) < 0$ for $\alpha - \delta < x < \alpha + \delta$ (Figure 2). Now there is some number $x_0$ in $A$ which satisfies $\alpha - \delta < x_0 < \alpha$ (because otherwise $\alpha$ would not be the *least* upper bound of $A$). This means that $f$ is negative on the whole interval $[a, x_0]$. But if $x_1$ is a number between $\alpha$ and $\alpha + \delta$, then $f$ is also negative on the whole interval $[x_0, x_1]$. Therefore $f$ is negative on the interval $[a, x_1]$, so $x_1$ is in $A$. But this contradicts the fact that $\alpha$ is an upper bound for $A$; our original assumption that $f(\alpha) < 0$ must be false. 
+Suppose first that $f(\alpha) < 0$. Because $f$ is continuous on $[a,b]$ and $f(a)<0$, there is a $\delta > 0$ such that $f(x) < 0$ for $\alpha - \delta < x < \alpha + \delta$ (Figure 2). Now there is some number $x_0$ in $A$ which satisfies $\alpha - \delta < x_0 < \alpha$ (because otherwise $\alpha$ would not be the *least* upper bound of $A$). This means that $f$ is negative on the whole interval $[a, x_0]$. But if $x_1$ is a number between $\alpha$ and $\alpha + \delta$, then $f$ is also negative on the whole interval $[x_0, x_1]$. Therefore $f$ is negative on the interval $[a, x_1]$, so $x_1$ is in $A$. But this contradicts the fact that $\alpha$ is an upper bound for $A$; our original assumption that $f(\alpha) < 0$ must be false. 
 
 
 Suppose, on the other hand, that $f(\alpha) > 0$. Then there is a number $\delta > 0$ such that $f(x) > 0$ for $\alpha - \delta < x < \alpha + \delta$.
