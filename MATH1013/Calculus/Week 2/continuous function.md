@@ -56,3 +56,5 @@ $\forall \epsilon>0 \exists \delta\ \ \ \ \ 0<|x-a|<\delta \implies |f(x)-f(a)|<
 
 
 ![[Theorems for continuouness]]
+
+![[uniform continuity]]
