@@ -35,4 +35,4 @@ We are trying to proof that $f$ is $\epsilon$-good for any $\epsilon>0$.
 Consider any $\epsilon$>0, then let $$A=\{ x:a\leq x\leq b:\ f\text{ is }\epsilon\text{-good on }[a,x] \}$$
 Because $A \not=\emptyset$ and is bounded above by $b$, it has a least upper bound $\alpha$. (We should write $\alpha_{\epsilon}$, since it depends on $\epsilon$, but its not super relevant here).
 We seek to prove that $\alpha=b$ no matter what $\epsilon$ is.
-Suppose that $\alpha<b$. Since $f$ is continuous at $\alpha$, there is some $\delta_{0}>0$ such that $|y-\alpha|<\delta_{0} \implies|f(y)-f(\alpha)|< \frac{\epsilon}{2}$. Consequently, if $|y-\alpha|<\delta$ and $|z-\alpha|<\delta$, then $|f(y)-f(z)|<\epsilon$. 
+Suppose that $\alpha<b$. Since $f$ is continuous at $\alpha$, there is some $\delta_{0}>0$ such that $|y-\alpha|<\delta_{0} \implies|f(y)-f(\alpha)|< \frac{\epsilon}{2}$. Consequently, if $|y-\alpha|<\delta$ and $|z-\alpha|<\delta$, then $|f(y)-f(z)|<\epsilon$. Thus, $f$ must be $\epsilon$-good on the interval $[\alpha-\delta_{0},\alpha+\delta_{0}]$. On the other hand, since $\alpha$ is the least upper bound of $A$, it is clear that 
