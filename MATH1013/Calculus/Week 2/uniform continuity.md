@@ -2,12 +2,12 @@ uniform continuity
 
 This is a specific property of a continuous function defined by the following statement 
 $\forall\epsilon\ \exists \delta \ \ s.t\ \ \forall x,y \in A$
-$|x-y|<\delta \implies|f(x)-f(a)|<\epsilon$
+$|x-y|<\delta \implies|f(x)-f(y)|<\epsilon$
 
 To rigorously prove, we need a tool to help us to do this. 
 
 Suppose that we have two intervals, $[a,b], \ [b,c]$ with a function $f$ continuous on $[a,c]$. Let $\epsilon >0$ and suppose that the following statements hold 
-
+	
 i) if $x$ and $y$ are in $[a,b]$ and $|x-y|<\delta_{1}$, then $|f(x)-f(y)|<\epsilon$
 ii) if $x$ and $y$ are in $[b,c]$ and $|x-y|<\delta_{2}$, then $|f(x)-f(y)|<\epsilon$
 
@@ -35,4 +35,13 @@ We are trying to proof that $f$ is $\epsilon$-good for any $\epsilon>0$.
 Consider any $\epsilon$>0, then let $$A=\{ x:a\leq x\leq b:\ f\text{ is }\epsilon\text{-good on }[a,x] \}$$
 Because $A \not=\emptyset$ and is bounded above by $b$, it has a least upper bound $\alpha$. (We should write $\alpha_{\epsilon}$, since it depends on $\epsilon$, but its not super relevant here).
 We seek to prove that $\alpha=b$ no matter what $\epsilon$ is.
-Suppose that $\alpha<b$. Since $f$ is continuous at $\alpha$, there is some $\delta_{0}>0$ such that $|y-\alpha|<\delta_{0} \implies|f(y)-f(\alpha)|< \frac{\epsilon}{2}$. Consequently, if $|y-\alpha|<\delta$ and $|z-\alpha|<\delta$, then $|f(y)-f(z)|<\epsilon$. Thus, $f$ must be $\epsilon$-good on the interval $[\alpha-\delta_{0},\alpha+\delta_{0}]$. On the other hand, since $\alpha$ is the least upper bound of $A$, it is clear that 
+Suppose that $\alpha<b$. Since $f$ is continuous at $\alpha$, there is some $\delta_{0}>0$ such that $|y-\alpha|<\delta_{0} \implies|f(y)-f(\alpha)|< \frac{\epsilon}{2}$. Consequently, if $|y-\alpha|<\delta$ and $|z-\alpha|<\delta$, then $|f(y)-f(z)|<\epsilon$. 
+This is done via triangle inequality IE $|f(y)−f(z)∣=∣f(y)−f(α)+f(α)−f(z)∣≤∣f(y)−f(α)∣+∣f(α)−f(z)∣$
+
+Thus, $f$ must be $\epsilon$-good on the interval $[\alpha-\delta_{0},\alpha+\delta_{0}]$ This is extrapolated directly from the inequalities involving $\delta_{0}$. On the other hand, since $\alpha$ is the least upper bound of $A$, it is clear that $f$ must be $\epsilon$-good on $[a,\alpha-\delta]$. The lemma also proves however that $f$ must be $\epsilon$-good on $[a,\alpha+\delta]$, so $\alpha+\delta_{0}$ is in $A$, so $\alpha$ is not a least upper bound. 
+
+We do the same idea for proving $\alpha = b$ is in $A$
+
+
+QUESTIONS: 
+Why do we do this proof like this, when the other proofs for continuity use a > b and a < b to prove that a = b. This time we only need to prove that a < b is false. 
