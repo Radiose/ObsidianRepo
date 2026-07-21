@@ -40,8 +40,6 @@ This is done via triangle inequality IE $|f(y)−f(z)∣=∣f(y)−f(α)+f(α)�
 
 Thus, $f$ must be $\epsilon$-good on the interval $[\alpha-\delta_{0},\alpha+\delta_{0}]$ This is extrapolated directly from the inequalities involving $\delta_{0}$. On the other hand, since $\alpha$ is the least upper bound of $A$, it is clear that $f$ must be $\epsilon$-good on $[a,\alpha-\delta]$. The lemma also proves however that $f$ must be $\epsilon$-good on $[a,\alpha+\delta]$, so $\alpha+\delta_{0}$ is in $A$, so $\alpha$ is not a least upper bound. 
 
-We do the same idea for proving $\alpha = b$ is in $A$
+We do the same idea for proving $\alpha = b$ is in $A$. We know that $\alpha \leq b$ always because $b$ is an upper bound, and $\alpha$ is the least. Since $f$ is continuous at $b$, there is some $\delta_{0}>0$ such that if $|b-y|<\delta_{0}$, then $|f(b)-f(y)|< \frac{\epsilon}{2}$. So $f$ is $\epsilon$-good on $[b-\delta_{0},b]$. But, $f$ is also $\epsilon$-good on $[a,b-\delta_{0}]$, thus the lemma implies that $f$ is $\epsilon$-good on $[a,b] \blacksquare$.
 
 
-QUESTIONS: 
-Why do we do this proof like this, when the other proofs for continuity use a > b and a < b to prove that a = b. This time we only need to prove that a < b is false. 
