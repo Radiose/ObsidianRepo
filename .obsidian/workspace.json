@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,10 +257,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ad87c467d876f43",
+  "active": "b4fe00d766e7b6c2",
   "lastOpenFiles": [
-    "MATH1013/Calculus/Week 2/uniform continuity.md",
     "Foundations of Calculus Hutchinson/Chapter 3/The formal definition of a limit.md",
+    "MATH1013/Calculus/Week 2/uniform continuity.md",
     "Foundations of Calculus Hutchinson/Chapter 1/absolute value.md",
     "Foundations of Calculus Hutchinson/Chapter 1/Inequality.md",
     "Foundations of Calculus Hutchinson/Hard theorems MATH1115/More theorems of continuity.md",
