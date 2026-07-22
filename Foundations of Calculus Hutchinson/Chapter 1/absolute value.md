@@ -1,3 +1,7 @@
+---
+aliases:
+  - triangle inequality
+---
 The absolute value, or magnitude of a number x is defined by the formula 
 
 ![[Pasted image 20260618140110.png]]
