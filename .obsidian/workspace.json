@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Calculus/Week 2/uniform continuity.md",
+                "file": "Foundations of Calculus Hutchinson/Chapter 2/Bolzano Weierstrass theorem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "uniform continuity"
+              "title": "Bolzano Weierstrass theorem"
             }
           },
           {
@@ -244,8 +244,9 @@
   },
   "active": "8ad87c467d876f43",
   "lastOpenFiles": [
-    "Foundations of Calculus Hutchinson/Chapter 3/The formal definition of a limit.md",
+    "MATH1005/Week 3/composition of Functions.md",
     "MATH1013/Calculus/Week 2/uniform continuity.md",
+    "Foundations of Calculus Hutchinson/Chapter 3/The formal definition of a limit.md",
     "Foundations of Calculus Hutchinson/Chapter 1/absolute value.md",
     "Foundations of Calculus Hutchinson/Chapter 1/Inequality.md",
     "Foundations of Calculus Hutchinson/Hard theorems MATH1115/More theorems of continuity.md",
@@ -274,7 +275,6 @@
     "MATH1005/Week 10/MATH1005 11.05.2026.md",
     "MATH1005/Week 1/MATH1005 23.02.2026.md",
     "attachments/Pasted image 20260709103225.png",
-    "ANU permission code draft.md",
     "attachments/Pasted image 20260706201200.png",
     "attachments/Pasted image 20260706195408.png",
     "attachments/Pasted image 20260706165453.png",
