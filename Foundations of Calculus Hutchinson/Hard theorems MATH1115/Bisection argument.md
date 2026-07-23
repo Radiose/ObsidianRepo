@@ -8,4 +8,6 @@ The bisection argument is to prove that some $f$ thats [[continuous function|con
 
 We first prove that a nested interval $a_{n}$ and $b_{n}$ approach $x$ as $n \to \infty$ $a_{n} <x$ and similarly $b_{n}>x$
 Now we show that $f(a_{n}) < 0$ in some neighbourhood, via [[Harder theorems for continuity]] no 3, and similarly for $f(b_{n})$.
-We then prove via contradiction for clarity that $f(x)>0$ and then show that $f(a_{n})$ must then converge to some number $>0$. This is a [[proof by contradiction]], as 
+We then prove via contradiction for clarity that $f(x)>0$ and then show that $f(a_{n})$ must then converge to some number $>0$. We prove this via the definition of [[Convergence of a sequence]], using the delta from the theorem 3 we showed previously. 
+
+This contradicts that we know that $f(a_{n})>0$, thus $f(x)\leq 0$. We then do it similarly for $f(b_{n})$ and prove that $f(x) \geq 0$. Thus, $f(x)=0$.
