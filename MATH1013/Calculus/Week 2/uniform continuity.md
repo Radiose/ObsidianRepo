@@ -4,6 +4,10 @@ This is a specific property of a continuous function defined by the following st
 $\forall\epsilon\ \exists \delta \ \ s.t\ \ \forall x,y \in A$
 $|x-y|<\delta \implies|f(x)-f(y)|<\epsilon$
 
+The biggest difference between this and a regular [[The formal definition of a limit|epsilon delta proof]] is that we cannot have $\delta$ depend on $x,y$ or some $a$. 
+
+
+
 To rigorously prove, we need a tool to help us to do this. 
 
 Suppose that we have two intervals, $[a,b], \ [b,c]$ with a function $f$ continuous on $[a,c]$. Let $\epsilon >0$ and suppose that the following statements hold 
