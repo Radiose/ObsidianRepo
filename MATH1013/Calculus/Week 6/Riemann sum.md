@@ -52,4 +52,34 @@ The sequence is shown below
 $$ P = P_1, P_2, \ldots, P_\alpha = Q $$ such that $P_{j+1}$ contains just one more point than $P_j$. Then $$ L(f, P) = L(f, P_1) \le L(f, P_2) \le \cdots \le L(f, P_\alpha) = L(f, Q), $$ and $$ U(f, P) = U(f, P_1) \ge U(f, P_2) \ge \cdots \ge U(f, P_\alpha) = U(f, Q). \quad \blacksquare $$ The theorem we wish to prove is a simple consequence of this lemma.
 
 Theorem 1 
-Let
+Let $P_{1}$ and $P_{2}$ be partitions of $[a,b]$ and let $f$ be a function that is bounded on $[a,b]$. Then, $$L(f, P_{1}) \leq U(f,P_{2})$$
+Proof:
+There is a partition $P$ which contains both $P_{1}$ and $P_{2}$. According to the lemma, $L(f,P_{1})\leq L(f,P)\leq U(f,P) \leq U(f,P_{2}) \blacksquare$
+
+
+
+Integrable 
+
+Using theorem 1 in [[Riemann sum]], it follows that any upper sum $U(f,P')$ is an upper bound for the *set* of all *lower* *bounds* $L(f,P)$. Any upper sum $U(f,P')$ is greater than or equal to the [[Completeness axiom|least upper bound]] of all lower sums : $sup \{ L(f,P):P \text{ a partition of }[a,b] \} \leq U(f,P')$
+for all $P$. 
+This in turn means that $sup \{ L(f,P) \}$ is a lower bound for the set of all upper sums of $f$. 
+
+Consequently, $sup \{ L(f,P)\leq inf(U(f,P)) \}$. That is, the **least upper bound** of the **lower sums** is less than or equal to the **greatest lower bound** of the **upper sums**.
+
+It is clear that both of these numbers are between the lower sum and upper sum of $f$ for *all* partitions:
+
+$$
+L(f, P') \le \sup\{L(f, P)\} \le U(f, P'),
+$$
+$$
+L(f, P') \le \inf\{U(f, P)\} \le U(f, P'),
+$$
+
+for all partitions $P'$.
+
+It may well happen that
+
+$$
+\sup\{L(f, P)\} = \inf\{U(f, P)\};
+$$
+And in this case, this is the only number that is between COME BACK
