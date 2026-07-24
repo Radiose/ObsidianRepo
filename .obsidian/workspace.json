@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Calculus/Week 2/uniform continuity.md",
+                "file": "Foundations of Calculus Hutchinson/Chapter 2/Bolzano Weierstrass theorem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "uniform continuity"
+              "title": "Bolzano Weierstrass theorem"
             }
           },
           {
@@ -238,6 +238,7 @@
   },
   "active": "303cc670999ec5e2",
   "lastOpenFiles": [
+    "MATH1013/Calculus/Week 2/uniform continuity.md",
     "Foundations of Calculus Hutchinson/Chapter 2/Convergence of a sequence.md",
     "Foundations of Calculus Hutchinson/Hard theorems MATH1115/Bisection argument.md",
     "Foundations of Calculus Hutchinson/Chapter 3/Harder theorems for continuity.md",
@@ -245,7 +246,6 @@
     "BIOL2161 all goals.md",
     "Foundations of Calculus Hutchinson/Chapter 2/Bolzano Weierstrass theorem.md",
     "MATH1005/Week 3/composition of Functions.md",
-    "MATH1013/Calculus/Week 2/uniform continuity.md",
     "Foundations of Calculus Hutchinson/Chapter 3/The formal definition of a limit.md",
     "Foundations of Calculus Hutchinson/Chapter 1/absolute value.md",
     "Foundations of Calculus Hutchinson/Chapter 1/Inequality.md",
