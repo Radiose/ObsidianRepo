@@ -47,4 +47,9 @@ Let $$ m' = \inf\{f(x) : t_{k-1} \le x \le u\}, $$ $$ m'' = \inf\{f(x) : u \le x
 To prove that $L(f, P) \le L(f, Q)$ it therefore suffices to show that $$ m_k (t_k - t_{k-1}) \le m'(u - t_{k-1}) + m''(t_k - u). $$
 The trick to this proof is that the set $\{f(x) : t_{k-1} \le x \le t_{k}\}$ contains all numbers in $\{f(x) : t_{k-1} \le x \le u\}$, and possibly some smaller ones, so the greatest lower bound of the first set is less than or equal to that of the second set. 
 $m_{k}\leq m'$ and similarly, $m_{k}\leq m''$, therefore $$ m_k (t_k - t_{k-1}) = m_k (u - t_{k-1}) + m_k (t_k - u) \le m'(u - t_{k-1}) + m''(t_k - u). $$
-Now, we can simply create a [[Sequence]] of these partitions that will become $Q$. That is, we create a sequence of partitions that are one point larger than the previous, and in turn we will obtain $Q$ after some amo
+Now, we can simply create a [[Sequence]] of these partitions that will become $Q$. That is, we create a sequence of partitions that are one point larger than the previous, and in turn we will obtain $Q$ after some amount of steps. 
+The sequence is shown below
+$$ P = P_1, P_2, \ldots, P_\alpha = Q $$ such that $P_{j+1}$ contains just one more point than $P_j$. Then $$ L(f, P) = L(f, P_1) \le L(f, P_2) \le \cdots \le L(f, P_\alpha) = L(f, Q), $$ and $$ U(f, P) = U(f, P_1) \ge U(f, P_2) \ge \cdots \ge U(f, P_\alpha) = U(f, Q). \quad \blacksquare $$ The theorem we wish to prove is a simple consequence of this lemma.
+
+Theorem 1 
+Let
