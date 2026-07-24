@@ -17,3 +17,34 @@ The quantity $\sum_{i=1}^n f(x_{i}^*)\Delta x_{i}$ is called the **Riemann sum**
 Looking at this, you can see the height is the sample point, and the width is the $\Delta x_{i}$
 
 A [[Riemann sum]] is a good method for approximating the area under a curve. It can be deducted then, that as $||P||$ gets smaller, the area approximation gets more accurate. 
+
+
+
+# Analysis (formal definition)
+Suppose $f$ is bounded on $[a,b]$ and $P =\{ t_{0},\dots,t_{n} \}$ is a [[partition]] of $[a,b]$. Let $m_{i} = inf\{ f(x): t_{i-1} \leq x \leq t_{i} \}$ 
+and $M_{i}=sup \{ f(x): t_{i-1} \leq x \leq t_{i} \}$
+
+The lower sum of $f$ for $P$, denoted by $L(f,P) = \sum_{i=1}^n m_{i}(t_{i}-t_{i-1})$
+The upper sum of $f$ for $P$, denoted by $U(f,P)=\sum_{i-1}^n M_{i}(t_{i}-t_{i-1})$.
+This is the formal way of denoting upper and lower sums, where we take the largest and the smallest element of the codomain of $f$ (the shortest and tallest $y$ value).
+
+A result that is not quite obvious but is true is that for any two partitions $P_{1},P_{2}$ of an interval $[a,b]$, we have that $L(f,P_{1}) \leq U(f,P_{2})$
+This is because $L(f,P_{1})$ should be less than the actual area, and $U(f,P_{2})$ should be greater. 
+
+# Lemma
+Let $Q$ and $P$ be both partitions of the same interval
+If $Q$ contains $P$ (that is, all elements of $P$ are also in $Q$), 
+then $L(f,P) \leq L(f,Q)$
+and $U(f,P)\geq U(f,Q)$
+![[Pasted image 20260724164229.png]]
+Here we have $P$ representing the points in black, and $Q$ representing the points in black and grey. 
+
+Proof 
+
+Let $$ m' = \inf\{f(x) : t_{k-1} \le x \le u\}, $$ $$ m'' = \inf\{f(x) : u \le x \le t_k\}. $$ Then $$ L(f, P) = \sum_{i=1}^{n} m_i (t_i - t_{i-1}), $$ $$ L(f, Q) = \sum_{i=1}^{k-1} m_i (t_i - t_{i-1}) + m'(u - t_{k-1}) + m''(t_k - u) + \sum_{i=k+1}^{n} m_i (t_i - t_{i-1}). $$ That is, the sum of everything up to the point, the sum of everything after the point, and the two rectangles attached to the points left and right. 
+ 
+
+To prove that $L(f, P) \le L(f, Q)$ it therefore suffices to show that $$ m_k (t_k - t_{k-1}) \le m'(u - t_{k-1}) + m''(t_k - u). $$
+The trick to this proof is that the set $\{f(x) : t_{k-1} \le x \le t_{k}\}$ contains all numbers in $\{f(x) : t_{k-1} \le x \le u\}$, and possibly some smaller ones, so the greatest lower bound of the first set is less than or equal to that of the second set. 
+$m_{k}\leq m'$ and similarly, $m_{k}\leq m''$, therefore $$ m_k (t_k - t_{k-1}) = m_k (u - t_{k-1}) + m_k (t_k - u) \le m'(u - t_{k-1}) + m''(t_k - u). $$
+Now, we can simply create a [[Sequence]] of these partitions that will become $Q$. That is, we create a sequence of partitions that are one point larger than the previous, and in turn we will obtain $Q$ after some amo

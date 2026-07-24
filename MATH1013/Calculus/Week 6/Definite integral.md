@@ -20,4 +20,12 @@ When f is integrable on $[a,b]$, we write $\int _a^b f(x)\ dx = \lim_{ ||P|| \to
 No matter how small the difference between the [[Riemann sum]] sum and the area under the curve, there will always be a [[partition]] with small enough differences between elements such that it makes it the difference accurate enough. 
 
 
+
+
+
+
 ![[Sequence definition of the Definite integral]]
+
+
+
+

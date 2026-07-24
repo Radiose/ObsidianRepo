@@ -13,23 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Calculus Hutchinson/Chapter 2/Bolzano Weierstrass theorem.md",
+                "file": "BIOL2161 16.03.2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Bolzano Weierstrass theorem"
+              "title": "BIOL2161 16.03.2026"
             }
           },
           {
             "id": "8ad87c467d876f43",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "MATH1013/Calculus/Week 6/Riemann sum.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Riemann sum"
             }
           },
           {
@@ -47,7 +52,8 @@
               "title": "absolute value"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,15 +242,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "303cc670999ec5e2",
+  "active": "8ad87c467d876f43",
   "lastOpenFiles": [
+    "Foundations of Calculus Hutchinson/Chapter 2/Bolzano Weierstrass theorem.md",
+    "MATH1116",
+    "M.md",
+    "BIOL2161 16.03.2026.md",
+    "MATH1116/Analysis/Week 9",
+    "MATH1116/Analysis/Week 8",
+    "MATH1116/Analysis/Week 7",
+    "MATH1116/Analysis/Week 6",
+    "MATH1116/Analysis/Week 5",
+    "MATH1116/Analysis/Week 4",
+    "MATH1116/Analysis/Week 3",
+    "MATH1116/Analysis/Week 2",
+    "MATH1116/Analysis/Week 12",
+    "MATH1013/Calculus/Week 6/Riemann sum.md",
+    "attachments/Pasted image 20260724164229.png",
+    "MATH1013/Calculus/Week 6/Definite integral.md",
+    "MATH1005/Week 2/partition.md",
     "MATH1013/Calculus/Week 2/uniform continuity.md",
     "Foundations of Calculus Hutchinson/Chapter 2/Convergence of a sequence.md",
     "Foundations of Calculus Hutchinson/Hard theorems MATH1115/Bisection argument.md",
     "Foundations of Calculus Hutchinson/Chapter 3/Harder theorems for continuity.md",
     "Foundations of Calculus Hutchinson/Hard theorems MATH1115/More theorems of continuity.md",
     "BIOL2161 all goals.md",
-    "Foundations of Calculus Hutchinson/Chapter 2/Bolzano Weierstrass theorem.md",
     "MATH1005/Week 3/composition of Functions.md",
     "Foundations of Calculus Hutchinson/Chapter 3/The formal definition of a limit.md",
     "Foundations of Calculus Hutchinson/Chapter 1/absolute value.md",
@@ -261,29 +283,12 @@
     "MATH1005/Week 3/Injective Function.md",
     "MATH1013/Calculus/Week 8/Inverse function.md",
     "MAXIMISING MARKS.md",
-    "BIOL2161 16.03.2026.md",
-    "MATH1005 definition list.md",
-    "BIOL2161 things I didnt know.md",
-    "Foundations of Calculus Hutchinson/Hard theorems MATH1115/Proving theorems with the completeness axiom.md",
-    "Foundations of Calculus Hutchinson/Chapter 3/Limit lemma 1.md",
     "attachments/Pasted image 20260712185730.png",
-    "MATH1005/Week 7/countably infinite.md",
     "attachments/Pasted image 20260709103225.png",
     "attachments/Pasted image 20260706201200.png",
     "attachments/Pasted image 20260706195408.png",
     "attachments/Pasted image 20260706165453.png",
-    "Foundations of Calculus Hutchinson/Hard theorems MATH1115",
-    "MATH1116/Week 9",
-    "MATH1116/Week 8",
-    "MATH1116/Week 7",
-    "MATH1116/Week 6",
-    "MATH1116/Week 4",
-    "MATH1116/Week 5",
-    "MATH1116/Week 3",
-    "MATH1116/Week 2",
-    "MATH1116/Week 10",
     "attachments/Pasted image 20260623193537.png",
-    "attachments/Pasted image 20260620162921.png",
     "Untitled.canvas"
   ]
 }
