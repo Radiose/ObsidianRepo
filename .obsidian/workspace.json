@@ -38,6 +38,21 @@
             }
           },
           {
+            "id": "5c1fe18a6db10229",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1013/Calculus/Week 6/Integrable.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Integrable"
+            }
+          },
+          {
             "id": "8e60ff0a67005b12",
             "type": "leaf",
             "state": {
@@ -53,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,10 +257,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ad87c467d876f43",
+  "active": "5c1fe18a6db10229",
   "lastOpenFiles": [
-    "M.md",
     "MATH1013/Calculus/Week 6/Riemann sum.md",
+    "MATH1013/Calculus/Week 6/Integrable.md",
+    "M.md",
     "Foundations of Calculus Hutchinson/Chapter 2/Bolzano Weierstrass theorem.md",
     "MATH1116",
     "BIOL2161 16.03.2026.md",
