@@ -466,3 +466,80 @@ $$
 $$
 
 which is what we wanted. $\blacksquare$
+
+## Theorem 4
+ Let $a < c < b$. If $f$ is integrable on $[a, b]$, then $f$ is integrable on $[a, c]$ and on $[c, b]$. Conversely, if $f$ is integrable on $[a, c]$ and on $[c, b]$, then $f$ is integrable on $[a, b]$. Finally, if $f$ is integrable on $[a, b]$, then
+
+$$
+\int_a^b f = \int_a^c f + \int_c^b f.
+$$
+
+**PROOF**  Suppose $f$ is integrable on $[a, b]$. If $\varepsilon > 0$, there is a partition $P = \{t_0, \ldots, t_n\}$ of $[a, b]$ such that
+
+$$
+U(f, P) - L(f, P) < \varepsilon.
+$$
+
+We might as well assume that $c = t_j$ for some $j$. (Otherwise, let $Q$ be the partition which contains $t_0, \ldots, t_n$ and $c$; then $Q$ contains $P$, so $U(f,Q) - L(f,Q) \le U(f,P) - L(f,P) < \varepsilon$  via the lemma. ) Either way, we can proceed with the proof. 
+
+
+Now $P' = \{t_0, \ldots, t_j\}$ is a partition of $[a, c]$ and $P'' = \{t_j, \ldots, t_n\}$ is a partition of $[c, b]$ (Figure 12). Since
+
+$$
+L(f, P) = L(f, P') + L(f, P''),
+$$
+$$
+U(f, P) = U(f, P') + U(f, P''),
+$$
+
+we have
+
+$$
+[U(f, P') - L(f, P')] + [U(f, P'') - L(f, P'')] = U(f, P) - L(f, P) < \varepsilon.
+$$
+
+Since each of the terms in brackets is nonnegative, each is less than $\varepsilon$. This shows that $f$ is integrable on $[a, c]$ and $[c, b]$. Note also that
+
+$$
+L(f, P') \le \int_a^c f \le U(f, P'),
+$$
+$$
+L(f, P'') \le \int_c^b f \le U(f, P''),
+$$
+
+so that
+
+$$
+L(f, P) \le \int_a^c f + \int_c^b f \le U(f, P).
+$$
+
+Since this is true for any $P$, this proves that
+
+$$
+\int_a^c f + \int_c^b f = \int_a^b f.
+$$
+
+Now suppose that $f$ is integrable on $[a, c]$ and on $[c, b]$. If $\varepsilon > 0$, there is a partition $P'$ of $[a, c]$ and a partition $P''$ of $[c, b]$ such that
+
+$$
+U(f, P') - L(f, P') < \varepsilon/2,
+$$
+$$
+U(f, P'') - L(f, P'') < \varepsilon/2.
+$$
+
+If $P$ is the partition of $[a, b]$ containing all the points of $P'$ and $P''$, then
+
+$$
+L(f, P) = L(f, P') + L(f, P''),
+$$
+$$
+U(f, P) = U(f, P') + U(f, P'');
+$$
+
+consequently,
+
+$$
+U(f, P) - L(f, P) = [U(f, P') - L(f, P')] + [U(f, P'') - L(f, P'')] < \varepsilon. \quad \blacksquare
+$$
+
