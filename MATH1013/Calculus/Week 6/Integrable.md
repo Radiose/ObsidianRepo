@@ -108,7 +108,7 @@ U(f, P) = \sum_{i=1}^{n} 1 \cdot (t_i - t_{i-1}) = b - a.
 $$
 In this case, we see that $\sup\{L(f, P)\} \not = \inf\{U(f, P)\}$
 
-There is no good candidate for the [[Riemann sum]], so we say that this function is not integrable 
+There is no good candidate for the [[Riemann sum]], so we say that this function is not integrable. 
 
 # Definition
 A function $f$ which is bounded on $[a, b]$ is **integrable** on $[a, b]$ if
@@ -247,3 +247,220 @@ Since $f$ is integrable, there is only *one* number between all lower and upper 
 $$
 \int_0^2 f = 0.
 $$
+
+## Deriving the antiderivative of f(x) = x
+
+Consider an interval $[0,b]$, with $b > 0$.
+
+If $P = \{t_0, \ldots, t_n\}$ is a partition of $[0, b]$, then
+
+$$
+m_i = t_{i-1} \quad \text{and} \quad M_i = t_i
+$$
+(In other words, the left side of the subinterval is ALWAYS the smallest point in it ($m_{i}$), and the right side is always the largest ($M_{i}$))
+
+and therefore
+
+$$
+L(f, P) = \sum_{i=1}^{n} t_{i-1}(t_i - t_{i-1})
+$$
+$$
+= t_0(t_1 - t_0) + t_1(t_2 - t_1) + \cdots + t_{n-1}(t_n - t_{n-1}),
+$$
+
+$$
+U(f, P) = \sum_{i=1}^{n} t_i (t_i - t_{i-1})
+$$
+$$
+= t_1(t_1 - t_0) + t_2(t_2 - t_1) + \cdots + t_n(t_n - t_{n-1}).
+$$
+
+Neither of these formulas is particularly appealing, but both simplify considerably for partitions $P_n = \{t_0, \ldots, t_n\}$ into $n$ *equal* subintervals. In this case, the length $t_i - t_{i-1}$ of each subinterval is $b/n$, so
+
+$$
+t_0 = 0,
+$$
+$$
+t_1 = \frac{b}{n},
+$$
+$$
+t_2 = \frac{2b}{n}, \quad \text{etc};
+$$
+in general
+
+$$
+t_i = \frac{ib}{n}.
+$$
+
+Then
+
+$$
+L(f, P_n) = \sum_{i=1}^{n} t_{i-1}(t_i - t_{i-1})
+$$
+$$
+= \sum_{i=1}^{n} \left\{ \frac{(i-1)b}{n} \right\} \cdot \frac{b}{n}
+$$ (the left endpoint is $\frac{(i-1)b}{n}$)
+$$
+= \left[ \sum_{i=1}^{n} (i-1) \right] \frac{b^2}{n^2}
+$$
+$$
+= \left( \sum_{j=0}^{n-1} j \right) \frac{b^2}{n^2}.
+$$
+
+
+Remembering the formula (the sum of integers from 1 to k)
+
+$$
+1 + \cdots + k = \frac{k(k+1)}{2},
+$$
+
+this can be written
+
+$$
+L(f, P_n) = \frac{(n-1)(n)}{2} \cdot \frac{b^2}{n^2}
+$$
+$$
+= \frac{n-1}{n} \cdot \frac{b^2}{2}.
+$$
+
+Similarly,
+
+$$
+U(f, P_n) = \sum_{i=1}^{n} t_i (t_i - t_{i-1})
+$$
+$$
+= \sum_{i=1}^{n} \frac{ib}{n} \cdot \frac{b}{n}
+$$
+$$
+= \frac{n(n+1)}{2} \cdot \frac{b^2}{n^2}
+$$
+$$
+= \frac{n+1}{n} \cdot \frac{b^2}{2}.
+$$
+The key bit here to notice here is if $n$ is very large, this approaches $\frac{b^2}{2}$. This makes it easy to show that $f$ is integrable. 
+
+ Notice first that
+
+$$
+U(f, P_n) - L(f, P_n) = \frac{2}{n} \cdot \frac{b^2}{2}.
+$$
+
+This shows that there are partitions $P_n$ with $U(f, P_n) - L(f, P_n)$ as small as desired. By Theorem 2 the function $f$ is integrable. Moreover, $\int_0^b f$ may now be found with only a little work. It is clear, first of all, that
+
+$$
+L(f, P_n) \le \frac{b^2}{2} \le U(f, P_n) \quad \text{for all } n.
+$$
+This can be deduced simply with $\frac{n-1}{n}$ always being less than 1 etc. 
+
+This inequality shows only that $b^2/2$ lies between certain special upper and lower sums, but we have just seen that $U(f, P_n) - L(f, P_n)$ can be made as small as desired, so there is *only one* number with this property. Since the integral certainly has this property, we can conclude that
+
+$$
+\int_0^b f = \frac{b^2}{2}.
+$$
+
+
+## Deriving the antiderivative of $x^2$
+
+The function $f(x) = x^2$ presents even greater difficulties. In this case, if $P = \{t_0, \ldots, t_n\}$ is a partition of $[0, b]$, then
+
+$$
+m_i = f(t_{i-1}) = (t_{i-1})^2 \quad \text{and} \quad M_i = f(t_i) = t_i^2.
+$$
+
+Choosing, once again, a partition $P_n = \{t_0, \ldots, t_n\}$ into $n$ equal parts, so that
+
+$$
+t_i = \frac{i \cdot b}{n},
+$$
+
+the lower and upper sums become
+
+$$
+L(f, P_n) = \sum_{i=1}^{n} (t_{i-1})^2 \cdot (t_i - t_{i-1})
+$$
+$$
+= \sum_{i=1}^{n} (i-1)^2 \frac{b^2}{n^2} \cdot \frac{b}{n}
+$$
+$$
+= \frac{b^3}{n^3} \cdot \sum_{j=0}^{n-1} j^2,
+$$
+
+$$
+U(f, P_n) = \sum_{i=1}^{n} t_i^2 \cdot (t_i - t_{i-1})
+$$
+$$
+= \sum_{i=1}^{n} i^2 \frac{b^2}{n^2} \cdot \frac{b}{n}
+$$
+$$
+= \frac{b^3}{n^3} \sum_{j=1}^{n} j^2.
+$$
+
+Recalling the formula
+
+$$
+1^2 + \cdots + k^2 = \frac{1}{6}k(k+1)(2k+1)
+$$
+
+these sums can be written as
+
+$$
+L(f, P_n) = \frac{b^3}{n^3} \cdot \frac{1}{6}(n-1)(n)(2n-1),
+$$
+$$
+U(f, P_n) = \frac{b^3}{n^3} \cdot \frac{1}{6}(n+1)(2n+1).
+$$
+
+It is not too hard to show that
+
+$$
+L(f, P_n) \le \frac{b^3}{3} \le U(f, P_n),
+$$
+
+and that $U(f, P_n) - L(f, P_n)$ can be made as small as desired, by choosing $n$ sufficiently large. The same sort of reasoning as before then shows that
+
+$$
+\int_0^b f = \frac{b^3}{3}.
+$$
+## Theorem 3
+If $f$ is [[continuous function|continuous]] on $[a,b]$, then $f$ is integrable on $[a,b]$
+
+**PROOF**  Notice, first, that $f$ is bounded on $[a, b]$, because it is continuous on $[a, b]$. To prove that $f$ is integrable on $[a, b]$, we want to use Theorem 2, and show that for every $\varepsilon > 0$ there is a partition $P$ of $[a, b]$ such that
+
+$$
+U(f, P) - L(f, P) < \varepsilon.
+$$
+
+Now we know, by *Theorem 1* in [[uniform continuity]], that $f$ is uniformly continuous on $[a, b]$. So there is some $\delta > 0$ such that for all $x$ and $y$ in $[a, b]$,
+
+$$
+\text{if } |x - y| < \delta, \text{ then } |f(x) - f(y)| < \frac{\varepsilon}{2(b-a)}.
+$$
+
+The trick is simply to choose a partition $P = \{t_0, \ldots, t_n\}$ such that each $|t_i - t_{i-1}| < \delta$. Then for each $i$ we have
+
+$$
+|f(x) - f(y)| < \frac{\varepsilon}{2(b-a)} \quad \text{for all } x, y \text{ in } [t_{i-1}, t_i],
+$$
+
+and it follows easily that
+
+$$
+M_i - m_i \le \frac{\varepsilon}{2(b-a)} < \frac{\varepsilon}{b-a}.
+$$
+
+Since this is true for all $i$, we then have
+
+$$
+U(f, P) - L(f, P) = \sum_{i=1}^{n} (M_i - m_i)(t_i - t_{i-1})
+$$
+$$
+< \frac{\varepsilon}{b-a} \sum_{i=1}^{n} t_i - t_{i-1}
+$$
+$$
+= \frac{\varepsilon}{b-a} \cdot b - a
+$$ This can be observed earlier up the page
+$$
+= \varepsilon,
+$$
+
+which is what we wanted. $\blacksquare$
