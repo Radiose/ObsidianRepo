@@ -32,7 +32,7 @@ Now, we can simply create a [[Sequence]] of these partitions that will become $Q
 The sequence is shown below
 $$ P = P_1, P_2, \ldots, P_\alpha = Q $$ such that $P_{j+1}$ contains just one more point than $P_j$. Then $$ L(f, P) = L(f, P_1) \le L(f, P_2) \le \cdots \le L(f, P_\alpha) = L(f, Q), $$ and $$ U(f, P) = U(f, P_1) \ge U(f, P_2) \ge \cdots \ge U(f, P_\alpha) = U(f, Q). \quad \blacksquare $$ The theorem we wish to prove is a simple consequence of this lemma.
 
-Theorem 1 
+## Theorem 1 
 Let $P_{1}$ and $P_{2}$ be partitions of $[a,b]$ and let $f$ be a function that is bounded on $[a,b]$. Then, $$L(f, P_{1}) \leq U(f,P_{2})$$
 Proof:
 There is a partition $P$ which contains both $P_{1}$ and $P_{2}$. According to the lemma, $L(f,P_{1})\leq L(f,P)\leq U(f,P) \leq U(f,P_{2}) \blacksquare$
@@ -447,6 +447,8 @@ and it follows easily that
 $$
 M_i - m_i \le \frac{\varepsilon}{2(b-a)} < \frac{\varepsilon}{b-a}.
 $$
+
+This is a smart trick, as we know that $f$ must take on the values $M_{i}$ and $m_{i}$ on the interval. 
 
 Since this is true for all $i$, we then have
 
