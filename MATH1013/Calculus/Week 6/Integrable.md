@@ -543,3 +543,106 @@ $$
 U(f, P) - L(f, P) = [U(f, P') - L(f, P')] + [U(f, P'') - L(f, P'')] < \varepsilon. \quad \blacksquare
 $$
 
+
+
+# THEOREM 5  
+If $f$ and $g$ are integrable on $[a, b]$, then $f + g$ is integrable on $[a, b]$ and
+
+$$
+\int_a^b (f + g) = \int_a^b f + \int_a^b g.
+$$
+
+**PROOF**  Let $P = \{t_0, \ldots, t_n\}$ be any partition of $[a, b]$. Let
+
+$$
+m_i = \inf\{(f+g)(x) : t_{i-1} \le x \le t_i\},
+$$
+$$
+m_i' = \inf\{f(x) : t_{i-1} \le x \le t_i\},
+$$
+$$
+m_i'' = \inf\{g(x) : t_{i-1} \le x \le t_i\},
+$$
+
+and define $M_i, M_i', M_i''$ similarly. It is not necessarily true that
+
+$$
+m_i = m_i' + m_i'',
+$$
+
+but it is true that
+
+$$
+m_i \ge m_i' + m_i''.
+$$
+or that the greatest lower bound of a sum of functions is greater than or equal to each functions greatest lower bound 
+
+Similarly,
+
+$$
+M_i \le M_i' + M_i''.
+$$
+
+Therefore,
+
+$$
+L(f, P) + L(g, P) \le L(f+g, P)
+$$
+
+and
+
+$$
+U(f+g, P) \le U(f, P) + U(g, P).
+$$
+
+Thus,
+
+$$
+L(f, P) + L(g, P) \le L(f+g, P) \le U(f+g, P) \le U(f, P) + U(g, P).
+$$
+
+Since $f$ and $g$ are integrable, there are partitions $P'$, $P''$ with
+
+$$
+U(f, P') - L(f, P') < \varepsilon/2,
+$$
+$$
+U(g, P'') - L(g, P'') < \varepsilon/2.
+$$
+
+If $P$ contains both $P'$ and $P''$, then
+
+$$
+U(f, P) + U(g, P) - [L(f, P) + L(g, P)] < \varepsilon,
+$$via the lemma, 
+
+and consequently
+
+$$
+U(f+g, P) - L(f+g, P) < \varepsilon.
+$$
+
+**This proves that $f+g$ is integrable on $[a, b]$.** 
+Moreover,
+
+$$
+(1) \qquad L(f, P) + L(g, P) \le L(f+g, P) \le \int_a^b (f+g) \le U(f+g, P) \le U(f, P) + U(g, P);
+$$
+
+and also
+
+$$
+(2) \qquad L(f, P) + L(g, P) \le \int_a^b f + \int_a^b g \le U(f, P) + U(g, P).
+$$
+
+Since $U(f,P) - L(f,P)$ and $U(g,p) - L(g,P)$ can both be made as small as desired, it follows that
+
+$$
+U(f, P) + U(g, P) - [L(f, P) + L(g, P)]
+$$
+
+can also be made as small as desired; it therefore follows from (1) and (2) that
+
+$$
+\int_a^b (f+g) = \int_a^b f + \int_a^b g. \quad \blacksquare
+$$
