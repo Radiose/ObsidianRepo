@@ -1,5 +1,7 @@
 Integrable
-# Analysis (formal definition)
+
+# Motivation
+
 Suppose $f$ is bounded on $[a,b]$ and $P =\{ t_{0},\dots,t_{n} \}$ is a [[partition]] of $[a,b]$. Let $m_{i} = inf\{ f(x): t_{i-1} \leq x \leq t_{i} \}$ 
 and $M_{i}=sup \{ f(x): t_{i-1} \leq x \leq t_{i} \}$
 
@@ -105,3 +107,143 @@ $$
 U(f, P) = \sum_{i=1}^{n} 1 \cdot (t_i - t_{i-1}) = b - a.
 $$
 In this case, we see that $\sup\{L(f, P)\} \not = \inf\{U(f, P)\}$
+
+There is no good candidate for the [[Riemann sum]], so we say that this function is not integrable 
+
+# Definition
+A function $f$ which is bounded on $[a, b]$ is **integrable** on $[a, b]$ if
+
+$$
+\sup\{L(f, P) : P \text{ a partition of } [a, b]\} = \inf\{U(f, P) : P \text{ a partition of } [a, b]\}.
+$$
+
+In this case, this common number is called the **integral** of $f$ on $[a, b]$ and is denoted by
+
+$$
+\int_a^b f.
+$$
+
+
+### THEOREM 2
+If $f$ is bounded on $[a, b]$, then $f$ is integrable on $[a, b]$ if and only if for every $\varepsilon > 0$ there is a partition $P$ of $[a, b]$ such that
+
+$$
+U(f, P) - L(f, P) < \varepsilon.
+$$
+
+**PROOF**  Suppose first that for every $\varepsilon > 0$ there is a partition $P$ with
+
+$$
+U(f, P) - L(f, P) < \varepsilon.
+$$
+
+Since
+
+$$
+\inf\{U(f, P')\} \le U(f, P),
+$$
+$$
+\sup\{L(f, P')\} \ge L(f, P),
+$$
+
+it follows that
+
+$$
+\inf\{U(f, P')\} - \sup\{L(f, P')\} < \varepsilon.
+$$
+
+Since this is true for all $\varepsilon > 0$, it follows that
+
+$$
+\sup\{L(f, P')\} = \inf\{U(f, P')\};
+$$
+
+by definition, then, $f$ is integrable. The proof of the converse assertion is similar: If $f$ is integrable, then
+
+$$
+\sup\{L(f, P)\} = \inf\{U(f, P)\}.
+$$
+
+This means that for each $\varepsilon > 0$ there are partitions $P'$, $P''$ with
+
+$$
+U(f, P'') - L(f, P') < \varepsilon.
+$$
+
+Let $P$ be a partition which contains both $P'$ and $P''$. Then, according to the lemma,
+
+$$
+U(f, P) \le U(f, P''),
+$$
+$$
+L(f, P) \ge L(f, P');
+$$
+
+consequently,
+
+$$
+U(f, P) - L(f, P) \le U(f, P'') - L(f, P') < \varepsilon. \quad \blacksquare
+$$
+Its clear that this theorem amounts to little more than restating the definition of integrable. 
+
+
+## Example of this definition being useful 
+
+Let $f$ be defined on $[0, 2]$ by
+
+$$
+f(x) = \begin{cases} 0, & x \ne 1 \\ 1, & x = 1. \end{cases}
+$$
+On first glance, this seems like its not integrable, but the definitions we have laid out demonstrate otherwise.
+
+Suppose $P = \{t_0, \ldots, t_n\}$ is a partition of $[0, 2]$ with
+
+$$
+t_{j-1} < 1 < t_j
+$$
+
+(see Figure 8). Then
+
+$$
+m_i = M_i = 0 \quad \text{if} \quad i \ne j,
+$$
+
+but
+
+$$
+m_j = 0 \quad \text{and} \quad M_j = 1.
+$$
+
+Since
+
+$$
+L(f, P) = \sum_{i=1}^{j-1} m_i (t_i - t_{i-1}) + m_j (t_j - t_{j-1}) + \sum_{i=j+1}^{n} m_i (t_i - t_{i-1}),
+$$
+
+$$
+U(f, P) = \sum_{i=1}^{j-1} M_i (t_i - t_{i-1}) + M_j (t_j - t_{j-1}) + \sum_{i=j+1}^{n} M_i (t_i - t_{i-1}),
+$$
+
+we have
+
+$$
+U(f, P) - L(f, P) = t_j - t_{j-1}.
+$$
+This is because $m_{j}$ and $M_{j}$ are the only points along the interval that are different, and because we have $M_{j}$ = 1, we can simplify it to just $t_{j}-t_{j-1}$
+
+This certainly shows that $f$ is integrable: to obtain a partition $P$ with
+
+$$
+U(f, P) - L(f, P) < \varepsilon,
+$$
+Moreover, it is clear that
+
+$$
+L(f, P) \le 0 \le U(f, P) \quad \text{for all partitions } P.
+$$
+
+Since $f$ is integrable, there is only *one* number between all lower and upper sums, namely, the integral of $f$, so
+
+$$
+\int_0^2 f = 0.
+$$
