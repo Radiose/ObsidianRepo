@@ -124,7 +124,7 @@ $$
 $$
 
 
-### THEOREM 2
+# THEOREM 2
 If $f$ is bounded on $[a, b]$, then $f$ is integrable on $[a, b]$ if and only if for every $\varepsilon > 0$ there is a partition $P$ of $[a, b]$ such that
 
 $$
