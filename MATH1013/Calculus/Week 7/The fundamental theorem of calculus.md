@@ -82,12 +82,5 @@ $=f(x_{n}^*)\Delta x+f(x_{n-1}^*)\Delta x+\dots+f(x_{1}^*)\Delta x+$
 In sigma notation ([[Riemann sum]])
 $F(b)-F(a) = \sum_{i=1}^nf(x_{i}^*)\Delta x$
 
-
 # Fundamental theorem of calculus (Spivak)
-
-Based off [[Integrable (spivak)#Theorem 8 |this theorem]], if $f$ is integrable, then $F(x) = \int_{a} ^x f$ is [[continuous function|continuous]]. 
-We should ask then, what happens when $f$ is continuous, and it turns out $F$ is indeed differentiable. 
-
-The first fundamental theorem of calculus 
-
-
+ ![[Fundamental theorem of calculus (Spivak)]]
