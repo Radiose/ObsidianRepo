@@ -91,3 +91,5 @@ Because there is one turning point, and the limit as v approaches u and v approa
 
 
 ## s1-s2 winter break
+
+Pi is defined as 
