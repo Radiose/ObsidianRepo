@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_MATH help/math tricks.md",
+                "file": "MATH1013/Calculus/Week 6/Integrable.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "math tricks"
+              "title": "Integrable"
             }
           },
           {
@@ -274,13 +274,19 @@
   },
   "active": "5c1fe18a6db10229",
   "lastOpenFiles": [
+    "Foundations of Calculus Hutchinson/Chapter 3/The formal definition of a limit.md",
+    "MATH1013/Calculus/Week 6/Integrable.md",
+    "attachments/Pasted image 20260727154223.png",
+    "MATH1013/Calculus/Week 7/integrable.md",
+    "COMP2610/Week 1/conditional distribution.md",
+    "COMP2610/Week 1/COMP2610 probability updates.md",
+    "MATH1013/Complex numbers/Complex number.md",
+    "COMP2610/Week 1/conditional expectation.md",
+    "Z_MATH help/math tricks.md",
     "MATH1005/Week 9/Bayes theorem.md",
     "MATH1005/Week 8/Probability of an event.md",
     "MATH1005/Week 9/Conditional probability.md",
-    "COMP2610/Week 1/conditional expectation.md",
     "MATH1005/Week 9/Independent event.md",
-    "COMP2610/Week 1/conditional distribution.md",
-    "COMP2610/Week 1/COMP2610 probability updates.md",
     "BlendED future of work and AI.md",
     "MATH1013/Calculus/Week 6/Riemann sum.md",
     "BIOL2161/BIOL2161 16.03.2026.md",
@@ -292,7 +298,6 @@
     "MATH1005/Week 9/MATH1005 05.05.2026.md",
     "MATH1005/Week 5/Geometric Sequence.md",
     "MATH1005/Week 5/Sequence.md",
-    "MATH1013/Calculus/Week 6/Integrable.md",
     "MATH1013/Calculus/Week 2/uniform continuity.md",
     "M.md",
     "Foundations of Calculus Hutchinson/Chapter 2/Bolzano Weierstrass theorem.md",
@@ -308,10 +313,6 @@
     "MATH1116/Analysis/Week 12",
     "attachments/Pasted image 20260724164229.png",
     "MATH1013/Calculus/Week 6/Definite integral.md",
-    "MATH1005/Week 2/partition.md",
-    "Foundations of Calculus Hutchinson/Chapter 2/Convergence of a sequence.md",
-    "Foundations of Calculus Hutchinson/Hard theorems MATH1115/Bisection argument.md",
-    "Foundations of Calculus Hutchinson/Chapter 3/Harder theorems for continuity.md",
     "attachments/Pasted image 20260719100355.png",
     "attachments/Pasted image 20260714184012.png",
     "attachments/Pasted image 20260714183820.png",
@@ -319,7 +320,6 @@
     "attachments/Pasted image 20260709103225.png",
     "attachments/Pasted image 20260706201200.png",
     "attachments/Pasted image 20260706195408.png",
-    "attachments/Pasted image 20260706165453.png",
     "Untitled.canvas"
   ]
 }

@@ -646,3 +646,83 @@ can also be made as small as desired; it therefore follows from (1) and (2) that
 $$
 \int_a^b (f+g) = \int_a^b f + \int_a^b g. \quad \blacksquare
 $$
+
+
+
+
+
+
+# Theorem 7
+
+Suppose $f$ is integrable on $[a,b]$ and that
+
+$$m \le f(x) \le M \quad \text{for all } x \text{ in } [a,b].$$
+
+Then
+
+$$m(b-a) \le \int_a^b f \le M(b-a).$$
+
+**PROOF**  It is clear that
+
+$$m(b-a) \le L(f,P) \quad \text{and} \quad U(f,P) \le M(b-a)$$
+
+for every partition $P$. Since $\int_a^b f = \sup\{L(f,P)\} = \inf\{U(f,P)\}$, the desired inequality follows immediately. $\blacksquare$
+
+
+# Theorem 8
+
+**THEOREM 8**  If $f$ is integrable on $[a,b]$ and $F$ is defined on $[a,b]$ by
+
+$$F(x) = \int_a^x f,$$
+
+then $F$ is continuous on $[a,b]$.
+
+**PROOF**  Suppose $c$ is in $[a,b]$. Since $f$ is integrable on $[a,b]$ it is, by definition, bounded on $[a,b]$; let $M$ be a number such that
+
+$$|f(x)| \le M \quad \text{for all } x \text{ in } [a,b].$$
+
+If $h > 0$, then (Figure 13)
+
+$$F(c+h) - F(c) = \int_a^{c+h} f - \int_a^c f = \int_c^{c+h} f.$$
+
+Since
+
+$$-M \le f(x) \le M \quad \text{for all } x,$$
+
+it follows from Theorem 7 that
+
+$$-M \cdot h \le \int_c^{c+h} f \le Mh;$$
+
+in other words,
+
+$$\tag{1} -M \cdot h \le F(c+h) - F(c) \le M \cdot h.$$
+
+If $h < 0$, a similar inequality can be derived: Note that
+
+$$F(c+h) - F(c) = \int_c^{c+h} f = -\int_{c+h}^c f.$$
+
+Applying Theorem 7 to the interval $[c+h, c]$, of length $-h$, we obtain
+
+$$Mh \le \int_{c+h}^c f \le -Mh;$$
+
+multiplying by $-1$, which reverses all the inequalities, we have
+
+$$\tag{2} Mh \ge F(c+h) - F(c) \ge -Mh.$$
+
+Inequalities (1) and (2) can be combined:
+
+$$|F(c+h) - F(c)| \le M \cdot |h|.$$
+
+Therefore, if $\varepsilon > 0$, we have
+
+$$|F(c+h) - F(c)| < \varepsilon,$$
+
+provided that $|h| < \varepsilon/M$. This proves that
+
+$$\lim_{h \to 0} F(c+h) = F(c);$$
+
+in other words $F$ is continuous at $c$. $\blacksquare$
+
+The goal of this proof above was to proof that $F$ is continuous at any arbitrary point $c$. We did this via an [[The formal definition of a limit|epsilon delta proof]] $|h-0|<\delta \implies |F(c+h)-F(c)|<\epsilon$ (note that we can define $F(c+h) = g(h)$ for simplicity, so $|g(h)-L| <\epsilon$ ).
+
+
