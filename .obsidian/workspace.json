@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Calculus/Week 6/Integrable.md",
+                "file": "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Integrable (spivak).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Integrable"
+              "title": "Integrable (spivak)"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 1/conditional expectation.md",
+                "file": "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Integrable (spivak).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "conditional expectation"
+              "title": "Integrable (spivak)"
             }
           },
           {
@@ -71,15 +71,10 @@
             "id": "8e60ff0a67005b12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Foundations of Calculus Hutchinson/Chapter 1/absolute value.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "absolute value"
+              "title": "New tab"
             }
           }
         ],
@@ -274,14 +269,25 @@
   },
   "active": "5c1fe18a6db10229",
   "lastOpenFiles": [
-    "Foundations of Calculus Hutchinson/Chapter 3/The formal definition of a limit.md",
-    "MATH1013/Calculus/Week 6/Integrable.md",
+    "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Integrable (spivak).md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 3/The formal definition of a limit.md",
+    "MATH1005/Week 9/Random variable.md",
+    "COMP2610/Week 1/conditional expectation.md",
+    "MATH1013/Calculus/Week 3/Derivative.md",
+    "MATH1013/Calculus/Week 2/continuous function.md",
+    "MATH1013/Calculus/Week 2/uniform continuity.md",
+    "Z_MATH help/MATH1005 midsem rundown.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/More theorems of continuity.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/proofs with the completeness axiom.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Bisection argument.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 3/Limit lemma 1.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 3/Harder theorems for continuity.md",
     "attachments/Pasted image 20260727154223.png",
     "MATH1013/Calculus/Week 7/integrable.md",
     "COMP2610/Week 1/conditional distribution.md",
     "COMP2610/Week 1/COMP2610 probability updates.md",
     "MATH1013/Complex numbers/Complex number.md",
-    "COMP2610/Week 1/conditional expectation.md",
     "Z_MATH help/math tricks.md",
     "MATH1005/Week 9/Bayes theorem.md",
     "MATH1005/Week 8/Probability of an event.md",
@@ -290,17 +296,7 @@
     "BlendED future of work and AI.md",
     "MATH1013/Calculus/Week 6/Riemann sum.md",
     "BIOL2161/BIOL2161 16.03.2026.md",
-    "MATH1005/Week 9/Random variable.md",
     "attachments/Pasted image 20260727133903.png",
-    "MATH1005/Week 8/Cumulative probability distribution function.md",
-    "MATH1005/Week 8/Density function.md",
-    "MATH1005/Week 9/MATH1005 04.05.2026.md",
-    "MATH1005/Week 9/MATH1005 05.05.2026.md",
-    "MATH1005/Week 5/Geometric Sequence.md",
-    "MATH1005/Week 5/Sequence.md",
-    "MATH1013/Calculus/Week 2/uniform continuity.md",
-    "M.md",
-    "Foundations of Calculus Hutchinson/Chapter 2/Bolzano Weierstrass theorem.md",
     "MATH1116",
     "MATH1116/Analysis/Week 9",
     "MATH1116/Analysis/Week 8",
@@ -312,7 +308,6 @@
     "MATH1116/Analysis/Week 2",
     "MATH1116/Analysis/Week 12",
     "attachments/Pasted image 20260724164229.png",
-    "MATH1013/Calculus/Week 6/Definite integral.md",
     "attachments/Pasted image 20260719100355.png",
     "attachments/Pasted image 20260714184012.png",
     "attachments/Pasted image 20260714183820.png",

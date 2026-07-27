@@ -24,6 +24,8 @@ This part of the FTC tells us that every [[function]] defined as an [[Definite i
 
 # Part II
 
+# MATH1013
+
 If $f,F$ are [[function]]s defined on (a,b), then we say that F is an **antiderivative** of f on (a,b) if $F'(x) = f(x)$ for all x $\in (a,b)$
 
 [[theorem]]
@@ -79,4 +81,13 @@ thus
 $=f(x_{n}^*)\Delta x+f(x_{n-1}^*)\Delta x+\dots+f(x_{1}^*)\Delta x+$
 In sigma notation ([[Riemann sum]])
 $F(b)-F(a) = \sum_{i=1}^nf(x_{i}^*)\Delta x$
+
+
+# Fundamental theorem of calculus (Spivak)
+
+Based off [[Integrable (spivak)#Theorem 8 |this theorem]], if $f$ is integrable, then $F(x) = \int_{a} ^x f$ is [[continuous function|continuous]]. 
+We should ask then, what happens when $f$ is continuous, and it turns out $F$ is indeed differentiable. 
+
+The first fundamental theorem of calculus 
+
 

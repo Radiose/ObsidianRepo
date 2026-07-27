@@ -48,13 +48,8 @@ for a piecewise function:
 
 compute the limit when x approaches from the left, and when x approaches from the right. Therefore, the function will be continuous at a if and only if the left hand limit equals the right hand limit. 
 
-## Uniform continuity:
-A function $f(x)$ is said to be uniformly [[continuous function|continuous]] if 
-$\forall \epsilon>0 \exists \delta\ \ \ \ \ 0<|x-a|<\delta \implies |f(x)-f(a)|<\epsilon$
-
-
-
 
 ![[Harder theorems for continuity]]
 
-![[uniform continuity]]
+#![[uniform continuity]]
+

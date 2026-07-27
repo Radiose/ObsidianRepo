@@ -120,8 +120,7 @@ $$
 In this case, this common number is called the **integral** of $f$ on $[a, b]$ and is denoted by
 
 $$
-\int_a^b f.
-$$
+\int_a^b f.$$
 
 
 # THEOREM 2
@@ -244,9 +243,7 @@ $$
 
 Since $f$ is integrable, there is only *one* number between all lower and upper sums, namely, the integral of $f$, so
 
-$$
-\int_0^2 f = 0.
-$$
+$$\int_0^2 f = 0.$$
 
 ## Deriving the antiderivative of f(x) = x
 
@@ -540,8 +537,7 @@ $$
 consequently,
 
 $$
-U(f, P) - L(f, P) = [U(f, P') - L(f, P')] + [U(f, P'') - L(f, P'')] < \varepsilon. \quad \blacksquare
-$$
+U(f, P) - L(f, P) = [U(f, P') - L(f, P')] + [U(f, P'') - L(f, P'')] < \varepsilon. \quad \blacksquare$$
 
 
 
@@ -549,17 +545,14 @@ $$
 If $f$ and $g$ are integrable on $[a, b]$, then $f + g$ is integrable on $[a, b]$ and
 
 $$
-\int_a^b (f + g) = \int_a^b f + \int_a^b g.
-$$
+\int_a^b (f + g) = \int_a^b f + \int_a^b g.$$
 
 **PROOF**  Let $P = \{t_0, \ldots, t_n\}$ be any partition of $[a, b]$. Let
 
 $$
-m_i = \inf\{(f+g)(x) : t_{i-1} \le x \le t_i\},
+m_i = \inf\{(f+g)(x) : t_{i-1} \le x \le t_i\},$$
 $$
-$$
-m_i' = \inf\{f(x) : t_{i-1} \le x \le t_i\},
-$$
+m_i' = \inf\{f(x) : t_{i-1} \le x \le t_i\},$$
 $$
 m_i'' = \inf\{g(x) : t_{i-1} \le x \le t_i\},
 $$
@@ -638,21 +631,18 @@ $$
 Since $U(f,P) - L(f,P)$ and $U(g,p) - L(g,P)$ can both be made as small as desired, it follows that
 
 $$
-U(f, P) + U(g, P) - [L(f, P) + L(g, P)]
-$$
+U(f, P) + U(g, P) - [L(f, P) + L(g, P)]$$
 
 can also be made as small as desired; it therefore follows from (1) and (2) that
 
-$$
-\int_a^b (f+g) = \int_a^b f + \int_a^b g. \quad \blacksquare
-$$
+$$\int_a^b (f+g) = \int_a^b f + \int_a^b g. \quad \blacksquare$$
 
 
 
 
 
 
-# Theorem 7
+# THEOREM 7
 
 Suppose $f$ is integrable on $[a,b]$ and that
 

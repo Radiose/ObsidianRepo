@@ -19,4 +19,4 @@ Looking at this, you can see the height is the sample point, and the width is th
 A [[Riemann sum]] is a good method for approximating the area under a curve. It can be deducted then, that as $||P||$ gets smaller, the area approximation gets more accurate. 
 
 
-![[MATH1013/Calculus/Week 6/Integrable]]
+![[Integrable (spivak)]]
