@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Calculus/Week 7/Fundamental theorem of calculus (Spivak).md",
+                "file": "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Fundamental theorem of calculus (Spivak).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Calculus/Week 7/Fundamental theorem of calculus (Spivak).md",
+                "file": "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Fundamental theorem of calculus (Spivak).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -266,8 +266,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -282,10 +281,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c1fe18a6db10229",
+  "active": "f348cd9abe5857a6",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260605153444.png",
+    "attachments/Pasted image 20260605143920.png",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Fundamental theorem of calculus (Spivak).md",
     "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
-    "MATH1013/Calculus/Week 7/Fundamental theorem of calculus (Spivak).md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Integrable (spivak).md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 3/The formal definition of a limit.md",
     "MATH1005/Week 9/Random variable.md",
@@ -310,7 +311,6 @@
     "MATH1005/Week 9/Conditional probability.md",
     "MATH1005/Week 9/Independent event.md",
     "BlendED future of work and AI.md",
-    "MATH1013/Calculus/Week 6/Riemann sum.md",
     "attachments/Pasted image 20260727133903.png",
     "MATH1116",
     "MATH1116/Analysis/Week 9",
@@ -329,7 +329,6 @@
     "attachments/Pasted image 20260712185730.png",
     "attachments/Pasted image 20260709103225.png",
     "attachments/Pasted image 20260706201200.png",
-    "attachments/Pasted image 20260706195408.png",
     "Untitled.canvas"
   ]
 }

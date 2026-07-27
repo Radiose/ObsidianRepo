@@ -68,8 +68,35 @@ and this proves that
 
 $$F'(c) = \lim_{h\to 0} \frac{F(c+h)-F(c)}{h} = f(c). \qquad \blacksquare$$
 
-## Corollary
 
+This theorem provides a corollary that reduces computations to some triviality
+## Corollary
+If $f$ is continuous on $[a,b]$ and $f = g'$ for some function $g$, then
+
+$$\int_a^b f = g(b) - g(a).$$
+
+**PROOF**  Let
+
+$$F(x) = \int_a^x f.$$
+
+Then $F' = f = g'$ on $[a,b]$. Consequently, there is a number $c$ such that 
+
+$$F = g + c.$$
+This is some consequence of the [[mean value theorem]], if two functions have equal derivatives on an interval, they differ by some constant. 
+
+
+The number $c$ can be evaluated easily: note that
+
+$$0 = F(a) = g(a) + c,$$ because $F(a)$ has an integral $\int_{a}^af$ 
+
+
+so $c = -g(a)$; thus
+
+$$F(x) = g(x) - g(a).$$
+
+This is true, in particular, for $x = b$. Thus
+
+$$\int_a^b f = F(b) = g(b) - g(a). \qquad \blacksquare$$
 
 
 
