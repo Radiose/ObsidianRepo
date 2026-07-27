@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Integrable (spivak).md",
+                "file": "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Integrable (spivak)"
+              "title": "The fundamental theorem of calculus"
             }
           },
           {
@@ -269,8 +269,8 @@
   },
   "active": "5c1fe18a6db10229",
   "lastOpenFiles": [
-    "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Integrable (spivak).md",
+    "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 3/The formal definition of a limit.md",
     "MATH1005/Week 9/Random variable.md",
     "COMP2610/Week 1/conditional expectation.md",
