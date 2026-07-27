@@ -99,5 +99,46 @@ This is true, in particular, for $x = b$. Thus
 $$\int_a^b f = F(b) = g(b) - g(a). \qquad \blacksquare$$
 
 
+It should be noted that this corollary is widely thought of to be the definition of an integral(that $\int_{a}^b f=g(b)-g(a)$, where the derivative to $g$ is $f$), but that's not true. For example, $\int \frac{1}{x}dx$ has no simple antiderivative. Theorem 1 states that the antiderivative of $\frac{1}{x}$ is $g(x) = \int_{1}^x \frac{1}{t}dt$, and we know no such simpler function with this property. Thus, the antiderivative is literally defined in terms of itself in a way. (in fact we know from previous study that its the [[Natural logarithm]])
 
-The second fundamental theorem of calculus 
+This corollary is often referred to as the *second fundamental theorem of calculus*, but Spivak refers to a different, similar but slightly more useful theorem as that. 
+
+
+
+ 
+## The second fundamental theorem of calculus
+
+If $f$ is integrable on $[a,b]$ and $f = g'$ for some function $g$, then
+
+$$\int_a^b f = g(b) - g(a).$$
+
+**PROOF** Let $P = {t_0, \dots, t_n}$ be any partition of $[a,b]$. By the Mean Value Theorem there is a point $x_i$ in $[t_{i-1}, t_i]$ such that
+
+$$g(t_i) - g(t_{i-1}) = g'(x_i)(t_i - t_{i-1})$$ $$= f(x_i)(t_i - t_{i-1}).$$
+
+If
+
+$$m_i = \inf \{f(x) : t_{i-1} \le x \le t_i\},$$ $$M_i = \sup \{f(x) : t_{i-1} \le x \le t_i \},$$
+
+then clearly
+
+$$m_i(t_i - t_{i-1}) \le f(x_i)(t_i - t_{i-1}) \le M_i(t_i - t_{i-1}),$$
+
+that is,
+
+$$m_i(t_i - t_{i-1}) \le g(t_i) - g(t_{i-1}) \le M_i(t_i - t_{i-1}).$$
+
+Adding these equations for $i = 1, \dots, n$ we obtain
+
+$$\sum_{i=1}^n m_i(t_i - t_{i-1}) \le g(b) - g(a) \le \sum_{i=1}^n M_i(t_i - t_{i-1}),$$
+
+so that
+
+$$L(f,P) \le g(b) - g(a) \le U(f,P)$$
+
+for every partition $P$. But this means that
+
+$$g(b) - g(a) = \int_a^b f. \qquad \blacksquare$$
+
+The trick here was to use the mean value equality to create some $x_{i}$ that will sit between the inf and sup (bounds of the y axis) of each partition. We then can replace it with the other side of the equality and create lower and upper sums that will become an integral.
+

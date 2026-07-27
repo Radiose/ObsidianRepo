@@ -16,18 +16,6 @@ Assignments, quizzes and labs have their contribution to the final grade capped 
 	Final exam:
 		55%
 
-MATH2301:
-	Check ins
-		10% - weekly 
-	Assignments 
-		10% - biweekly
-			marked for completion only 
-	Quizzes:
-		Held during lectorial  (best 5/10 count)
-	Midsemester - NON REDEEMABLE 
-		30%
-	Final 
-		40% 
 
 
 COMP2610
