@@ -19,3 +19,4 @@ We relate this to a probability [[Density function]]:
 In other words, the random variable maps an element in the sample space to an outcome. For example, this job maps to this life outcome.
 
 The probability density function maps a probability to each random variable 
+
