@@ -30,7 +30,14 @@ $p(X = x_i) = \sum_j p(X = x_i, Y = y_j)$
 By definition, the sum items must be mutually disjoint. 
 
 ### Taking it further
-To marginalise a single random variable, that is, find the probability of everything else regardless of that 
+To remove a random variable, or marginalise it you use the sum rule. 
+
+Given $D$ random variables $X_1, \dots, X_D$:
+
+$$p(X_1, \dots, X_{i-1}, X_{i+1}, \dots, X_D) = \sum_{X_i} p(X_1, \dots, X_D)$$
+
+
+
 
 
 # The product rule 
@@ -55,3 +62,14 @@ Therefore:
 
 $$P(X = x_i) = \sum_j P(X = x_i, Y = y_j) = \sum_j P(X = x_i \mid Y = y_j)\, P(Y = y_j)$$
 Here, events do not have to be independent of each other. 
+
+## **Chain Rule:** 
+
+We can also express:
+
+$$p(X_1, X_2) = p(X_1)\,p(X_2 \mid X_1)$$
+into 
+$$p(X_1, X_2, X_3) = p(X_1, X_2)\,p(X_3 \mid X_1, X_2) = p(X_1)\,p(X_2 \mid X_1)\,p(X_3 \mid X_1, X_2)$$
+
+$$p(X_1, \dots, X_D) = p(X_1)\,p(X_2 \mid X_1)\,p(X_3 \mid X_2, X_1) \cdots p(X_D \mid X_1, \dots, X_{D-1})$$
+Here, we are just using the product rule to obtain [[Joint probability]] from [[Conditional probability]].
