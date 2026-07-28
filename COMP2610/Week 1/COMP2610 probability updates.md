@@ -1,4 +1,0 @@
-
-![[conditional distribution]]
-
-![[conditional expectation]]

@@ -73,13 +73,88 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 9/Random variable.md",
+                "file": "COMP2610/Week 1/COMP2610 27.07.2026 28.07.2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Random variable"
+              "title": "COMP2610 27.07.2026 28.07.2026"
+            }
+          },
+          {
+            "id": "72de1f41bc7e84d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 8/Probability rules.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Probability rules"
+            }
+          },
+          {
+            "id": "9e0a4aa0a44ade52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 8/Probability rules.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Probability rules"
+            }
+          },
+          {
+            "id": "1214cf25bd3d6f36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 1/marginal probability.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "marginal probability"
+            }
+          },
+          {
+            "id": "f4aa82869772f287",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 1/Joint probability.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Joint probability"
+            }
+          },
+          {
+            "id": "b28060388be3ef78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 1/information.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "information"
             }
           },
           {
@@ -284,8 +359,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e60ff0a67005b12",
+  "active": "72de1f41bc7e84d3",
   "lastOpenFiles": [
+    "COMP2610/Week 1/marginal probability.md",
+    "COMP2610/Week 1/COMP2610 27.07.2026 28.07.2026.md",
+    "MATH1005/Week 9/Conditional probability.md",
+    "COMP2610/Week 1/Joint probability.md",
+    "MATH1005/Week 8/Probability rules.md",
+    "MATH1005/Week 8/Probability of an event.md",
+    "COMP2610/Week 1/bleh.md",
+    "MATH1005/Week 7/set counting.md",
+    "MATH1013/Calculus/Week 3/Product rule.md",
+    "attachments/Pasted image 20260728150326.png",
+    "MATH1005/Week 2/set.md",
+    "MATH1005/Week 8/Sample space.md",
+    "MATH1005/Week 8/Probability experiment.md",
+    "COMP2610/Week 1/information.md",
+    "COMP2610/Week 1/channel.md",
+    "COMP2610/Week 1/general communication system.md",
+    "attachments/Pasted image 20260728144346.png",
+    "MATH1005/Week 9/Random variable.md",
     "Excalidraw/Drawing 2026-07-28 09.53.40.excalidraw.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Fundamental theorem of calculus (Spivak).md",
     "Z_MATH help/math tricks.md",
@@ -296,25 +389,9 @@
     "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Integrable (spivak).md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 3/The formal definition of a limit.md",
-    "MATH1005/Week 9/Random variable.md",
     "COMP2610/Week 1/conditional expectation.md",
     "MATH1013/Calculus/Week 3/Derivative.md",
-    "MATH1013/Calculus/Week 2/continuous function.md",
-    "MATH1013/Calculus/Week 2/uniform continuity.md",
-    "Z_MATH help/MATH1005 midsem rundown.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/More theorems of continuity.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/proofs with the completeness axiom.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Bisection argument.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 3/Limit lemma 1.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 3/Harder theorems for continuity.md",
     "attachments/Pasted image 20260727154223.png",
-    "MATH1013/Calculus/Week 7/integrable.md",
-    "COMP2610/Week 1/conditional distribution.md",
-    "COMP2610/Week 1/COMP2610 probability updates.md",
-    "MATH1013/Complex numbers/Complex number.md",
-    "MATH1005/Week 9/Bayes theorem.md",
-    "MATH1005/Week 8/Probability of an event.md",
-    "MATH1005/Week 9/Conditional probability.md",
     "attachments/Pasted image 20260727133903.png",
     "MATH1116",
     "MATH1116/Analysis/Week 9",
@@ -330,8 +407,6 @@
     "attachments/Pasted image 20260719100355.png",
     "attachments/Pasted image 20260714184012.png",
     "attachments/Pasted image 20260714183820.png",
-    "attachments/Pasted image 20260712185730.png",
-    "attachments/Pasted image 20260709103225.png",
     "Untitled.canvas"
   ]
 }

@@ -8,6 +8,9 @@ The probability of A given B in a [[Sample space]] S is denoted as the following
 $A,B \in S$
 $\mathbb{P}(A|B)=\frac{\mathbb{P}(A \cap B)}{\mathbb{P}(A)}$
 
+![[Probability rules]]
+
+
 
 
 ![[Bayes theorem]]
