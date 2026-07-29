@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_MATH help/math tricks.md",
+                "file": "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylor polynomial.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "math tricks"
+              "title": "Taylor polynomial"
             }
           },
           {
@@ -289,12 +289,13 @@
   },
   "active": "5c1fe18a6db10229",
   "lastOpenFiles": [
-    "a.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylor polynomial.md",
     "MATH1013/Calculus/Week 3/derivative.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylor polynomial.md",
+    "attachments/Pasted image 20260729160425.png",
+    "Z_MATH help/math tricks.md",
+    "a.md",
     "MATH1013/Calculus/Week 4/Linear approximation.md",
     "COMP2610/Week 1/conditional expectation.md",
-    "Z_MATH help/math tricks.md",
     "Excalidraw/Drawing 2026-07-28 09.53.40.excalidraw.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
     "MATH1005/Week 8/permutation.md",
@@ -315,7 +316,6 @@
     "MATH1005/Week 8/Probability rules.md",
     "COMP2610/Week 1/marginal probability.md",
     "COMP2610/Week 1/COMP2610 27.07.2026 28.07.2026.md",
-    "MATH1005/Week 9/Conditional probability.md",
     "attachments/Pasted image 20260728150326.png",
     "attachments/Pasted image 20260728144346.png",
     "attachments/Pasted image 20260605153444.png",
@@ -334,7 +334,6 @@
     "attachments/Pasted image 20260724164229.png",
     "attachments/Pasted image 20260719100355.png",
     "attachments/Pasted image 20260714184012.png",
-    "attachments/Pasted image 20260714183820.png",
     "Untitled.canvas"
   ]
 }

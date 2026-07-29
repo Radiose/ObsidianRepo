@@ -70,8 +70,93 @@ $$P_{n,0}(x) = 1 + \frac{x}{1!} + \frac{x^2}{2!} + \frac{x^3}{3!} + \frac{x^4}{4
 
 # Relating to linear approximation 
 
-Upon closer inspection, the Taylor polynomial of degree 1
+Upon closer inspection, the Taylor polynomial of degree 1 is exactly that of the one used in [[Linear approximation]]. 
 
+
+$$P_{1,a}(x) = f(a) + f'(a)(x-a).$$
+
+Notice that
+
+$$\frac{f(x) - P_{1,a}(x)}{x-a} = \frac{f(x)-f(a)}{x-a} - f'(a).$$
+
+Now, by the definition of $f'(a)$ we have
+
+$$\lim_{x\to a} \frac{f(x) - P_{1,a}(x)}{x-a} = 0.$$
+
+Viewing the image below, we can see some patterns
+
+![[Pasted image 20260729160425.png]]
+
+We see the difference between $P_{2,0}$ seems to be less than that of $P_{1,0}$
+
+
+Thus, we derive some expression for second degree [[Taylor polynomial]]s, and notice if $f'(a)$ and $f''(a)$ exist, then
+
+$$\lim_{x\to a} \frac{f(x) - P_{2,a}(x)}{(x-a)^2} = 0;$$
+
+in fact, the analogous assertion for $P_{n,a}$ is also true. We show it in *theorem 1*
+
+# Theorem 1
+
+
+Suppose that $f$ is a function for which
+
+$$f'(a), \ldots, f^{(n)}(a)$$
+
+all exist. Let
+
+$$a_k = \frac{f^{(k)}(a)}{k!}, \quad 0 \le k \le n,$$
+
+and define
+
+$$P_{n,a}(x) = a_0 + a_1(x-a) + \cdots + a_n(x-a)^n.$$
+
+Then
+
+$$\lim_{x\to a} \frac{f(x) - P_{n,a}(x)}{(x-a)^n} = 0.$$
+
+
+
+**PROOF** Writing out $P_{n,a}(x)$ explicitly, we obtain
+
+$$\frac{f(x) - P_{n,a}(x)}{(x-a)^n} = \frac{f(x) - \displaystyle\sum_{i=0}^{n-1}\frac{f^{(i)}(a)}{i!}(x-a)^i}{(x-a)^n} - \frac{f^{(n)}(a)}{n!}.$$
+
+It will help to introduce the new functions
+
+$$Q(x) = \sum_{i=0}^{n-1}\frac{f^{(i)}(a)}{i!}(x-a)^i \quad \text{and} \quad g(x) = (x-a)^n;$$
+
+now we must prove that
+
+$$\lim_{x\to a}\frac{f(x)-Q(x)}{g(x)} = \frac{f^{(n)}(a)}{n!}.$$
+
+Notice that
+
+$$Q^{(k)}(a) = f^{(k)}(a), \quad k \le n-1,$$
+$$g^{(k)}(x) = n!(x-a)^{n-k}/(n-k)!.$$
+(test it out)
+Thus
+
+$$\lim_{x\to a}[f(x) - Q(x)] = f(a) - Q(a) = 0,$$
+$$\lim_{x\to a}[f'(x) - Q'(x)] = f'(a) - Q'(a) = 0,$$
+$$\vdots$$
+$$\lim_{x\to a}[f^{(n-2)}(x) - Q^{(n-2)}(x)] = f^{(n-2)}(a) - Q^{(n-2)}(a) = 0.$$
+
+and
+
+$$\lim_{x\to a} g(x) = \lim_{x\to a} g'(x) = \cdots = \lim_{x\to a} g^{(n-2)}(x) = 0.$$
+
+We may therefore apply l'Hôpital's Rule $n-1$ times to obtain
+
+$$\lim_{x\to a}\frac{f(x)-Q(x)}{(x-a)^n} = \lim_{x\to a}\frac{f^{(n-1)}(x) - Q^{(n-1)}(x)}{n!\,(x-a)}.$$
+
+Since $Q$ is a polynomial of degree $n-1$, its $(n-1)$st derivative is a constant; in fact, $Q^{(n-1)}(x) = f^{(n-1)}(a)$. Thus
+
+$$\lim_{x\to a}\frac{f(x)-Q(x)}{(x-a)^n} = \lim_{x\to a}\frac{f^{(n-1)}(x) - f^{(n-1)}(a)}{n!\,(x-a)}$$
+(note this is just a [[derivative]])
+and this last limit is $f^{(n)}(a)/n!$ by definition of $f^{(n)}(a)$. $\blacksquare$
+
+
+A consequence of this theorem 
 
 
 
