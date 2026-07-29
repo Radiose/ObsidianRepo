@@ -294,7 +294,8 @@ this is clearly true. Thus we have found that the Taylor polynomial of degree $2
 $$P_{2n+1,0}(x) = x - \frac{x^3}{3} + \frac{x^5}{5} - \cdots + (-1)^n\frac{x^{2n+1}}{2n+1}.$$
 
 
+![[Remainder term]]
 
+We have multiple ways of denoting the remainder term. One of which is to express it in terms of the integral, as we have done above with $\arctan$.
 
-
-
+ ![[Taylors theorem]]
