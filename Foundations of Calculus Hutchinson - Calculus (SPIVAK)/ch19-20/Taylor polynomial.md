@@ -155,8 +155,48 @@ $$\lim_{x\to a}\frac{f(x)-Q(x)}{(x-a)^n} = \lim_{x\to a}\frac{f^{(n-1)}(x) - f^{
 (note this is just a [[derivative]])
 and this last limit is $f^{(n)}(a)/n!$ by definition of $f^{(n)}(a)$. $\blacksquare$
 
+The trick was to take the $n-1$ derivative via [[L'Hopital's rule]] and then notice that that is nothing but a derivative. 
 
-A consequence of this theorem 
+
+A consequence of this theorem is that we can perfect the test for [[Maxima and minima|maxima or minima]] over an interval. 
+
+# Theorem 2
+Suppose that
+
+$$f'(a) = \cdots = f^{(n-1)}(a) = 0,$$
+$$f^{(n)}(a) \ne 0.$$
+
+(1) If $n$ is even and $f^{(n)}(a) > 0$, then $f$ has a local minimum at $a$.
+(2) If $n$ is even and $f^{(n)}(a) < 0$, then $f$ has a local maximum at $a$.
+(3) If $n$ is odd, then $f$ has neither a local maximum nor a local minimum at $a$.
+
+**PROOF** There is clearly no loss of generality in assuming that $f(a) = 0$, since neither the hypotheses nor the conclusion are affected if $f$ is replaced by $f - f(a)$. Then, since the first $n-1$ derivatives of $f$ at $a$ are $0$, the Taylor polynomial $P_{n,a}$ of $f$ is
+
+$$P_{n,a}(x) = f(a) + \frac{f'(a)}{1!}(x-a) + \cdots + \frac{f^{(n)}(a)}{n!}(x-a)^n$$
+$$= \frac{f^{(n)}(a)}{n!}(x-a)^n.$$
+
+Thus, Theorem 1 states that
+
+$$0 = \lim_{x\to a} \frac{f(x) - P_{n,a}(x)}{(x-a)^n} = \lim_{x\to a}\left[\frac{f(x)}{(x-a)^n} - \frac{f^{(n)}(a)}{n!}\right].$$
+
+Consequently, if $x$ is sufficiently close to $a$, then
+
+$$\frac{f(x)}{(x-a)^n} \text{ has the same sign as } \frac{f^{(n)}(a)}{n!}.$$
+
+Suppose now that $n$ is even. In this case $(x-a)^n > 0$ for all $x \ne a$. Since $f(x)/(x-a)^n$ has the same sign as $f^{(n)}(a)/n!$ for $x$ sufficiently close to $a$, it follows that $f(x)$ itself has the same sign as $f^{(n)}(a)/n!$ for $x$ sufficiently close to $a$. If $f^{(n)}(a) > 0$, this means that
+
+$$f(x) > 0 = f(a)$$
+
+for $x$ close to $a$. Consequently, $f$ has a local minimum at $a$. A similar proof works for the case $f^{(n)}(a) < 0$.
+
+Now suppose that $n$ is odd. The same argument as before shows that if $x$ is sufficiently close to $a$, then
+
+$$\frac{f(x)}{(x-a)^n} \text{ always has the same sign.}$$
+
+But $(x-a)^n > 0$ for $x > a$ and $(x-a)^n < 0$ for $x < a$. Therefore $f(x)$ has *different* signs for $x > a$ and $x < a$. This proves that $f$ has neither a local maximum nor a local minimum at $a$. $\blacksquare$
+
+The trick was to use $f(a)=0$ to simplify the Taylor polynomial to a singular term that we can then make theorem 1 ultra easy to use. The other important thing to notice was that 
+
 
 
 
