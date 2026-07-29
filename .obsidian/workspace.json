@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -389,8 +389,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dccee50723728251",
+  "active": "8e60ff0a67005b12",
   "lastOpenFiles": [
+    "MATH1005/Week 8/permutation.md",
     "MATH1116/Linear algebra/Week 1/MATH1116 review.md",
     "MATH1116/Linear algebra/Week 1/trace.md",
     "MATH1005/Week 3/Injective Function.md",
@@ -404,7 +405,6 @@
     "MATH1005/Week 5/Induction.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Fundamental theorem of calculus (Spivak).md",
     "MATH1005/Week 1/Proving an implication.md",
-    "MATH1005/Week 8/permutation.md",
     "MATH1005/Week 8/combination.md",
     "MATH1005/Week 8/Probability rules.md",
     "COMP2610/Week 1/marginal probability.md",
