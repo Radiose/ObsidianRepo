@@ -263,3 +263,38 @@ If $P(x) = 0$, then $P$ is certainly a polynomial of degree $\le n$ which equals
 ![[Pasted image 20260729184553.png]]
 
 
+# Approximating arctan
+
+
+When $f$ does have $n$ derivatives at $a$, however, the corollary may provide a useful method for finding the Taylor polynomial of $f$. In particular, remember that our first attempt to find the Taylor polynomial for arctan ended in failure. The equation
+
+$$\arctan x = \int_0^x \frac{1}{1+t^2}\,dt$$
+
+suggests a promising method of finding a polynomial close to arctan—divide $1$ by $1+t^2$, to obtain a polynomial plus a remainder:
+
+$$\frac{1}{1+t^2} = 1 - t^2 + t^4 - t^6 + \cdots + (-1)^n t^{2n} + \frac{(-1)^{n+1}t^{2n+2}}{1+t^2}.$$
+
+This formula, which can be checked easily by multiplying both sides by $1+t^2$, shows that
+
+$$\arctan x = \int_0^x 1 - t^2 + t^4 - \cdots + (-1)^n t^{2n}\, dt + (-1)^{n+1}\int_0^x \frac{t^{2n+2}}{1+t^2}\,dt$$
+$$= x - \frac{x^3}{3} + \frac{x^5}{5} - \cdots + (-1)^n\frac{x^{2n+1}}{2n+1} + (-1)^{n+1}\int_0^x \frac{t^{2n+2}}{1+t^2}\,dt.$$
+$$\arctan x = \underbrace{x - \frac{x^3}{3} + \frac{x^5}{5} - \cdots + (-1)^n\frac{x^{2n+1}}{2n+1}}_{P(x),\ \text{a polynomial}} ;+; \underbrace{(-1)^{n+1}\int_0^x \frac{t^{2n+2}}{1+t^2},dt}_{\text{call this } E(x)}.$$
+
+
+According to our corollary, the polynomial which appears here will be the Taylor polynomial of degree $2n+1$ for arctan at $0$, provided that
+
+$$\lim_{x\to 0} \frac{\displaystyle\int_0^x \frac{t^{2n+2}}{1+t^2}\,dt}{x^{2n+1}} = 0.$$
+or that $E(x)$ will = 0 as $x \to 0$
+Since
+
+$$\left|\int_0^x \frac{t^{2n+2}}{1+t^2}\,dt\right| \le \left|\int_0^x t^{2n+2}\,dt\right| = \frac{|x|^{2n+3}}{2n+3},$$
+
+this is clearly true. Thus we have found that the Taylor polynomial of degree $2n+1$ for arctan at $0$ is
+
+$$P_{2n+1,0}(x) = x - \frac{x^3}{3} + \frac{x^5}{5} - \cdots + (-1)^n\frac{x^{2n+1}}{2n+1}.$$
+
+
+
+
+
+
