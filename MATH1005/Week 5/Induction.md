@@ -9,8 +9,6 @@ One of the most obvious examples is for [[Sequence]]s. Induction allows you to t
 
 
 
-
-
 This particular method is known as **strong mathematical induction**
 
 let *P*(n) be a [[predicate]] with variable $n \in \mathbb{N}$
@@ -20,6 +18,8 @@ let *P*(n) be a [[predicate]] with variable $n \in \mathbb{N}$
 Treat n as temporarily fixed and then:
 3: **Assume** $p(1)\land p(2)\land p(3)\land\dots p(n)$. Induction utilises mechanisms that are used in [[Proving an implication]]
 4: Prove P(n+1) to be true 
+
+The idea with induction is to try to prove the $n+1$ case via assumption of the $n$ case (and possible $n-1,n-1\dots 1$ cases as well).  
 
 
 ### Weak induction 
