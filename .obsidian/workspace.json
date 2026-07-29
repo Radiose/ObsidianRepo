@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 3/function.md",
+                "file": "MATH1116/Analysis/Week 1/well defined expression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "function"
+              "title": "well defined expression"
             }
           },
           {
@@ -376,10 +376,12 @@
   },
   "active": "ddace3277ce2be34",
   "lastOpenFiles": [
-    "MATH1005/Week 1/Functional completeness.md",
-    "MATH1116/Analysis/Week 1/well defined expression.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/algebraic and order axioms.md",
+    "MATH1116/Analysis/Week 1/Binary operation.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/Field.md",
+    "MATH1116/Analysis/Week 1/well defined expression.md",
+    "MATH1005/Week 3/function.md",
+    "MATH1005/Week 1/Functional completeness.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/algebraic and order axioms.md",
     "MATH1116/Analysis/Week 1/series.md",
     "MATH1005/Week 5/Induction.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Fundamental theorem of calculus (Spivak).md",
@@ -401,9 +403,7 @@
     "MATH1005/Week 8/Probability experiment.md",
     "COMP2610/Week 1/information.md",
     "COMP2610/Week 1/channel.md",
-    "COMP2610/Week 1/general communication system.md",
     "attachments/Pasted image 20260728144346.png",
-    "MATH1005/Week 9/Random variable.md",
     "attachments/Pasted image 20260605153444.png",
     "attachments/Pasted image 20260605143920.png",
     "attachments/Pasted image 20260727154223.png",
