@@ -183,7 +183,7 @@ Consequently, if $x$ is sufficiently close to $a$, then
 
 $$\frac{f(x)}{(x-a)^n} \text{ has the same sign as } \frac{f^{(n)}(a)}{n!}.$$
 
-Suppose now that $n$ is even. In this case $(x-a)^n > 0$ for all $x \ne a$. Since $f(x)/(x-a)^n$ has the same sign as $f^{(n)}(a)/n!$ for $x$ sufficiently close to $a$, it follows that $f(x)$ itself has the same sign as $f^{(n)}(a)/n!$ for $x$ sufficiently close to $a$. If $f^{(n)}(a) > 0$, this means that
+Suppose now that $n$ is even. **In this case $(x-a)^n > 0$** for all $x \ne a$. Since $f(x)/(x-a)^n$ has the same sign as $f^{(n)}(a)/n!$ for $x$ sufficiently close to $a$, it follows that $f(x)$ itself has the same sign as $f^{(n)}(a)/n!$ for $x$ sufficiently close to $a$. If $f^{(n)}(a) > 0$, this means that
 
 $$f(x) > 0 = f(a)$$
 
@@ -195,9 +195,71 @@ $$\frac{f(x)}{(x-a)^n} \text{ always has the same sign.}$$
 
 But $(x-a)^n > 0$ for $x > a$ and $(x-a)^n < 0$ for $x < a$. Therefore $f(x)$ has *different* signs for $x > a$ and $x < a$. This proves that $f$ has neither a local maximum nor a local minimum at $a$. $\blacksquare$
 
-The trick was to use $f(a)=0$ to simplify the Taylor polynomial to a singular term that we can then make theorem 1 ultra easy to use. The other important thing to notice was that 
+The trick was to use $f(a)=0$ to simplify the Taylor polynomial to a singular term that we can then make theorem 1 ultra easy to use. The other important thing to notice was that we can tell the sign based off the fact that 
 
 
+### Equal up to order n 
+If 
+$$\lim_{ x \to a } \frac{f(x)-g(x)}{(x-a)^n} =0$$
+then we say that $f$ and $g$ are **equal up to order n**
+The Taylor polynomial, via theorem 1 states that $P_{n,a,f}$ equals $f$ up to order $n$. The Taylor polynomial is unique, as its the only one that satisfies this. This is highlighted in the next theorem. 
 
 
-![[Linear approximation]]
+# Theorem 3
+
+Let $P$ and $Q$ be two polynomials in $(x-a)$, of degree $\le n$, and suppose that $P$ and $Q$ are equal up to order $n$ at $a$. Then $P = Q$.
+
+**PROOF** Let $R = P - Q$. Since $R$ is a polynomial of degree $\le n$, it is only necessary to prove that if
+
+$$R(x) = b_0 + \cdots + b_n(x-a)^n$$
+
+satisfies
+
+$$\lim_{x\to a} \frac{R(x)}{(x-a)^n} = 0,$$
+
+then $R = 0$. Now the hypotheses on $R$ surely imply that
+
+$$\lim_{x\to a} \frac{R(x)}{(x-a)^i} = 0 \quad \text{for } 0 \le i \le n.$$
+
+For $i=0$ this condition reads simply $\lim_{x\to a} R(x) = 0$; on the other hand,
+
+$$\lim_{x\to a} R(x) = \lim_{x\to a}\left[b_0 + b_1(x-a) + \cdots + b_n(x-a)^n\right]$$
+$$= b_0.$$
+
+Thus $b_0 = 0$ and
+
+$$R(x) = b_1(x-a) + \cdots + b_n(x-a)^n.$$
+
+Therefore,
+
+$$\frac{R(x)}{x-a} = b_1 + b_2(x-a) + \cdots + b_n(x-a)^{n-1}$$
+
+and
+
+$$\lim_{x\to a} \frac{R(x)}{x-a} = b_1.$$
+
+Thus $b_1 = 0$ and
+
+$$R(x) = b_2(x-a)^2 + \cdots + b_n(x-a)^n.$$
+
+Continuing in this way, we find that
+
+$$b_0 = \cdots = b_n = 0. \blacksquare$$
+This is basically just [[Induction]]. The trick here was to create a polynomial $R$.
+
+
+# COROLLARY
+
+Let $f$ be $n$-times differentiable at $a$, and suppose that $P$ is a polynomial in $(x-a)$ of degree $\le n$, which equals $f$ up to order $n$ at $a$. Then $P = P_{n,a,f}$.
+
+**PROOF** Since $P$ and $P_{n,a,f}$ both equal $f$ up to order $n$ at $a$, it is easy to see that $P$ equals $P_{n,a,f}$ up to order $n$ at $a$. Consequently, $P = P_{n,a,f}$ by the Theorem. $\blacksquare$
+
+At first sight this corollary appears to have unnecessarily complicated hypotheses; it might seem that the existence of the polynomial $P$ would automatically imply that $f$ is sufficiently differentiable for $P_{n,a,f}$ to exist. But in fact this is not so. For example, suppose that
+
+$$f(x) = \begin{cases} x^{n+1}, & x \text{ irrational} \\ 0, & x \text{ rational}. \end{cases}$$
+
+If $P(x) = 0$, then $P$ is certainly a polynomial of degree $\le n$ which equals $f$ up to order $n$ at $0$. On the other hand, $f'(a)$ does not exist for any $a \ne 0$, so $f''(0)$ is undefined.
+
+![[Pasted image 20260729184553.png]]
+
+
