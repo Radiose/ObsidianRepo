@@ -1,7 +1,9 @@
 ## permutation
 This occurs when order matters in selection. IE, {1,2,3} is not the same as {2,1,3}
 There are n! ways to arrange n distinct objects in a list
- 
+
+
+
 ## r-permutations
 There are 
 $$P(n,r) = \frac{n!}{(n-r)!}$$
