@@ -1,7 +1,7 @@
 ---
 {}
 ---
-The first [[Derivative]] test is used to sketch graphs 
+The first [[derivative]] test is used to sketch graphs 
 
 Recall that if *f* has a local [[Maxima and minima|maxima or minima]] at point c, then c is a [[Critical point of a function|critical point]], and that not all [[Critical point of a function|critical points]] give rise to a local [[Maxima and minima|maxima or minima]].
 

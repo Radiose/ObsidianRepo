@@ -24,7 +24,7 @@ $e^x>0 \forall x$
 $\lim_{ x \to -\infty }e^x=0$
 $\lim_{ x \to \infty }e^x=\infty$
 
-And perhaps the most important, the [[Derivative]] of $e^x = e^x$
+And perhaps the most important, the [[derivative]] of $e^x = e^x$
 
 
 ![[General exponential function]]

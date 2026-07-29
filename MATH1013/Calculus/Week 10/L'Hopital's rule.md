@@ -1,6 +1,6 @@
 L'Hopital's rule
 Certain types of indeterminant forms are usable for [[limits|limit]]s, and others aren't.
-The indeterminant forms $\frac{\pm\infty}{\pm \infty}$ and $\frac{0}{0}$ are the forms that we want. $(\infty-\infty)$ or $1^\infty$ are the less desired ones. The basis of  [[L'Hopital's rule]] is changing the less desired to the more desired so that we can then simplify them via the [[Derivative]].
+The indeterminant forms $\frac{\pm\infty}{\pm \infty}$ and $\frac{0}{0}$ are the forms that we want. $(\infty-\infty)$ or $1^\infty$ are the less desired ones. The basis of  [[L'Hopital's rule]] is changing the less desired to the more desired so that we can then simplify them via the [[derivative]].
 
 [[theorem]]
 Suppose f, g are differentiable and $g'(x) \not=0$ near $a$ except possibly at $a$

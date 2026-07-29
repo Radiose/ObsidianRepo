@@ -14,7 +14,7 @@ Provided we can bind f''(x) in the closed interval \[a,b], we know how to choose
 ### Putting it together 
 Example: approximate $\int_{0}^1e^{x^2}dx$ within 0.01 of the correct answer 
 $f''(x)=(2+4x^2)e^{x^2}$
-Now, we need to find K such that f''(x) is always less than it in the interval. Because these two [[function]]s are always increasing, there is no need to do [[The closed interval method]]. However, if they werent, you would do the CIM using the derivative of f''(x), which is the third [[Derivative]] of x. 
+Now, we need to find K such that f''(x) is always less than it in the interval. Because these two [[function]]s are always increasing, there is no need to do [[The closed interval method]]. However, if they werent, you would do the CIM using the derivative of f''(x), which is the third [[derivative]] of x. 
 thus, the largest y in \[0,1] is 1. 
 $f''(x) \le f''(1) = 6e$ 
 

@@ -25,7 +25,7 @@ First write A in terms of R (easier than H)
 $A = 2\pi r^2 = 2\pi rh$ therefore $A = 2\pi r^2+2\pi r\left( \frac{1000}{\pi r^2} \right)$
 $A = 2\pi r^2 + 2 \frac{1000}{r}$
 We cannot use the simple [[The closed interval method|closed interval method]], as $r \in (0,\infty)$ so its an open interval.
-Computing the [[Derivative]] of A gives $A'(r) = 4\pi r- \frac{2000}{r^2}$
+Computing the [[derivative]] of A gives $A'(r) = 4\pi r- \frac{2000}{r^2}$
 Solving for 0 gives an r of $(\frac{500}{\pi})^{1/3}$
 
 

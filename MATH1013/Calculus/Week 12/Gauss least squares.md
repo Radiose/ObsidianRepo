@@ -24,7 +24,7 @@ The $\hat{k}\hat{b}$ that minimise the error are the least squares estimator and
 
 continuing 
 $$ \begin{aligned} 37\,\text{Error}(k,b) &= \sum_{i=0}^{36} \left((kt_i + b) - \ln y_i\right)^2 \\[4pt] &= \sum_{i=0}^{36} (kt_i + b)^2 - 2(kt_i + b)\ln y_i + (\ln y_i)^2 \\[4pt] &= \sum_{i=0}^{36} k^2 t_i^2 + 2kbt_i + b^2 - 2kt_i \ln y_i - 2b \ln y_i + (\ln y_i)^2 \\[4pt] &= k^2 \sum_{i=0}^{36} t_i^2 + 37b^2 + 2kb \sum_{i=0}^{36} t_i - 2k \sum_{i=0}^{36} t_i \ln y_i - 2b \sum_{i=0}^{36} \ln y_i + \sum_{i=0}^{36} (\ln y_i)^2 \\[4pt] &:= S(t^2)\,k^2 + 37b^2 + 2S(t)\,kb - 2S(t\ln y)\,k - 2S(\ln y)\,b + S((\ln y)^2) \end{aligned} $$
-We then get the [[Derivative]] of this in terms of $b$ to find the global minimum and do [[The first Derivative test]]
+We then get the [[derivative]] of this in terms of $b$ to find the global minimum and do [[The first Derivative test]]
 
 $$ \begin{aligned} h'(b) &= \frac{1}{37}\frac{d}{db}\left(S(t^2)\,k^2 + 37b^2 + 2S(t)\,kb - 2S(t\ln y)\,k - 2S(\ln y)\,b + S(\ln y^2)\right) \\[4pt] &= 2b + \frac{2}{37}S(t)\,k - \frac{2}{37}S(\ln y) \end{aligned} $$
 Now we find when h'(b)=0

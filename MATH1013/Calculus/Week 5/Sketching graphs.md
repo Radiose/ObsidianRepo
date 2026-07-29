@@ -12,8 +12,8 @@ non increasing if
 $x_{1}<x_{2} \implies f(x_{1})\ge f(x_{2})$
 
 
-We utilise the [[Derivative]] to determine if a [[function]] is increasing or decreasing 
-if the [[Derivative]] is positive on interval I, it is increasing 
+We utilise the [[derivative]] to determine if a [[function]] is increasing or decreasing 
+if the [[derivative]] is positive on interval I, it is increasing 
 If derivative is negative, it is decreasing
 
 ![[The first Derivative test]]

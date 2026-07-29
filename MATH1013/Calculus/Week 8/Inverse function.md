@@ -52,7 +52,7 @@ Perhaps the most important property is that if $y = f(x), \text{then} f^{-1}(y)=
 
 Another important set of properties is that [[continuous function|continuous]]ness and differentiability are conserved across inverse functions. If a function is continuous and/or differentiable, its inverse will be as well.
 
-### [[Derivative]] of inverse function
+### [[derivative]] of inverse function
 $f^{-1}(f(x))=x$
 $\iff \frac{d}{dx} f^{-1}(f(x))=\frac{d}{dx}x$
 $\iff (f^{-1})' (f(x)) \times f'(x)=1$

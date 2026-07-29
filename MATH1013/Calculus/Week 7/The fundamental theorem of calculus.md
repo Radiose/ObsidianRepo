@@ -38,7 +38,7 @@ there may be(usually almost always are) many antiderivatives for a [[function]].
 
 
 ## Proof of [[The fundamental theorem of calculus]] 
-The essence of the fundamental theorem of calculus is that integration and differentiation are inverses that undo each other. So the area under a curve is the inverse of the instantaneous rate of change. The beauty of this is that before this fundamental theorem, integration is treated as a [[Riemann sum]]. This [[theorem]] shows how [[Derivative]]s and [[Definite integral]]s are intrinsically linked. 
+The essence of the fundamental theorem of calculus is that integration and differentiation are inverses that undo each other. So the area under a curve is the inverse of the instantaneous rate of change. The beauty of this is that before this fundamental theorem, integration is treated as a [[Riemann sum]]. This [[theorem]] shows how [[derivative]]s and [[Definite integral]]s are intrinsically linked. 
 
 ### as explained in the course (Part II)
 

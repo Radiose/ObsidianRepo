@@ -17,7 +17,7 @@ The typical sin function is [[continuous function|continuous]], but fails the te
 ```
 However, by restricting the domain to $\left[ -\frac{\pi}{2}, \frac{\pi}{2} \right]$, we will get an [[Injective Function|injective]] function. Additionally, this will also lead to [[Bijective|bijection]], as the codomain will be restricted to $[-1,1]$.
 Thus, we define the inverse function $\sin^{-1}(x)=\theta$ to be $\arcsin(x)=\theta$
-Using the established properties of [[Inverse function]]s, we define the [[Derivative]] to be 
+Using the established properties of [[Inverse function]]s, we define the [[derivative]] to be 
 $\frac{d}{dx}\arcsin(x)=\frac{1}{\cos(\arcsin(x))}$
 Now recall that $\arcsin(x)=\theta$, thus 
 $\frac{d}{dx}\arcsin(x)=\frac{1}{\cos(\theta)}$
@@ -28,7 +28,7 @@ $\cos(\theta)=\frac{1}{\sqrt{ 1-x^2 }}$ (because $\sin(\theta)=x$)
 # inverse of Cosine 
 Similar to how we defined restricted sin, we restrict cosine over the interval $Cos:[0,\pi] \to [-1,1]$ to get $\arccos:[-1,1] \to [0,\pi]$, where $\arccos(x)=\theta$
 
-Similarly to how the [[Derivative]] of arcsin was defined, we define the derivative of arccos as follows
+Similarly to how the [[derivative]] of arcsin was defined, we define the derivative of arccos as follows
 $\frac{d}{dx}\arccos(x)=-\frac{1}{\sqrt{ 1-x^2 }}$
 
 

@@ -5,7 +5,7 @@ aliases:
 Ordinary differential equation
 
 # Definition 
-An equation that involves some [[Derivative]]s of a dependent variable with respect to an independent variable is called an [[ordinary differential equation]]. The *order* of the differential equation is the order of the highest derivative the occurs in the equation. A [[function]] $f$ is called a solution of a differential equation on an interval $I$ if, for each value of $x$ in $I$ the equation is satisfied when $y = f(x)$ and its derivatives are substituted into the equation.
+An equation that involves some [[derivative]]s of a dependent variable with respect to an independent variable is called an [[ordinary differential equation]]. The *order* of the differential equation is the order of the highest derivative the occurs in the equation. A [[function]] $f$ is called a solution of a differential equation on an interval $I$ if, for each value of $x$ in $I$ the equation is satisfied when $y = f(x)$ and its derivatives are substituted into the equation.
 
 An example of an [[ordinary differential equation]] is $y' = xy$
 

@@ -10,7 +10,7 @@ $\ln\left( \frac{a}{b} \right)=\ln a-\ln b$
 $\ln a^r=r\ln(a)$
 
 
-# Use in [[Derivative]]s and [[Definite integral|integration]]
+# Use in [[derivative]]s and [[Definite integral|integration]]
 
 A [[composition of Functions|composition]] between ln and another function $\ln(g(x))$ is generally assumed to be defined/restricted on some interval that the result of g(x) lies in the domain of ln(x)
 Because the derivative of ln(x) = $\frac{1}{x}$, we can use the chain rule to derive $\ln(f(x))=\frac{f'(x)}{f(x)}$

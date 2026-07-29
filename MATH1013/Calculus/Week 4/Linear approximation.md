@@ -3,7 +3,7 @@
 ---
 Linear approximation 
 
-We know that the slope at the tangent line of f(x) at x = a is given by the [[Derivative]]
+We know that the slope at the tangent line of f(x) at x = a is given by the [[derivative]]
 
 $f'(a)=\lim_{ h \to 0 }(\frac{f(x+h)-f(x))}{h}$
 
@@ -24,3 +24,4 @@ we want to estimate f(16.001)
 Note: consider a = 16 (because f(16)) is easier to evaluate
 using linear approximation with a=16 and x = 16.0001
 $\sqrt{ 16.001 }=f(16.001)\approx f(16)+\frac{df}{dx}f(16)\times (16.001-16)$
+
