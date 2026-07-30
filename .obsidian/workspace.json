@@ -98,6 +98,76 @@
             }
           },
           {
+            "id": "894f8e12e41b64bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP3670/Week 1/supervised learning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "supervised learning"
+            }
+          },
+          {
+            "id": "45da9c911767c280",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP3670/Week 1/COMP3670 30.07.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "COMP3670 30.07.2026"
+            }
+          },
+          {
+            "id": "c5600e81ca154e5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP3670/Week 1/supervised learning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "supervised learning"
+            }
+          },
+          {
+            "id": "eecc2fd0c68520a0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "c65112f1871532d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP3670/Week 1/supervised learning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "supervised learning"
+            }
+          },
+          {
             "id": "620d3ca029b03b5a",
             "type": "leaf",
             "state": {
@@ -203,7 +273,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -275,8 +345,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -393,10 +462,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "adc9fe6488815cbb",
+  "active": "c5600e81ca154e5a",
   "lastOpenFiles": [
-    "COMP3670/Week 1/Main takeaway of COMP3670.md",
     "COMP3670/Week 1/COMP3670 30.07.2026.md",
+    "COMP3670/Week 1/reinforcement learning.md",
+    "COMP3670/Week 1/unsupervised learning.md",
+    "COMP3670/Week 1/supervised learning.md",
+    "COMP3670/Week 1/regression.md",
+    "COMP3670/Week 1/classification.md",
+    "COMP3670/Week 1/Main takeaway of COMP3670.md",
     "COMP3670/Week 1/inductive reasoning.md",
     "COMP3670/Week 1/demarcation problem.md",
     "COMP3670/Week 1/Humes problem of induction.md",
@@ -419,12 +493,7 @@
     "Z_MATH help/math tricks.md",
     "a.md",
     "MATH1013/Calculus/Week 4/Linear approximation.md",
-    "COMP2610/Week 1/conditional expectation.md",
-    "Excalidraw/Drawing 2026-07-28 09.53.40.excalidraw.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
-    "MATH1005/Week 8/permutation.md",
-    "MATH1116/Linear algebra/Week 1/MATH1116 review.md",
-    "MATH1116/Linear algebra/Week 1/trace.md",
     "attachments/Pasted image 20260728150326.png",
     "attachments/Pasted image 20260728144346.png",
     "attachments/Pasted image 20260605153444.png",

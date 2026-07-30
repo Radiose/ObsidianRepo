@@ -1,0 +1,2 @@
+This is the form of learning where the output $y$ takes values in some finite [[set]].
+Since the outcome must be some number, we take $\mathcal{Y}=\{ 0,1 \}, \mathcal{Y=\{ -1,+1 \}},\mathcal{Y}=\{ 0,1,\dots,c-1 \}$. We treat $y$ as a discrete [[Random variable]].
