@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylor polynomial.md",
+                "file": "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/subsequence.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Taylor polynomial"
+              "title": "subsequence"
             }
           },
           {
@@ -318,8 +318,8 @@
   },
   "active": "8ad87c467d876f43",
   "lastOpenFiles": [
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylors theorem.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylor polynomial.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylors theorem.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Remainder term.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/real number.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/Useful limits.md",
