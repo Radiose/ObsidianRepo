@@ -13,13 +13,73 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/subsequence.md",
+                "file": "COMP3670/Week 1/COMP3670 30.07.2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "subsequence"
+              "title": "COMP3670 30.07.2026"
+            }
+          },
+          {
+            "id": "fa9e6dfd8d9b15fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP3670/Week 1/COMP3670 30.07.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "COMP3670 30.07.2026"
+            }
+          },
+          {
+            "id": "96cc1b9b03b252b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP3670/Week 1/inductive reasoning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "inductive reasoning"
+            }
+          },
+          {
+            "id": "33c27efc9d57e5c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP3670/Week 1/COMP3670 30.07.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "COMP3670 30.07.2026"
+            }
+          },
+          {
+            "id": "0a7d2a85f0df4531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP3670/Week 1/inductive reasoning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "inductive reasoning"
             }
           },
           {
@@ -127,7 +187,8 @@
               "title": "Induction"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -316,8 +377,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ad87c467d876f43",
+  "active": "0a7d2a85f0df4531",
   "lastOpenFiles": [
+    "COMP3670/Week 1/demarcation problem.md",
+    "COMP3670/Week 1/COMP3670 30.07.2026.md",
+    "COMP3670/Week 1/inductive reasoning.md",
+    "COMP3670/Week 1/Humes problem of induction.md",
+    "COMP3670/Week 1/hypothetico-deductive reasoning.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/hyperreals.md",
+    "MATH1005/Week 5/Induction.md",
+    "MATH1116/Analysis/Week 1/well defined expression.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/subsequence.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylor polynomial.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylors theorem.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Remainder term.md",
@@ -339,15 +409,6 @@
     "MATH1116/Linear algebra/Week 1/MATH1116 review.md",
     "MATH1116/Linear algebra/Week 1/trace.md",
     "MATH1005/Week 3/Injective Function.md",
-    "MATH1116/Analysis/Week 1/well defined expression.md",
-    "MATH1116/Analysis/Week 1/Binary operation.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/Field.md",
-    "MATH1005/Week 3/function.md",
-    "MATH1005/Week 1/Functional completeness.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/algebraic and order axioms.md",
-    "MATH1116/Analysis/Week 1/series.md",
-    "MATH1005/Week 5/Induction.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Fundamental theorem of calculus (Spivak).md",
     "attachments/Pasted image 20260728150326.png",
     "attachments/Pasted image 20260728144346.png",
     "attachments/Pasted image 20260605153444.png",
