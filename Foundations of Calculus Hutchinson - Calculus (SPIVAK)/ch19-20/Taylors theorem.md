@@ -93,6 +93,7 @@ or
 $$R_{n,a}(x) = \frac{f^{(n+1)}(t)}{(n+1)!}(x-a)^{n+1},$$
 
 which is the Lagrange form.
+### Integral 
 
 Finally, if $f^{(n+1)}$ is integrable on $[a,x]$, then
 
