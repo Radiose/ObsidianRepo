@@ -1,4 +1,4 @@
-A vector space over a [[Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/field|field]] $\mathbb{F}$ is denoted $\mathbf{V}$ with two operations
+A [[vector]] space over a [[Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/field|field]] $\mathbb{F}$ is denoted $\mathbf{V}$ with two operations
 
 $+:\mathbf{V}\times \mathbf{V} \to \mathbf{V}$ and $\times:\mathbb{F} \times \mathbf{V}\to \mathbf{V}$ 
 **such that** $\forall a,b \in \mathbb{F}$ $\quad \forall \mathbf{u},\mathbf{v},\mathbf{w} \in \mathbf{V}$
@@ -16,3 +16,12 @@ Some examples
 $\mathbf{0}=\{ 0 \}$
 $Mat_{n\times n}(\mathbb{F})=\{ \begin{bmatrix}a_{1,1},\dots \\  \\   \ \ \ \ \ \ \ a_{n\times n}\end{bmatrix} a_{i,j}\in \mathbb{F}\}$
 a vector space of functions on a set $S$, denoted $\mathbb{F}^S=\{ f:S\to \mathbb{F} \},f+g(x)=f(x)+f(x)$ and $(a \cdot f)(x)=a\cdot f(x)$
+
+
+Theorem 1: 
+$\mathbf{V},$ an $\mathbb{F}$ vector space, $\mathbf{u} \in V$, $c \in \mathbb{F}$, then 
+1: $\mathbf{0}$ is unique 
+2: $\mathbf{-u}$ is unique 
+3: $0 \mathbf{u}=\mathbf{0}$
+4:$c\cdot \mathbf{0}=\mathbf{0}$
+5:$(-1)\mathbf{u}=-\mathbf{u}$
