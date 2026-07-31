@@ -65,3 +65,7 @@ $$= x^{n+1} + y^{n+1} + \sum_{j=1}^{n}\left[\binom{n}{j-1}+\binom{n}{j}\right]x^
 $$= x^{n+1} + y^{n+1} + \sum_{j=1}^{n}\binom{n+1}{j}x^{j}y^{n+1-j}$$
 
 $$= \sum_{j=0}^{n+1}\binom{n+1}{j}x^{j}y^{n+1-j}$$
+
+
+# Convergence of series
+Series, like [[Sequence]]s can [[Convergence of a sequence|converge]]. 
