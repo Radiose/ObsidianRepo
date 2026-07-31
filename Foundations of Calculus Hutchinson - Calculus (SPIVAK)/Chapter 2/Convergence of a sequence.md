@@ -15,7 +15,7 @@ It is essential to note that this must be satisfied be *any* positive number. IE
 We say that the sequence $(a_{n})$ converges to $L$ and write   
 $\lim_{ n \to \infty } a_{n} = a$
 or $a_{n} \xrightarrow[n \to \infty]{}L$
-when $\forall \epsilon>0 \exists \ \ N \in \mathbb{N}$ s.t $\forall n>N \ \ \  |a_{n}-L|<\epsilon$
+when $\forall \epsilon>0 \exists \ \ N \in \mathbb{N}$ s.t $\forall n\geq N \ \ \  |a_{n}-L|<\epsilon$
 
 
 

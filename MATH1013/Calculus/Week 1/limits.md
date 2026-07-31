@@ -95,5 +95,3 @@ Definition from below
 Definition from above 
 1: there exists $\delta \in (0,\infty)$ such that $(a,a + \delta)$ is a subset of the domain of f(x)
 2:for every $\epsilon \in (0,\infty)$, there exists $\delta_{\epsilon}$ > 0 such that $0<x-a<\delta_{\epsilon}$ and $x \not= a \implies |f(x)-L_{a}|<\epsilon$ If no such $L_{a}^+$ exists, we say that the limit does not exist.
-
-COME BACK AND FINISH TOMORROW REMARKS ABOUT ONE SIDED LIMITS
