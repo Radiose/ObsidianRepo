@@ -41,3 +41,4 @@ we have that $\forall\epsilon>0\quad \forall n \in \mathbb{N} \quad \exists K_{n
 
 Combining the three statements, we get $\forall\epsilon>0 \quad \exists N_{0}\geq max(\bar{N}, k_{(\bar{N})})\quad \forall n\geq N_{0}$ 
 $$|x_{n}-l|\leq|x_{n}-x_{k}|+|x_{k}-y_{n}|+|y_{n}-l|< \frac{\epsilon}{3} \times 3 = \epsilon$$
+
