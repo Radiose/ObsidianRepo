@@ -15,6 +15,8 @@ Proof:
 $[\implies]$ Assume $(x_{n})_{n \in \mathbb{N}}$ converges, that is $\forall\epsilon>0 \ \ \exists N \in \mathbb{N}\ \ \forall n>N\ \ |x_{n}-L|<\epsilon$
 
 Then $\exists N \in \mathbb{N}\ \ \forall n\geq N\ \ |x_{n}-L|< \frac{\epsilon}{2}$, therefore $\forall n,m \geq N\ \ |x_{n}-x_{m}|\leq|x_{n}-l|+|l-x_{m}|<\epsilon$
+
+
 $[\impliedby]$ (the challenge with this direction is that its hard to prove that they converge to some actual point rather than just being together forever).
 
 Assume $(x_{n})_{n \in \mathbb{N}}$ is Cauchy. IE, $\forall\epsilon>0\quad \exists N \in \mathbb{N}\quad \forall n>m>N |x_{n}-x_{m}|< \frac{\epsilon}{3}$
@@ -37,5 +39,5 @@ We have that $\forall\epsilon>0$ $\exists M\geq \bar{N}$  $\forall n \geq M$  $|
 Since $y_{n}=\underset{ k\geq n }{ inf }\ x_{k} \ \ \ \forall n \in \mathbb{N}$
 we have that $\forall\epsilon>0\quad \forall n \in \mathbb{N} \quad \exists K_{n}\geq n \quad |x_{k}-y_{n}|< \frac{\epsilon}{3}$. Basically, for any epsilon and any greatest lower bound indexed by $n$, there is some $x_{k}$ after that that will be closer to the lower bound than that epsilon. 
 
-Combining the three statements, we get $\forall\epsilon>0 \quad \exists N_{0}\geq max(\bar{N}, k_{(n)})\quad \forall n\geq N_{0}$ 
+Combining the three statements, we get $\forall\epsilon>0 \quad \exists N_{0}\geq max(\bar{N}, k_{(\bar{N})})\quad \forall n\geq N_{0}$ 
 $$|x_{n}-l|\leq|x_{n}-x_{k}|+|x_{k}-y_{n}|+|y_{n}-l|< \frac{\epsilon}{3} \times 3 = \epsilon$$
