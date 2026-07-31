@@ -11,13 +11,15 @@ This is an essential application of the [[limits|limit]].
 
 It is essential to note that this must be satisfied be *any* positive number. IE, for any epsilon you choose (as small as you want),  an $n$ exists such that $|a_{n}-a| < \epsilon$
 
-Formal def: 
-We say that the sequence $(a_{n})$ converges to $a$ and write   
+# Formal def: 
+We say that the sequence $(a_{n})$ converges to $L$ and write   
 $\lim_{ n \to \infty } a_{n} = a$
-when $\forall \epsilon>0 \exists N \in \mathbb{Z}$ s.t $n>N \implies |a_{n}-a|<\epsilon$
+or $a_{n} \xrightarrow[n \to \infty]{}L$
+when $\forall \epsilon>0 \exists \ \ N \in \mathbb{N}$ s.t $\forall n>N \ \ \  |a_{n}-L|<\epsilon$
 
 
-For example:
+
+### For example:
 Show that the sequence [[Explicit definition of a Sequence|explicitely defined]] by $a_{n} = 1+\frac{1}{n^2}$ converges to 1 according to the definition 
 
 Let $\epsilon > 0$. 

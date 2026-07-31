@@ -16,4 +16,4 @@ Any set with [[cardinality|cardinality]] that it not finite is said to be infini
 
 We say that two finite sets A and B have the same [[cardinality]] provided there exists a [[Bijective|bijection]] from A to B. This is because a bijection must map two sets of the same size.
 
-You might expect the set of integers to have a bigger [[cardinality]] than the set of even integers, but because we can give a [[Bijective|bijection]] between the even integers. with $F:\mathbb{Z} \to 2\mathbb{Z}$ f(a) = 2a
+You might expect the set of integers to have a bigger [[cardinality]] than the set of even integers, but because we can give a [[Bijective|bijection]] between the even integers. with $F:\mathbb{Z} \to \mathbb{Z}$ f(a) = 2a
