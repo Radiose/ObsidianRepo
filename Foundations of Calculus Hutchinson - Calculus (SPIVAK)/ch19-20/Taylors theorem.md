@@ -1,4 +1,3 @@
-Taylors theorem 
 Suppose that $f', \ldots, f^{(n+1)}$ are defined on $[a,x]$, and that $R_{n,a}(x)$ is defined by
 
 $$f(x) = f(a) + f'(a)(x-a) + \cdots + \frac{f^{(n)}(a)}{n!}(x-a)^n + R_{n,a}(x).$$
@@ -15,8 +14,8 @@ $$(3)\quad R_{n,a}(x) = \int_a^x \frac{f^{(n+1)}(t)}{n!}(x-t)^n\,dt.$$
 
 (If $x < a$, then the hypothesis should state that $f$ is $(n+1)$-times differentiable on $[x,a]$; the number $t$ in (1) and (2) will then be in $(x,a)$, while (3) will remain true as stated, provided that $f^{(n+1)}$ is integrable on $[x,a]$.)
 
-
-**PROOF** For each number $t$ in $[a,x]$ we have
+## PROOF 
+For each number $t$ in $[a,x]$ we have
 
 $$f(x) = f(t) + f'(t)(x-t) + \cdots + \frac{f^{(n)}(t)}{n!}(x-t)^n + R_{n,t}(x).$$
 
@@ -100,3 +99,16 @@ Finally, if $f^{(n+1)}$ is integrable on $[a,x]$, then
 $$S(x) - S(a) = \int_a^x S'(t)\,dt = -\int_a^x \frac{f^{(n+1)}(t)}{n!}(x-t)^n\,dt$$
 
 or$$R_{n,a}(x) = \int_a^x \frac{f^{(n+1)}(t)}{n!}(x-t)^n\,dt. \blacksquare$$
+
+
+
+# Peano form
+Let $k \ge 1$ be an integer and let the function $f: \mathbb{R} \to \mathbb{R}$ be $k$ times differentiable at the point $a \in \mathbb{R}$. Then there exists a function $h_k : \mathbb{R} \to \mathbb{R}$ such that
+
+$$f(x) = \sum_{i=0}^{k} \frac{f^{(i)}(a)}{i!}(x-a)^i + h_k(x)(x-a)^k,$$
+
+and
+
+$$\lim_{x \to a} h_k(x) = 0.$$
+
+$h_{k}(x)$ is some [[Remainder term]] that could be any of the ones shown above. 

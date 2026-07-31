@@ -284,7 +284,7 @@ $$\arctan x = \underbrace{x - \frac{x^3}{3} + \frac{x^5}{5} - \cdots + (-1)^n\fr
 According to our corollary, the polynomial which appears here will be the Taylor polynomial of degree $2n+1$ for arctan at $0$, provided that
 
 $$\lim_{x\to 0} \frac{\displaystyle\int_0^x \frac{t^{2n+2}}{1+t^2}\,dt}{x^{2n+1}} = 0.$$
-or that $E(x)$ will = 0 as $x \to 0$
+or that $E(x)$ will = 0 as $x \to 0$. (because the corollary states they are equal up to order n)
 Since
 
 $$\left|\int_0^x \frac{t^{2n+2}}{1+t^2}\,dt\right| \le \left|\int_0^x t^{2n+2}\,dt\right| = \frac{|x|^{2n+3}}{2n+3},$$

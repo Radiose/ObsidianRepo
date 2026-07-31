@@ -133,13 +133,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/Convergence of a sequence.md",
+                "file": "MATH1116/Analysis/Week 1/MATH1116 29.07.2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Convergence of a sequence"
+              "title": "MATH1116 29.07.2026"
             }
           },
           {
@@ -464,12 +464,14 @@
   },
   "active": "c5600e81ca154e5a",
   "lastOpenFiles": [
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylors theorem.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylor polynomial.md",
+    "MATH1005/Week 5/Geometric Sequence.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/Convergence of a sequence.md",
     "MATH1116/Analysis/Week 1/MATH1116 29.07.2026.md",
     "MATH1116/Analysis/Week 1/well defined expression.md",
     "MATH1005/Week 5/Sequence.md",
     "MATH1005/Week 5/implicit definition of a sequence.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylor polynomial.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylors theorem.md",
     "MATH1005/Week 3/function.md",
     "MATH1005/Week 7/cardinality.md",
     "MATH1005/Week 7/multiset.md",
@@ -488,8 +490,6 @@
     "MATH1005/Week 8/combination.md",
     "MATH1005/Week 7/principles of counting.md",
     "MATH1005/Week 7/set counting.md",
-    "COMP3670/Week 1/supervised learning.md",
-    "COMP3670/Week 1/COMP3670 30.07.2026.md",
     "attachments/Pasted image 20260729184553.png",
     "attachments/Pasted image 20260729170801.png",
     "attachments/Pasted image 20260729160425.png",
