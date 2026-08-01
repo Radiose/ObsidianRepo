@@ -23,16 +23,6 @@
             }
           },
           {
-            "id": "96839ddd353eb93d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "6573a60fcc9ada14",
             "type": "leaf",
             "state": {
@@ -47,8 +37,7 @@
               "title": "field"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,13 +226,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96839ddd353eb93d",
+  "active": "8ad87c467d876f43",
   "lastOpenFiles": [
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/field.md",
     "MATH1005 definition list.md",
     "MATH1116/Linear algebra/Week 1/vector space.md",
     "MATH1116/Analysis/Week 1/Cauchy sequence.md",
     "MATH1116/Linear algebra/Week 1/MATH1116 30.07.2026.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/field.md",
     "COMP3670/Week 1/COMP3670 30.07.2026.md",
     "COMP3670/Week 1/supervised learning.md",
     "COMP3670/Week 1/inductive reasoning.md",

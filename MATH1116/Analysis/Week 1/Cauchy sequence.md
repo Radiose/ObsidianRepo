@@ -19,6 +19,42 @@ Then $\exists N \in \mathbb{N}\ \ \forall n\geq N\ \ |x_{n}-L|< \frac{\epsilon}{
 
 $[\impliedby]$ (the challenge with this direction is that its hard to prove that they converge to some actual point rather than just being together forever).
 
+Assume that $(x_n)_{n \in \mathbb{N}}$ is Cauchy. Then $\exists N \in \mathbb{N}$ such that $\forall n \ge N, |x_n - x_N| \le 1$. Therefore
+$$x_{n}=(x_{n}-x_{\bar{N}})+x_{\bar{N}}\leq |x_{n}-x_{N}|+|x_{N}|<1+|x_{\bar{N}}|$$
+$$\therefore \forall n \ge N, \quad |x_n| \le |x_n - x_N| + |x_N| \le 1 + |x_N|.$$
+
+$$\forall n \in \mathbb{N}, \quad |x_n| \le 1 + \max_{0 \le k \le N} |x_k|.$$
+(maximum of the sequence is either N or something before it)
+Therefore $(x_n)_{n \in \mathbb{N}}$ is a bounded sequence.
+
+Let $y_n = \sup_{k \ge n} x_k, \forall n \in \mathbb{N}$. Then $(-y_n)_{n \in \mathbb{N}}$ is bounded and nondecreasing.
+(if L is what -y converges to, then y must converge to -L)
+
+Let $\bar\ell = \lim_{n \to \infty} y_n$.
+
+Let $z_n = \inf_{k \ge n} x_k, \forall n \in \mathbb{N}$. Then $(z_n)_{n \in \mathbb{N}}$ is bounded and nondecreasing.
+
+Let $\underline\ell = \lim_{n \to \infty} z_n$.
+
+Let $\varepsilon > 0$. Then $\exists N \in \mathbb{N}, \forall n, m \ge N, |x_n - x_m| < \dfrac{\varepsilon}{5}$ and $|y_N - \bar\ell| < \dfrac{\varepsilon}{5}, |z_n - \underline\ell| < \dfrac{\varepsilon}{5}$.
+
+Moreover
+
+$$\exists k \ge N, \quad |y_N - x_k| < \frac{\varepsilon}{5}$$
+(after N, there is some $x_{k}$ close to the inf/sup of $x_{n},x_{n+1}\dots$)
+$$\exists j \ge N, \quad |z_n - x_j| < \frac{\varepsilon}{5}.$$
+
+Therefore
+
+$$|\underline\ell - \bar\ell| \le |\underline\ell - z_N| + |z_N - x_j| + |x_j - x_k| + |x_k - y_N| + |y_N - \bar\ell| < \varepsilon.$$
+
+This gives $\underline\ell = \bar\ell$. Let $\ell = \bar\ell$. Then
+
+$$\forall n \ge k, \quad |x_n - \ell| \le |x_n - x_k| + |x_k - y_N| + |y_N - \ell| < \frac{3\varepsilon}{5} < \varepsilon.$$
+
+Therefore $x_n \xrightarrow[n \to +\infty]{} \ell$. $\blacksquare$
+
+## Flawed lecture proof
 Assume $(x_{n})_{n \in \mathbb{N}}$ is Cauchy. IE, $\forall\epsilon>0\quad \exists N \in \mathbb{N}\quad \forall n>m>N |x_{n}-x_{m}|< \frac{\epsilon}{3}$
 
 Define $(y_{n})_{n \in \mathbb{N}}\in \mathbb{R}^\mathbb{N}$ by $y_{n}=inf_{\ k\geq n}\ x_{k}$, that is, the greatest lower bound of all $x_{k}$ when $k \geq n$.
