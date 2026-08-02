@@ -18,10 +18,12 @@ $Mat_{n\times n}(\mathbb{F})=\{ \begin{bmatrix}a_{1,1},\dots \\  \\   \ \ \ \ \ 
 a vector space of functions on a set $S$, denoted $\mathbb{F}^S=\{ f:S\to \mathbb{F} \},f+g(x)=f(x)+f(x)$ and $(a \cdot f)(x)=a\cdot f(x)$
 
 
-Theorem 1: 
+# Theorem 1: 
 $\mathbf{V},$ an $\mathbb{F}$ vector space, $\mathbf{u} \in V$, $c \in \mathbb{F}$, then 
 1: $\mathbf{0}$ is unique 
 2: $\mathbf{-u}$ is unique 
 3: $0 \mathbf{u}=\mathbf{0}$
 4:$c\cdot \mathbf{0}=\mathbf{0}$
-5:$(-1)\mathbf{u}=-\mathbf{u}$
+5:$(-1) \cdot \mathbf{u}=-\mathbf{u}$
+
+
