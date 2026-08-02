@@ -9,7 +9,7 @@ More generally, if $p$ is a prime number, then $\mathbb{F}_{p}=\{ 0,1,\dots,p-1 
 Operations $a+b=a+b\ mod(p)$ and $a \times b=a\cdot b \ mod(p)$
 Example $\mathbb{F}_{3}=\{ 0,1,2 \}$ $2+2=1$, $1+2=0$
 Sometimes you can have non prime fields. $\mathbb{F}_{4}$ is possible if you add two extra elements that behave like third [[Roots of unity]], then we can assemble a field. 
-
+o
 ## Formal polynomials 
 If $\mathbb{F}$ is a field, then $\mathbb{F}[x]$, the set of formal polynomials, is not a field. 
 Formal polynomials are expression of the form $a_{0}+a_{1}x+\dots+a_{n}x^n$.
