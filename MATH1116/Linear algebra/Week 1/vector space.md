@@ -1,6 +1,8 @@
 A [[vector]] space over a [[Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/field|field]] $\mathbb{F}$ is denoted $\mathbf{V}$ with two operations
 
 $+:\mathbf{V}\times \mathbf{V} \to \mathbf{V}$ and $\times:\mathbb{F} \times \mathbf{V}\to \mathbf{V}$ 
+-there are scalars from a field
+
 **such that** $\forall a,b \in \mathbb{F}$ $\quad \forall \mathbf{u},\mathbf{v},\mathbf{w} \in \mathbf{V}$
 
 1: $(\mathbf{u}+\mathbf{v})+\mathbf{w}=\mathbf{u}+(\mathbf{v}+\mathbf{w})$
