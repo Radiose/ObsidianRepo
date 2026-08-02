@@ -1,6 +1,8 @@
-## permutation
+A permutation can simply be thought of as some order of objects.
+
+
 This occurs when order matters in selection. IE, {1,2,3} is not the same as {2,1,3}
-There are n! ways to arrange n distinct objects in a list
+There are n! ways to arrange n distinct objects in a list, or, there are $n!$ permutations.
 
 
 

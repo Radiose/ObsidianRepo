@@ -4,6 +4,16 @@ aliases:
 ---
 The determinant
 
+# Leibniz definition 
+
+Suppose A is some $n\times n$ matrix. Then, the determinant of $A$, denoted $\det(A)$ is defined by 
+$\det (A)=\sum_{(m_{1},\dots ,m_{n})\in perm(n)}sign(m_{1},\dots m_{n})A_{m_{1},1},A_{m_{2},2}\dots A_{m_{n},n}$
+This complex looking sum makes sense when the following is explained:
+1: the index for the sum is each permutation, in the set of all possible permutations. 
+2: The sign of a permutation is positive if an even number of swaps occurred, or negative if an odd number occurred.
+3: The permutation can be thought of as a map from column to row. If a 3x3 matrix has permutation $(3,2,1)$, then this definition maps $(3,2,1)\to(1,2,3)$, where we have $A_{3,1}A_{2,2}A_{1,3}$
+
+
 # Motivation for the determinant 
 
 ###  Decomposing the area of a parallelogram 
