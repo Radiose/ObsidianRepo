@@ -1,4 +1,4 @@
-A [[vector]] space over a [[Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/field|field]] $\mathbb{F}$ is denoted $\mathbf{V}$ with two operations
+ A [[vector]] space over a [[Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/field|field]] $\mathbb{F}$ is denoted $\mathbf{V}$ with two operations
 
 $+:\mathbf{V}\times \mathbf{V} \to \mathbf{V}$ and $\times:\mathbb{F} \times \mathbf{V}\to \mathbf{V}$ 
 -there are scalars from a field
