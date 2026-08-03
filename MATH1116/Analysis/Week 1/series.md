@@ -69,3 +69,17 @@ $$= \sum_{j=0}^{n+1}\binom{n+1}{j}x^{j}y^{n+1-j}$$
 
 # Convergence of series
 Series, like [[Sequence]]s can [[Convergence of a sequence|converge]]. 
+Let $(x_{j})_{j \in \mathbb{N}}\in \mathbb{R}^{\mathbb{N}}$. We define $s_{n}=\sum_{j=0}^n x_{j}$. If $(s_{n})_{n \in \mathbb{N}}$ converges, we denote its limit by $\sum_{j=0}^\infty x_{j}$.
+
+Some AON 
+If $(s_n)_{n\in\mathbb{N}}$ converges, we say that the series $\sum_{j=0}^\infty x_j$ converges.
+If $(s_n)_{n\in\mathbb{N}}$ diverges, we say that the series $\sum_{j=0}^\infty x_j$ diverges.
+
+
+
+Series can be thought of as the discrete form analogous to the [[Definite integral|integral]]. The following remark helps relate them easier. 
+### Remark
+$\int_{0}^{n+1}f(x)dx=\sum_{j=0}^n \int_{j}^{j+1}x_{j}dx +\sum_{j=n+1}^\infty \int_{j}^{j+1} x_{j}dx$
+
+If $\sum_{j=0}^\infty$ converges, 
+$\sum_{j=0}^\infty x_{j}=\int_{0}^\infty f(x)dx:=$

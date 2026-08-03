@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 9/Independent event.md",
+                "file": "MATH1116/Analysis/Week 1/series.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Independent event"
+              "title": "series"
             }
           },
           {
@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -309,20 +309,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f5c88a0d3cd71f2",
+  "active": "440df6102edf069e",
   "lastOpenFiles": [
+    "MATH1116/Analysis/Week 1/Cauchy sequence.md",
+    "MATH1005/Week 5/Sequence.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/properties of sequence limits.md",
+    "MATH1005/Week 9/Independent event.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/Convergence of a sequence.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/Inequality.md",
     "MATH1116 odds and ends.md",
     "attachments/Pasted image 20260803172741.png",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 3/The formal definition of a limit.md",
-    "MATH1116/Analysis/Week 1/Cauchy sequence.md",
     "MATH1005/Week 9/Bayes theorem.md",
     "attachments/Pasted image 20260803144438.png",
     "COMP2610/Week 2/COMP2610 03.08.2026.md",
     "COMP2610/Week 2/conditional independence.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/field.md",
-    "MATH1005/Week 9/Independent event.md",
     "MATH1005/Week 9/Random variable.md",
     "COMP2610/Week 1/COMP2610 27.07.2026 28.07.2026.md",
     "MATH1013/Calculus/Week 10/L'Hopital's rule.md",
@@ -338,8 +340,6 @@
     "COMP3670/Week 1/supervised learning.md",
     "MATH1116/Linear algebra/Week 1/Direct sum of subspaces.md",
     "COMP3670/Week 1/hypothesis set.md",
-    "MATH1116/Linear algebra/Week 1/MATH1116 31.07.2026.md",
-    "MATH1005/Week 2/MATH1005 02.03.2026.md",
     "attachments/Pasted image 20260802160726.png",
     "attachments/Pasted image 20260731122500.png",
     "attachments/Pasted image 20260729184553.png",
