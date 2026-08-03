@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 1/Direct sum of subspaces.md",
+                "file": "COMP3670/Week 1/supervised learning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Direct sum of subspaces"
+              "title": "supervised learning"
             }
           },
           {
@@ -287,10 +287,12 @@
   },
   "active": "440df6102edf069e",
   "lastOpenFiles": [
+    "COMP3670/Week 1/COMP3670 31.07.2026.md",
+    "COMP3670/Week 1/supervised learning.md",
+    "MATH1116/Linear algebra/Week 1/Direct sum of subspaces.md",
     "MATH1116/Linear algebra/Week 1/sum of subsets.md",
     "MATH1116/Linear algebra/Week 1/vector subspace.md",
     "MATH1013/Linear algebra/Week 4/Linear subspace.md",
-    "MATH1116/Linear algebra/Week 1/Direct sum of subspaces.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/field.md",
     "MATH1116/Linear algebra/Week 1/MATH1116 31.07.2026.md",
     "office hours questions.md",
@@ -311,9 +313,7 @@
     "MATH1005 definition list.md",
     "MATH1116/Linear algebra/Week 1/MATH1116 30.07.2026.md",
     "COMP3670/Week 1/COMP3670 30.07.2026.md",
-    "COMP3670/Week 1/supervised learning.md",
     "COMP3670/Week 1/inductive reasoning.md",
-    "MATH1116/Analysis/Week 1/MATH1116 29.07.2026.md",
     "attachments/Pasted image 20260731122500.png",
     "attachments/Pasted image 20260729184553.png",
     "attachments/Pasted image 20260729170801.png",
