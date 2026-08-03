@@ -6,3 +6,9 @@ You cannot divide anything unless you are certain it is never 0.
 
 ![[Pasted image 20260802160726.png]]
 pascals rule
+
+
+Inequality manipulation:
+Remember that $x^2$ is always positive.
+![[Pasted image 20260803172741.png]]
+We can prove that via  (s_n - A)^2 > 0 and algebraically manipulating from there. 
