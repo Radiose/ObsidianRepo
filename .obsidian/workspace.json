@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 9/Bayes theorem.md",
+                "file": "MATH1116/Analysis/Week 1/Cauchy sequence.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Bayes theorem"
+              "title": "Cauchy sequence"
             }
           },
           {
@@ -311,6 +311,9 @@
   },
   "active": "2f5c88a0d3cd71f2",
   "lastOpenFiles": [
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/Convergence of a sequence.md",
+    "MATH1005/Week 9/Bayes theorem.md",
+    "attachments/Pasted image 20260803144438.png",
     "COMP2610/Week 2/COMP2610 03.08.2026.md",
     "COMP2610/Week 2/conditional independence.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/field.md",
@@ -336,8 +339,6 @@
     "COMP3670/Week 1/supervised learning framework.md",
     "office hours questions.md",
     "MATH1116/Linear algebra/Week 1/sum of subsets.md",
-    "MATH1116/Linear algebra/Week 1/vector subspace.md",
-    "MATH1013/Linear algebra/Week 4/Linear subspace.md",
     "attachments/Pasted image 20260802160726.png",
     "attachments/Pasted image 20260731122500.png",
     "attachments/Pasted image 20260729184553.png",
@@ -347,7 +348,6 @@
     "attachments/Pasted image 20260728150326.png",
     "attachments/Pasted image 20260728144346.png",
     "attachments/Pasted image 20260605153444.png",
-    "attachments/Pasted image 20260605143920.png",
     "MATH1116",
     "MATH1116/Analysis/Week 9",
     "MATH1116/Analysis/Week 8",
