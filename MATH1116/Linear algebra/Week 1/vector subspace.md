@@ -29,3 +29,6 @@ To prove conversely, we want to make sure that the axioms of [[vector space]] ho
 
 All of the axioms are satisfied quite trivially, but the inverse $\mathbf{u}$ is hard. Via [[vector space#Theorem 1|the theorem from last time]], we can see that $-u = -1 \times u$ gives us the inverse.
 
+
+
+(We note additionally that this concept of a vector subspace is a [[Linear subspace]] that is defined over an arbitrary field rather than the [[real number|reals]])
