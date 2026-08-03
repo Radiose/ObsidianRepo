@@ -7,6 +7,9 @@ Two random variables are independent when
 $\forall a \in Range(X)\ \ \forall b \in Range(Y)$
 $\{ X=a \},\{ Y=b \}$ are independent
 
+We also denote two independent events $x \mathrel{\perp\!\!\!\perp}y$ 
+
+
 ### Example 
 Toss two coins: $(H+T)^2=\{ \{HT\}, \{TH\}, \{TT\}, \{ HH \}\}$
 First toss is heads: $\mathbb{P}(G)=\frac{1}{4}+\frac{1}{4}=\frac{1}{2}$

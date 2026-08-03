@@ -4,4 +4,4 @@ For any [[Probability experiment]] with a [[Sample space]] of $S$, for any $n \i
 So this is way to find the probability of B given A, when you only have the probability of A given B. 
 
 K is the specific hypothesis you want to find. I is the running index. It loops through all hypothesises to build a denominator. 
-The sum builds the total probability of A by considering every way A could happen.
+The sum builds the total probability of A by considering every way A could happen. - the sum rule from [[Probability rules]].
