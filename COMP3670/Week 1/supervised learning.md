@@ -22,11 +22,4 @@ Regression examples:
 House price prediction, weather forecasting, life expectancy.
 
 
-# Supervised learning framework
-
-Consider the following example: 
-
-A bank wants to automatically approve or deny credit card applications based on information about each applicant. 
-Each applicant is described by some feature vector $\mathbf{x}=\{ x_{1},x_{2},\dots,x_{n} \}$
-In this example, $x_{1}=$ annual income, $x_{2}=$ years employed...
-The task is to learn from data to create some [[function]] that is able to predict the outcome of future applicants. 
+![[supervised learning framework]]
