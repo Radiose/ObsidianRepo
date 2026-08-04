@@ -83,13 +83,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 1/Direct sum of subspaces.md",
+                "file": "MATH1013/Calculus/Week 7/Integration by parts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Direct sum of subspaces"
+              "title": "Integration by parts"
             }
           },
           {
@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -324,10 +324,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f5c88a0d3cd71f2",
+  "active": "0066821c6f70f282",
   "lastOpenFiles": [
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/properties of sequence limits.md",
+    "MATH1116/Linear algebra/Week 1/Direct sum of subspaces.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylors theorem.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylor polynomial.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/properties of sequence limits.md",
     "MATH1116/Analysis/Week 1/series.md",
     "MATH1005/Week 9/Covariance.md",
     "MATH1005/Week 9/Random variable.md",
@@ -352,8 +354,6 @@
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/field.md",
     "COMP2610/Week 1/COMP2610 27.07.2026 28.07.2026.md",
     "MATH1013/Calculus/Week 10/L'Hopital's rule.md",
-    "MATH1005/Week 3/Bijective.md",
-    "MATH1116/Analysis/Week 1/well defined expression.md",
     "attachments/Pasted image 20260803123701.png",
     "attachments/Pasted image 20260802160726.png",
     "attachments/Pasted image 20260731122500.png",
