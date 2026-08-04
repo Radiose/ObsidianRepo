@@ -4,7 +4,7 @@ aliases:
 ---
 # Theorem
 A [[Sequence]] [[Convergence of a sequence|converge]]s if and only if it is Cauchy. I.E
-$\forall \epsilon>0 \ \ \ \exists n\ \ \ \forall n,m>N\ \ |x_{n}-x_{m}|<\epsilon$
+$\forall \epsilon>0 \ \ \ \exists N \in \mathbb{N}\ \ \ \forall n,m>N\ \ |x_{n}-x_{m}|<\epsilon$
 
 This theorem is treated as an axiom in construction of the [[real number|reals]]. 
 
