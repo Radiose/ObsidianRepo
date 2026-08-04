@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 5/Geometric Sequence.md",
+                "file": "MATH1005/Week 5/Sequence.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Geometric Sequence"
+              "title": "Sequence"
             }
           },
           {
@@ -311,6 +311,7 @@
   },
   "active": "440df6102edf069e",
   "lastOpenFiles": [
+    "MATH1005/Week 5/Geometric Sequence.md",
     "MATH1116/Analysis/Week 1/Cauchy sequence.md",
     "MATH1116/Analysis/Week 1/series.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/Divergence of a sequence.md",
@@ -339,7 +340,6 @@
     "attachments/Pasted image 20260803123701.png",
     "COMP3670/Week 1/classification.md",
     "COMP3670/Week 1/supervised learning.md",
-    "MATH1116/Linear algebra/Week 1/Direct sum of subspaces.md",
     "attachments/Pasted image 20260802160726.png",
     "attachments/Pasted image 20260731122500.png",
     "attachments/Pasted image 20260729184553.png",
