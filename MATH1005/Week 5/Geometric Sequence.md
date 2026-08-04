@@ -14,6 +14,7 @@ So a geometric sequence is basically just a sequence with a common ratio in from
 Geometric series of N terms 
 $\sum_{n=k}^{k+(N-1)}ar^{n-k}=a+ar+\dots ar^{N-1}$
 usually k = 0 or k = 1
+
 You can get the sum of N terms from a geometric sequence via algebra
 Sum of N terms 
 $\frac{a(1-r^n)}{(1-r)}$ if r $\not=1$
