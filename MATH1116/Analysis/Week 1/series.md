@@ -84,3 +84,6 @@ $\int_{0}^{n+1}f(x)dx=\sum_{j=0}^n \int_{j}^{j+1}x_{j}dx +\sum_{j=n+1}^\infty \i
 If $\sum_{j=0}^\infty$ converges, 
 
 $\sum_{j=0}^\infty x_{j}=\int_{0}^\infty f(x)dx:=\lim_{ M \to +\infty }\int_{0}^Mf(x)dx$
+
+
+Examples:
