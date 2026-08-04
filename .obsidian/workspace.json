@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 2/COMP2610 03.08.2026.md",
+                "file": "MATH1005/Week 6/Identity matrix.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "COMP2610 03.08.2026"
+              "title": "Identity matrix"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylor polynomial.md",
+                "file": "MATH1116/Analysis/Week 1/series.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Taylor polynomial"
+              "title": "series"
             }
           },
           {
@@ -83,13 +83,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Calculus/Week 7/Integration by parts.md",
+                "file": "MATH1116/Analysis/Week 1/series.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Integration by parts"
+              "title": "series"
             }
           },
           {
@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -324,13 +324,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0066821c6f70f282",
+  "active": "2f5c88a0d3cd71f2",
   "lastOpenFiles": [
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylor polynomial.md",
+    "MATH1005/Week 6/Identity matrix.md",
+    "COMP2610/Week 2/COMP2610 03.08.2026.md",
+    "MATH1116/Analysis/Week 1/series.md",
+    "MATH1005/Week 5/Geometric Sequence.md",
+    "attachments/Pasted image 20260804185910.png",
+    "MATH1013/Calculus/Week 7/Integration by parts.md",
     "MATH1116/Linear algebra/Week 1/Direct sum of subspaces.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylors theorem.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylor polynomial.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/properties of sequence limits.md",
-    "MATH1116/Analysis/Week 1/series.md",
     "MATH1005/Week 9/Covariance.md",
     "MATH1005/Week 9/Random variable.md",
     "COMP2610/Week 2/COMP2610.md",
@@ -339,7 +344,6 @@
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/Bolzano Weierstrass theorem.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/subsequence.md",
     "MATH1005/Week 5/Sequence.md",
-    "MATH1005/Week 5/Geometric Sequence.md",
     "MATH1116/Analysis/Week 1/Cauchy sequence.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/Divergence of a sequence.md",
     "MATH1005/Week 9/Independent event.md",
@@ -349,11 +353,8 @@
     "attachments/Pasted image 20260803172741.png",
     "MATH1005/Week 9/Bayes theorem.md",
     "attachments/Pasted image 20260803144438.png",
-    "COMP2610/Week 2/COMP2610 03.08.2026.md",
     "COMP2610/Week 2/conditional independence.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/field.md",
-    "COMP2610/Week 1/COMP2610 27.07.2026 28.07.2026.md",
-    "MATH1013/Calculus/Week 10/L'Hopital's rule.md",
     "attachments/Pasted image 20260803123701.png",
     "attachments/Pasted image 20260802160726.png",
     "attachments/Pasted image 20260731122500.png",
@@ -362,7 +363,6 @@
     "attachments/Pasted image 20260729160425.png",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
     "attachments/Pasted image 20260728150326.png",
-    "attachments/Pasted image 20260728144346.png",
     "MATH1116",
     "MATH1116/Analysis/Week 9",
     "MATH1116/Analysis/Week 8",

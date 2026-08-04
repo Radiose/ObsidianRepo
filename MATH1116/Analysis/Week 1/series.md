@@ -86,4 +86,49 @@ If $\sum_{j=0}^\infty$ converges,
 $\sum_{j=0}^\infty x_{j}=\int_{0}^\infty f(x)dx:=\lim_{ M \to +\infty }\int_{0}^Mf(x)dx$
 
 
-Examples:
+
+
+# Geometric series 
+
+We show that $\sum_{n=0}^\infty x^n$ converges if and only if $x<1$
+
+To see this
+
+$$
+(1-x)\sum_{j=0}^{n} x^j = \sum_{j=0}^{n} x^j - \sum_{j=0}^{n} x^{j+1} = \sum_{j=0}^{n} x^j - \sum_{j=1}^{n+1} x^j = 1 - x^{n+1}.
+$$
+
+Therefore
+
+$$
+\forall x \neq 1, \forall n \in \mathbb{N}, \quad \sum_{j=1}^{n} x^j = \frac{1-x^{n+1}}{1-x}.
+$$
+
+If $x < 1$, then $\displaystyle\sum_{j=0}^{n} x^j \xrightarrow[n \to +\infty]{} \frac{1}{1-x}$.
+
+If $x > 1$, then $\displaystyle\sum_{j=0}^{n} x^j = \frac{x^{n+1}-1}{x-1} \xrightarrow[n \to +\infty]{} +\infty$.
+
+If $x = 1$, then $\displaystyle\sum_{j=0}^{n} x^j = n+1 \xrightarrow[n \to +\infty]{} +\infty$.
+
+
+
+
+# Example 
+
+We can use the definition of a Cauchy sequence to show us some series converges. 
+Let $m, n \in \mathbb{N}$ and $m \geq n$.
+Then
+
+$$
+\sum_{j=n+1}^{m} \frac{1}{j^2} = \sum_{j=n+1}^{m} \int_{j-1}^{j} \frac{1}{j^2} \, dx \leq \sum_{j=n+1}^{m} \int_{j-1}^{j} \frac{1}{x^2} \, dx = \int_{n}^{m} \frac{1}{x^2} \, dx = \frac{1}{n} - \frac{1}{m}.
+$$
+
+Let $\varepsilon > 0$. Pick $N \in \mathbb{N}$ such that $\frac{1}{N} \leq \frac{\varepsilon}{2}$. Then $\forall n, m \geq N$,
+We use the [[Cauchy sequence]] definition to aid us. 
+
+$$
+\left| \sum_{j=0}^{m} \frac{1}{j^2} - \sum_{j=0}^{n} \frac{1}{j^2} \right| = \left| \sum_{j=n+1}^{m} \frac{1}{j^2} \right| \leq \frac{1}{n} + \frac{1}{m} \leq \varepsilon.
+$$
+
+Therefore $\left( \sum_{j=1}^{n} \frac{1}{j^2} \right)_{n \in \mathbb{N}}$ is Cauchy, and therefore converging.
+
