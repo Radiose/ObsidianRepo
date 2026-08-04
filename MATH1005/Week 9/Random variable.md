@@ -21,3 +21,10 @@ In other words, the random variable maps an element in the sample space to an ou
 
 The probability density function maps a probability to each random variable 
 
+# Multivariable expectation 
+The [[Random variable|expected value]] of a function $g(X,Y)$ of two discrete, random variables is defined as $E(g(X,Y))=\sum_{x}\sum_{y}g(X,Y)p(X=x,Y=y)$
+
+In particular, the expected value of $X$ is given by $E[X]=\sum_{x}\sum_{y}x\cdot p(X=x,Y=y)$
+
+
+![[Covariance]]
