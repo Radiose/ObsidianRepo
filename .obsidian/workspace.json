@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/field.md",
+                "file": "MATH1013/Complex numbers/Roots of unity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "field"
+              "title": "Roots of unity"
             }
           },
           {
@@ -326,8 +326,13 @@
   },
   "active": "2f5c88a0d3cd71f2",
   "lastOpenFiles": [
-    "MATH1013/Linear algebra/Week 10/The determinant.md",
+    "MATH1013/Complex numbers/Complex number.md",
+    "MATH1005/Week 6/Inverse matrix.md",
     "MATH1013/Linear algebra/Week 11/Row operation effect on determinants.md",
+    "MATH1013/Linear algebra/Week 11/Axiomatic definition of the determinant.md",
+    "MATH1013/Linear algebra/Week 11/determinant of an Inverse matrix.md",
+    "MATH1013/Linear algebra/Week 10/The determinant.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/field.md",
     "MATH1116/Analysis/Week 1/series.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylor polynomial.md",
     "MATH1005/Week 6/Identity matrix.md",
@@ -348,12 +353,7 @@
     "MATH1005/Week 5/Sequence.md",
     "MATH1116/Analysis/Week 1/Cauchy sequence.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/Divergence of a sequence.md",
-    "MATH1005/Week 9/Independent event.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/Convergence of a sequence.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/Inequality.md",
-    "MATH1116 odds and ends.md",
     "attachments/Pasted image 20260803172741.png",
-    "MATH1005/Week 9/Bayes theorem.md",
     "attachments/Pasted image 20260803144438.png",
     "attachments/Pasted image 20260803123701.png",
     "attachments/Pasted image 20260802160726.png",

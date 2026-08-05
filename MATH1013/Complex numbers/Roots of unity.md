@@ -11,6 +11,12 @@ $\implies z^n = cis(\theta) ^n = cis(n\theta)=1$
 $n\theta \equiv 0 (mod 2\pi)$ - is in [[congruence modulo]]
 $\implies \theta =0, \frac{2\pi}{n}, \frac{4\pi}{n}\dots, \frac{2(n-1)\pi}{n}$
 
+
+The following result is via de moivres theorem: $\text{cis}(\theta)^n=\text{cis n}\theta$
+
+the $n$th roots of $R \text{ cis}(\alpha)$ are $z_{k}=\sqrt[n]{R  }\text{\ cis}\left(\frac{\alpha+2k\pi}{n} \right)$ for $k=0,1,\dots n-1$
+
+
 so the unit circle will be evenly divided by n subdivisions. 
 
 ```handdrawn-ink
