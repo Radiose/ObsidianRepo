@@ -118,7 +118,7 @@ If $x = 1$, then $\displaystyle\sum_{j=0}^{n} x^j = n+1 \xrightarrow[n \to +\inf
 We can use the definition of a Cauchy sequence to show us some series converges. 
 Let $m, n \in \mathbb{N}$ and $m \geq n$.
 Then
-
+Note that this is because $\frac{1}{j^2}$ is monotonously decreasing. We know that 
 $$
 \sum_{j=n+1}^{m} \frac{1}{j^2} = \sum_{j=n+1}^{m} \int_{j-1}^{j} \frac{1}{j^2} \, dx \leq \sum_{j=n+1}^{m} \int_{j-1}^{j} \frac{1}{x^2} \, dx = \int_{n}^{m} \frac{1}{x^2} \, dx = \frac{1}{n} - \frac{1}{m}.
 $$
