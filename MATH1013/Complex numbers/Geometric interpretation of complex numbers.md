@@ -1,6 +1,7 @@
 For any [[Complex number]] $z = x+yi$, 
 $z$ can be viewed as a vector in $\mathbb{R}^2$ with $x = \mathrm{Re}z$ and $y = \mathrm{Im}z$
-z can be specified uniquely by its magnitude r and its angle with the positive x axis. 
+
+$z$ can also be specified uniquely by its magnitude r and its angle with the positive x axis. 
 
 ```handdrawn-ink
 {
