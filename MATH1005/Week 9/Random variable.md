@@ -28,3 +28,13 @@ In particular, the expected value of $X$ is given by $E[X]=\sum_{x}\sum_{y}x\cdo
 
 
 ![[covariance]]
+
+# In machine learning 
+We treat discrete random variables as labels. It is particularly useful for [[supervised learning]].
+
+
+# Continuous random variables
+
+Often, we are dealing with quantities that are impossible to model discretely. For this reason, we use [[continuous function|continuous]] intervals properties. 
+
+![[Density function#Continuous|continuous density function]]

@@ -16,20 +16,27 @@ $=\sum_{j}P(X=x_{i},Y =y_{j})$ - basically the probability of $x_{i}$ with all $
 $$p(Y = y_j \mid X = x_i) = \frac{n_{ij}}{c_i} = \frac{n_{ij}/N}{c_i/N}$$
 
 $$= p(X = x_i, Y = y_j) / p(X = x_i)$$
+# Axioms
 
+![[Kolmogorov's axioms]]
 
+The axioms define the following rules
 # The sum rule 
 
 ## Axiom
 If events $E_{1}\dots E_{n}$ are mutually disjoint, then $\mathbb{P}(E_{1} \cup \dots \cup E_{n})=\mathbb{P}(E_{1})+\dots+\mathbb{P}(E_{n})$
 Disjoint events exclude each other, in the sense that they cannot happen at the same times. 
 
-## marginalisation
+If they are not mutually disjoint, then we need to use the [[set counting|inclusion-exclusion principle]].
+
+
+
+### marginalisation
 This is how we use the sum rule to give us [[marginal probability]] from [[Joint probability]]
 $p(X = x_i) = \sum_j p(X = x_i, Y = y_j)$
 By definition, the sum items must be mutually disjoint. 
 
-### Taking it further
+#### Taking it further
 To remove a random variable, or marginalise it you use the sum rule. 
 
 Given $D$ random variables $X_1, \dots, X_D$:
@@ -37,6 +44,8 @@ Given $D$ random variables $X_1, \dots, X_D$:
 $$p(X_1, \dots, X_{i-1}, X_{i+1}, \dots, X_D) = \sum_{X_i} p(X_1, \dots, X_D)$$
 
 
+### Union bound 
+![[union bound]]
 
 
 
@@ -63,7 +72,7 @@ Therefore:
 $$P(X = x_i) = \sum_j P(X = x_i, Y = y_j) = \sum_j P(X = x_i \mid Y = y_j)\, P(Y = y_j)$$
 Here, events do not have to be independent of each other. 
 
-## **Chain Rule:** 
+## Chain Rule 
 
 We can also express:
 
