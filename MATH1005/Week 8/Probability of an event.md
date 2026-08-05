@@ -14,3 +14,5 @@ $\mathbb{P}(E) \in \mathbb{R}$ between 0 and 1
 Probability of the complement is $1 - \mathbb{P}(E)$
  $\mathbb{P}(E) =1$ means certain 
  $\mathbb{P}(E)$ = 0 means impossible
+
+![[Meaning of probability(statistical)]]
