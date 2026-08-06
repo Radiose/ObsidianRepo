@@ -3,7 +3,7 @@ Any [[set]] S, along with two operations ${\oplus}$ and ${\otimes}$ and two memb
 A field typically is described as a set $\mathbb{F}$ that contains two [[Binary operation]]s.
 $+:\mathbb{F} \times \mathbb{F} \to \mathbb{F}$ and $\cdot\ \  \mathbb{F} \times \mathbb{F} \to \mathbb{F}$
  ![[algebraic and order axioms#Algebraic axioms]]
- The smallest possible field is $\mathbb{F}_{2}=\{ 0,1 \}$, where addition is defined as $1+1=0$
+The smallest possible field is $\mathbb{F}_{2}=\{ 0,1 \}$, where addition is defined as $1+1=0$
 
 More generally, if $p$ is a prime number, then $\mathbb{F}_{p}=\{ 0,1,\dots,p-1 \}$ can be turned into some field.
 Operations $a+b=a+b\ mod(p)$ and $a \times b=a\cdot b \ mod(p)$
