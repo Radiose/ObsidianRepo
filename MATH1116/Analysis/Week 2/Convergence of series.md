@@ -47,6 +47,7 @@ If $x = 1$, then $\displaystyle\sum_{j=0}^{n} x^j = n+1 \xrightarrow[n \to +\inf
 
 We can use the definition of a Cauchy sequence to show us some series converges. 
 Let $m, n \in \mathbb{N}$ and $m \geq n$.
+
 Then
 Note that this is because $\frac{1}{j^2}$ is monotonously decreasing. Thus, $\forall j \in \mathbb{N}$, $\int_{j-1}^j\frac{1}{j^2}dx \leq \int_{j-1}^j \frac{1}{x^2}dx$. This is because we are taking the right end point here. Similarly, $\sum_{j=m}^{n-1}\int_{j}^{j+1} \frac{1}{x^2}dx\leq \sum_{j=m}^{n-1}\int_{j}^{j+1} \frac{1}{j^2}dx$
 
