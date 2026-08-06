@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 2/Convergence of series.md",
+                "file": "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylor polynomial.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Convergence of series"
+              "title": "Taylor polynomial"
             }
           },
           {
@@ -436,6 +436,7 @@
   },
   "active": "440df6102edf069e",
   "lastOpenFiles": [
+    "MATH1116/Analysis/Week 2/Convergence of series.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylor polynomial.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/field.md",
     "MATH1116/Linear algebra/Week 1/vector space.md",
@@ -459,7 +460,6 @@
     "MATH1005/Week 8/Probability rules.md",
     "MATH1005/Week 7/set counting.md",
     "MATH1005/Week 8/Sample space.md",
-    "MATH1116/Analysis/Week 2/Convergence of series.md",
     "MATH1116/Analysis/Week 2/The integral test.md",
     "COMP2610/Week 2/variance.md",
     "attachments/Pasted image 20260805193305.png",
