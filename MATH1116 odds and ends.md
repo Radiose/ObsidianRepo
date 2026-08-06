@@ -24,4 +24,8 @@ $\int_{0}^1 \frac{1}{1+t^3}$ - this implies that $t \in[0,1)$
 Thus, we can use the GS identity $\sum_{0}^n ar^n = a*\frac{1-x^{n+1}}{1-x}$. Because $t \in[0,1)$, we know that this is $\int_{0}^1 \frac{1-t^{3+\infty}}{1-t^3}=\int_0 ^1 \sum_{n=0}^\infty  -t^{3n}$ 
 
 ANOTHER USEFUL TRICK 
-$-t^n=$
+$-t^{3n}=(-1)^n\times t^{3n}$
+
+
+# Constant up to N
+YOU HAVEE TO THINK ABOUT EVERYTHING UP TO THE N YOU CHOOSE FOR SEQUENCE AND SERIES CONVERGENCE AS A **CONSTANT** - THIS IS THE ESSENTIAL JUMP THAT YOU HAVE TO MAKE 

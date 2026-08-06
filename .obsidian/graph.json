@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 10158932
       }
+    },
+    {
+      "query": "path:COMP3670  ",
+      "color": {
+        "a": 1,
+        "rgb": 4184394
+      }
     }
   ],
   "collapse-display": true,
