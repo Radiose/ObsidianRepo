@@ -9,4 +9,4 @@ or more naturally
 $Tn = \frac{∆x}{2} [f (x_{0}) + 2f (x_{1}) + 2f (x_{2}) + · · · + 2f (x_{n−1}) + f (x_{n})]$
 
 ### Error binding 
-We bind the error via $\exists K \in \mathbb{R} \forall x \in [a,b] |f''(x)| \le K \implies E_{T}\le \frac{K(b-a)^3}{12n^2}$
+We bind the error via $\exists K \in \mathbb{R}\ \  \forall x \in [a,b] \ \ \ |f''(x)| \le K \implies E_{T}\le \frac{K(b-a)^3}{12n^2}$

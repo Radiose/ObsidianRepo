@@ -54,4 +54,7 @@ Often, we are dealing with quantities that are impossible to model discretely. F
 ![[Density function#Continuous| continuous density function]]
 
 
-The expectation of a [[continuous function|continuous]] random variable is defined is $\mathbb{E}[X]=\int_{-\infty}^\infty xf(x)dx$
+The expectation of a [[continuous function|continuous]] random variable is defined is $\mathbb{E}[X]=\int_{-\infty}^\infty xf(x)dx$, where $f_{X}$ is the probability [[Density function]].
+$\mathbb{E}[g(X)]=\int_{-\infty}^\infty g(x)f_{X}(x)dx$
+To avoid writing the discrete and continuous cases, we write $\mathbb{E}[g(x)]=\int g(x)dP(x)$, this means a sum when $g$ is discrete, and an integral when continuous. 
+A feature vector $\mathbf{X}=(X_{1},X_{2}\dots X_{n})$ has a joint density $f_{\mathbf{X}}$ of $n$ arguments, so its expectations have one integral per variable. 
