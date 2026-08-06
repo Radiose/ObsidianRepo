@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 6/Identity matrix.md",
+                "file": "MATH1116/Linear algebra/Week 1/vector space.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Identity matrix"
+              "title": "vector space"
             }
           },
           {
@@ -52,8 +52,7 @@
               "title": "MATH1116 odds and ends"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,34 +243,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "440df6102edf069e",
+  "active": "7591138aa76b6d6f",
   "lastOpenFiles": [
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/field.md",
+    "MATH1116/Linear algebra/Week 1/vector space.md",
+    "MATH1116/Analysis/Week 2/Convergence of series.md",
+    "MATH1116/Analysis/Week 2/The integral test.md",
+    "MATH1116/Analysis/Week 1/Binary operation.md",
+    "MATH1005/Week 6/Identity matrix.md",
+    "MATH1013/Complex numbers/Complex number.md",
+    "MATH1116 odds and ends.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylor polynomial.md",
     "MATH1005/Week 8/Probability of an event.md",
     "MATH1005/Week 8/Meaning of probability(statistical).md",
     "MATH1116/Analysis/Week 1/series.md",
-    "MATH1116/Analysis/Week 2/Convergence of series.md",
     "COMP2610/Week 2/variance.md",
     "office hours questions.md",
     "COMP3670/Week 2/COMP3670 06.08.2026.md",
     "MATH1005/Week 5/Geometric Sequence.md",
     "MATH1005/Week 5/Geometric series.md",
-    "MATH1116 odds and ends.md",
     "MATH1013/Calculus/Week 9/Inverse trigonometric function.md",
     "MATH1005/Week 8/Density function.md",
-    "MATH1116/Analysis/Week 2/The integral test.md",
     "MATH1116/Linear algebra/Week 1/vector subspace.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/field.md",
-    "MATH1116/Linear algebra/Week 1/vector space.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylors theorem.md",
     "MATH1005/Week 9/Random variable.md",
     "COMP2610/Week 1/Joint probability.md",
     "COMP3670/Week 2/random vector.md",
     "MATH1005/Week 8/Cumulative probability distribution function.md",
     "MATH1005/Week 9/Conditional probability.md",
-    "COMP3670/Week 2/union bound.md",
-    "COMP3670/Week 2/the machine learning statistical model.md",
-    "MATH1005/Week 8/The normal distribution.md",
     "attachments/Pasted image 20260806092519.png",
     "attachments/Pasted image 20260805193305.png",
     "attachments/Pasted image 20260804185910.png",
