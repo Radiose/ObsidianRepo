@@ -4,7 +4,7 @@ aliases:
 ---
 Suppose $U_{1},\dots,U_{m}$ are [[vector subspace|subspace]]s of $V$. The sum $U_{1}+\dots+U_{m}$ is called the (internal) direct sum if each element of $U_{1}+\dots+{U_{m}}$ can be written in only one way as a sum $\mathbf{u_{1}}+\dots+\mathbf{u_{m}}$
 If $U_{1}+\dots+{U_{m}}$ is a direct sum, then we write $U_{1} \oplus\dots \oplus U_{m}$ with the $\oplus$ notation indicating this is a direct sum.
-	
+
 
 
 
@@ -21,8 +21,10 @@ Subtracting these
 $\mathbf{0}=(\mathbf{u}-\mathbf{v_{1}})+(\mathbf{w}-\mathbf{v_{2}})$
 We want to show $\mathbf{u}-\mathbf{v_{1}}=0$ and $\mathbf{w}-\mathbf{v_{2}}=0$
 Suppose $0=\mathbf{u}+\mathbf{w}$
+
 KEY MOVE:
 This implies that $\mathbf{u} \in U=\mathbf{-w}\in W$, thus $\mathbf{u}\in U\cap W$. Recalling $U \cap W = \{0  \}$ $\mathbf{u}-\mathbf{w}=0$ (which can be generalised to the vectors created through subtraction). Hence, $\mathbf{u}=\mathbf{w}$.
+
 
 $\impliedby$
 Suppose that $U+W$ is a direct sum. 

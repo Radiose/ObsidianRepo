@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Integrable (spivak).md",
+                "file": "MATH1116/Linear algebra/Week 1/Direct sum of subspaces.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Integrable (spivak)"
+              "title": "Direct sum of subspaces"
             }
           },
           {
@@ -305,8 +305,12 @@
   },
   "active": "7591138aa76b6d6f",
   "lastOpenFiles": [
-    "COMP3670/Week 1/The perceptron.md",
     "MATH1116/Linear algebra/Week 1/vector space.md",
+    "MATH1013/Linear algebra/Week 2/vector.md",
+    "vector spa.md",
+    "MATH1116/Linear algebra/Week 2/MATH1116 06.08.2026.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Integrable (spivak).md",
+    "COMP3670/Week 1/The perceptron.md",
     "MATH1116/Linear algebra/Week 1/Direct sum of subspaces.md",
     "MATH1116 odds and ends.md",
     "MATH1116/Linear algebra/Week 1/sum of subsets.md",
@@ -329,10 +333,6 @@
     "MATH1005/Week 9/Conditional probability.md",
     "MATH1005/Week 1/The conditional statement.md",
     "COMP2610/Week 1/conditional distribution.md",
-    "COMP2610/Week 2/variance.md",
-    "MATH1005/Week 4/The discrete logarithm problem.md",
-    "MATH1013/Calculus/Week 11/Simpson's rule.md",
-    "MATH1013/Calculus/Week 11/Trapezoidal rule.md",
     "attachments/Pasted image 20260806092519.png",
     "attachments/Pasted image 20260805193305.png",
     "attachments/Pasted image 20260804185910.png",
