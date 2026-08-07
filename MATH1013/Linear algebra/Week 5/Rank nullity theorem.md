@@ -12,7 +12,7 @@ So, they exist in different [[vector]] spaces
 Thinking geometrically:
 
 If a matrix A is MxN 
-col(A) = [[Span]] of column $\subset \mathbb{R}^m$
+col(A) = [[span]] of column $\subset \mathbb{R}^m$
 Null(A) = $\{ \vec{x} \ | \ A \vec{x} =0 \}$ $\in \mathbb{R}^n$
 
 ![[Pasted image 20260401093219.png]]

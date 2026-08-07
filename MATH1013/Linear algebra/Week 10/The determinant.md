@@ -30,7 +30,7 @@ This is easy, as the two triangles OAB and GDC are identical in area, so we can 
 
 ### Continuing to Area notation
 
-If $\vec{x_{1}} ,\vec{x_{2}}\in \mathbb{R}^2$, then the area of the parallelogram [[Span]]ned by them is denoted Area$(\vec{x_{1}},\vec{x_{2}})$ 
+If $\vec{x_{1}} ,\vec{x_{2}}\in \mathbb{R}^2$, then the area of the parallelogram [[span]]ned by them is denoted Area$(\vec{x_{1}},\vec{x_{2}})$ 
 
 We derive the formula of Area$(\vec{x_{1}},\vec{x_{2}})$ with 2 basic facts 
 1: the area of a rectangle with length A and width B is AB 

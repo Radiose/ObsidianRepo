@@ -1,6 +1,6 @@
 	
 
-We first aim to show that every [[Complex number]] $z=x+yi$ is in the $\mathbb{R}$ linear [[Span]] of 1 and i
+We first aim to show that every [[Complex number]] $z=x+yi$ is in the $\mathbb{R}$ linear [[span]] of 1 and i
 
 That is, $Span_{\mathbb{R}}\{ 1,i \}=\{ x_{1}\times_{1} + x_{2}i | x_{1},x_{2} \in \mathbb{R} \} = \mathbb{C}$
 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - direct sum
+  - internal sum
 ---
 Suppose $U_{1},\dots,U_{m}$ are [[vector subspace|subspace]]s of $V$. The sum $U_{1}+\dots+U_{m}$ is called the (internal) direct sum if each element of $U_{1}+\dots+{U_{m}}$ can be written in only one way as a sum $\mathbf{u_{1}}+\dots+\mathbf{u_{m}}$
 If $U_{1}+\dots+{U_{m}}$ is a direct sum, then we write $U_{1} \oplus\dots \oplus U_{m}$ with the $\oplus$ notation indicating this is a direct sum.
@@ -33,7 +34,9 @@ here $\mathbf{v}\in U$ and $-\mathbf{v}\in W$. Since the representation of $\mat
 
 The point with this direction of the proof is that $\mathbf{0}$ can only be represented one way via the direct sum property, thus $\mathbf{v}$ must equal $\mathbf{0}$
 
-# Direct sum of [[vector space]]s 
-Suppose $U_{1},\dots,U_{m}$ are vector spaces. We define their direct sum $U_{1}\oplus\dots \oplus U_{m}$ as the set of tuples $(\mathbf{u}_{1},\dots,\mathbf{u_{m}})$ with $\mathbf{u_{i}}\in U_{i}$. We endow this set with the element wise operations of addition and scalar multiplication. 
-$(\mathbf{u}_{1},\dots,\mathbf{u_{m}})+(\mathbf{v}_{1},\dots,\mathbf{v_{m}}):=(\mathbf{u}_{1}+\mathbf{u_{m}},\dots,\mathbf{u_{m}+\mathbf{v_{m}}})$
-$\lambda \cdot(\mathbf{u}_{1},\dots,\mathbf{u_{m}}):=(\lambda \mathbf{u_{1}},\dots,\lambda \mathbf{u}_{m})$
+
+IMPORTANT:
+The following is equivalent. The direct sum of vector spaces, as well as the internal direct sum of subspaces are identical, where we denote a subspace as $U'_{i}:=\{ (\mathbf{0},\dots u_{1},\dots,\mathbf{0}) \} \subset U_{1}\oplus U_{2}\oplus\dots \oplus U_{n}$
+
+
+![[Direct sum of vector spaces]]

@@ -1,8 +1,11 @@
 ---
-{}
+aliases:
+  - linear combination
 ---
-Linear combination of vectors 
-this [[theorem]] states that each vector is comprised of smaller vectors and their corresponding weights. 
-In maths: given vectors $v_{1},v_{2}\dots p$, and scalars $c_{1},c_{2}\dots p$, the vector 
-w = $c_{1}v_{1}+c_{2}v_{2}+\dots c_{p}v_{p} =\sum_{i=1}^{p} c_{i}v_{i}$ is a linear combination of $v_{1},v_{2}\dots v_{p}$ with weights $c_{1},c_{2}\dots c_{p}$ 
-![[Span]] 
+Let $X \subset V$ be a [[subset]] of a [[vector space]].
+
+A linear combination of vectors from $X$ is a finite sum, $\lambda_{1}v_{1}+\dots+\lambda_{m}v_{m}$ for some $\lambda_{1},\dots,\lambda_{m} \in \mathbb{F}$. (that being the [[Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/field|field]] that $V$ is defined over), $\mathbf{v_{1}},\mathbf{v_{2}}\dots \mathbf{v_{m}}\in X$
+
+
+
+![[span]] 
