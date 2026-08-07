@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 1/The perceptron.md",
+                "file": "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Integrable (spivak).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "The perceptron"
+              "title": "Integrable (spivak)"
             }
           },
           {
@@ -305,6 +305,7 @@
   },
   "active": "7591138aa76b6d6f",
   "lastOpenFiles": [
+    "COMP3670/Week 1/The perceptron.md",
     "MATH1116/Linear algebra/Week 1/vector space.md",
     "MATH1116/Linear algebra/Week 1/Direct sum of subspaces.md",
     "MATH1116 odds and ends.md",
@@ -332,7 +333,6 @@
     "MATH1005/Week 4/The discrete logarithm problem.md",
     "MATH1013/Calculus/Week 11/Simpson's rule.md",
     "MATH1013/Calculus/Week 11/Trapezoidal rule.md",
-    "MATH1005/Week 5/Geometric series.md",
     "attachments/Pasted image 20260806092519.png",
     "attachments/Pasted image 20260805193305.png",
     "attachments/Pasted image 20260804185910.png",

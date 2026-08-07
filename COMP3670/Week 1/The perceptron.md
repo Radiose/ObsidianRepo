@@ -65,4 +65,4 @@ $$1 \cdot 1 + 1 \cdot 1 + 1 = 3 > 0$$
 # Key result: the [[Convergence of a sequence|converge]] theorem
 If the data is linearly separable, then the perceptron learning algorithm is guaranteed to stop after some finite number of updates and return some solution. This is quite a significant result, some simple [[greedy algorithm]] will find the solution if it exists. 
 
-If some solution doesnt exist, then the algorithm will run forever. 
+If some solution doesn't exist, then the algorithm will run forever. 
