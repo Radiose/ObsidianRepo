@@ -13,13 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 1/vector subspace.md",
+                "file": "MATH1116/Linear algebra/Week 1/vector space.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "vector subspace"
+              "title": "vector space"
+            }
+          },
+          {
+            "id": "ff224de2896dd882",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/MATH1116 w2.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "MATH1116 w2.excalidraw"
             }
           },
           {
@@ -112,7 +124,8 @@
               "title": "(external) direct sum of vector spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -304,9 +318,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "440df6102edf069e",
+  "active": "ff224de2896dd882",
   "lastOpenFiles": [
     "MATH1116/Linear algebra/Week 1/vector space.md",
+    "Excalidraw/MATH1116 w2.excalidraw.md",
     "MATH1116/Linear algebra/Week 1/vector subspace.md",
     "MATH1116/Analysis/Week 1/Cauchy sequence.md",
     "MATH1005/Week 5/Sequence.md",
@@ -332,7 +347,6 @@
     "COMP3670/Week 2/loss function.md",
     "MATH1013/Linear algebra/Week 2/Linear combination of vectors.md",
     "MATH1005/Week 1/theorem.md",
-    "MATH1013/Linear algebra/Week 3/linear relation.md",
     "attachments/Pasted image 20260807093422.png",
     "attachments/Pasted image 20260807093020.png",
     "attachments/Pasted image 20260806092519.png",
