@@ -26,12 +26,15 @@
             "id": "ff224de2896dd882",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/MATH1116 w2.excalidraw.md"
+                "file": "MATH1005/Week 1/The conditional statement.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MATH1116 w2.excalidraw"
+              "icon": "lucide-file",
+              "title": "The conditional statement"
             }
           },
           {
@@ -320,8 +323,8 @@
   },
   "active": "ff224de2896dd882",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 1/vector space.md",
     "Excalidraw/MATH1116 w2.excalidraw.md",
+    "MATH1116/Linear algebra/Week 1/vector space.md",
     "MATH1116/Linear algebra/Week 1/vector subspace.md",
     "MATH1116/Analysis/Week 1/Cauchy sequence.md",
     "MATH1005/Week 5/Sequence.md",
