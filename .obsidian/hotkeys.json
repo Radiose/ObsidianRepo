@@ -1,3 +1,12 @@
 {
-  "file-explorer:new-file-in-new-pane": []
+  "file-explorer:new-file-in-new-pane": [],
+  "templater-obsidian:templates/Inline math.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ]
 }
