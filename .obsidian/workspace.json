@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
+                "file": "MATH1116/Linear algebra/Week 1/vector subspace.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1116 07.08.2026"
+              "title": "vector subspace"
             }
           },
           {
@@ -112,8 +112,7 @@
               "title": "(external) direct sum of vector spaces"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -305,10 +304,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c0199e0595025b0a",
+  "active": "440df6102edf069e",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 2/MATH1116 06.08.2026.md",
+    "MATH1116/Linear algebra/Week 1/vector space.md",
+    "MATH1116/Linear algebra/Week 1/vector subspace.md",
+    "MATH1116/Analysis/Week 1/Cauchy sequence.md",
+    "MATH1005/Week 5/Sequence.md",
+    "MATH1116/Analysis/Week 2/Convergence of series.md",
     "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
+    "MATH1005/Week 9/Conditional probability.md",
+    "MATH1116/Linear algebra/Week 2/MATH1116 06.08.2026.md",
     "MATH1013/Linear algebra/Week 3/linearly independent.md",
     "templates/Inline math.md",
     "MATH1013/Linear algebra/Week 3/linearity.md",
@@ -325,15 +330,9 @@
     "MATH1116/Linear algebra/Week 1/MATH1116 31.07.2026.md",
     "MATH1005/Week 9/Bayes theorem.md",
     "COMP3670/Week 2/loss function.md",
-    "MATH1116/Linear algebra/Week 1/vector subspace.md",
     "MATH1013/Linear algebra/Week 2/Linear combination of vectors.md",
     "MATH1005/Week 1/theorem.md",
     "MATH1013/Linear algebra/Week 3/linear relation.md",
-    "MATH1116/Linear algebra/Week 1/vector space.md",
-    "MATH1013/Linear algebra/Week 2/vector.md",
-    "vector spa.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Integrable (spivak).md",
-    "COMP3670/Week 1/The perceptron.md",
     "attachments/Pasted image 20260807093422.png",
     "attachments/Pasted image 20260807093020.png",
     "attachments/Pasted image 20260806092519.png",
