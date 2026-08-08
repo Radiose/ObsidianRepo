@@ -1,3 +1,7 @@
+---
+tags:
+  - spivak
+---
 **LEMMA** for [[limits|limit]]s, involving [[absolute value]]s ($\epsilon,\delta$).
 
 

@@ -1,6 +1,8 @@
 ---
 aliases:
   - epsilon delta proof
+tags:
+  - spivak
 ---
 So the formal definition of a [[limits|limit]] is
 for a function f(x) and real number a and $l_{a}$, we write $\lim_{ x \to a }f(x)=L_{a}$, and we say that the limit of f(x) as x approaches a is $l_a$, or f(x) approaches $L_{a}$ as x approaches a, when:

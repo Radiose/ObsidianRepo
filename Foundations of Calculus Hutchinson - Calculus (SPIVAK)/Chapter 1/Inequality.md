@@ -1,3 +1,7 @@
+---
+tags:
+  - spivak
+---
 ## Rules
 ![[Pasted image 20260618125148.png]]
 

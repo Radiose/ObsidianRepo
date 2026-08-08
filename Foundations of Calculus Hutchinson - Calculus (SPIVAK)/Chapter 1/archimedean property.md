@@ -1,3 +1,7 @@
+---
+tags:
+  - spivak
+---
 The following property of the [[real number|reals]] is not surprising. It follows from the [[algebraic and order axioms]] alone. Informally: there are no real numbers beyond the natural numbers. 
 
 Theorem: For every real number $x$ there is a natural number $n$ such that $x <n$, equivalently, the set $\mathbb{N}$ is not bounded above. 

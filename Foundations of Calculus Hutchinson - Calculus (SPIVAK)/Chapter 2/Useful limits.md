@@ -1,3 +1,7 @@
+---
+tags:
+  - spivak
+---
 Below are some useful [[limits|limit]]s. I'm not quite sure about where they should fit in the vault yet. 
 
 (1) if $|x| < 1$, then $\lim_{ }x^n=0$

@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 4184394
       }
+    },
+    {
+      "query": "tag:#spivak  ",
+      "color": {
+        "a": 1,
+        "rgb": 16318960
+      }
     }
   ],
   "collapse-display": true,

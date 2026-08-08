@@ -3,6 +3,8 @@ aliases:
   - least upper bound
   - supremum
   - infima
+tags:
+  - spivak
 ---
 # Statement
 If A is any set of real numbers having at least one number in it, and if there exists a real number y s.t $\forall x\in A\ \ \ \ x \le y$, (we denote y the *upper bound*) then there exists a smallest such number, called the *least upper bound*, or *supremum* of A.

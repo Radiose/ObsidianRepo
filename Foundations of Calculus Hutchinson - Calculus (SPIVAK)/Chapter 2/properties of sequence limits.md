@@ -1,3 +1,7 @@
+---
+tags:
+  - spivak
+---
 Its normally pretty inefficient to use the [[limits|limit]] definition to prove [[Convergence of a sequence]].
 There are a number of theorems that will be used instead. 
 

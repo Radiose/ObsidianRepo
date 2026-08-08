@@ -2,6 +2,8 @@
 aliases:
   - diverges
   - diverge
+tags:
+  - spivak
 ---
 If a [[Sequence]] does not [[Convergence of a sequence|converge]], we say conversely that it diverges. We write $$\lim_{ n \to \infty }a_{n} = \infty$$
 if 

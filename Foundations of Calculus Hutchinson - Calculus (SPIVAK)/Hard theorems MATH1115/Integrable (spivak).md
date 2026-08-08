@@ -1,3 +1,7 @@
+---
+tags:
+  - spivak
+---
 Integrable
 
 # Motivation

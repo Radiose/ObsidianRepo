@@ -39,4 +39,4 @@ IMPORTANT:
 The following is equivalent. The direct sum of vector spaces, as well as the internal direct sum of subspaces are identical, where we denote a subspace as $U'_{i}:=\{ (\mathbf{0},\dots u_{1},\dots,\mathbf{0}) \} \subset U_{1}\oplus U_{2}\oplus\dots \oplus U_{n}$
 
 
-![[Direct sum of vector spaces]]
+![[(external) direct sum of vector spaces]]

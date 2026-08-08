@@ -2,6 +2,8 @@
 aliases:
   - algebraic axiom
   - order axiom
+tags:
+  - spivak
 ---
 The [[real number]] system consists of the real numbers, along with the two operations addition(denoted $+$) and multiplication (denoted $\times$) and the less than [[relation]] (denoted by <). One also singles out two particular numbers being 0 and 1. 
 

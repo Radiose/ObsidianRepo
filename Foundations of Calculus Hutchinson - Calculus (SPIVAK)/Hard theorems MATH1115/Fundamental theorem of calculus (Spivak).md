@@ -1,3 +1,7 @@
+---
+tags:
+  - spivak
+---
 
 Based off [[Integrable (spivak)#Theorem 8 |this theorem]], if $f$ is integrable, then $F(x) = \int_{a} ^x f$ is [[continuous function|continuous]]. 
 We should ask then, what happens when $f$ is continuous, and it turns out $F$ is indeed differentiable. 

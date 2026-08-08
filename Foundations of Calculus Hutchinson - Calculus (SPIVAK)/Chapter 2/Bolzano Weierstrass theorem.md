@@ -1,3 +1,7 @@
+---
+tags:
+  - spivak
+---
 Let $c_{n}$ be a [[Sequence]] of [[real number]]s all of which are contained in the closed bounded interval $[a,b]$.
 Then, some [[subsequence]] exists that [[Convergence of a sequence|converges]], and the [[limits|limit]] also belongs to $[a,b]$
 

@@ -1,6 +1,8 @@
 ---
 aliases:
   - reals
+tags:
+  - spivak
 ---
 The real numbers are an essential part of calculus. Simply put, real numbers are numbers that can be expressed as decimals. 
 EG:$5 = 5.000\dots$

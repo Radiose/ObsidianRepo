@@ -1,3 +1,7 @@
+---
+tags:
+  - spivak
+---
 We claim that between any two numbers there is a rational number(in fact infinitely many) and an irrational number (in fact infinitely many)
 
 Demonstration:

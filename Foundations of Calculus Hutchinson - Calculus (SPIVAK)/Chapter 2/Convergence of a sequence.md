@@ -2,6 +2,8 @@
 aliases:
   - converges
   - converge
+tags:
+  - spivak
 ---
 The most fundamental concept in the study of sequence is the notion of a convergence in a sequence .
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - spivak
+---
 Subsequence
 
 A subsequence of a [[Sequence]] $a_{1},a_{2},\dots,a_{n}$ is a sequence $a_{i_{1}},a_{i_{2}}\dots a_{i_{n}}$ where $i_{1}<i_{2}<\dots<i_{n}$.

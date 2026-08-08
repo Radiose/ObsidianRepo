@@ -1,3 +1,7 @@
+---
+tags:
+  - spivak
+---
 The essence of a bisection argument is based off the nested interval theorem. 
 
 Nested interval theorem:

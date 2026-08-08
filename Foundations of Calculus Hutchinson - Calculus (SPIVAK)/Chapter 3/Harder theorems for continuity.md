@@ -1,3 +1,7 @@
+---
+tags:
+  - spivak
+---
 Theorems for [[continuous function|continuous]]ness
 
 ## Simple theorems to make it easier 

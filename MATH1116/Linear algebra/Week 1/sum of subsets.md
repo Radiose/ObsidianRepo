@@ -20,4 +20,4 @@ Finally, we verify that any subspace of $V$ containing $U_{1},\dots,U_{m}$ must 
 
 We do this via induction, proving inductively that if $\mathbf{u,\mathbf{v}}\in V$, then $\mathbf{u+v}\in V$, then recursively add this new vector created from the sum to another until we have proven that $U_{1}+\dots+U_{m}$ must be in the vector subspace containing $U_{1},\dots U_{m,}$ (because any two vector can be added together via the theorem linked).
 
-![[Direct sum of subspaces]]
+![[internal direct sum of subspaces]]

@@ -1,3 +1,7 @@
+---
+tags:
+  - spivak
+---
 Suppose that $f', \ldots, f^{(n+1)}$ are defined on $[a,x]$, and that $R_{n,a}(x)$ is defined by
 
 $$f(x) = f(a) + f'(a)(x-a) + \cdots + \frac{f^{(n)}(a)}{n!}(x-a)^n + R_{n,a}(x).$$

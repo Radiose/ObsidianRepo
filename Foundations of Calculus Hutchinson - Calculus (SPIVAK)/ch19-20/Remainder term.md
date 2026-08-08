@@ -1,3 +1,7 @@
+---
+tags:
+  - spivak
+---
 Remainder term
 An interesting fact occurs when we go back to the equation where we [[Taylor polynomial#Approximating arctan|approximated arctan]]
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - spivak
+---
 # Proving with the axiom 
 We define the set $A$ as follows:
 $A = \{ x : a \le x \le b, \text{ and }f\text{ is negative on the interval }[a,x] \}$

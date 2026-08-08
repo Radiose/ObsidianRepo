@@ -2,6 +2,8 @@
 aliases:
   - Taylor series
   - Taylor approximation
+tags:
+  - spivak
 ---
 # Derivation 
 We will discover how to approximate several [[function]]s such as $\sin$, $\cos$, $\ln$ and more using polynomials. In order to do this, we first need to examine polynomials a bit closer. 
