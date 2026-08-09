@@ -11,15 +11,12 @@
             "id": "440df6102edf069e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 1/vector space.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Excalidraw/MATH1116 w2.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "vector space"
+              "icon": "excalidraw-icon",
+              "title": "MATH1116 w2.excalidraw"
             }
           },
           {
@@ -127,8 +124,7 @@
               "title": "(external) direct sum of vector spaces"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,8 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -321,15 +316,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ff224de2896dd882",
+  "active": "440df6102edf069e",
   "lastOpenFiles": [
-    "Excalidraw/MATH1116 w2.excalidraw.md",
     "MATH1116/Linear algebra/Week 1/vector space.md",
+    "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
+    "MATH1005/Week 1/The conditional statement.md",
+    "Excalidraw/MATH1116 w2.excalidraw.md",
     "MATH1116/Linear algebra/Week 1/vector subspace.md",
     "MATH1116/Analysis/Week 1/Cauchy sequence.md",
     "MATH1005/Week 5/Sequence.md",
     "MATH1116/Analysis/Week 2/Convergence of series.md",
-    "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
     "MATH1005/Week 9/Conditional probability.md",
     "MATH1116/Linear algebra/Week 2/MATH1116 06.08.2026.md",
     "MATH1013/Linear algebra/Week 3/linearly independent.md",
@@ -349,7 +345,6 @@
     "MATH1005/Week 9/Bayes theorem.md",
     "COMP3670/Week 2/loss function.md",
     "MATH1013/Linear algebra/Week 2/Linear combination of vectors.md",
-    "MATH1005/Week 1/theorem.md",
     "attachments/Pasted image 20260807093422.png",
     "attachments/Pasted image 20260807093020.png",
     "attachments/Pasted image 20260806092519.png",
