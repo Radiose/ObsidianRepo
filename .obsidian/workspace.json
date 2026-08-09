@@ -85,13 +85,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 2/target function.md",
+                "file": "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/real number.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "target function"
+              "title": "real number"
             }
           },
           {
@@ -304,8 +304,11 @@
   },
   "active": "440df6102edf069e",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 1/vector space.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/real number.md",
     "Excalidraw/MATH1116 w2.excalidraw.md",
+    "MATH1116/Linear algebra/Week 1/vector space.md",
+    "COMP3670/Week 2/COMP3670 06.08.2026.md",
+    "COMP3670/Week 2/target function.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/algebraic and order axioms.md",
     "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
     "MATH1005/Week 1/The conditional statement.md",
@@ -328,9 +331,6 @@
     "MATH1116 odds and ends.md",
     "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
     "MATH1013/Linear algebra/Week 2/span.md",
-    "MATH1116/Linear algebra/Week 1/sum of subsets.md",
-    "MATH1116/Linear algebra/Week 1/MATH1116 31.07.2026.md",
-    "MATH1005/Week 9/Bayes theorem.md",
     "attachments/Pasted image 20260807093422.png",
     "attachments/Pasted image 20260807093020.png",
     "attachments/Pasted image 20260806092519.png",
