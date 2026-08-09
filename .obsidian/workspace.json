@@ -112,7 +112,8 @@
               "title": "vector space"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -304,10 +306,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "440df6102edf069e",
+  "active": "ff224de2896dd882",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 2/finite dimensional.md",
     "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
+    "MATH1116/Linear algebra/Week 2/finite dimensional.md",
     "MATH1116/Linear algebra/Week 2/MATH1116 06.08.2026.md",
     "COMP1110/Week 8/Class mutability.md",
     "Excalidraw/MATH1116 w2.excalidraw.md",
