@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 9/Random variable.md",
+                "file": "COMP2610/Week 2/covariance.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Random variable"
+              "title": "covariance"
             }
           },
           {
@@ -332,10 +332,14 @@
   },
   "active": "cd602f6fe9327da5",
   "lastOpenFiles": [
+    "MATH1005/Week 4/Converting between binary and octal.md",
+    "MATH1005/Week 8/Probability rules.md",
+    "MATH1005/Week 9/Conditional probability.md",
+    "COMP2610/Week 2/variance.md",
+    "MATH1005/Week 9/Random variable.md",
     "COMP2610/Week 1/marginal probability.md",
     "COMP2610/Week 1/COMP2610 27.07.2026 28.07.2026.md",
     "COMP2610/Week 2/COMP2610.md",
-    "MATH1005/Week 8/Probability rules.md",
     "MATH1116/Linear algebra/Week 2/linear dependence lemma.md",
     "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
     "MATH1013/Linear algebra/Week 3/linearly independent.md",
@@ -354,10 +358,6 @@
     "Excalidraw/MATH1116 w2.excalidraw.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/real number.md",
     "MATH1013/Complex numbers/Complex conjugate.md",
-    "COMP1110/Week 8/Class mutability.md",
-    "COMP3670/Week 2/COMP3670 06.08.2026.md",
-    "COMP3670/Week 2/target function.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/algebraic and order axioms.md",
     "templates",
     "attachments/Pasted image 20260807093422.png",
     "attachments/Pasted image 20260807093020.png",
