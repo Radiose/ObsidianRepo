@@ -15,7 +15,7 @@ Any vector E can be expressed.
 
 These produce an *[[Injective Function|injective]] correspondence* thats linear. 
 
-![[Basis]]
+![[basis of R]]
 
 The basis of a null space: 
 To solve, find the 

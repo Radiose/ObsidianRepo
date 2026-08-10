@@ -2,7 +2,7 @@
 {}
 ---
 Standard [[Matrix]]
-For a [[Linear transformation]] T, we can get the standard matrix of T from $A = [t(\vec{e}_{1})\dots t(\vec{e}_{n})]$, where e are columns in the [[Basis]]. 
+For a [[Linear transformation]] T, we can get the standard matrix of T from $A = [t(\vec{e}_{1})\dots t(\vec{e}_{n})]$, where e are columns in the [[basis of R]]. 
 
 Theorem: 
 T(x) = A$\vec{x}$
@@ -16,10 +16,10 @@ T($\begin{pmatrix}x_{1}  \\  x_{2}  \\  \dots  \\  x_{m}\end{pmatrix}$)=$T(x_{1}
 
 
 
-This is easy to do using the standard [[Basis]] of the [[Transformation]] 
+This is easy to do using the standard [[basis of R]] of the [[Transformation]] 
 
 So if someone gives the [[Transformation]]s domain and codomain, you can find the [[Standard Matrix]] using the standard basis. 
 
 
 ## Steps to finding a [[Standard Matrix]]
-Given some examples of the [[Linear transformation]], we relate each standard [[Basis]] [[vector]] to the vectors (find some combination of vectors that gives $e_n$). We take the scalar multipliers, and then apply them to the vectors that are the products. Then, we sum them together. 
+Given some examples of the [[Linear transformation]], we relate each standard [[basis of R]] [[vector]] to the vectors (find some combination of vectors that gives $e_n$). We take the scalar multipliers, and then apply them to the vectors that are the products. Then, we sum them together. 

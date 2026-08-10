@@ -8,3 +8,5 @@ $lin.comb=\mathbf{0}\implies \lambda_{1},\dots,\lambda_{m}=0$
 
 
 ![[Linearly dependent]]
+
+![[linear dependence lemma]]
