@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
+                "file": "MATH1116/Linear algebra/Week 1/sum of subsets.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1116 07.08.2026"
+              "title": "sum of subsets"
             }
           },
           {
@@ -108,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -300,17 +300,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ff224de2896dd882",
+  "active": "c0199e0595025b0a",
   "lastOpenFiles": [
+    "MATH1116/Linear algebra/Week 1/vector subspace.md",
     "MATH1116/Linear algebra/Week 1/vector space.md",
+    "Excalidraw/MATH1116 w2.excalidraw.md",
+    "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/real number.md",
     "MATH1013/Complex numbers/Complex conjugate.md",
-    "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
     "MATH1116/Linear algebra/Week 2/finite dimensional.md",
     "MATH1116/Linear algebra/Week 2/MATH1116 06.08.2026.md",
     "COMP1110/Week 8/Class mutability.md",
-    "Excalidraw/MATH1116 w2.excalidraw.md",
-    "MATH1116/Linear algebra/Week 1/vector subspace.md",
     "COMP3670/Week 2/COMP3670 06.08.2026.md",
     "COMP3670/Week 2/target function.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/algebraic and order axioms.md",
