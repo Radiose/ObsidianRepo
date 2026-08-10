@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 2/covariance.md",
+                "file": "MATH1116/Analysis/Week 2/Convergence of series.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "covariance"
+              "title": "Convergence of series"
             }
           },
           {
@@ -332,11 +332,13 @@
   },
   "active": "cd602f6fe9327da5",
   "lastOpenFiles": [
+    "MATH1005/Week 9/Independent event.md",
+    "COMP2610/Week 2/covariance.md",
+    "COMP2610/Week 2/variance.md",
+    "MATH1005/Week 9/Random variable.md",
     "MATH1005/Week 4/Converting between binary and octal.md",
     "MATH1005/Week 8/Probability rules.md",
     "MATH1005/Week 9/Conditional probability.md",
-    "COMP2610/Week 2/variance.md",
-    "MATH1005/Week 9/Random variable.md",
     "COMP2610/Week 1/marginal probability.md",
     "COMP2610/Week 1/COMP2610 27.07.2026 28.07.2026.md",
     "COMP2610/Week 2/COMP2610.md",
@@ -356,8 +358,6 @@
     "MATH1116/Linear algebra/Week 1/vector subspace.md",
     "MATH1116/Linear algebra/Week 1/vector space.md",
     "Excalidraw/MATH1116 w2.excalidraw.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/real number.md",
-    "MATH1013/Complex numbers/Complex conjugate.md",
     "templates",
     "attachments/Pasted image 20260807093422.png",
     "attachments/Pasted image 20260807093020.png",
