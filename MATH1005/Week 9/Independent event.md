@@ -1,6 +1,8 @@
 ---
 aliases:
   - dependent event
+  - independent
+  - dependent
 ---
 For a [[Sample space]] S with probability [[Density function]] P. $E,F \in \mathcal{P}(S)$ are called *independent* events when $\mathbb{P}(E \cap F)=\mathbb{P}(E)\times \mathbb{P}(F)$
 Two random variables are independent when 

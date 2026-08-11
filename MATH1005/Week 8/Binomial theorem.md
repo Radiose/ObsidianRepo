@@ -14,7 +14,9 @@ The image above shows the concept. We are looking for the amount of subsets with
 
 It can be easier to visualise as [[Pascals triangle]]
 
-![[Pascals triangle]]
+
+![[binomial distribution]]
+
 
 # Size of the [[Sample space]] of the [[Binomial theorem]]
 The size of the sample space of n events is given via $\begin{pmatrix} n \\ 0\end{pmatrix}+\begin{pmatrix}n \\ 1\end{pmatrix}+\dots+\begin{pmatrix}n  \\ n\end{pmatrix}$
