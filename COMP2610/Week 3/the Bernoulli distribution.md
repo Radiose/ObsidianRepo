@@ -1,6 +1,7 @@
 ---
 aliases:
   - Bernoulli trial
+  - Bernoulli
 ---
 Consider a binary variable $X=\{ 0,1 \}$. Often, these outcomes are not equally likely, so we come up with some general way to model $X$. This is very useful for many things, including mainly successful vs unsuccessful events. 
 
@@ -29,27 +30,4 @@ $$
 \end{aligned}
 $$
 ![[binomial distribution]]
-
-Parameter estimation
-Consider the set of observations $\mathcal{D}=\{ x_{1},\dots,x_{N} \}$ with $x_{i}\in \{ 0,1 \}$
-Each observation is the outcome of a [[Random variable]] $X$, with a binomial distribution.
-Say we observe $$
-\mathcal{D} = \{0, 0, 0, 1, 0, 0, 1, 0, 0, 0\}
-$$
-If we were to assume that $\theta=\frac{1}{5}$, then we'd get
-$$
-\begin{aligned}
-p(\mathcal{D} \mid \theta) &= \prod_{i=1}^{10} p(x_i \mid \theta) \\
-&= \left(\frac{1}{5}\right)^2 \cdot \left(\frac{4}{5}\right)^8 \\
-&\approx 0.007
-\end{aligned}
-$$
-
-We can write down how likely $\mathcal{D}$ is under the Bernoulli model. Assuming [[Independent event|independent]] observations:
-$$
-p(\mathcal{D} \mid \theta) = \prod_{i=1}^{N} p(x_i \mid \theta) = \prod_{i=1}^{N} \theta^{x_i} (1-\theta)^{1-x_i}
-$$
-We call $L(\theta)=p(\mathcal{D}|\theta)$ the likelihood function. 
-
-
-Maximising $p(\mathcal{D}|\theta)$ is 
+![[Parameter estimation]]

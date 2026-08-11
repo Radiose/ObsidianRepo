@@ -53,6 +53,21 @@
             }
           },
           {
+            "id": "7bf7e6bebd9cc181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1116/Analysis/Week 2/Convergence of series.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Convergence of series"
+            }
+          },
+          {
             "id": "a4957d0ae66d869d",
             "type": "leaf",
             "state": {
@@ -168,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -360,10 +375,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0325d8b32f985c73",
+  "active": "7bf7e6bebd9cc181",
   "lastOpenFiles": [
-    "MATH1005/Week 9/Independent event.md",
+    "COMP2610/Week 3/Parameter estimation.md",
     "COMP2610/Week 3/the Bernoulli distribution.md",
+    "attachments/Pasted image 20260811162138.png",
+    "MATH1005/Week 9/Independent event.md",
     "COMP2610/Week 3/binomial distribution.md",
     "COMP2610/Week 3/COMP2610 11.08.2026.md",
     "MATH1005/Week 8/Binomial theorem.md",
@@ -387,7 +404,6 @@
     "MATH1116/Analysis/Week 1/MATH1116 29.07.2026.md",
     "MATH1005/Week 5/Sequence.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/Convergence of a sequence.md",
-    "MATH1013/Calculus/Week 7/Integration by parts.md",
     "templates",
     "attachments/Pasted image 20260807093422.png",
     "attachments/Pasted image 20260807093020.png",
@@ -398,7 +414,6 @@
     "attachments/Pasted image 20260803144438.png",
     "attachments/Pasted image 20260803123701.png",
     "attachments/Pasted image 20260802160726.png",
-    "attachments/Pasted image 20260731122500.png",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
     "MATH1116",
     "MATH1116/Analysis/Week 9",
