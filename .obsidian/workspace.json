@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 2/span.md",
+                "file": "MATH1116/Linear algebra/Week 2/basis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "span"
+              "title": "basis"
             }
           },
           {
@@ -332,14 +332,14 @@
   },
   "active": "cd602f6fe9327da5",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
     "MATH1116/Linear algebra/Week 2/span.md",
+    "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
+    "MATH1116/Linear algebra/Week 2/basis.md",
     "MATH1116/Linear algebra/Week 2/MATH1116 06.08.2026.md",
     "MATH1116/Linear algebra/Week 2/finite dimensional.md",
     "MATH1116/Linear algebra/Week 2/linear dependence lemma.md",
     "MATH1013/Linear algebra/Week 3/Linearly dependent.md",
     "MATH1013/Linear algebra/Week 3/linear relation.md",
-    "MATH1116/Linear algebra/Week 2/basis.md",
     "templates/Inline math.md",
     "MATH1116/Linear algebra/Week 1/vector subspace.md",
     "MATH1116/Analysis/Week 2/Convergence of series.md",

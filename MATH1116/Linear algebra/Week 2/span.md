@@ -44,9 +44,10 @@ $$V = \text{span}({v_1} \cup Y) = \text{span}({v_1} \cup Y_1)$$
 with $|Y_1| = n - 1$.
 
 Inductive step:
-Consider $\{ v_{1}\dots v_{j} \}\cup Y_{j-1}$, it is linearly independent. 
+Consider $\{ v_{1}\dots v_{j} \}\cup Y_{j-1}$, it is linearly dependent. 
 Via the [[linear dependence lemma]], $\exists w_{k}\in Y_{j-1}$. 
 Call $Y_{j}:=Y_{j-1}\backslash\{ w_{k} \}$, then $V=span(\{ v_{1},v_{2},\dots,v_{j} \}\cup Y_{j})$
 After step M:$|Y_{m}|=n-m\geq {0}$
 So, $n \geq m \blacksquare$
 
+The idea with the above proof is that linear independence is a stronger condition than span, and thus the minimal spanning set is the greatest set that is still [[linearly independent]]. 
