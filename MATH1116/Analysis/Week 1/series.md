@@ -4,9 +4,12 @@ A series is a type of [[Sequence]] that is defined in terms of addition.
 
 
 
-some notes:
-To add series, directly, they must have the same index range. 
-$\sum_{i=0}^n a_{n} + \sum_{i=0}^n b_{n} = \sum_{i=0}^n(a_{n}+b_{n})$
+
+
+# Convergence of series
+![[Convergence of series]]
+
+
 
 # Reindexing series (and peeling)
 This is an essential skill for adding series that have differing ranges.
@@ -66,5 +69,6 @@ $$= x^{n+1} + y^{n+1} + \sum_{j=1}^{n}\binom{n+1}{j}x^{j}y^{n+1-j}$$
 
 $$= \sum_{j=0}^{n+1}\binom{n+1}{j}x^{j}y^{n+1-j}$$
 
-
-![[Convergence of series]]
+some notes:
+To add series, directly, they must have the same index range. 
+$\sum_{i=0}^n a_{n} + \sum_{i=0}^n b_{n} = \sum_{i=0}^n(a_{n}+b_{n})$
