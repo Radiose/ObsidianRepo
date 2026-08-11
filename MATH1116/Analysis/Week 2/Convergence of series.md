@@ -130,3 +130,4 @@ $$\sum_{j=0}^{\infty} x_j \text{ converges} \iff \sum_{j=0}^{\infty} y_j \text{ 
 
 # Convergence tests for series 
 ![[The integral test]]
+![[The ratio test]]
