@@ -1,0 +1,1 @@
+Consider a binary variable $X=\{ 0,1 \}$. Often, these outcomes are not equally likely, so we come up with some general way to model $$
