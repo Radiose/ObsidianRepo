@@ -19,3 +19,10 @@ $$
 
 This shows that $\mathbf{v}_j \in \text{Span}\{\mathbf{v}_1, \ldots, \mathbf{v}_{j-1}\}$.
 The first bullet point should now imply the second. 
+let $\mathbf{w}=a_{1}v_{1}+a_{2}v_{2}+\dots+a_{j}v_{j}+\dots+a_{n}v_{n}$
+since $v_{j}=a_{1*}v_{1}+a_{2*}v_{2}+\dots+a_{j-1*}v_{j-1}$, $\mathbf{w}=a_{1}v_{1}+a_{2}v_{2}+\dots+a_{j}(a_{1*}v_{1}+a_{2*}v_{2}+\dots+a_{j-1*}v_{j-1})+\dots+a_{n}v_{n}$
+$\implies \mathbf{w}=(a_{1}+a_{j}a_{1*})v_{1}+\dots+a_{n}v_{n}$
+thus because $\mathbf{w}$ was arbitrary, the second bullet point is proven.
+
+
+
