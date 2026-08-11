@@ -14,7 +14,7 @@ Span$\{ V \}=V$
 
 # Theorem 1
 Given a [[subset]] $X$, its span is the smallest [[vector subspace|subspace]] of $V$ that contains $X$.
-# Proof
+### Proof
 Suppose that $U$ is a subspace of $V$ s.t $U \subset Span(X)$ and $X \subset U$
 Take some element of $\lambda_{1} v_{1}+\dots+\lambda_{m}v_{m} \in Span(X)$
 $v_{1},\dots v_{n}\in X \in U$, but $U$ is a subspace, so $\lambda_{1} v_{1}+\lambda_{2}v_{2}+\dots+\lambda_{n}v_{n} \in U$ (subspaces have addition and multiplication closed).
@@ -24,7 +24,7 @@ thus, $Span(X)=U$
 
 # Theorem 2
 Given $X,Y \subset V$, where $X$ is [[linearly independent]], and $Y$ spans $V$, then $|X|\leq|Y|$ (set [[cardinality]])
-# Proof
+### Proof
 Let 
 $X = \{ v_{1},\dots v_{m} \}$
 $Y=\{ w_{1},w_{2},\dots w_{m} \}$

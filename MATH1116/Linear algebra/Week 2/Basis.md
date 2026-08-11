@@ -26,5 +26,46 @@ Since $X$ is at the beginning of the list $X \cup Y$, with each application of t
 # Theorem 3
 any $U \subset V$ has a complement, that is $\exists W\subset V s.t \quad V=U \oplus W$.
 ### Proof
-pick some basis $X$ of $U$, we then extend it to some $X\cup Y$, where $Y$ is some spanning set of $V$.
-Then, $W=span(Y)$.
+pick some basis $X$ of $U$, we then extend it to some $X\cup Y$(via theorem 2) basis of $V$, where $Y$ are the remaining vectors from some spanning set of $V$.
+Then, let $W=span(Y) = \{ w_{1},\dots,w_{j} \}$.
+
+We aim to show $V=U\oplus W$. By [[internal direct sum of subspaces#Theorem 1|this theorem]], we aim to show that $V =U+W$, and $U \cap W=\{ \mathbf{0} \}$
+Suppose $v \in V$, then $v$ can be written as a [[Linear combination of vectors|linear combination]] of the basis vectors $v =a_{1}u_{1}+\dots+a_{m}u+b_{1}w_{1}+\dots+b_{n}w_{n}$. Then, $v=\mathbf{u}+\mathbf{w}$ for some $\mathbf{u}\in U\quad\mathbf{v}\in V$. 
+Thus, $V=U+W$.
+
+To show $U \cap W = \{\mathbf{0}\}$, suppose $\mathbf{v} \in U \cap W$. Then there exist scalars $a_1, \dots, a_m, b_1, \dots, b_n \in \mathbb{F}$ such that
+
+$$\mathbf{v} = a_1\mathbf{u}_1 + \cdots + a_m\mathbf{u}_m = b_1\mathbf{w}_1 + \cdots + b_n\mathbf{w}_n.$$
+
+Thus
+
+$$a_1\mathbf{u}_1 + \cdots + a_m\mathbf{u}_m - b_1\mathbf{w}_1 - \cdots - b_n\mathbf{w}_n = \mathbf{0}.$$
+
+By the independence, we have $a_1 = \cdots = a_m = b_1 = \cdots = b_n = 0$. Thus $\mathbf{v} = 0$, completing the proof that $U \cap W = \{\mathbf{0}\}$. $\blacksquare$
+
+# Theorem 4
+if $\{ v_{1},v_{2},\dots v_{n} \}$ is a basis of $V$, then $\forall i\not=j\quad\forall \lambda \in \mathbb{F}$, $\{ v_{1},\dots,v_{i-1},v_{i}+b\vec{v}_{j},v_{i+1}\dots v_{n} \}$ is a basis as well.
+### Proof 
+Because the set is a basis, let some arbitrary $\mathbf{w \in }V$ be written
+$$\mathbf{w} = a_1\mathbf{v}_1 + \cdots + a_{i-1}\mathbf{v}_{i-1} + a_i(\mathbf{v}_i + b\mathbf{v}_j) + a_{i+1}\mathbf{v}_{i+1} + \cdots + a_n\mathbf{v}_n.$$
+
+We rearrange the sum to get
+
+$$\mathbf{w} = a_1\mathbf{v}_1 + \cdots + a_{i-1}\mathbf{v}_{i-1} + a_i\mathbf{v}_i + a_{i+1}\mathbf{v}_{i+1} + \cdots + a_{j-1}\mathbf{v}_{j-1} + c\mathbf{v}_j + a_{j+1}\mathbf{v}_{j+1} + \cdots + a_n\mathbf{v}_n,$$
+where $c=a_{j}+a_{i}b$. This proves existence. Now, because the original $\{ v_{1},v_{2},\dots v_{n} \}$ was a basis, the tuple of numbers $(a_{1},\dots,a_{j-i},c,a_{j+1},\dots,a_{n})$ is uniquely determined. But then we can recover $a_{j}=c-a_{i}b$. We test for uniqueness.
+
+To check that the choice of $(a_1, \dots, a_n)$ is unique, we assume that we have a potentially different choice of $(c_1, \dots, c_n)$ such that
+
+$$\mathbf{w} = a_1\mathbf{v}_1 + \cdots + a_{i-1}\mathbf{v}_{i-1} + a_i(\mathbf{v}_i + b\mathbf{v}_j) + a_{i+1}\mathbf{v}_{i+1} + \cdots + a_n\mathbf{v}_n$$
+$$= c_1\mathbf{v}_1 + \cdots + c_{i-1}\mathbf{v}_{i-1} + c_i(\mathbf{v}_i + b\mathbf{v}_j) + c_{i+1}\mathbf{v}_{i+1} + \cdots + c_n\mathbf{v}_n.$$
+
+We can write
+
+$$0 = \mathbf{w} - \mathbf{w} = (a_1\mathbf{v}_1 + \cdots + a_{j-1}\mathbf{v}_{j-1} + (a_j + a_ib)\mathbf{v}_j + a_{j+1}\mathbf{v}_{j+1} + \cdots + a_n\mathbf{v}_n)$$
+$$- (c_1\mathbf{v}_1 + \cdots + c_{j-1}\mathbf{v}_{j-1} + (c_j + c_ib)\mathbf{v}_j + c_{j+1}\mathbf{v}_{j+1} + \cdots + c_n\mathbf{v}_n)$$
+$$= (a_1 - c_1)\mathbf{v}_1 + \cdots + (a_i - c_i)\mathbf{v}_i + \cdots + (a_{j-1} - c_{j-1})\mathbf{v}_{j-1}$$
+$$+ (a_j - c_j + a_ib - c_ib)\mathbf{v}_j + (a_{j+1} - c_{j+1})\mathbf{v}_{j+1} + \cdots + (a_n - c_n)\mathbf{v}_n.$$
+
+Since $\{\mathbf{v}_1, \dots, \mathbf{v}_n\}$ is a basis, it is in particular linearly independent, by definition of basis; hence the only linear combination of vectors summing to $0$ should have all coefficients $0$, by definition of linear independence. Therefore, the above equality implies that $a_k - c_k = 0$ for every $1 \le k \le n$ except for $k = j$ and $a_j - c_j + a_ib - c_ib = 0$. 
+
+We thus get that $a_k = c_k$ for all $k \ne j$, and hence $0 = a_j - c_j + (a_i - c_i)b = a_j - c_j$, implying that $a_j = c_j$. This proves that the tuples of coefficients $(a_1, \dots, a_n)$ and $(c_1, \dots, c_n)$ are equal, which means that every vector $\mathbf{w}$ admits only one decomposition as a linear combination of $\{\mathbf{v}_1, \dots, \mathbf{v}_{i-1}, \mathbf{v}_i + b\mathbf{v}_j, \mathbf{v}_{i+1}, \dots, \mathbf{v}_n\}$. $\blacksquare$

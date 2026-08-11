@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
+                "file": "MATH1116/Linear algebra/Week 2/basis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1116 07.08.2026"
+              "title": "basis"
             }
           },
           {
@@ -137,8 +137,7 @@
               "title": "Complex conjugate"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -330,11 +329,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cd602f6fe9327da5",
+  "active": "440df6102edf069e",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 2/span.md",
     "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
+    "MATH1116/Linear algebra/Week 2/span.md",
+    "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
+    "MATH1013/Linear algebra/Week 3/linearly independent.md",
     "MATH1116/Linear algebra/Week 2/basis.md",
+    "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
     "MATH1116/Linear algebra/Week 2/MATH1116 06.08.2026.md",
     "MATH1116/Linear algebra/Week 2/finite dimensional.md",
     "MATH1116/Linear algebra/Week 2/linear dependence lemma.md",
@@ -355,9 +357,6 @@
     "MATH1005/Week 4/Converting between binary and octal.md",
     "MATH1005/Week 8/Probability rules.md",
     "MATH1005/Week 9/Conditional probability.md",
-    "COMP2610/Week 1/marginal probability.md",
-    "COMP2610/Week 1/COMP2610 27.07.2026 28.07.2026.md",
-    "COMP2610/Week 2/COMP2610.md",
     "templates",
     "attachments/Pasted image 20260807093422.png",
     "attachments/Pasted image 20260807093020.png",
