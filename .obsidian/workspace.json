@@ -83,51 +83,6 @@
             }
           },
           {
-            "id": "8c8121b7951b5503",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP2610/Week 3/Entropy of a Bernoulli trial.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Entropy of a Bernoulli trial"
-            }
-          },
-          {
-            "id": "cb611dea5ddcebb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1116/Analysis/Week 2/Convergence of series.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Convergence of series"
-            }
-          },
-          {
-            "id": "afaf97b23af1ce70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP2610/Week 2/variance.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "variance"
-            }
-          },
-          {
             "id": "a8ad39e1a3df6a92",
             "type": "leaf",
             "state": {
@@ -347,9 +302,15 @@
   },
   "active": "c160c7ded47e483b",
   "lastOpenFiles": [
+    "COMP2610/Week 2/variance.md",
+    "MATH1116/Analysis/Week 2/Convergence of series.md",
     "COMP2610/Week 3/Entropy of a Bernoulli trial.md",
-    "attachments/Pasted image 20260812162237.png",
+    "COMP2610/Week 3/conditional entropy.md",
+    "COMP2610/Week 3/joint entropy.md",
     "COMP2610/Week 3/entropy (information theory).md",
+    "attachments/Pasted image 20260812170631.png",
+    "attachments/Pasted image 20260812165328.png",
+    "attachments/Pasted image 20260812162237.png",
     "MATH1005/Week 9/random variable.md",
     "COMP2610/Week 1/information.md",
     "COMP2610/Week 3/COMP2610 11.08.2026.md",
@@ -357,12 +318,10 @@
     "COMP2610/Week 3/Parameter estimation.md",
     "MATH1005/Week 9/Bayes theorem.md",
     "MATH1116/Analysis/Week 3/The integral test.md",
-    "MATH1116/Analysis/Week 2/Convergence of series.md",
     "COMP2610/Week 3/the Bernoulli distribution.md",
     "Excalidraw/MATH1005 workshop week 11.excalidraw.md",
     "Excalidraw/MATH1013 complex numbers assignment.excalidraw.md",
     "Excalidraw/COMP2610 A1.excalidraw.md",
-    "COMP2610/Week 2/variance.md",
     "COMP2610/Week 3/binomial distribution.md",
     "MATH1013/Complex numbers/Complex conjugate.md",
     "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
@@ -371,8 +330,6 @@
     "MATH1005/Week 9/Conditional probability.md",
     "MATH1013/Linear algebra/Week 3/Linearly dependent.md",
     "MATH1116/Linear algebra/Week 1/vector subspace.md",
-    "MATH1116/Linear algebra/Week 2/basis.md",
-    "MATH1013/Linear algebra/Week 3/linearly independent.md",
     "attachments/Pasted image 20260811162138.png",
     "templates",
     "attachments/Pasted image 20260807093422.png",
@@ -381,8 +338,6 @@
     "attachments/Pasted image 20260805193305.png",
     "attachments/Pasted image 20260804185910.png",
     "attachments/Pasted image 20260803172741.png",
-    "attachments/Pasted image 20260803144438.png",
-    "attachments/Pasted image 20260803123701.png",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
     "MATH1116",
     "MATH1116/Analysis/Week 9",
