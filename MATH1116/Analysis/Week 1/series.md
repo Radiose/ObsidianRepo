@@ -2,10 +2,6 @@ A series is a type of [[Sequence]] that is defined in terms of addition.
 
 
 
-
-
-
-
 # Convergence of series
 ![[Convergence of series]]
 
