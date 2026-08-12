@@ -7,7 +7,7 @@ $$\sum_{j=a}^{\infty} x_j \text{ converges} \iff \left(\int_a^n f(x)\,dx\right)_
 $(\Rightarrow)$ We have that $\forall n \in \mathbb{N} \cap [a,\infty)$,
 
 $$\int_a^n f(x)\,dx = \sum_{j=a}^{n-1} \int_j^{j+1} f(x)\,dx.$$
-
+$$\sum_{j=a}^{\infty} x_j \text{ converges} \iff \left(\int_a^n f(x)\,dx\right)_{n \in \mathbb{N} \cap [a,\infty)} \text{ converges.}$$
 Let $y_j = \int_j^{j+1} f(x)\,dx, \, \forall j \in \mathbb{N} \cap [a,\infty)$.
 Then $\forall j \in \mathbb{N} \cap [a,\infty)$, $0 \leq y_j \leq \int_j^{j+1} f(j)\,dx = x_j$ (non increasing). Therefore $\sum_{j=a}^{\infty} y_j$ converges via [[Convergence of series#Theorem 2 (converging series bounds smaller one)|this theorem]], and so
 

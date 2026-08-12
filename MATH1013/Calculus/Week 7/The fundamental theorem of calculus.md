@@ -4,6 +4,9 @@ aliases:
 ---
 The fundamental [[theorem]] of calculus
 
+# Intuition 
+The tricky part about the fundamental theorem of calculus is understanding that the integral should be thought of as more of the sum of infinitesimally small changes between $a$ and $b$. The original function $F(b)-F(a)$ is the function we are trying to find the change on between $a$ and $b$, so what do is we sum up all the changes that occurred in the derivative. 
+
 # Part I
 let a function $f$ be [[continuous function|continuous]] on $[a,b]$. Let $g : [a,b] \to \mathbb{R}$ be the [[function]] that evaluates to the [[Definite integral]] from $a$  to $x$ of $f(x)$. 
 
