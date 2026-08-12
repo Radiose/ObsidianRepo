@@ -2,7 +2,7 @@ Let $a \in \mathbb{N}$ and $f : [a,\infty) \to [0,\infty)$ be a continuous and n
 Then
 
 $$\sum_{j=a}^{\infty} x_j \text{ converges} \iff \left(\int_a^n f(x)\,dx\right)_{n \in \mathbb{N} \cap [a,\infty)} \text{ converges.}$$
-
+Think of the integral as not the actual integral, but simply the antiderivative of $f(x)$. Then, think about the area under the curve converging. The area under the curve converging, means that the sequence must converge. 
 # Proof
 $(\Rightarrow)$ We have that $\forall n \in \mathbb{N} \cap [a,\infty)$,
 
