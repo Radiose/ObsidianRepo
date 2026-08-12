@@ -21,4 +21,4 @@ $\mathbb{P}(G)\times P(A)=\frac{1}{4}$
 Thus, the first toss being heads is an independent even from the second toss being tails.
 
 
-The only way to prove that two [[Random variable]]s are independent is to prove all entries are independent of each other. For example, to prove that height and grades are independent, you'd have to verify that the joint distribution factors at every point — $P(X=x \cap Y=y)=P(X=x)P(Y=y)$for all pairs $(x,y)$
+The only way to prove that two [[random variable]]s are independent is to prove all entries are independent of each other. For example, to prove that height and grades are independent, you'd have to verify that the joint distribution factors at every point — $P(X=x \cap Y=y)=P(X=x)P(Y=y)$for all pairs $(x,y)$

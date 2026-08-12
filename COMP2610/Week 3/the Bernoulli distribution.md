@@ -16,7 +16,7 @@ $p(X=1|\theta)=\theta$ - the probability that the random variable takes this val
 $p(X=0|\theta)=1-\theta$
 
 And more succinctly, $p(X=x|\theta)=bern(x|\theta)=\theta^x(1-\theta)^{1-x}$ .
-The [[Random variable|expected value]] (or mean) is given by 
+The [[random variable|expected value]] (or mean) is given by 
 $$
 \mathbb{E}[X \mid \theta] = \sum_{x \in \{0,1\}} x \cdot p(x \mid \theta) = 1 \cdot p(X = 1 \mid \theta) + 0 \cdot p(X = 0 \mid \theta) = \theta
 $$

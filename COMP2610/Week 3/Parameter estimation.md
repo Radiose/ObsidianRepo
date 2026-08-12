@@ -1,5 +1,5 @@
 Consider the set of observations $\mathcal{D}=\{ x_{1},\dots,x_{N} \}$ with $x_{i}\in \{ 0,1 \}$
-Each observation is the outcome of a [[Random variable]] $X$, with a binomial distribution.
+Each observation is the outcome of a [[random variable]] $X$, with a binomial distribution.
 Say we observe $$
 \mathcal{D} = \{0, 0, 0, 1, 0, 0, 1, 0, 0, 0\}
 $$
@@ -56,4 +56,20 @@ p(\theta \mid \mathcal{D}, a, b) &= \frac{p(\mathcal{D} \mid \theta)\, p(\theta 
 &= \frac{p(\mathcal{D} \mid \theta)\, p(\theta \mid a, b)}{\int_0^1 p(\mathcal{D} \mid \theta)\, p(\theta \mid a, b)\, d\theta} \\[6pt]
 &= \text{Beta}(\theta \mid m + a, \ell + b)
 \end{aligned}
+$$
+
+# Maximising the posterior
+
+We denote $\theta_{MAP}$ as the $\theta$ that will maximise the posterior $p(\theta|\mathcal{D})$
+
+One can show that
+
+$$
+\theta_{\text{MAP}} = \frac{m + a - 1}{N + a + b - 2}
+$$
+
+comparing to the estimate that did not use any prior,
+
+$$
+\theta_{\text{ML}} = \frac{m}{N}
 $$

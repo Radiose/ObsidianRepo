@@ -12,7 +12,7 @@ $p(Y=m)=Bin(m|N,\theta)=\begin{pmatrix}N \\ m\end{pmatrix}\theta^m(1-\theta)^{n-
 [[Binomial theorem]].
 
 
-[[Random variable|expected value]] and [[variance]] of [[binomial distribution]]:
+[[random variable|expected value]] and [[variance]] of [[binomial distribution]]:
 $$
 \begin{aligned}
 \mathbb{E}[Y] &= \sum_{m=0}^{N} m \cdot \text{Bin}(m \mid N, \theta) = N\theta \\[4pt]

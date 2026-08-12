@@ -5,7 +5,7 @@ aliases:
 ---
 the covariance between $X$ and $Y$, denoted $cov(X,Y)=E(XY)-E(X)E(Y)$
 
-Note we are using joint [[Random variable|expected value]]s.
+Note we are using joint [[random variable|expected value]]s.
 
 note that by definition, $cov(X,X)=E(XX)-E(X)E(X)=var(X)$
 

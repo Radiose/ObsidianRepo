@@ -25,7 +25,7 @@ The probability density function maps a probability to each random variable
 ## Expectation of an indicator
 
 An important identity is $\mathbb{E}[\mathbb{1}\{ A \}]=\mathbb{P}(A)+0\cdot(1-\mathbb{P}(A))=\mathbb{P}(A)$
-For a random variable that is binary, the [[Random variable|expected value]] is also the probability. 
+For a random variable that is binary, the [[random variable|expected value]] is also the probability. 
 This is used constantly. The error of some classifier $h$ is $\mathbb{P}(h(\mathbf{X})\not=Y)=\mathbb{E}[\mathbb{1}(h(\mathbf{X})\not=Y)]$
 
 ### Linearity of expectation 
@@ -34,7 +34,7 @@ $\mathbb{E}[aX +bY]=a \mathbb{E}[X]+b\mathbb{E}[Y]$
 
 
 ### Multivariable expectation 
-The [[Random variable|expected value]] of a function $g(X,Y)$ of two discrete, random variables is defined as $E(g(X,Y))=\sum_{x}\sum_{y}g(X,Y)p(X=x,Y=y)$
+The [[random variable|expected value]] of a function $g(X,Y)$ of two discrete, random variables is defined as $E(g(X,Y))=\sum_{x}\sum_{y}g(X,Y)p(X=x,Y=y)$
 
 In particular, the expected value of $X$ is given by $E[X]=\sum_{x}\sum_{y}x\cdot p(X=x,Y=y)$
 
