@@ -1,0 +1,2 @@
+The generalisation gap of a hypothesis $h$ on the sample $\mathcal{D_{n}}$ is $$|E_{out}(h)-E_{in}(h)|$$
+Learning succeeds when both are small. A small $E_{in}$ means nothing unless the $E_{out}$ is also close. 

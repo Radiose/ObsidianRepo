@@ -9,3 +9,13 @@
 
 
 We should note here that this formula is rarely able to be achieved, because $P$ is typically never fully known. 
+
+$E_{out}(h)=L(h)=E(\ell((\mathbf{X},Y),h))$ with $(\mathbf{X},Y)$ as a test point. 
+
+
+# In sample error 
+The important part is that the in sample error is **random**. It depends on the sample that is observed. 
+
+On the other hand, the out of sample error is fixed. 
+
+Using binary loss: COME BACK 
