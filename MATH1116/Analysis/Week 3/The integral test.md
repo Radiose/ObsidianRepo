@@ -1,5 +1,4 @@
-
-  Let $a \in \mathbb{N}$ and $f : [a,\infty) \to [0,\infty)$ be a continuous and non-increasing function. Let $x_j = f(j), \forall j \in \mathbb{N} \cap [a,\infty)$.
+Let $a \in \mathbb{N}$ and $f : [a,\infty) \to [0,\infty)$ be a continuous and non-increasing function. Let $x_j = f(j), \forall j \in \mathbb{N} \cap [a,\infty)$.
 Then
 
 $$\sum_{j=a}^{\infty} x_j \text{ converges} \iff \left(\int_a^n f(x)\,dx\right)_{n \in \mathbb{N} \cap [a,\infty)} \text{ converges.}$$

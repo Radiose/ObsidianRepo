@@ -7,6 +7,7 @@ If $(s_n)_{n\in\mathbb{N}}$ diverges, we say that the series $\sum_{j=0}^\infty 
 
 
 
+
 Series can be thought of as the discrete form analogous to the [[Definite integral|integral]]. The following remark helps relate them easier. 
 ### Remark
 $\int_{0}^{n+1}f(x)dx=\sum_{j=0}^n \int_{j}^{j+1}x_{j}dx +\sum_{j=n+1}^\infty \int_{j}^{j+1} x_{j}dx$
@@ -15,7 +16,7 @@ If $\sum_{j=0}^\infty$ converges,
 
 $\sum_{j=0}^\infty x_{j}=\int_{0}^\infty f(x)dx:=\lim_{ M \to +\infty }\int_{0}^Mf(x)dx$
 
-
+The sequence of partial sums converges. That is the most important fact. 
 
 
 # Geometric series 
