@@ -113,6 +113,21 @@
             }
           },
           {
+            "id": "d248fb6fc76eeb3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP3670/Week 3/Hoeffdings inequality.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Hoeffdings inequality"
+            }
+          },
+          {
             "id": "c160c7ded47e483b",
             "type": "leaf",
             "state": {
@@ -125,6 +140,21 @@
               },
               "icon": "lucide-file",
               "title": "COMP3670 13.08.2026"
+            }
+          },
+          {
+            "id": "b06c115f040d0c31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP3670/Week 3/Controlling the generalisation gap.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Controlling the generalisation gap"
             }
           },
           {
@@ -153,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -223,12 +253,12 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -346,11 +376,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e9433c2d2fbca9a5",
+  "active": "b06c115f040d0c31",
   "lastOpenFiles": [
+    "COMP3670/Week 3/COMP3670 13.08.2026.md",
+    "COMP3670/Week 3/Controlling the generalisation gap.md",
+    "COMP3670/Week 3/Hoeffdings inequality.md",
+    "attachments/Pasted image 20260813093426.png",
     "COMP3670/Week 2/generalisation gap.md",
     "COMP3670/Week 2/Empirical risk minimisation.md",
-    "COMP3670/Week 3/COMP3670 13.08.2026.md",
     "COMP3670/Week 2/COMP3670 06.08.2026.md",
     "COMP3670/Week 2/out of sample error.md",
     "COMP3670/Week 2/simple random sample.md",
@@ -375,8 +408,6 @@
     "Excalidraw/MATH1013 complex numbers assignment.excalidraw.md",
     "Excalidraw/COMP2610 A1.excalidraw.md",
     "COMP2610/Week 3/binomial distribution.md",
-    "MATH1013/Complex numbers/Complex conjugate.md",
-    "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
     "attachments/Pasted image 20260811162138.png",
     "templates",
     "attachments/Pasted image 20260807093422.png",
@@ -384,7 +415,6 @@
     "attachments/Pasted image 20260806092519.png",
     "attachments/Pasted image 20260805193305.png",
     "attachments/Pasted image 20260804185910.png",
-    "attachments/Pasted image 20260803172741.png",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
     "MATH1116",
     "MATH1116/Analysis/Week 9",
