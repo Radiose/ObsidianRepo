@@ -10,7 +10,7 @@ The usual way we view the bound:
 $E_{out }(h)\leq E_{in}(h)+\sqrt{ \frac{1}{2N}\log \frac{2}{\delta} }$
 The penalty (right sqrt) decreases like $\frac{1}{\sqrt{ N }}$. To halve the error bar, we need four times as much data. 
 
-Importantly, $h$ had to be fixed, before looking at the sample. 
+**Importantly, $h$ had to be fixed, before looking at the sample.** 
 What this is was verification, not learning, in which $\hat{h}$ was chosen **using** the sample. 
 [[Empirical risk minimisation]] will report the hypothesis with the best in sample record. Whatever minimises has some bias. 
 
