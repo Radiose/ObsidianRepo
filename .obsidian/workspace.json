@@ -87,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -279,11 +279,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0325d8b32f985c73",
+  "active": "35060226e62d736e",
   "lastOpenFiles": [
-    "COMP2610/Week 2/variance.md",
     "Excalidraw/COMP2610 A1.excalidraw.md",
     "Excalidraw/MATH1116 w2.excalidraw.md",
+    "COMP2610/Week 2/variance.md",
     "COMP3670/Week 3/COMP3670 13.08.2026.md",
     "MATH1116/Analysis/Week 1/MATH1116 29.07.2026.md",
     "MATH1005/Week 8/Binomial theorem.md",
