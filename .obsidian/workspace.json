@@ -53,108 +53,18 @@
             }
           },
           {
-            "id": "7bf7e6bebd9cc181",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 2/COMP3670 06.08.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "COMP3670 06.08.2026"
-            }
-          },
-          {
-            "id": "fef2a3a8fa1504b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 2/COMP3670 06.08.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "COMP3670 06.08.2026"
-            }
-          },
-          {
-            "id": "93e775047ab009dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 2/COMP3670 06.08.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "COMP3670 06.08.2026"
-            }
-          },
-          {
-            "id": "47ec42a6e5c10552",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 3/COMP3670 13.08.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "COMP3670 13.08.2026"
-            }
-          },
-          {
-            "id": "d248fb6fc76eeb3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 3/Hoeffdings inequality.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Hoeffdings inequality"
-            }
-          },
-          {
-            "id": "c160c7ded47e483b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 3/COMP3670 13.08.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "COMP3670 13.08.2026"
-            }
-          },
-          {
             "id": "b06c115f040d0c31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
+                "file": "MATH1116/Linear algebra/Week 2/dimension of a vector space.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "internal direct sum of subspaces"
+              "title": "dimension of a vector space"
             }
           },
           {
@@ -173,17 +83,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 3/Parameter estimation.md",
+                "file": "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Parameter estimation"
+              "title": "(external) direct sum of vector spaces"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -377,36 +287,36 @@
   },
   "active": "b06c115f040d0c31",
   "lastOpenFiles": [
-    "COMP3670/Week 3/Controlling the generalisation gap.md",
+    "MATH1116/Analysis/Week 3/summation by parts.md",
+    "MATH1116/Linear algebra/Week 1/MATH1116 31.07.2026.md",
+    "MATH1116/Linear algebra/Week 2/dimension of a vector space.md",
+    "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
+    "MATH1116/Linear algebra/Week 2/linear dependence lemma.md",
+    "MATH1116/Linear algebra/Week 1/vector space.md",
+    "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
+    "MATH1005/Week 8/Binomial theorem.md",
+    "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
+    "MATH1116/Linear algebra/Week 1/vector subspace.md",
+    "COMP2610/Week 3/Parameter estimation.md",
+    "MATH1116/Analysis/Week 2/Convergence of series.md",
+    "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
     "COMP3670/Week 3/COMP3670 13.08.2026.md",
     "COMP3670/Week 3/Hoeffdings inequality.md",
+    "COMP3670/Week 2/COMP3670 06.08.2026.md",
+    "COMP3670/Week 3/Controlling the generalisation gap.md",
     "attachments/Pasted image 20260813093426.png",
     "COMP3670/Week 2/generalisation gap.md",
     "COMP3670/Week 2/Empirical risk minimisation.md",
-    "COMP3670/Week 2/COMP3670 06.08.2026.md",
     "COMP3670/Week 2/out of sample error.md",
     "COMP3670/Week 2/simple random sample.md",
     "MATH1005/Week 9/random variable.md",
     "COMP2610/Week 1/information.md",
     "COMP2610/Week 3/entropy (information theory).md",
     "COMP2610/Week 2/variance.md",
-    "MATH1116/Analysis/Week 2/Convergence of series.md",
     "COMP2610/Week 3/Entropy of a Bernoulli trial.md",
-    "COMP2610/Week 3/conditional entropy.md",
-    "COMP2610/Week 3/joint entropy.md",
     "attachments/Pasted image 20260812170631.png",
     "attachments/Pasted image 20260812165328.png",
     "attachments/Pasted image 20260812162237.png",
-    "COMP2610/Week 3/COMP2610 11.08.2026.md",
-    "COMP2610/Week 3/COMP2610 10.08.2026.md",
-    "COMP2610/Week 3/Parameter estimation.md",
-    "MATH1005/Week 9/Bayes theorem.md",
-    "MATH1116/Analysis/Week 3/The integral test.md",
-    "COMP2610/Week 3/the Bernoulli distribution.md",
-    "Excalidraw/MATH1005 workshop week 11.excalidraw.md",
-    "Excalidraw/MATH1013 complex numbers assignment.excalidraw.md",
-    "Excalidraw/COMP2610 A1.excalidraw.md",
-    "COMP2610/Week 3/binomial distribution.md",
     "attachments/Pasted image 20260811162138.png",
     "templates",
     "attachments/Pasted image 20260807093422.png",
