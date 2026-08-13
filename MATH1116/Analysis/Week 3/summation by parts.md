@@ -24,3 +24,9 @@ $$
 $$
 ### Proof
 Just apply summation by parts with $b_{k}=\sum_{j=0}^n b_{j}$.
+
+
+# Applications
+
+# Theorem 1 
+Let $$
