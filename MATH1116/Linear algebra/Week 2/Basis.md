@@ -43,6 +43,11 @@ $$a_1\mathbf{u}_1 + \cdots + a_m\mathbf{u}_m - b_1\mathbf{w}_1 - \cdots - b_n\ma
 
 By the independence, we have $a_1 = \cdots = a_m = b_1 = \cdots = b_n = 0$. Thus $\mathbf{v} = 0$, completing the proof that $U \cap W = \{\mathbf{0}\}$. $\blacksquare$
 
+The idea: create some complement from the vectors necessary to span the entire vector space. 
+Start with U, add Y to get to V, then the complement is Y. 
+
+
+
 # Theorem 4
 if $\{ v_{1},v_{2},\dots v_{n} \}$ is a basis of $V$, then $\forall i\not=j\quad\forall \lambda \in \mathbb{F}$, $\{ v_{1},\dots,v_{i-1},v_{i}+b\vec{v}_{j},v_{i+1}\dots v_{n} \}$ is a basis as well.
 ### Proof 

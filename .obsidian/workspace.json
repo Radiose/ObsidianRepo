@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 2/dimension of a vector space.md",
+                "file": "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "dimension of a vector space"
+              "title": "internal direct sum of subspaces"
             }
           },
           {
@@ -287,19 +287,23 @@
   },
   "active": "b06c115f040d0c31",
   "lastOpenFiles": [
+    "MATH1013/Linear algebra/Week 3/linearly independent.md",
+    "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
+    "MATH1116/Linear algebra/Week 2/basis.md",
+    "MATH1116/Linear algebra/Week 2/span.md",
+    "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
+    "MATH1005/Week 2/subset.md",
+    "MATH1116/Linear algebra/Week 1/vector subspace.md",
+    "MATH1116/Linear algebra/Week 2/dimension of a vector space.md",
     "MATH1116/Analysis/Week 3/summation by parts.md",
     "MATH1116/Linear algebra/Week 1/MATH1116 31.07.2026.md",
-    "MATH1116/Linear algebra/Week 2/dimension of a vector space.md",
-    "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
     "MATH1116/Linear algebra/Week 2/linear dependence lemma.md",
     "MATH1116/Linear algebra/Week 1/vector space.md",
     "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
     "MATH1005/Week 8/Binomial theorem.md",
     "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
-    "MATH1116/Linear algebra/Week 1/vector subspace.md",
     "COMP2610/Week 3/Parameter estimation.md",
     "MATH1116/Analysis/Week 2/Convergence of series.md",
-    "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
     "COMP3670/Week 3/COMP3670 13.08.2026.md",
     "COMP3670/Week 3/Hoeffdings inequality.md",
     "COMP3670/Week 2/COMP3670 06.08.2026.md",
@@ -310,10 +314,6 @@
     "COMP3670/Week 2/out of sample error.md",
     "COMP3670/Week 2/simple random sample.md",
     "MATH1005/Week 9/random variable.md",
-    "COMP2610/Week 1/information.md",
-    "COMP2610/Week 3/entropy (information theory).md",
-    "COMP2610/Week 2/variance.md",
-    "COMP2610/Week 3/Entropy of a Bernoulli trial.md",
     "attachments/Pasted image 20260812170631.png",
     "attachments/Pasted image 20260812165328.png",
     "attachments/Pasted image 20260812162237.png",
