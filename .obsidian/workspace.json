@@ -148,13 +148,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 3/Controlling the generalisation gap.md",
+                "file": "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Controlling the generalisation gap"
+              "title": "internal direct sum of subspaces"
             }
           },
           {
@@ -257,8 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -378,8 +377,8 @@
   },
   "active": "b06c115f040d0c31",
   "lastOpenFiles": [
-    "COMP3670/Week 3/COMP3670 13.08.2026.md",
     "COMP3670/Week 3/Controlling the generalisation gap.md",
+    "COMP3670/Week 3/COMP3670 13.08.2026.md",
     "COMP3670/Week 3/Hoeffdings inequality.md",
     "attachments/Pasted image 20260813093426.png",
     "COMP3670/Week 2/generalisation gap.md",
