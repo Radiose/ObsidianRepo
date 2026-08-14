@@ -166,13 +166,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 3/summation by parts.md",
+                "file": "MATH1116 odds and ends.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "summation by parts"
+              "title": "MATH1116 odds and ends"
             }
           },
           {
@@ -385,8 +385,12 @@
   },
   "active": "1a6aac6ab8e5111c",
   "lastOpenFiles": [
-    "MATH1116/Analysis/Week 3/The ratio test.md",
+    "MATH1116 revision adlay.md",
+    "MATH1116/Analysis/Week 2/Convergence of series.md",
+    "MATH1116/Analysis/Week 2/The integral test.md",
     "MATH1116/Analysis/Week 3/summation by parts.md",
+    "MATH1116/Analysis/Week 3/The ratio test.md",
+    "MATH1116 odds and ends.md",
     "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
     "COMP3670/Week 1/The perceptron.md",
     "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
@@ -411,10 +415,6 @@
     "COMP3670/Week 3/Shatter coefficient.md",
     "COMP2610/Week 2/variance.md",
     "MATH1116/Analysis/Week 1/MATH1116 29.07.2026.md",
-    "MATH1005/Week 8/Binomial theorem.md",
-    "MATH1116/Analysis/Week 2/The integral test.md",
-    "MATH1116/Analysis/Week 2/Convergence of series.md",
-    "MATH1116/Analysis/Week 2/absolute convergence.md",
     "attachments/Pasted image 20260813093426.png",
     "attachments/Pasted image 20260812170631.png",
     "attachments/Pasted image 20260812165328.png",

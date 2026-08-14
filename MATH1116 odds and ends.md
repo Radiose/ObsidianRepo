@@ -29,3 +29,7 @@ $-t^{3n}=(-1)^n\times t^{3n}$
 
 # Constant up to N
 YOU HAVEE TO THINK ABOUT EVERYTHING UP TO THE N YOU CHOOSE FOR SEQUENCE AND SERIES CONVERGENCE AS A **CONSTANT** - THIS IS THE ESSENTIAL JUMP THAT YOU HAVE TO MAKE 
+
+
+# LA 
+the basis of $\{ 0 \}$ is $\emptyset,$ with $dim(\{ 0 \})=0$
