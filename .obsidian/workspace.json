@@ -166,17 +166,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
+                "file": "MATH1116/Analysis/Week 3/summation by parts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "(external) direct sum of vector spaces"
+              "title": "summation by parts"
+            }
+          },
+          {
+            "id": "5bd4b1053cc4ac34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP3670/Week 1/The perceptron.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "The perceptron"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -368,10 +383,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "35060226e62d736e",
+  "active": "1a6aac6ab8e5111c",
   "lastOpenFiles": [
-    "MATH1013/Linear algebra/Week 7/composition of Linear transformations.md",
+    "MATH1116/Analysis/Week 3/The ratio test.md",
+    "MATH1116/Analysis/Week 3/summation by parts.md",
+    "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
+    "COMP3670/Week 1/The perceptron.md",
+    "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
+    "Excalidraw/MATH1116 w2.excalidraw.md",
+    "COMP3670/Week 3/The fundamental theorem of statistical learning theory(binary loss).md",
+    "COMP3670/Week 3/Vapnik-Chervonenkis dimension.md",
+    "Excalidraw/COMP2610 A1.excalidraw.md",
     "MATH1013/Linear algebra/Week 6/Linear transformation of R n.md",
+    "MATH1013/Linear algebra/Week 7/composition of Linear transformations.md",
     "MATH1116/Linear algebra/Week 3/Linear map.md",
     "MATH1116/Linear algebra/Week 2/basis.md",
     "COMP3670/Week 3/COMP3670 13.08.2026.md",
@@ -380,26 +404,17 @@
     "attachments/Pasted image 20260814094755.png",
     "COMP3670/Week 1/hypothesis set.md",
     "COMP3670/Week 3/Controlling the generalisation gap.md",
-    "Excalidraw/COMP2610 A1.excalidraw.md",
-    "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
     "COMP3670/Week 3/VC bound.md",
-    "COMP3670/Week 3/The fundamental theorem of statistical learning theory(binary loss).md",
     "COMP3670/Week 3/PAC learnable.md",
-    "COMP3670/Week 3/Vapnik-Chervonenkis dimension.md",
     "COMP3670/Week 2/generalisation gap.md",
     "attachments/Pasted image 20260814085757.png",
     "COMP3670/Week 3/Shatter coefficient.md",
     "COMP2610/Week 2/variance.md",
-    "Excalidraw/MATH1116 w2.excalidraw.md",
     "MATH1116/Analysis/Week 1/MATH1116 29.07.2026.md",
     "MATH1005/Week 8/Binomial theorem.md",
     "MATH1116/Analysis/Week 2/The integral test.md",
     "MATH1116/Analysis/Week 2/Convergence of series.md",
     "MATH1116/Analysis/Week 2/absolute convergence.md",
-    "COMP2610/Week 2/COMP2610 03.08.2026.md",
-    "COMP2610/Week 2/conditional independence.md",
-    "COMP2610/Week 2/COMP2610.md",
-    "COMP2610/Week 3/COMP2610 11.08.2026.md",
     "attachments/Pasted image 20260813093426.png",
     "attachments/Pasted image 20260812170631.png",
     "attachments/Pasted image 20260812165328.png",

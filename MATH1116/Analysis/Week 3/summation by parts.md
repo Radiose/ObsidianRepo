@@ -50,3 +50,41 @@ $$
 $$
 
 The series $\sum_{k=0}^{\infty} a_k b_{k+1}$ converges by the above corollary. $\blacksquare$
+
+
+
+# Corollary
+Let $(a_{j})j \in \mathbb{N} \in \mathbb{R}^\mathbb{N}$ be such that
+
+1: $a_{j}\geq {0} \ \ \ \forall j \in \mathbb{N}$
+
+2: $a_{j+1}\leq a_{j} \ \ \ \ \forall j \in \mathbb{N}$
+
+3: $\lim_{ j \to \infty }a_{j}=0$
+
+Then $\sum_{j=0}^\infty(-1)^ja_{j}$ converges. 
+
+
+
+
+
+# Examples
+
+Prove $\sum_{n=0}^\infty \frac{(-1)^n}{\ln(n+2)}$ converges:
+we use theorem 1 above.
+Let $a_{n} = \frac{1}{\ln(n+2)}$
+Let $b_{n}=(-1)^{n-1}$
+
+$\lim_{ n \to \infty }\frac{1}{\ln(n+2)}=0$, so 1 must hold.
+To prove 2:
+$\sum_{j=0}^n |\frac{1}{\ln(n+3)}- \frac{1}{\ln(n+2)}|$
+$=\sum_{j=0}^n\left( \frac{1}{\ln(j+1)}-\frac{1}{\ln(j+2)} \right)$
+=$\sum_{j=1}^{n+1} \frac{1}{\ln(j+1)}-\sum_{j=0}^n\frac{1}{\ln(j+1)}$
+$= \frac{1}{\ln(j+2)}-\frac{1}{\ln j+0}$
+$\lim_{ n \to \infty }=a_{0}$, thus 2 holds 
+
+3: 
+$\sum_{j=0}^n|b_{j}|\leq1 \forall n \in \mathbb{N}$
+Thus this sequence must converge. 
+
+Prove $\sum_{n=0}^\infty \frac{\cos(n+1)}{n+1}$ converges. 
