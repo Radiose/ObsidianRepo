@@ -25,13 +25,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 3/Linear map.md",
+                "file": "MATH1013/Linear algebra/Week 6/Linear transformation of R n.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Linear map"
+              "title": "Linear transformation of R n"
             }
           },
           {
@@ -361,8 +370,10 @@
   },
   "active": "35060226e62d736e",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 2/basis.md",
+    "MATH1013/Linear algebra/Week 7/composition of Linear transformations.md",
+    "MATH1013/Linear algebra/Week 6/Linear transformation of R n.md",
     "MATH1116/Linear algebra/Week 3/Linear map.md",
+    "MATH1116/Linear algebra/Week 2/basis.md",
     "COMP3670/Week 3/COMP3670 13.08.2026.md",
     "attachments/Pasted image 20260814095251.png",
     "attachments/Pasted image 20260814095027.png",
@@ -389,8 +400,6 @@
     "COMP2610/Week 2/conditional independence.md",
     "COMP2610/Week 2/COMP2610.md",
     "COMP2610/Week 3/COMP2610 11.08.2026.md",
-    "COMP3670/Week 3/Hoeffdings inequality.md",
-    "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
     "attachments/Pasted image 20260813093426.png",
     "attachments/Pasted image 20260812170631.png",
     "attachments/Pasted image 20260812165328.png",

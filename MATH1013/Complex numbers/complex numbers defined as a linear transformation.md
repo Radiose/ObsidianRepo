@@ -18,7 +18,7 @@ $\implies \frac{a^2}{b^2}=-1$
 thus, a [[proof by contradiction]] as $a,b \in \mathbb{R}$
 
 
-## Multiplication as [[Linear transformation]]s
+## Multiplication as [[Linear transformation of R n]]s
 We now view multiplication of [[Complex number]]s as a linear transformation on $\mathbb{R}^2$ with the following rules 
 $z \in \mathbb{C}$, $z: \mathbb{C} \to \mathbb{C}$
 	$z_{1} \mapsto zz_{1}$

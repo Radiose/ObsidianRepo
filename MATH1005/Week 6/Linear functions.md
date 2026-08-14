@@ -15,4 +15,4 @@ to each linear function $F : Q^n \to Q^n$, there is a [[Matrix]] $M \in M_{n}(Q)
 This rule can be demonstrated through Squaring a [[Matrix]]. 
 ![[Pasted image 20260402172204.png]]
 
-This is essentially just a [[Linear transformation]]
+This is essentially just a [[Linear transformation of R n]]
