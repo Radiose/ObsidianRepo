@@ -25,13 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 3/COMP3670 13.08.2026.md",
+                "file": "MATH1116/Linear algebra/Week 3/Linear map.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "COMP3670 13.08.2026"
+              "title": "Linear map"
             }
           },
           {
@@ -361,8 +361,13 @@
   },
   "active": "35060226e62d736e",
   "lastOpenFiles": [
-    "COMP3670/Week 1/hypothesis set.md",
+    "MATH1116/Linear algebra/Week 2/basis.md",
+    "MATH1116/Linear algebra/Week 3/Linear map.md",
     "COMP3670/Week 3/COMP3670 13.08.2026.md",
+    "attachments/Pasted image 20260814095251.png",
+    "attachments/Pasted image 20260814095027.png",
+    "attachments/Pasted image 20260814094755.png",
+    "COMP3670/Week 1/hypothesis set.md",
     "COMP3670/Week 3/Controlling the generalisation gap.md",
     "Excalidraw/COMP2610 A1.excalidraw.md",
     "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
@@ -386,8 +391,6 @@
     "COMP2610/Week 3/COMP2610 11.08.2026.md",
     "COMP3670/Week 3/Hoeffdings inequality.md",
     "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
-    "MATH1116/Analysis/Week 3/summation by parts.md",
-    "MATH1116/Analysis/Week 3/The ratio test.md",
     "attachments/Pasted image 20260813093426.png",
     "attachments/Pasted image 20260812170631.png",
     "attachments/Pasted image 20260812165328.png",
@@ -395,9 +398,6 @@
     "attachments/Pasted image 20260811162138.png",
     "templates",
     "attachments/Pasted image 20260807093422.png",
-    "attachments/Pasted image 20260807093020.png",
-    "attachments/Pasted image 20260806092519.png",
-    "attachments/Pasted image 20260805193305.png",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
     "MATH1116",
     "MATH1116/Analysis/Week 9",

@@ -75,3 +75,14 @@ Since $\{\mathbf{v}_1, \dots, \mathbf{v}_n\}$ is a basis, it is in particular li
 
 We thus get that $a_k = c_k$ for all $k \ne j$, and hence $0 = a_j - c_j + (a_i - c_i)b = a_j - c_j$, implying that $a_j = c_j$. 
 This proves that the tuples of coefficients $(a_1, \dots, a_n)$ and $(c_1, \dots, c_n)$ are equal, which means that every vector $\mathbf{w}$ admits only one decomposition as a linear combination of $\{\mathbf{v}_1, \dots, \mathbf{v}_{i-1}, \mathbf{v}_i + b\mathbf{v}_j, \mathbf{v}_{i+1}, \dots, \mathbf{v}_n\}$. $\blacksquare$
+
+
+## Corollary 
+If $V$ is [[finite dimensional]], and $U$ is a subspace, then dim $U\leq$ $dim(V)$
+
+
+# Theorem 4
+If $dim(V)=n<\infty$
+Any [[linearly independent]] set with $n$ elements in it is a [[basis]].
+Any spanning set with $n$ elements is a basis. 
+
