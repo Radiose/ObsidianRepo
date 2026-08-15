@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 3/summation by parts.md",
+                "file": "MATH1116/Linear algebra/Week 2/span.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "summation by parts"
+              "title": "span"
             }
           },
           {
@@ -98,18 +98,6 @@
               },
               "icon": "lucide-file",
               "title": "Vapnik-Chervonenkis dimension"
-            }
-          },
-          {
-            "id": "0325d8b32f985c73",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/MATH1116 w2.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "MATH1116 w2.excalidraw"
             }
           },
           {
@@ -175,13 +163,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 9/Bayes theorem.md",
+                "file": "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Bayes theorem"
+              "title": "internal direct sum of subspaces"
             }
           }
         ],
@@ -382,14 +370,19 @@
   "lastOpenFiles": [
     "Excalidraw/COMP2610 A1.excalidraw.md",
     "MATH1116/Analysis/Week 3/summation by parts.md",
-    "MATH1116/Analysis/Week 2/The integral test.md",
+    "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/field.md",
     "Excalidraw/MATH1116 w3.excalidraw.md",
-    "MATH1005/Week 9/Bayes theorem.md",
+    "MATH1116/Linear algebra/Week 2/span.md",
+    "MATH1116/Linear algebra/Week 1/sum of subsets.md",
+    "Excalidraw/MATH1116 w2.excalidraw.md",
     "COMP3670/Week 3/VC bound.md",
+    "MATH1005/Week 8/Binomial theorem.md",
+    "MATH1005/Week 9/Bayes theorem.md",
+    "MATH1116/Analysis/Week 2/The integral test.md",
     "MATH1005/Week 3/relation.md",
     "COMP2610/Week 2/conditional independence.md",
     "COMP3670/Week 3/PAC learnable.md",
-    "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
     "MATH1013/Calculus/Week 6/Definite integral.md",
     "MATH1013/Linear algebra/Week 6/Linear transformation of R n.md",
     "MATH1005/Week 8/Probability rules.md",
@@ -401,11 +394,6 @@
     "MATH1116 odds and ends.md",
     "MATH1116 revision adlay.md",
     "MATH1116/Analysis/Week 2/Convergence of series.md",
-    "MATH1116/Analysis/Week 3/The ratio test.md",
-    "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
-    "Excalidraw/MATH1116 w2.excalidraw.md",
-    "COMP3670/Week 3/Vapnik-Chervonenkis dimension.md",
-    "MATH1013/Linear algebra/Week 7/composition of Linear transformations.md",
     "attachments/Pasted image 20260814095251.png",
     "attachments/Pasted image 20260814095027.png",
     "attachments/Pasted image 20260814094755.png",
