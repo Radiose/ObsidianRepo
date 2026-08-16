@@ -1,1 +1,1 @@
-Suppose $S,T\in \mathcal{L}(V)$. The commutator of $S$ and $T$, denoted $[S,T]$
+Suppose $S,T\in \mathcal{L}(V)$. The commutator of $S$ and $T$, denoted $[S,T]$, is defined by $[S,T]=ST-TS$

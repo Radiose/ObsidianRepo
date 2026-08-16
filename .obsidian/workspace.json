@@ -23,10 +23,15 @@
             "id": "d00592c70460d3e5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "MATH1116 revision adlay.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MATH1116 revision adlay"
             }
           },
           {
@@ -35,22 +40,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 2/span.md",
+                "file": "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "span"
+              "title": "internal direct sum of subspaces"
             }
           },
           {
@@ -201,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -393,34 +389,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b3bf2171d0f6f71a",
+  "active": "d00592c70460d3e5",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 3/linear operator.md",
+    "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
+    "MATH1116 revision adlay.md",
+    "Excalidraw/COMP2610 A1.excalidraw.md",
+    "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
+    "MATH1116/Linear algebra/Week 1/vector subspace.md",
+    "MATH1116/Linear algebra/Week 1/sum of subsets.md",
+    "MATH1116/Linear algebra/Week 1/MATH1116 31.07.2026.md",
+    "MATH1116/Linear algebra/Week 1/vector space.md",
+    "MATH1116/Linear algebra/Week 1/MATH1116 30.07.2026.md",
+    "MATH1116/Linear algebra/Week 2/span.md",
+    "MATH1116/Linear algebra/Week 2/field.md",
     "MATH1116/Linear algebra/Week 3/commutator.md",
+    "MATH1116/Linear algebra/Week 3/linear operator.md",
     "MATH1116/Linear algebra/Week 3/linear map.md",
     "MATH1116/Linear algebra/Week 3/composition of linear maps.md",
     "MATH1005/Week 5/Geometric series.md",
     "COMP3670/Week 3/Vapnik-Chervonenkis dimension.md",
-    "MATH1116/Linear algebra/Week 2/span.md",
-    "Excalidraw/COMP2610 A1.excalidraw.md",
     "MATH1013/Linear algebra/Week 1/matrix.md",
     "MATH1013/Linear algebra/Week 3/linearity.md",
     "MATH1116/Linear algebra/Week 2/basis.md",
-    "MATH1116/Linear algebra/Week 1/vector space.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/algebraic and order axioms.md",
     "MATH1116/Linear algebra/Week 2/MATH1116 06.08.2026.md",
     "MATH1116/Analysis/Week 3/The ratio test.md",
-    "MATH1116 revision adlay.md",
     "templates/Inline math.md",
     "Excalidraw/MATH1116 w3.excalidraw.md",
     "MATH1116/Analysis/Week 3/summation by parts.md",
-    "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
-    "MATH1116/Analysis/Week 2/The integral test.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/field.md",
-    "MATH1116/Linear algebra/Week 1/sum of subsets.md",
-    "Excalidraw/MATH1116 w2.excalidraw.md",
-    "COMP3670/Week 3/VC bound.md",
-    "MATH1005/Week 8/Binomial theorem.md",
     "attachments/Pasted image 20260814095251.png",
     "attachments/Pasted image 20260814095027.png",
     "attachments/Pasted image 20260814094755.png",

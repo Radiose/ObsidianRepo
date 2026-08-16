@@ -1,7 +1,7 @@
- A [[vector]] space over a [[Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/field|field]] $\mathbb{F}$ is denoted $\mathbf{V}$ with two operations
+ A [[vector]] space is a mathematical structure defined over a [[MATH1116/Linear algebra/Week 2/field|field]] $\mathbb{F}$ and denoted $\mathbf{V}$ with two operations
 
-$+:\mathbf{V}\times \mathbf{V} \to \mathbf{V}$ and $\times:\mathbb{F} \times \mathbf{V}\to \mathbf{V}$ 
--there are scalars from a field
+$+:\mathbf{V}\times \mathbf{V} \to \mathbf{V}$ and $\cdot \ :\mathbb{F} \times \mathbf{V}\to \mathbf{V}$ 
+
 
 **such that** $\forall a,b \in \mathbb{F}$ $\quad \forall \mathbf{u},\mathbf{v},\mathbf{w} \in \mathbf{V}$
 

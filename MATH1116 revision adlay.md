@@ -22,3 +22,24 @@ SUMMATION BY PARTS
 # Geometric series 
 $\sum x^n$ converges $\iff x<1$
 $\sum$
+
+
+# LA 
+A subset of a vector space is a vector subspace(subspace) if it is a vector space with respect to the same operations as V 
+
+A subset is a vector subspace iff:
+	i) $\mathbf{0}\in U$
+	ii) $\mathbf{u,w} \in U \implies \mathbf{u}+\mathbf{w}\in U$
+	iii) $\lambda \in F$, $\mathbf{u}\in U \implies \lambda \mathbf{u} \in U$
+
+Sum of subsets:
+
+Let $U_{1},\dots,U_{m} \subset V$ and **nonempty**,
+their sum is defined as $\{ \mathbf{u_{1}}+\dots+\mathbf{u}_{m}|\mathbf{u_{1}}\in U_{1},\dots, \mathbf{u}_{m}\in U_{m}\}$
+In other words, the sum is the set of all possible sums of elements of $U_{1},\dots,U_{m}$
+
+
+Internal direct sum 
+Suppose $U_{1},\dots,U_{m}$ are [[vector subspace|subspace]]s of $V$.
+The sum $U_{1}+\dots+U_{m}$ is called the (internal) direct sum if each element of $U_{1}+\dots+{U_{m}}$ can be written in only one way as a sum $\mathbf{u_{1}}+\dots+\mathbf{u_{m}}$
+If $U_{1}+\dots+{U_{m}}$ is a direct sum, then we write $U_{1} \oplus\dots \oplus U_{m}$ with the $\oplus$ notation indicating this is a direct sum.
