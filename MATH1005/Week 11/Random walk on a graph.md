@@ -15,7 +15,7 @@ At time k, you are a vertex t and there is a [[Walk]] from x to t
 Before each step, you choose where to go probabilistically. The probability of moving from j to i is $P_{i,j}$, note that if $(i,j) \not\in E \implies P_{i,j}=0$
 
 # Formal definition
-Associated to an $n$ vertex [[directed graph]] G, let $T = (p_{i,j})_{1\le i,j\le n}$ be a [[Matrix]] such that $p_{i,j}=0 \forall(j,i) \not\in E(G)$
+Associated to an $n$ vertex [[directed graph]] G, let $T = (p_{i,j})_{1\le i,j\le n}$ be a [[matrix]] such that $p_{i,j}=0 \forall(j,i) \not\in E(G)$
 
 For any given $n$ let $B_{n}$ denote the set of [[basis of R]] [[vector]]s, where $e_{i}$ is the n x 1 vector with 1 as the $i$-th entry and all other entries 0.
 

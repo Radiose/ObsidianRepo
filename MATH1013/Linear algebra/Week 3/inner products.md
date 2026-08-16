@@ -13,4 +13,4 @@ inner products
 }
 ```
 
-This is just another way of writing down a [[Matrix]]. It allows you to take a matrix of coefficients and a vector and combine them, or take the combination and separate it. In order to do this, the [[vector]] must have the same amount of rows as the matrix has columns.
+This is just another way of writing down a [[matrix]]. It allows you to take a matrix of coefficients and a vector and combine them, or take the combination and separate it. In order to do this, the [[vector]] must have the same amount of rows as the matrix has columns.

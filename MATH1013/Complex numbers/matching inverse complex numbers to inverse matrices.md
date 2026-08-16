@@ -1,4 +1,4 @@
-recall that a $2\times 2$ [[Matrix]] can be converted to an [[Inverse matrix]] iff its columns are [[linearly independent]], also iff its [[The determinant|determinant]] is non zero. 
+recall that a $2\times 2$ [[matrix]] can be converted to an [[Inverse matrix]] iff its columns are [[linearly independent]], also iff its [[The determinant|determinant]] is non zero. 
 
 If [[The determinant]] is non zero, then $\begin{bmatrix}ab \\ cd\end{bmatrix}$ is invertible and its inverse is the following $\frac{1}{ad-bc}\begin{bmatrix}d \ -b \\ -c \ a\end{bmatrix}$
 This can be proven by $A \cdot A^{-1}=I_{n}$

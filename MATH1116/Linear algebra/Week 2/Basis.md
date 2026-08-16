@@ -86,3 +86,5 @@ If $dim(V)=n<\infty$
 Any [[linearly independent]] set with $n$ elements in it is a [[basis]].
 Any spanning set with $n$ elements is a basis. 
 
+
+

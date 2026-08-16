@@ -104,7 +104,7 @@ If we have two 2x2 matrices A,B what is $det(AB)$ in terms of det(A) and Det(B)
 we can represent Area$(T_{a}T_{b}(S_{1}))$ = $detA \times \det B \times Area(S)$. This is true for any S, so det(AB) = $det(A) \times \det(B)$
 
 
-Also, $\det(A^{-1}) = \frac{1}{\det A}$ if A is an invertible [[Matrix]]
+Also, $\det(A^{-1}) = \frac{1}{\det A}$ if A is an invertible [[matrix]]
 
 
 # Applications 

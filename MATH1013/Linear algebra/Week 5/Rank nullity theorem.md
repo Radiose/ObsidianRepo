@@ -23,5 +23,5 @@ where x is a single column with n * x
 
 for Ax = b
 if x is a three dimensional [[vector]], and x b is a two dimensional [[vector]],
-think of the [[Matrix]] a as a map from $\mathbb{R}^3 \to \mathbb{R}^2$
+think of the [[matrix]] a as a map from $\mathbb{R}^3 \to \mathbb{R}^2$
 **So the null space of A is therefore the third column of Ax, as it is not used for a two dimensional vector b.**

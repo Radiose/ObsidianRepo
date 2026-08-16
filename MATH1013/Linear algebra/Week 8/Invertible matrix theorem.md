@@ -1,8 +1,8 @@
 Proving an [[Inverse matrix]]
-Every [[Statement]] regarding the invertibility of a [[Matrix]] can be thought of as a definition, with the others being regarded as [[theorem]]s. 
+Every [[Statement]] regarding the invertibility of a [[matrix]] can be thought of as a definition, with the others being regarded as [[theorem]]s. 
 
 Some definitions:
-A (square) [[Matrix]] is invertible if there is a matrix B, such that AB = BA = $I_{n}$
+A (square) [[matrix]] is invertible if there is a matrix B, such that AB = BA = $I_{n}$
 Definitions of [[Inverse matrix]]:
 0: A is invertible ($\exists B \ \ AB = BA=I_{n}$)
 1: $A \vec{x} = 0$ has only the trivial solution (A is [[linearly independent]])

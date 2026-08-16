@@ -3,9 +3,9 @@
 ---
 Inverse matrix 
 ### MATH1005
-An inverse [[Matrix]] is a method to solve a system of linear equations 
+An inverse [[matrix]] is a method to solve a system of linear equations 
 This matrix $A^{-1}$ is an inverse of A in the following sense 
-An inverse, if one exists, of a [[Matrix]] $A \in M_{n}(\mathbb{Q})$ is a matrix $A^{-1} \in M_{n}(\mathbb{Q})$ with the property that $A^{-1}A = AA^{-1}=I_{n}$, where *I* is the [[Identity matrix]]
+An inverse, if one exists, of a [[matrix]] $A \in M_{n}(\mathbb{Q})$ is a matrix $A^{-1} \in M_{n}(\mathbb{Q})$ with the property that $A^{-1}A = AA^{-1}=I_{n}$, where *I* is the [[Identity matrix]]
 
 Note, that if an $A^{-1}$ exists and Ax = b then 
 x = lx = $(A^{-1}A)x=A^{-1}(Ax) = A^{-1}b$
@@ -13,7 +13,7 @@ x = lx = $(A^{-1}A)x=A^{-1}(Ax) = A^{-1}b$
 
 #### Existence of an [[Inverse matrix]]
 
-The nature of an inverse matrix (IE that $AA^{-1}=I_{n}$ and that $A^{-1}A = I_{n}$) ensure that only square [[Matrix|matrices]] have inverses. 
+The nature of an inverse matrix (IE that $AA^{-1}=I_{n}$ and that $A^{-1}A = I_{n}$) ensure that only square [[matrix|matrices]] have inverses. 
 
 Not every square matrix has an inverse 
 ***A* has an inverse if and only if the [[function]] $A \mapsto Ax$ is a [[Bijective Transformation]]**
@@ -29,7 +29,7 @@ $A^{-1} =\frac{1}{ad-bc}\begin{pmatrix}\ d,\ \ -b \\ -c,\ \ a\end{pmatrix}$
 
 ### MATH1013 
 
-An [[Inverse matrix]] is defined as a [[composition of Linear transformations]] of said matrix and another matrix equating to the [[Identity matrix]]
+An [[Inverse matrix]] is defined as a [[composition of linear maps]] of said matrix and another matrix equating to the [[Identity matrix]]
 
 So, if f is a [[Bijective Transformation]], then there exists an $f^-1$ $f \circ f^{-1}$ = $I_{dx}$, 
 Recall, that this is due to the conditions that create [[Bijective Transformation]]s. (Null space is empty and column space is full)
@@ -42,7 +42,7 @@ Solve $AX = I_{n}$
 $X = [\vec{x}_{1},\vec{x}_{2}\dots \vec{x}_{n}]$
 $AX = [A\vec{x}_{1},A\vec{x}_{2},\dots,A \vec{x}_{N}]$
 SOLVE $A \vec{x}_{1}=e_{1}$, $A \vec{x}_{2}=\vec{e}_{2}$...
-Form a super augmented [[Matrix]]
+Form a super augmented [[matrix]]
 $[A | \vec{e}_{1} \vec{e}_{2}\dots \vec{e}_{n}]$
 RREF(A) = $I_{n}$
 

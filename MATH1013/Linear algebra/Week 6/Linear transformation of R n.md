@@ -20,7 +20,7 @@ Given a description of a [[Linear transformation of R n]], how to find the formu
 
 If $T(\vec{x})=A \vec{x}=[v_{1},v_{1}\dots v_{n}] \begin{pmatrix}x_{1}  \\ x_{2}  \\  \dots  \\ x_{m}\end{pmatrix}$
 
-A is called the standard [[Matrix]] of T 
+A is called the standard [[matrix]] of T 
 ![[Standard Matrix]]
 
 

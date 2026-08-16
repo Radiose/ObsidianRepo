@@ -1,4 +1,4 @@
-This is a method of factorising [[Matrix|matrices]] into an upper triangular form and a lower triangular form.  
+This is a method of factorising [[matrix|matrices]] into an upper triangular form and a lower triangular form.  
 
 # Theory 
 An M $\times$ N matrix can reach its [[row echelon form]] via applying sufficient [[Row operation]]s to it. 

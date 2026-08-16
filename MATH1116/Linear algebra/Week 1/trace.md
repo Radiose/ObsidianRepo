@@ -1,5 +1,5 @@
 trace 
-the trace of a square [[Matrix]] $A$ is defined as the sum of all diagonal entries of $A$, denoted $\mathrm{Tr}(A)$.
+the trace of a square [[matrix]] $A$ is defined as the sum of all diagonal entries of $A$, denoted $\mathrm{Tr}(A)$.
 
 **Lemma 1.3** (Trace is cyclic). If $A$ and $B$ are square matrices of the same size, then
 

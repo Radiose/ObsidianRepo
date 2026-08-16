@@ -6,7 +6,7 @@ You can use this concept of [[linearity]] to create something called a parametri
 This is necessary when you have a free variable present in your solution. As with any [[Consistent linear system]] that has infinite solutions, you will write all equations in terms of the free variable.
 
 For example $\begin{matrix}[2 \ 4]  \\  [4 \ 8]\end{matrix} \begin{pmatrix}x_{1} \\ x_{2}\end{pmatrix} = \begin{pmatrix}2 \\ 4 \end{pmatrix}$
-solving this augmented [[Matrix]] gives $\begin{matrix}[1 & 2 & 1] \\ [0 & 0 & 0]\end{matrix}$. this make x2 a free variable. Therefore, $\begin{pmatrix}x_{1} \\ x_{2}\end{pmatrix}=\begin{pmatrix}1 \\ 0\end{pmatrix}+t\begin{pmatrix}-2  \\ 1\end{pmatrix}$. This is telling us that to get to x1,x2, we start at 1,0 and move -2 and 1 times t units. 
+solving this augmented [[matrix]] gives $\begin{matrix}[1 & 2 & 1] \\ [0 & 0 & 0]\end{matrix}$. this make x2 a free variable. Therefore, $\begin{pmatrix}x_{1} \\ x_{2}\end{pmatrix}=\begin{pmatrix}1 \\ 0\end{pmatrix}+t\begin{pmatrix}-2  \\ 1\end{pmatrix}$. This is telling us that to get to x1,x2, we start at 1,0 and move -2 and 1 times t units. 
 
 
 This is very useful for determining things about linear equations
