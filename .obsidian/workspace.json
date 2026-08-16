@@ -25,13 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 3/Linear map.md",
+                "file": "MATH1116/Linear algebra/Week 1/vector space.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Linear map"
+              "title": "vector space"
             }
           },
           {
@@ -370,8 +370,9 @@
   },
   "active": "d00592c70460d3e5",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 2/MATH1116 06.08.2026.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/algebraic and order axioms.md",
     "MATH1116/Linear algebra/Week 3/Linear map.md",
+    "MATH1116/Linear algebra/Week 2/MATH1116 06.08.2026.md",
     "MATH1116/Analysis/Week 3/The ratio test.md",
     "MATH1116 revision adlay.md",
     "templates/Inline math.md",
@@ -395,7 +396,6 @@
     "MATH1013/Calculus/Week 6/Definite integral.md",
     "MATH1013/Linear algebra/Week 6/Linear transformation of R n.md",
     "MATH1005/Week 8/Probability rules.md",
-    "COMP2610/Week 1/Joint probability.md",
     "attachments/Pasted image 20260814095251.png",
     "attachments/Pasted image 20260814095027.png",
     "attachments/Pasted image 20260814094755.png",
