@@ -34,7 +34,7 @@ A subset is a vector subspace iff:
 
 Sum of subsets:
 
-Let $U_{1},\dots,U_{m} \subset V$ and **nonempty**,
+Let $U_{1},\dots,U_{m} \subset V$ (just subsets) and **nonempty**,
 their sum is defined as $\{ \mathbf{u_{1}}+\dots+\mathbf{u}_{m}|\mathbf{u_{1}}\in U_{1},\dots, \mathbf{u}_{m}\in U_{m}\}$
 In other words, the sum is the set of all possible sums of elements of $U_{1},\dots,U_{m}$
 
@@ -43,3 +43,26 @@ Internal direct sum
 Suppose $U_{1},\dots,U_{m}$ are [[vector subspace|subspace]]s of $V$.
 The sum $U_{1}+\dots+U_{m}$ is called the (internal) direct sum if each element of $U_{1}+\dots+{U_{m}}$ can be written in only one way as a sum $\mathbf{u_{1}}+\dots+\mathbf{u_{m}}$
 If $U_{1}+\dots+{U_{m}}$ is a direct sum, then we write $U_{1} \oplus\dots \oplus U_{m}$ with the $\oplus$ notation indicating this is a direct sum.
+
+
+External direct sum 
+
+Suppose $U_{1},\dots,U_{m}$ are [[vector space]]s. We define their direct sum $U_{1}\oplus\dots \oplus U_{m}$ as the set of **tuples** $(\mathbf{u}_{1},\dots,\mathbf{u_{m}})$ with $\mathbf{u_{i}}\in U_{i}$. We endow this set with the element wise operations of addition and scalar multiplication. 
+$(\mathbf{u}_{1},\dots,\mathbf{u_{m}})+(\mathbf{v}_{1},\dots,\mathbf{v_{m}}):=(\mathbf{u}_{1}+\mathbf{u_{m}},\dots,\mathbf{u_{m}+\mathbf{v_{m}}})$
+$\lambda \cdot(\mathbf{u}_{1},\dots,\mathbf{u_{m}}):=(\lambda \mathbf{u_{1}},\dots,\lambda \mathbf{u}_{m})$
+
+
+
+
+Linear combination 
+
+Span 
+
+Finite dimensional 
+
+Linear independence 
+
+Basis 
+
+Dimension 
+
