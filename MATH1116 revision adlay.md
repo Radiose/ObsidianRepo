@@ -6,10 +6,12 @@ Then $\sum_{j=0}^{\infty} y_j$ converges implies $\sum_{j=0}^{\infty} x_j$ conve
 
 TESTS:
 INTEGRAL 
-RATIO 
+RATIO - things with factorials, etc 
+
 
 NEGATIVE TERMS: 
 Abs convergence $\implies$ convergence, but not conversely 
+
 summation by parts theorem 
 
 
