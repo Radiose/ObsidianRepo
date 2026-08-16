@@ -23,12 +23,15 @@
             "id": "d00592c70460d3e5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/MATH1116 w3.excalidraw.md"
+                "file": "MATH1116 revision adlay.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MATH1116 w3.excalidraw"
+              "icon": "lucide-file",
+              "title": "MATH1116 revision adlay"
             }
           },
           {
@@ -247,8 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -368,9 +370,10 @@
   },
   "active": "d00592c70460d3e5",
   "lastOpenFiles": [
+    "templates/Inline math.md",
+    "Excalidraw/MATH1116 w3.excalidraw.md",
     "MATH1005/Week 5/Geometric series.md",
     "MATH1116/Linear algebra/Week 2/span.md",
-    "Excalidraw/MATH1116 w3.excalidraw.md",
     "MATH1116/Analysis/Week 3/summation by parts.md",
     "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
     "Excalidraw/COMP2610 A1.excalidraw.md",
@@ -393,7 +396,6 @@
     "COMP3670/Week 1/The perceptron.md",
     "COMP2610/Week 3/entropy (information theory).md",
     "COMP3670/Week 3/The fundamental theorem of statistical learning theory(binary loss).md",
-    "MATH1116 odds and ends.md",
     "attachments/Pasted image 20260814095251.png",
     "attachments/Pasted image 20260814095027.png",
     "attachments/Pasted image 20260814094755.png",

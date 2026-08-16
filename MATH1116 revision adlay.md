@@ -4,6 +4,19 @@
 3: Let $(x_j)_{j\in\mathbb{N}}, (y_j)_{j\in\mathbb{N}} \in \mathbb{R}^{\mathbb{N}}$ be such that $0 \leq x_j \leq y_j, \forall j \in \mathbb{N}$.
 Then $\sum_{j=0}^{\infty} y_j$ converges implies $\sum_{j=0}^{\infty} x_j$ converges.
 
+TESTS:
+INTEGRAL 
+RATIO 
+
+NEGATIVE TERMS: 
+Abs convergence $\implies$ convergence, but not conversely 
+summation by parts theorem 
+
+
+
+SUMMATION BY PARTS 
+
+
 # Geometric series 
 $\sum x^n$ converges $\iff x<1$
 $\sum$
