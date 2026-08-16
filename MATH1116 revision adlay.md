@@ -65,4 +65,4 @@ Linear independence
 Basis 
 
 Dimension 
-
+Dimension of an internal direct sum: dim(u + w) = dim(u) + dim(w)
