@@ -1,5 +1,6 @@
 ---
-{}
+aliases:
+  - fundamental theorem of linear maps
 ---
 Suppose $V$ and $W$ are [[vector space]]s with $V$ [[finite dimensional]], and fix $T \in \mathcal{L}(V,W)$. Then, $Range(T)$ is finite dimensional, and $dim(V)=dim(Ker(T))+dim(Range(T))$
 

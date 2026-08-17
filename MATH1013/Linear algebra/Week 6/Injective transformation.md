@@ -1,6 +1,7 @@
 ---
 {}
 ---
+
 Injective transformation
 For the linear transformation [[function]], is it [[Injective Function|injective]]?
 is $T(x_{1}) \not=T_(x_{2})$?
@@ -13,8 +14,6 @@ iF Null(a) = $\vec{0}$, then for $x_{1},x_{2} \in \mathbb{R}^n$,
 If ($Ax_{1}=Ax_{2}$), then $A(x_{1}-x_{2})=\vec{0} \iff x_{1}-x_{2}\in Null(A)$
 Therefore, if the [[kernel]] of A is 0, then T is [[Injective Function|injective]]
 Is there a pivot in each column? 
-
-
-Different perspective 
-If the null space is not zero, then T must be forgetting lots of information, therefore it must not be [[Injective Function|one to one]]
+# Formal 
+A function $T :V\to W$ is injective if $T(\mathbf{u})=T(\mathbf{v})\implies \mathbf{u}=\mathbf{v}$
 

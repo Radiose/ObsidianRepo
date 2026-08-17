@@ -7,3 +7,4 @@ The range of a [[linear map]] $T:V\to W$ is $Range(T):=\{ \mathbf{w} \in W : \ex
 
 ## Remark
 The range of $T$ is a [[vector subspace|subspace]] of $W$
+

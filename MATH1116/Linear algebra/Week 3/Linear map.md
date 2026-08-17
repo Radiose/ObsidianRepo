@@ -85,3 +85,26 @@ Where $[T(a_{i})]_{\beta_{i}}$ is the column of coordinates of $T(a_{i})\in W$ w
 ![[composition of linear maps]]
 
 ![[linear operator]]
+
+
+# Kernel Theorem 
+![[kernel#Theorem]]
+
+
+
+# Theorem 3
+Suppose $V$ and $W$ are finite-dimensional vector spaces such that $\dim V > \dim W$. Then
+
+(i) no linear map from $V$ to $W$ is injective;
+
+(ii) no linear map from $W$ to $V$ is surjective.
+
+**Proof**
+
+(i) Let $T \in \mathcal{L}(V, W)$. Then
+
+$$\dim \operatorname{Ker} T = \dim V - \dim \operatorname{Range} T \geq \dim V - \dim W > 0,$$
+
+where the equality above comes from the [[Rank nullity theorem]]. The inequality above states that $\dim \operatorname{Ker} T > 0$. This means that $\operatorname{Ker} T$ contains vectors other than $\mathbf{0}$. Thus $T$ is not injective by Theorem 3.5.
+
+(ii) Exercise. $\blacksquare$
