@@ -137,15 +137,12 @@
             "id": "5bd4b1053cc4ac34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "MATH1116 odds and ends.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Excalidraw/COMP2610 A1.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "MATH1116 odds and ends"
+              "icon": "excalidraw-icon",
+              "title": "COMP2610 A1.excalidraw"
             }
           },
           {
@@ -268,7 +265,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -388,6 +386,7 @@
   },
   "active": "5bd4b1053cc4ac34",
   "lastOpenFiles": [
+    "MATH1116 odds and ends.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/Convergence of a sequence.md",
     "MATH1116/Analysis/Week 1/MATH1116 29.07.2026.md",
     "MATH1116/Analysis/Week 2/Convergence of series.md",
@@ -413,7 +412,6 @@
     "MATH1116/Linear algebra/Week 2/span.md",
     "MATH1116/Linear algebra/Week 2/field.md",
     "MATH1005/Week 5/Geometric series.md",
-    "MATH1013/Linear algebra/Week 1/matrix.md",
     "attachments/Pasted image 20260814095251.png",
     "attachments/Pasted image 20260814095027.png",
     "attachments/Pasted image 20260814094755.png",
