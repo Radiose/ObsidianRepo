@@ -46,6 +46,8 @@ The sum $U_{1}+\dots+U_{m}$ is called the (internal) direct sum if each element 
 If $U_{1}+\dots+{U_{m}}$ is a direct sum, then we write $U_{1} \oplus\dots \oplus U_{m}$ with the $\oplus$ notation indicating this is a direct sum.
 
 
+
+
 External direct sum 
 
 Suppose $U_{1},\dots,U_{m}$ are [[vector space]]s. We define their direct sum $U_{1}\oplus\dots \oplus U_{m}$ as the set of **tuples** $(\mathbf{u}_{1},\dots,\mathbf{u_{m}})$ with $\mathbf{u_{i}}\in U_{i}$. We endow this set with the element wise operations of addition and scalar multiplication. 
@@ -62,8 +64,13 @@ Span
 Finite dimensional 
 
 Linear independence 
+c1v1 + ... + cn vn = 0 iff c = 0
+
 
 Basis 
+Linearly independent, spanning set 
+
 
 Dimension 
 Dimension of an internal direct sum: dim(u + w) = dim(u) + dim(w)
+Dimension of a non direct sum of subspace u+ w = dim(u)+dim(w)-dim(unw)
