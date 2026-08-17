@@ -26,6 +26,9 @@ Thus, we can use the GS identity $\sum_{0}^n ar^n = a*\frac{1-x^{n+1}}{1-x}$. Be
 ANOTHER USEFUL TRICK 
 $-t^{3n}=(-1)^n\times t^{3n}$
 
+### Cauchy Schwarz inequality 
+$\sum x_{i}y_{i} \leq \sqrt{ \sum x_{i}^2 }+\sqrt{ \sum y_{i}^2 }$
+
 
 # Constant up to N
 YOU HAVEE TO THINK ABOUT EVERYTHING UP TO THE N YOU CHOOSE FOR SEQUENCE AND SERIES CONVERGENCE AS A **CONSTANT** - THIS IS THE ESSENTIAL JUMP THAT YOU HAVE TO MAKE 
