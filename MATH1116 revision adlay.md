@@ -13,6 +13,7 @@ NEGATIVE TERMS:
 Abs convergence $\implies$ convergence, but not conversely 
 
 summation by parts theorem 
+1: a_n approaches infty 
 
 
 

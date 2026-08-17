@@ -137,12 +137,15 @@
             "id": "5bd4b1053cc4ac34",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/COMP2610 A1.excalidraw.md"
+                "file": "MATH1116 revision adlay.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "COMP2610 A1.excalidraw"
+              "icon": "lucide-file",
+              "title": "MATH1116 revision adlay"
             }
           },
           {
@@ -265,8 +268,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
