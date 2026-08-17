@@ -41,3 +41,5 @@ Thus, $|a_{1}-4|=3,$ $|a_{2}-4|=\frac{3}{2}$, $|a_{3}-4| = \frac{3}{2}^2$
 In general, $|a_{n+1}-4|$$=\frac{3}{2^{n-1}}$
 
 It follows that $|a_{n}-4|<\epsilon$ for all $n$ such that $\frac{3}{2^n-1}<\epsilon$
+
+# Convergence axiom 
