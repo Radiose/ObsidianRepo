@@ -82,13 +82,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 3/Vapnik-Chervonenkis dimension.md",
+                "file": "MATH1013/Calculus/Week 11/Simpson's rule.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Vapnik-Chervonenkis dimension"
+              "title": "Simpson's rule"
             }
           },
           {
@@ -154,13 +154,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670 A1.md",
+                "file": "COMP2610/Week 2/covariance.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "COMP3670 A1"
+              "title": "covariance"
             }
           },
           {
@@ -209,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -401,10 +410,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7c1097141a4ee7ab",
+  "active": "204ef974b4746b34",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 1/vector space.md",
+    "COMP3670/Week 3/Vapnik-Chervonenkis dimension.md",
+    "COMP2610/Week 2/covariance.md",
+    "COMP2610/Week 2/variance.md",
+    "COMP3670/Week 1/supervised learning framework.md",
+    "COMP3670/Week 1/COMP3670 30.07.2026.md",
+    "COMP3670/Week 3/COMP3670 13.08.2026.md",
+    "MATH1013/Calculus/Week 11/Simpson's rule.md",
     "COMP3670 A1.md",
+    "MATH1116/Linear algebra/Week 1/vector space.md",
     "MATH1116 revision adlay.md",
     "MATH1116/Analysis/Week 3/summation by parts.md",
     "Excalidraw/COMP2610 A1.excalidraw.md",
@@ -421,14 +437,7 @@
     "MATH1116/Linear algebra/Week 3/linear operator.md",
     "MATH1116/Linear algebra/Week 3/composition of linear maps.md",
     "MATH1116/Linear algebra/Week 1/MATH1116 30.07.2026.md",
-    "COMP3670/Week 3/Vapnik-Chervonenkis dimension.md",
     "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
-    "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
-    "MATH1116/Linear algebra/Week 1/vector subspace.md",
-    "MATH1116/Linear algebra/Week 1/sum of subsets.md",
-    "MATH1116/Linear algebra/Week 1/MATH1116 31.07.2026.md",
-    "MATH1116/Linear algebra/Week 2/span.md",
-    "MATH1116/Linear algebra/Week 2/field.md",
     "attachments/Pasted image 20260814095251.png",
     "attachments/Pasted image 20260814095027.png",
     "attachments/Pasted image 20260814094755.png",
