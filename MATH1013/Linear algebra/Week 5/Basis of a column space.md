@@ -3,7 +3,7 @@
 ---
 Basis of a column space
 
-![[Column space]]
+![[range]]
 However, to make it become a basis, they must be [[linearly independent]]. Check the [[row echelon form]] to determine this. 
 
 You must remember that the column space of the original vectors may not be the same as the column space of the [[row echelon form]]. If the first two columns in the REF have pivots in a set of 3, then take the first 2 columns of the original vectors, not the REF.

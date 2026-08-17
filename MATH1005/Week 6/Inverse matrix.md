@@ -17,7 +17,7 @@ The nature of an inverse matrix (IE that $AA^{-1}=I_{n}$ and that $A^{-1}A = I_{
 
 Not every square matrix has an inverse 
 ***A* has an inverse if and only if the [[function]] $A \mapsto Ax$ is a [[Bijective Transformation]]**
-This is why it must be a square matrix, as it all relates back to [[Null space]] and [[Column space]] of said [[Transformation]]. 
+This is why it must be a square matrix, as it all relates back to [[kernel]] and [[range]] of said [[Transformation]]. 
 
 
 A matrix can have at most one inverse 
