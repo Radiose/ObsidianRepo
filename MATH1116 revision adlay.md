@@ -75,4 +75,4 @@ Dimension
 Dimension of an internal direct sum: dim(u + w) = dim(u) + dim(w)
 Dimension of a non direct sum of subspace u+ w = dim(u)+dim(w)-dim(unw)
 
-$$
+$\sum_{n=1}^\infty \sum_{k=1}^n \frac{\sqrt{ k }}{n^a}$
