@@ -74,3 +74,5 @@ Linearly independent, spanning set
 Dimension 
 Dimension of an internal direct sum: dim(u + w) = dim(u) + dim(w)
 Dimension of a non direct sum of subspace u+ w = dim(u)+dim(w)-dim(unw)
+
+$$

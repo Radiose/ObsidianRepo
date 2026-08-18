@@ -97,13 +97,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 3/linear map.md",
+                "file": "MATH1116 revision adlay.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "linear map"
+              "title": "MATH1116 revision adlay"
             }
           },
           {
@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -326,20 +326,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b06c115f040d0c31",
+  "active": "35060226e62d736e",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 3/range.md",
-    "MATH1013/Linear algebra/Week 6/Surjective transformation.md",
-    "MATH1116/Linear algebra/Week 3/linear map.md",
     "Excalidraw/COMP2610 A1.excalidraw.md",
     "MATH1116/Linear algebra/Week 1/vector space.md",
+    "MATH1116 revision adlay.md",
+    "MATH1013/Calculus/Week 7/Integration by substitution.md",
+    "MATH1116/Linear algebra/Week 2/field.md",
+    "MATH1116/Linear algebra/Week 3/linear map.md",
+    "MATH1116/Linear algebra/Week 3/range.md",
+    "MATH1013/Linear algebra/Week 6/Surjective transformation.md",
     "COMP2610/Week 2/covariance.md",
     "MATH1116/Linear algebra/Week 3/linear operator.md",
     "MATH1116/Linear algebra/Week 3/commutator.md",
     "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
     "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
     "MATH1116/Linear algebra/Week 2/basis.md",
-    "MATH1116/Linear algebra/Week 2/field.md",
     "MATH1116/Linear algebra/Week 2/linear dependence lemma.md",
     "MATH1116/Linear algebra/Week 2/MATH1116 06.08.2026.md",
     "MATH1116/Linear algebra/Week 2/finite dimensional.md",
@@ -352,8 +354,6 @@
     "MATH1116/Analysis/Week 2/Convergence of series.md",
     "MATH1116/Linear algebra/Week 3/Untitled 1.md",
     "MATH1013/Calculus/Week 11/Simpson's rule.md",
-    "COMP3670/Week 3/Vapnik-Chervonenkis dimension.md",
-    "COMP2610/Week 2/variance.md",
     "attachments/Pasted image 20260814095251.png",
     "attachments/Pasted image 20260814095027.png",
     "attachments/Pasted image 20260814094755.png",
