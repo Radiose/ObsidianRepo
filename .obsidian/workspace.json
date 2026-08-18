@@ -82,13 +82,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
+                "file": "MATH1116/Linear algebra/Week 2/MATH1116 06.08.2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Rank nullity theorem"
+              "title": "MATH1116 06.08.2026"
             }
           },
           {
@@ -412,9 +412,13 @@
   },
   "active": "204ef974b4746b34",
   "lastOpenFiles": [
+    "MATH1116/Linear algebra/Week 2/finite dimensional.md",
+    "MATH1116/Linear algebra/Week 2/MATH1116 06.08.2026.md",
+    "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
+    "MATH1116/Linear algebra/Week 1/vector space.md",
+    "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
     "MATH1116/Linear algebra/Week 3/linear map.md",
     "MATH1116/Linear algebra/Week 3/kernel.md",
-    "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
     "MATH1116/Linear algebra/Week 3/invariant subspace.md",
     "MATH1116/Linear algebra/Week 3/range.md",
     "MATH1013/Linear algebra/Week 6/Surjective transformation.md",
@@ -431,13 +435,9 @@
     "COMP3670/Week 1/COMP3670 30.07.2026.md",
     "COMP3670/Week 3/COMP3670 13.08.2026.md",
     "COMP3670 A1.md",
-    "MATH1116/Linear algebra/Week 1/vector space.md",
     "MATH1116 revision adlay.md",
     "MATH1116/Analysis/Week 3/summation by parts.md",
     "Excalidraw/COMP2610 A1.excalidraw.md",
-    "MATH1116 odds and ends.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/Convergence of a sequence.md",
-    "MATH1116/Analysis/Week 1/MATH1116 29.07.2026.md",
     "attachments/Pasted image 20260814095251.png",
     "attachments/Pasted image 20260814095027.png",
     "attachments/Pasted image 20260814094755.png",
