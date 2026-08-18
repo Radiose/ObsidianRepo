@@ -40,13 +40,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 2/Convergence of series.md",
+                "file": "MATH1013/Linear algebra/Week 10/The determinant.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Convergence of series"
+              "title": "The determinant"
             }
           },
           {
@@ -328,6 +328,7 @@
   },
   "active": "35060226e62d736e",
   "lastOpenFiles": [
+    "MATH1116/Analysis/Week 2/Convergence of series.md",
     "MATH1116/Analysis/Week 2/The integral test.md",
     "MATH1116 revision adlay.md",
     "Excalidraw/COMP2610 A1.excalidraw.md",
@@ -352,7 +353,6 @@
     "MATH1013/Linear algebra/Week 6/Range of a transformation.md",
     "MATH1005/Week 3/surjective function.md",
     "MATH1013/Linear algebra/Week 6/Injective transformation.md",
-    "MATH1116/Analysis/Week 2/Convergence of series.md",
     "MATH1116/Linear algebra/Week 3/Untitled 1.md",
     "attachments/Pasted image 20260814095251.png",
     "attachments/Pasted image 20260814095027.png",
