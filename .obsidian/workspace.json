@@ -40,13 +40,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Calculus/Week 11/Simpson's rule.md",
+                "file": "MATH1005/Week 8/Uniform density and distribution.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Simpson's rule"
+              "title": "Uniform density and distribution"
             }
           },
           {
@@ -328,6 +328,7 @@
   },
   "active": "35060226e62d736e",
   "lastOpenFiles": [
+    "MATH1013/Calculus/Week 11/Simpson's rule.md",
     "COMP3670/Week 2/COMP3670 06.08.2026.md",
     "MATH1116/Analysis/Week 3/summation by parts.md",
     "MATH1013/Linear algebra/Week 10/The determinant.md",
@@ -353,7 +354,6 @@
     "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
     "MATH1116/Linear algebra/Week 3/kernel.md",
     "MATH1116/Linear algebra/Week 3/invariant subspace.md",
-    "MATH1013/Linear algebra/Week 6/Range of a transformation.md",
     "attachments/Pasted image 20260814095251.png",
     "attachments/Pasted image 20260814095027.png",
     "attachments/Pasted image 20260814094755.png",
