@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 3/COMP3670 13.08.2026.md",
+                "file": "COMP3670 A1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "COMP3670 13.08.2026"
+              "title": "COMP3670 A1"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670 A1.md",
+                "file": "MATH1005/Week 8/Density function.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "COMP3670 A1"
+              "title": "Density function"
             }
           },
           {
@@ -330,15 +330,22 @@
   },
   "active": "3ab98c2c1dda6dba",
   "lastOpenFiles": [
-    "COMP3670/Week 3/Controlling the generalisation gap.md",
-    "COMP3670/Week 2/Empirical risk minimisation.md",
-    "COMP3670/Week 3/COMP3670 13.08.2026.md",
+    "COMP3670/Week 3/VC bound.md",
+    "Excalidraw/MATH1116 w3.excalidraw.md",
+    "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
+    "MATH1005/Week 8/Density function.md",
     "COMP3670 A1.md",
+    "attachments/Ink/Drawing/2026.8.20 - 13.26pm.svg",
+    "attachments/Ink/Drawing/2026.8.20 - 13.24pm.svg",
+    "COMP3670/Week 2/Empirical risk minimisation.md",
+    "COMP3670/Week 3/Vapnik-Chervonenkis dimension.md",
+    "COMP3670/Week 3/Shatter coefficient.md",
+    "COMP3670/Week 3/COMP3670 13.08.2026.md",
+    "COMP3670/Week 3/Controlling the generalisation gap.md",
     "COMP3670/Week 2/loss function.md",
     "COMP3670/Week 1/hypothetico-deductive reasoning.md",
     "COMP3670/Week 2/out of sample error.md",
     "COMP3670/Week 1/inductive reasoning.md",
-    "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
     "COMP3670/Week 2/the machine learning statistical model.md",
     "COMP3670/Week 1/supervised learning framework.md",
     "Excalidraw/COMP2610 A1.excalidraw.md",
@@ -351,11 +358,6 @@
     "MATH1116/Analysis/Week 2/The integral test.md",
     "MATH1116 revision adlay.md",
     "MATH1116/Linear algebra/Week 1/vector space.md",
-    "MATH1013/Calculus/Week 7/Integration by substitution.md",
-    "MATH1116/Linear algebra/Week 2/field.md",
-    "MATH1116/Linear algebra/Week 3/linear map.md",
-    "MATH1116/Linear algebra/Week 3/range.md",
-    "MATH1013/Linear algebra/Week 6/Surjective transformation.md",
     "attachments/Pasted image 20260814095251.png",
     "attachments/Pasted image 20260814095027.png",
     "attachments/Pasted image 20260814094755.png",
@@ -364,9 +366,7 @@
     "attachments/Pasted image 20260812170631.png",
     "attachments/Pasted image 20260812165328.png",
     "attachments/Pasted image 20260812162237.png",
-    "attachments/Pasted image 20260811162138.png",
     "templates",
-    "attachments/Pasted image 20260807093422.png",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
     "MATH1116",
     "MATH1116/Analysis/Week 9",
