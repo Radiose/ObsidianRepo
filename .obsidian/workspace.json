@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 1/inductive reasoning.md",
+                "file": "COMP3670/Week 2/loss function.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "inductive reasoning"
+              "title": "loss function"
             }
           },
           {
@@ -207,7 +207,8 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -329,11 +330,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "35060226e62d736e",
+  "active": "e9433c2d2fbca9a5",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
-    "COMP3670/Week 1/inductive reasoning.md",
+    "COMP3670/Week 3/COMP3670 13.08.2026.md",
+    "COMP3670/Week 2/loss function.md",
+    "COMP3670/Week 2/out of sample error.md",
     "COMP3670 A1.md",
+    "COMP3670/Week 1/inductive reasoning.md",
+    "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
+    "COMP3670/Week 2/the machine learning statistical model.md",
+    "COMP3670/Week 1/supervised learning framework.md",
     "Excalidraw/COMP2610 A1.excalidraw.md",
     "MATH1005/Week 8/Uniform density and distribution.md",
     "MATH1013/Calculus/Week 11/Simpson's rule.md",
@@ -352,11 +358,6 @@
     "COMP2610/Week 2/covariance.md",
     "MATH1116/Linear algebra/Week 3/linear operator.md",
     "MATH1116/Linear algebra/Week 3/commutator.md",
-    "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
-    "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
-    "MATH1116/Linear algebra/Week 2/basis.md",
-    "MATH1116/Linear algebra/Week 2/linear dependence lemma.md",
-    "MATH1116/Linear algebra/Week 2/MATH1116 06.08.2026.md",
     "attachments/Pasted image 20260814095251.png",
     "attachments/Pasted image 20260814095027.png",
     "attachments/Pasted image 20260814094755.png",

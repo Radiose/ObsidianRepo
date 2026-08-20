@@ -10,5 +10,5 @@ $l(\mathbf{x},y)h)=(y-h(\mathbf{x}))^2$
 For discrete, we can use the binary loss 
 $l((\mathbf{x},y)h)=\mathbb{1}\{ h(\mathbf{x})\not=y \}$
 
-out of sample error
+[[out of sample error]]
 This is what enables us to determine the expected loss under a joint distribution $P$
