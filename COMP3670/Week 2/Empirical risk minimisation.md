@@ -19,3 +19,7 @@ $E_{out}(\hat{h_{N}})\leq E_{in}(\hat{h_{N}})+\epsilon$
 $\epsilon$ is how wrong we may be, and $\delta$ is how often that may occur. Both must be controlled by the things we can choose. Sample size $N$, and [[hypothesis set]] $\mathcal{H}$.
 
 We still cannot prove that some rule fitted on a finite sample will work on new data, but what we can do is bound the probability of being wrong, and by how much. 
+
+
+# The overarching idea 
+We start off with a prechosen hypothesis set, and our goal is to compute $E_{in}(h)$ for each $h \in \mathcal{H}$. We aim then to return the $h$ that has the lowest in sample error. 

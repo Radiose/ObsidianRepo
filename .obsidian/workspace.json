@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 3/summation by parts.md",
+                "file": "COMP3670/Week 3/COMP3670 13.08.2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "summation by parts"
+              "title": "COMP3670 13.08.2026"
             }
           },
           {
@@ -331,6 +331,13 @@
   },
   "active": "d00592c70460d3e5",
   "lastOpenFiles": [
+    "COMP3670/Week 3/Shatter coefficient.md",
+    "COMP3670/Week 3/COMP3670 13.08.2026.md",
+    "attachments/Pasted image 20260820171410.png",
+    "COMP3670/Week 3/The fundamental theorem of statistical learning theory(binary loss).md",
+    "COMP3670/Week 2/Empirical risk minimisation.md",
+    "MATH1116/Analysis/Week 3/summation by parts.md",
+    "emprici.md",
     "MATH1116/Analysis/Week 3/The ratio test.md",
     "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
     "COMP3670 A1.md",
@@ -339,10 +346,7 @@
     "MATH1005/Week 8/Density function.md",
     "attachments/Ink/Drawing/2026.8.20 - 13.26pm.svg",
     "attachments/Ink/Drawing/2026.8.20 - 13.24pm.svg",
-    "COMP3670/Week 2/Empirical risk minimisation.md",
     "COMP3670/Week 3/Vapnik-Chervonenkis dimension.md",
-    "COMP3670/Week 3/Shatter coefficient.md",
-    "COMP3670/Week 3/COMP3670 13.08.2026.md",
     "COMP3670/Week 3/Controlling the generalisation gap.md",
     "COMP3670/Week 2/loss function.md",
     "COMP3670/Week 1/hypothetico-deductive reasoning.md",
@@ -354,11 +358,7 @@
     "MATH1005/Week 8/Uniform density and distribution.md",
     "MATH1013/Calculus/Week 11/Simpson's rule.md",
     "COMP3670/Week 2/COMP3670 06.08.2026.md",
-    "MATH1116/Analysis/Week 3/summation by parts.md",
     "MATH1013/Linear algebra/Week 10/The determinant.md",
-    "MATH1116/Analysis/Week 2/Convergence of series.md",
-    "MATH1116/Analysis/Week 2/The integral test.md",
-    "MATH1116 revision adlay.md",
     "attachments/Pasted image 20260814095251.png",
     "attachments/Pasted image 20260814095027.png",
     "attachments/Pasted image 20260814094755.png",
@@ -366,7 +366,6 @@
     "attachments/Pasted image 20260813093426.png",
     "attachments/Pasted image 20260812170631.png",
     "attachments/Pasted image 20260812165328.png",
-    "attachments/Pasted image 20260812162237.png",
     "templates",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
     "MATH1116",
