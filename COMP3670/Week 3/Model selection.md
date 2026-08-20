@@ -2,7 +2,7 @@
 aliases:
   - candidate model
 ---
-A candidate model $\mathcal{M}\subset \mathcal{H}$ is a smaller hypothesis set. We collect each model to be created via the [[Prior knowledge]] we have. 
+A candidate model $\mathcal{M}\subset \mathcal{H}$ is a smaller hypothesis set. We collect each model to be created via the [[prior knowledge]] we have. 
 
 We want our models to have distinct complexities. In particular, we should have chains of models, with increasing complexities. $\mathcal{M}_{1}\subset \mathcal{M}_{2}\subset\dots \subset\mathcal{M}_{p}$, each with increasing complexities. 
 

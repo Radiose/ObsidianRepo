@@ -2,7 +2,7 @@
 aliases:
   - empirical generalisation gap
 ---
-This is a set we use to score each [[Model selection|candidate model]] on their accuracy.
+This is a set we use to score each [[model selection|candidate model]] on their accuracy.
 
 We fit $\hat{h}_{i}$ on the training part, using our candidate model $\mathcal{M}_{i}$ for $i=1,\dots ,n$. So for each candidate model, we get the smallest possible hypothesis, and then select the model with the least error. 
 
@@ -37,7 +37,7 @@ The gap between these two is known as the empirical generalisation gap.
 
 # Cross validation 
 
-This is a method for [[Model selection]] using varying splits of validation sets to rotate the role of data. 
+This is a method for [[model selection]] using varying splits of validation sets to rotate the role of data. 
 
 ![[Pasted image 20260820183222.png]]
 

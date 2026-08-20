@@ -1,3 +1,5 @@
+# Maximum likelihood estimation
+
 Consider the set of observations $\mathcal{D}=\{ x_{1},\dots,x_{N} \}$ with $x_{i}\in \{ 0,1 \}$
 Each observation is the outcome of a [[random variable]] $X$, with a binomial distribution.
 Say we observe $$
@@ -14,9 +16,11 @@ $$
 
 We can write down how likely $\mathcal{D}$ is under the Bernoulli model. Assuming [[Independent event|independent]] observations:
 $$
-p(\mathcal{D} \mid \theta) = \prod_{i=1}^{N} p(x_i \mid \theta) = \prod_{i=1}^{N} \theta^{x_i} (1-\theta)^{1-x_i}
-$$
-We call $L(\theta)=p(\mathcal{D}|\theta)$ the likelihood function. 
+p(\mathcal{D} \mid \theta) = \prod_{i=1}^{N} p(x_i \mid \theta) = \prod_{i=1}^{N} \theta^{x_i} (1-\theta)^{1-x_i}$$
+**We call $L(\theta)=p(\mathcal{D}|\theta)$ the likelihood function**. 
+What our goal is to do is determine the probability of the thing we actually saw be given that $\theta$ is true. 
+
+
 
 
 Maximising $p(\mathcal{D}|\theta)$ is easier if we use the logarithm = $\log(p(\mathcal{D}|\theta))$
