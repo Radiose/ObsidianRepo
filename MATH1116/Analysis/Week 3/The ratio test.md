@@ -8,11 +8,14 @@ Case 1:
 Pick $\epsilon =\frac{1-\ell}{2}$. Then, $\exists N\in \mathbb{N}$ such that $\forall j \geq N,\ |\frac{x_{j+1}}{x_{j}}-\ell|\leq \frac{1-l}{2}$. 
 $\forall j \geq N$, $\frac{x_{j+1}}{x_{j}}\leq \ell + \frac{1-\ell}{2}=\frac{1+\ell}{2}$
 Via [[Induction]], 
-$\forall j\geq N\quad x_{n}\leq\left( \frac{1+\ell}{2} \right)^{j-N} x_N$
+$\forall j\geq N\quad x_{j}\leq\left( \frac{1+\ell}{2} \right)^{j-N} x_N$
 Let $y_{j}=\left( \frac{1+\ell}{2} \right)^{j-N}$
-Because $\ell \in[0,1)$, $\sum _{j=0}^\infty y_{j}$ converges. 
+Because $\frac{1+\ell}{2} \in[0,1)$, $\sum _{j=0}^\infty y_{j}$ converges,
 Additionally, $x_{j}\leq y_{j} \forall j \in \mathbb{N}$
 Thus, $\sum^\infty x_{j}$ converges, via [[Convergence of series#Theorem 2 (converging series bounds smaller one)|the comparison theorem]].
+Note that this geometric sequence that bounds $x_j$ is decreasing very strongly. 
+
+
 Case 2:
 Pick $\epsilon=\frac{\ell-1}{2}$, then $\exists N\in \mathbb{N}$ $\forall n\geq N$  $|\frac{x_{j+1}}{x_{j}} -\ell| \leq \frac{\ell-1}{2}$
 
@@ -33,3 +36,4 @@ Since $\frac{\ell+1}{2} > 1$, then
 $$\sum_{j=N}^{\infty} \left( \frac{\ell+1}{2} \right)^{j-N} x_N$$
 
 diverges, and so does $\sum_{j=0}^{\infty} x_j$.
+

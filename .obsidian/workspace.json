@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
+                "file": "MATH1116/Analysis/Week 3/summation by parts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "(external) direct sum of vector spaces"
+              "title": "summation by parts"
             }
           },
           {
@@ -136,7 +136,8 @@
               "title": "COMP2610 A1.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -328,13 +329,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3ab98c2c1dda6dba",
+  "active": "d00592c70460d3e5",
   "lastOpenFiles": [
+    "MATH1116/Analysis/Week 3/The ratio test.md",
+    "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
+    "COMP3670 A1.md",
     "COMP3670/Week 3/VC bound.md",
     "Excalidraw/MATH1116 w3.excalidraw.md",
-    "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
     "MATH1005/Week 8/Density function.md",
-    "COMP3670 A1.md",
     "attachments/Ink/Drawing/2026.8.20 - 13.26pm.svg",
     "attachments/Ink/Drawing/2026.8.20 - 13.24pm.svg",
     "COMP3670/Week 2/Empirical risk minimisation.md",
@@ -357,7 +359,6 @@
     "MATH1116/Analysis/Week 2/Convergence of series.md",
     "MATH1116/Analysis/Week 2/The integral test.md",
     "MATH1116 revision adlay.md",
-    "MATH1116/Linear algebra/Week 1/vector space.md",
     "attachments/Pasted image 20260814095251.png",
     "attachments/Pasted image 20260814095027.png",
     "attachments/Pasted image 20260814094755.png",
