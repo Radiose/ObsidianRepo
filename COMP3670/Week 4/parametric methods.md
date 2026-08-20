@@ -1,0 +1,1 @@
+This is where we assume the distribution has some fixed shape, fixed by a few unknown numbers. We estimate the numbers, and plug them in

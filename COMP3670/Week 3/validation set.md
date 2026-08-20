@@ -47,3 +47,5 @@ In practice:
 Every sample is used for training and for validation. Average out $k$ reduces the [[variance]] of the models, which makes comparisons more reliable. 
 However, we need to note that these $k$ scores are not [[Independent event|independent]], so getting a [[Hoeffdings inequality]] score is more difficult. 
 
+
+![[Pasted image 20260820185427.png]]

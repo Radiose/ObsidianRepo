@@ -11,15 +11,10 @@
             "id": "3ab98c2c1dda6dba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670 A1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "COMP3670 A1"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -43,13 +38,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 3/test sample.md",
+                "file": "COMP3670/Week 4/plug in rules.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "test sample"
+              "title": "plug in rules"
+            }
+          },
+          {
+            "id": "26e966ec85d5850f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP3670/Week 4/plug in rules.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "plug in rules"
+            }
+          },
+          {
+            "id": "e512e53fb7a43cee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP3670/Week 4/non parametric methods.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "non parametric methods"
             }
           },
           {
@@ -182,7 +207,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -374,14 +399,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f8e46a2b79a46a1f",
+  "active": "26e966ec85d5850f",
   "lastOpenFiles": [
-    "COMP3670/Week 3/Model selection.md",
-    "COMP3670/Week 3/test sample.md",
-    "COMP3670/Week 3/COMP3670 13.08.2026.md",
+    "COMP3670/Week 4/non parametric methods.md",
+    "COMP3670/Week 4/plug in rules.md",
+    "COMP3670/Week 4/parametric methods.md",
+    "attachments/Pasted image 20260820190629.png",
+    "COMP3670/Week 2/target function.md",
+    "attachments/Pasted image 20260820190350.png",
     "COMP3670/Week 3/validation set.md",
-    "attachments/Pasted image 20260820183222.png",
+    "attachments/Pasted image 20260820185427.png",
+    "COMP3670/Week 2/simple random sample.md",
+    "attachments/Pasted image 20260820185421.png",
+    "COMP3670/Week 3/test sample.md",
+    "attachments/Pasted image 20260820185410.png",
+    "attachments/Pasted image 20260820185405.png",
+    "COMP3670/Week 3/Model selection.md",
     "COMP3670 A1.md",
+    "COMP3670/Week 3/COMP3670 13.08.2026.md",
+    "attachments/Pasted image 20260820183222.png",
     "COMP3670/Week 3/Prior knowledge.md",
     "MATH1005/Week 8/Density function.md",
     "attachments/Pasted image 20260820182904.png",
@@ -398,20 +434,9 @@
     "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
     "COMP3670/Week 3/VC bound.md",
     "Excalidraw/MATH1116 w3.excalidraw.md",
-    "attachments/Ink/Drawing/2026.8.20 - 13.26pm.svg",
-    "attachments/Ink/Drawing/2026.8.20 - 13.24pm.svg",
     "COMP3670/Week 3/Vapnik-Chervonenkis dimension.md",
     "COMP3670/Week 3/Controlling the generalisation gap.md",
     "COMP3670/Week 2/loss function.md",
-    "COMP3670/Week 1/hypothetico-deductive reasoning.md",
-    "COMP3670/Week 2/out of sample error.md",
-    "COMP3670/Week 1/inductive reasoning.md",
-    "COMP3670/Week 2/the machine learning statistical model.md",
-    "COMP3670/Week 1/supervised learning framework.md",
-    "attachments/Pasted image 20260814095251.png",
-    "attachments/Pasted image 20260814095027.png",
-    "attachments/Pasted image 20260814094755.png",
-    "attachments/Pasted image 20260814085757.png",
     "templates",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
     "MATH1116",

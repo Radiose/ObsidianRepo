@@ -26,3 +26,4 @@ The theoretical generalisation guarantees of statistical learning theory depend 
 This is some $(\mathbf{X,Y}) \textasciitilde P$, drawn independently of $(\mathbf{X_{1},}Y_{1}),\dots,(\mathbf{X_{n}},Y_{n})$ 
 The requirements:
 Must be from the same distribution, and must be [[Independent event|independent]] IE the test point was in no way used to choose the hypothesis. 
+![[Pasted image 20260820185421.png]]
