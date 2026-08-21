@@ -1,18 +1,20 @@
+---
+aliases:
+  - likelihood function
+---
 # Maximum likelihood estimation
 
 Consider the set of observations $\mathcal{D}=\{ x_{1},\dots,x_{N} \}$ with $x_{i}\in \{ 0,1 \}$
 Each observation is the outcome of a [[random variable]] $X$, with a binomial distribution.
 Say we observe $$
-\mathcal{D} = \{0, 0, 0, 1, 0, 0, 1, 0, 0, 0\}
-$$
+\mathcal{D} = \{0, 0, 0, 1, 0, 0, 1, 0, 0, 0\}$$
 If we were to assume that $\theta=\frac{1}{5}$, then we'd get
 $$
 \begin{aligned}
 p(\mathcal{D} \mid \theta) &= \prod_{i=1}^{10} p(x_i \mid \theta) \\
 &= \left(\frac{1}{5}\right)^2 \cdot \left(\frac{4}{5}\right)^8 \\
 &\approx 0.007
-\end{aligned}
-$$
+\end{aligned}$$
 
 We can write down how likely $\mathcal{D}$ is under the Bernoulli model. Assuming [[Independent event|independent]] observations:
 $$
@@ -28,6 +30,17 @@ $$=\sum_{i=1}^N[x_{i}\log \theta+(1-x_{i})\log(1-\theta)]$$ This is because log 
 Setting $\frac{d\mathcal{L}}{d\theta}=0$, we obtain
 $\theta_{ML}=\frac{1}{n}\sum_{i=1}^N x_{i}$ - a very simple answer. 
 However, if we use some really small [[Sample space]], this is a bad idea. We have overfitting. 
+
+
+# Comp3670
+
+Our goal here for our parametric methods is to get the $\theta$ that maximises the likelihood function. This is the idea behind maximum likelihood estimation. 
+
+## The guarantees of MLE 
+If we got the correct family, $\hat{\theta}$  converges to to $\theta^*$ as $N$ grows, and no other estimator is asymptotically more precise. It extracts everything the sample contains. 
+
+However, if its wrong, it will still converge to the member of the family closest to the truth, and the procedure doesn't notice. This is another way to view an [[hypothesis set|approximation error]]. 
+
 # Bayesian version
 Using [[Bayes theorem|bayesian inference]] provides a much better way. 
 
