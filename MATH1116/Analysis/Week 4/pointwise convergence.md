@@ -52,4 +52,9 @@ g(x) =
 $$
 
 Let $x =0$. Then, $|g_{n}(x)-g(x)|=0 \quad \forall n \in \mathbb{N}$
-If $x \in(0,1)$, then $g_{n}(x)-g(x)$
+If $x \in(0,1)$, then $g_{n}(x)=x^n \xrightarrow[n \to \infty]{}0 = g(x)$ 
+If $x \geq {1}$, then $\forall n \in \mathbb{N},\ g(x)=1=g_{n}(x)$
+Thus, $g_{n}(x)\xrightarrow[n \to \infty]{}g(x)\forall x \in \mathbb{R}$
+**HOWEVER**
+$g_{n}$ is continuous $\forall n \in\mathbb{N}$, but $\lim_{ n \to \infty } g_{n}$ is not. This is because $g(x)$ is not continuous. 
+

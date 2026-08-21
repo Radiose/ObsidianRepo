@@ -1,5 +1,4 @@
 [
-  "obsidian-latex-suite",
   "obsidian-excalidraw-plugin",
   "ink",
   "note-refactor-obsidian",
@@ -9,5 +8,6 @@
   "better-word-count",
   "multi-properties",
   "pdf-to-md",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-latex-suite"
 ]
