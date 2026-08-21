@@ -28,7 +28,7 @@ $$
 Moreover,
 
 $$
-\left| \int_a^b f_n(x)\,dx - \int_a^b f(x)\,dx \right| \leq \left| \int_{a}^b sup_{y \in[a,b]}|f_{n}(y)-f(y)|\right| (b-a)\|f_n - f\|_\infty.
+\left| \int_a^b f_n(x)\,dx - \int_a^b f(x)\,dx \right| \leq \left| \int_{a}^b sup_{y \in[a,b]}|f_{n}(y)-f(y)|\right| =(b-a)\|f_n - f\|_\infty.
 $$
 
 Therefore,
@@ -38,3 +38,14 @@ $$
 $$
 
 and thus tends to $0$ as $n$ tends to infinity. $\blacksquare$
+
+
+
+# Important remark 
+$||f_{n}(x)-f(x)|| \xrightarrow[n \to \infty]{}0$
+$\iff \forall\epsilon>0\quad  \exists N \in \mathbb{N} \quad \forall n >N \ \  sup_{x \in[a,b]} |f_{n}(x)-f(x)|<\epsilon$
+$\iff \forall\epsilon>0 \quad \exists N \in \mathbb{N} \quad \forall x \in[a,b]\ \ |f_{n}(x)-f(x)|<\epsilon$
+$\implies \forall x \in[a,b]\ \ \forall\epsilon>0\ \ \exists M_{\epsilon,x}\forall n\geq M\ \ |f_{n}(x)-f(x)|<\epsilon$
+$\implies f_{n}(x)\xrightarrow[n \to \infty]{}f(x)$ pointwise. 
+
+As you can see, the difference between pointwise and uniform convergence is the same as [[continuous function|continuous]] vs [[uniform continuity]], IE whether $N$ depends on $x$ or not. 
