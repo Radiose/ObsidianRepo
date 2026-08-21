@@ -172,17 +172,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 4/pointwise convergence.md",
+                "file": "COMP3670/Week 3/COMP3670 13.08.2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "pointwise convergence"
+              "title": "COMP3670 13.08.2026"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,8 +251,7 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -375,10 +373,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e9433c2d2fbca9a5",
+  "active": "3ab98c2c1dda6dba",
   "lastOpenFiles": [
-    "MATH1005/Week 5/sequence.md",
+    "COMP3670/Week 3/COMP3670 13.08.2026.md",
+    "COMP3670/Week 3/Hoeffdings inequality.md",
+    "COMP3670/Week 3/PAC learnable.md",
+    "COMP3670/Week 3/prior knowledge.md",
     "MATH1116/Analysis/Week 4/pointwise convergence.md",
+    "MATH1005/Week 5/sequence.md",
     "COMP3670/Week 4/nonparametric methods.md",
     "COMP3670/Week 4/cross entropy loss.md",
     "attachments/Pasted image 20260821093922.png",
@@ -391,7 +393,6 @@
     "COMP2610/Week 3/Parameter estimation.md",
     "COMP3670/Week 4/plug in rules.md",
     "COMP3670/Week 3/model selection.md",
-    "COMP3670/Week 3/prior knowledge.md",
     "attachments/Pasted image 20260820190629.png",
     "COMP3670/Week 2/target function.md",
     "attachments/Pasted image 20260820190350.png",
@@ -401,9 +402,7 @@
     "attachments/Pasted image 20260820185421.png",
     "COMP3670/Week 3/test sample.md",
     "attachments/Pasted image 20260820185410.png",
-    "COMP3670/Week 3/COMP3670 13.08.2026.md",
     "MATH1005/Week 8/Density function.md",
-    "COMP3670/Week 3/Hoeffdings inequality.md",
     "COMP3670/Week 1/supervised learning.md",
     "COMP3670/Week 3/Shatter coefficient.md",
     "COMP3670/Week 3/The fundamental theorem of statistical learning theory(binary loss).md",
@@ -412,7 +411,6 @@
     "emprici.md",
     "MATH1116/Analysis/Week 3/The ratio test.md",
     "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
-    "COMP3670/Week 3/VC bound.md",
     "templates",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
     "MATH1116",
