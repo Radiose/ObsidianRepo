@@ -1,4 +1,4 @@
-A series is a type of [[Sequence]] that is defined in terms of addition. 
+A series is a type of [[sequence]] that is defined in terms of addition. 
 
 
 

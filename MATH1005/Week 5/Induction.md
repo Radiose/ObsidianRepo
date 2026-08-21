@@ -5,7 +5,7 @@ Induction
 Induction is a method utilised in mathematical [[proof]]s. It is a form of [[Recursion]] used in mathematics, that is particularly useful for recursive data structures.
 
 
-One of the most obvious examples is for [[Sequence]]s. Induction allows you to take the [[implicit definition of a sequence|implicit definition]] of a sequence, and then prove that an [[Explicit definition of a Sequence|explicit definition]] true.
+One of the most obvious examples is for [[sequence]]s. Induction allows you to take the [[implicit definition of a sequence|implicit definition]] of a sequence, and then prove that an [[Explicit definition of a Sequence|explicit definition]] true.
 
 
 
@@ -23,7 +23,7 @@ The idea with induction is to try to prove the $n+1$ case via assumption of the 
 
 
 ### Weak induction 
-Prove base case (p(0) or whatever starting value in [[Sequence]])
+Prove base case (p(0) or whatever starting value in [[sequence]])
 
 Prove inductive case:
 **Assume p(n) holds** (inductive hypothesis)

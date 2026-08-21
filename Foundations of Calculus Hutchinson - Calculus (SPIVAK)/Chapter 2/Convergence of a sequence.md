@@ -7,7 +7,7 @@ tags:
 ---
 The most fundamental concept in the study of sequence is the notion of a convergence in a sequence .
 
-The informal idea is that a [[Sequence]] $a_{n}$ converges to $a$ and we write $lim \ a_{n} = a$ if no matter how small a positive number is chosen, the distance between $a_{n}$ and $a$ will always be less than this positive number for some $n$. The smaller the number, the larger $n$ will need to be.
+The informal idea is that a [[sequence]] $a_{n}$ converges to $a$ and we write $lim \ a_{n} = a$ if no matter how small a positive number is chosen, the distance between $a_{n}$ and $a$ will always be less than this positive number for some $n$. The smaller the number, the larger $n$ will need to be.
 
 This is an essential application of the [[limits|limit]].
 
@@ -33,7 +33,7 @@ This proof hinges upon the [[archimedean property]] strongly, being that there w
 
 Another example:
 
-Demonstrate that the sequence [[implicit definition of a sequence|implicitely defined]] by $a_{1}=1$ and $a_{n+1} = \frac{1}{2}a_{n}+2$ for $n \ge 1$. We calculate the first few terms and assume that the [[Sequence]] converges to 4. 
+Demonstrate that the sequence [[implicit definition of a sequence|implicitely defined]] by $a_{1}=1$ and $a_{n+1} = \frac{1}{2}a_{n}+2$ for $n \ge 1$. We calculate the first few terms and assume that the [[sequence]] converges to 4. 
 
 We have a formula of $a_{n+1}$ in terms of $a_{n}$, so we want a formula of $|a_{n+1}-4|$ in terms of $|a_{n}-4|$
 $|a_{n+1}-4| = | \frac{1}{2}n+2-4|=\frac{1}{2}|a_{n}-4|$

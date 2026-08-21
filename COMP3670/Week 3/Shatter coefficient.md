@@ -1,4 +1,4 @@
-Consider the case of binary classification. Fix $N$ points, $\mathbf{x_{1}},\mathbf{x_{2}},\dots,\mathbf{x_{n}}$. Each hypothesis $h \in \mathcal{H}$ produces a [[Sequence]] of labels. Such a sequence is called a **dichotomy.**
+Consider the case of binary classification. Fix $N$ points, $\mathbf{x_{1}},\mathbf{x_{2}},\dots,\mathbf{x_{n}}$. Each hypothesis $h \in \mathcal{H}$ produces a [[sequence]] of labels. Such a sequence is called a **dichotomy.**
 
 There are at most $2^N$ dichotomies in total. The effective number of hypothesis is not $|\mathcal{H}|$, but in fact the number of distinct dichotomies that $\mathcal{H}$ can actually produce. 
 

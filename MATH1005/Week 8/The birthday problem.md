@@ -2,7 +2,7 @@ This is a classic thought experiment that can be proven with basic [[Probability
 In a room full of 50 people, what is the likelihood that at least two share a birthday?
 
 We will solve this via proving the complement IE, what is the likelihood that none share a birthday?
-Well, to do this, we want to think about how many ways the 50 birthdays can be shown without there being a repeat in the [[Sequence]].
+Well, to do this, we want to think about how many ways the 50 birthdays can be shown without there being a repeat in the [[sequence]].
 This leads to the [[permutation]]. We are trying to determine how many distinct ways to order 50 birthdays. 
 Great, so now we want to find the [[Probability of an event]]. We must determine the [[Sample space]].
 

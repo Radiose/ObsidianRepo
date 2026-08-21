@@ -8,7 +8,7 @@ Below are some useful [[limits|limit]]s. I'm not quite sure about where they sho
 (2) if $x$ is any [[real number]], then $\lim_{  } \frac{x^n}{n!}=0$
 
 Proof of 1:
-Since $|x| <1$ the [[Sequence]] $x_{n}$ is decreasing and all terms are $>0$
+Since $|x| <1$ the [[sequence]] $x_{n}$ is decreasing and all terms are $>0$
 Hence, $|x|^n \to a$, and thus by [[properties of sequence limits]], $|x|^n+1 \to a$ as well.
 $\implies |x|^n=a$ and $|x|^{n+1} = a$
 $\iff |x|^{n+1}=|x||x|^n \to |x|a$

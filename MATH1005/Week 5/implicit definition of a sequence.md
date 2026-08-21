@@ -5,7 +5,7 @@ aliases:
   - inductively defined
   - inductive definition
 ---
-An implicit definition of a [[Sequence]] 
+An implicit definition of a [[sequence]] 
 comprises starting values and a relationship between the $a_{n}$s. 
 EG
 $a_{n+1}=2a_{n}$ - relationship between them 

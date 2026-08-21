@@ -6,7 +6,7 @@ list of information and putting it an order according to some rule
 let $N \in \mathbb{N}$ S be a set and $(x_{n})_{n\in \{ 1\dots N \}}$. 
 This does not imply that all $x_{n}$s are different 
 
-A **sorting algorithm** is a procedure for sorting a [[Sequence]] into increasing order according to some specified ordering rule.
+A **sorting algorithm** is a procedure for sorting a [[sequence]] into increasing order according to some specified ordering rule.
 Some examples of this is numerical, alphabetical etc. 
 IE, it replaces $(x_{n})_{n \in \{1\dots N \}}$ with a  $(y_{n})_{n \in \{1\dots N \}}$
 ![[Index set]]

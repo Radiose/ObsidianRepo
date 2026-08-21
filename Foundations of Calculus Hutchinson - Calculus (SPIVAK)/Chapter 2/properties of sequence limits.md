@@ -59,7 +59,7 @@ Hence, $|a_{n}b_{n} - ab|<\epsilon$ for all $n > N$ where $N = max\{N_{1},N_{2}\
 
 # Other theorems
 Theorem 1:
-If two [[Sequence]]s converge, then so does their sum, and the limit of the new sequence is just the sum of the limits of the original sequence. 
+If two [[sequence]]s converge, then so does their sum, and the limit of the new sequence is just the sum of the limits of the original sequence. 
 Similar results apply for all products and quotients. 
 
 Theorem 2: 
@@ -123,7 +123,7 @@ Suppose the sequence $a_{n}$ decreases from the $N$th term onwards. Considering 
 Suppose $\epsilon > 0$. Because $L$ is a lower bound, then $L \leq a_{n}$ for all $n$.
 Because $L$ is the greatest lower bound, then $L+\epsilon$ is not a lower bound, and so there is a $k \in \mathbb{Z}$ such that $a_{k} < L+\epsilon$ 
 
-Because this [[Sequence]] is constantly decreasing, then $a_{n}<L+\epsilon$ for all $n \geq k$
+Because this [[sequence]] is constantly decreasing, then $a_{n}<L+\epsilon$ for all $n \geq k$
 Thus, we have shown that $L \leq a_{n} \leq L+\epsilon$ for all $n \geq k$ ($k$ depends on $\epsilon$)
 Since $\epsilon$ is arbitrary, $a_{n}\to L$ while $n \to \infty$ $\blacksquare$
 

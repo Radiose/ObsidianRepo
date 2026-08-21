@@ -1,4 +1,4 @@
-Series, like [[Sequence]]s can [[Convergence of a sequence|converge]]. 
+Series, like [[sequence]]s can [[Convergence of a sequence|converge]]. 
 Let $(x_{j})_{j \in \mathbb{N}}\in \mathbb{R}^{\mathbb{N}}$. We define $s_{n}=\sum_{j=0}^n x_{j}$. If $(s_{n})_{n \in \mathbb{N}}$ converges, we denote its limit by $\sum_{j=0}^\infty x_{j}$.
 
 Some AON 

@@ -1,7 +1,7 @@
 ---
 {}
 ---
-Geometric [[Sequence]]
+Geometric [[sequence]]
 [[implicit definition of a sequence|implicit definition]] 
 $a_{k}=a$ (first term)
 $a_{n+1}=ra_{n},\forall_{n}\ge k$

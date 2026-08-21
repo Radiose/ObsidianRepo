@@ -172,13 +172,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 4/nonparametric methods.md",
+                "file": "MATH1116/Analysis/Week 4/pointwise convergence.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "nonparametric methods"
+              "title": "pointwise convergence"
             }
           }
         ],
@@ -252,7 +252,8 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -374,10 +375,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e512e53fb7a43cee",
+  "active": "e9433c2d2fbca9a5",
   "lastOpenFiles": [
-    "COMP3670/Week 4/cross entropy loss.md",
+    "MATH1005/Week 5/sequence.md",
+    "MATH1116/Analysis/Week 4/pointwise convergence.md",
     "COMP3670/Week 4/nonparametric methods.md",
+    "COMP3670/Week 4/cross entropy loss.md",
     "attachments/Pasted image 20260821093922.png",
     "attachments/Pasted image 20260821093712.png",
     "attachments/Pasted image 20260821093651.png",
@@ -410,7 +413,6 @@
     "MATH1116/Analysis/Week 3/The ratio test.md",
     "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
     "COMP3670/Week 3/VC bound.md",
-    "Excalidraw/MATH1116 w3.excalidraw.md",
     "templates",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
     "MATH1116",

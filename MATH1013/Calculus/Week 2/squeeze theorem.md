@@ -3,7 +3,7 @@
 ---
 The squeeze [[theorem]] 
 
-[[limits|limit]] of a [[Sequence]] definition:
+[[limits|limit]] of a [[sequence]] definition:
 Let $a_{n},b_{n},c_{n}$ be sequences. 
 suppose $a_{n} \le b_{n} \le c_{n}$ ultimately. Suppose $a_{n} \to L$ and $c_{n} \to L$. Then $b_{n}\to L$
 
