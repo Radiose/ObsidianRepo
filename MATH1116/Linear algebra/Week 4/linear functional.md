@@ -1,0 +1,1 @@
+A linear functional on $V$ is a [[linear map]] from $V$ to $\mathbb{F}$, or an element of $L(V,\mathbb{F})$
