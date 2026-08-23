@@ -31,3 +31,4 @@ This is basically just [[The perceptron]] model. We also call this a surrogate l
 In words, $\hat{h}$ is the linear classifier whos associated probability model makes the observes labels most likely. 
 The probabilities themselves are often the real output. $\eta(x)=0.8$ is more useful to a clinician that class $1$.
 
+# The hypothesis set 

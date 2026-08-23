@@ -247,7 +247,8 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -371,8 +372,9 @@
   },
   "active": "358471248ec7283d",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 3/kernel.md",
+    "COMP3670/Week 4/cross entropy loss.md",
     "MATH1116/Linear algebra/Week 4/MATH1116 20.08.2026.md",
+    "MATH1116/Linear algebra/Week 3/kernel.md",
     "MATH1005/Week 1/theorem.md",
     "MATH1116/Linear algebra/Week 3/invertible linear map.md",
     "MATH1005/Week 10/isomorphism.md",
@@ -396,7 +398,6 @@
     "COMP3670/Week 3/COMP3670 13.08.2026.md",
     "COMP3670/Week 3/Hoeffdings inequality.md",
     "COMP3670/Week 3/PAC learnable.md",
-    "MATH1005/Week 5/sequence.md",
     "attachments/Pasted image 20260821093922.png",
     "attachments/Pasted image 20260821093712.png",
     "attachments/Pasted image 20260821093651.png",
