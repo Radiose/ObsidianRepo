@@ -36,3 +36,6 @@ YOU HAVEE TO THINK ABOUT EVERYTHING UP TO THE N YOU CHOOSE FOR SEQUENCE AND SERI
 
 # LA 
 the basis of $\{ 0 \}$ is $\emptyset,$ with $dim(\{ 0 \})=0$
+
+
+$\sum_{k} \sum_{n} = \sum_{n}\sum_{k}$
