@@ -32,4 +32,4 @@ self mutual information $I(X,X)=H(X)-H(X|X)=H(X)$
 ![[Conditional mutual information]]
 
 
-joint [[mutual information]]
+![[joint mutual information]]

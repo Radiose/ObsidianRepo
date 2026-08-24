@@ -30,3 +30,5 @@ H(Y|X) &= \sum_{x \in \mathcal{X}} p(x) \sum_{y \in \mathcal{Y}} p(y|x) \log \fr
 $$
 Note, that we are taking the expectation here with respect to the [[Joint probability]] distribution, rather than the conditional. 
 
+
+![[information cannot hurt theorem]]
