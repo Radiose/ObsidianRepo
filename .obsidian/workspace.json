@@ -21,12 +21,15 @@
             "id": "358471248ec7283d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/MATH1116 w4.excalidraw.md"
+                "file": "MATH1116/Analysis/Week 3/summation by parts.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MATH1116 w4.excalidraw"
+              "icon": "lucide-file",
+              "title": "summation by parts"
             }
           },
           {
@@ -383,8 +386,7 @@
               "title": "summation by parts"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -576,8 +578,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8579a23058f83046",
+  "active": "9bedb72803343132",
   "lastOpenFiles": [
+    "MATH1116/Analysis/Week 3/summation by parts.md",
+    "Excalidraw/MATH1116 w4.excalidraw.md",
+    "MATH1116 odds and ends.md",
     "MATH1116 revision adlay.md",
     "COMP2610/Week 4/data processing inequality.md",
     "attachments/Pasted image 20260824180103.png",
@@ -600,13 +605,10 @@
     "MATH1005/Week 3/symmetric relation.md",
     "COMP2610/Week 3/entropy (information theory).md",
     "COMP2610/Week 3/decomposability of entropy.md",
-    "MATH1116/Analysis/Week 3/summation by parts.md",
-    "Excalidraw/MATH1116 w4.excalidraw.md",
     "MATH1116/Linear algebra/Week 4/Dual basis.md",
     "COMP3670/Week 4/cross entropy loss.md",
     "MATH1116/Linear algebra/Week 4/linear functional.md",
     "COMP3670/Week 3/COMP3670 13.08.2026.md",
-    "MATH1116/Linear algebra/Week 3/linear map.md",
     "attachments/Pasted image 20260824092718.png",
     "attachments/Pasted image 20260823160629.png",
     "attachments/Pasted image 20260821093922.png",
