@@ -43,3 +43,9 @@ $$
 H(X,Y) = H(X) + H(Y|X) = H(Y) + H(X|Y)
 $$
 So, the joint uncertainty of $X$ and $Y$ is the uncertainty of $X$, plus the uncertainty of $Y$, given $X$. 
+
+
+
+# Graph 
+Below we can see the relationship between joint entropy, [[conditional entropy]], [[mutual information]]. 
+![[Pasted image 20260824162811.png]]
