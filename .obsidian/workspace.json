@@ -167,13 +167,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 3/summation by parts.md",
+                "file": "COMP2610/Week 3/entropy (information theory).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "summation by parts"
+              "title": "entropy (information theory)"
+            }
+          },
+          {
+            "id": "6b9c7a864ad7bd57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 4/COMP2610 17.08.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "COMP2610 17.08.2026"
+            }
+          },
+          {
+            "id": "8cdbd1be0819132d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 4/relative entropy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "relative entropy"
             }
           },
           {
@@ -249,7 +279,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -441,13 +471,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "25c06cc6107991f3",
+  "active": "8cdbd1be0819132d",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 3/basis of domain theorem.md",
-    "MATH1116/Analysis/Week 1/series.md",
-    "Excalidraw/MATH1116 w4.excalidraw.md",
     "COMP2610/Week 4/COMP2610 17.08.2026.md",
+    "COMP2610/Week 4/relative entropy.md",
+    "COMP2610/Week 3/decomposability of entropy.md",
+    "COMP2610/Week 3/entropy (information theory).md",
     "MATH1116/Analysis/Week 3/summation by parts.md",
+    "Excalidraw/MATH1116 w4.excalidraw.md",
+    "MATH1116/Analysis/Week 1/series.md",
+    "MATH1116/Linear algebra/Week 3/basis of domain theorem.md",
     "MATH1116/Linear algebra/Week 4/Dual basis.md",
     "COMP3670/Week 4/cross entropy loss.md",
     "MATH1116/Linear algebra/Week 4/dual vector space.md",
@@ -468,9 +501,6 @@
     "MATH1005/Week 10/isomorphism.md",
     "MATH1013/Linear algebra/Week 6/Bijective Transformation.md",
     "MATH1116/Linear algebra/Week 3/composition of linear maps.md",
-    "MATH1116/Linear algebra/Week 3/linear operator.md",
-    "MATH1116/Linear algebra/Week 3/invariant subspace.md",
-    "MATH1116/Linear algebra/Week 3/range.md",
     "attachments/Pasted image 20260821093922.png",
     "attachments/Pasted image 20260821093712.png",
     "attachments/Pasted image 20260821093651.png",

@@ -23,6 +23,8 @@ $H_{b}(X)=\log_{b}(a)H_{a}(X)$
 The entropy of some random variable does not depend on the outcomes of its values, only the probabilities of them. Contrast this with the [[random variable|expected value]] which is built off the outcomes of the values of the random variable. The more peaky some distribution is, the higher the entropy. 
 
 
+![[decomposability of entropy]]
+
 
 # Entropy as a lower bound 
 This is an essential property of entropy in information theory. In general, entropy acts as a lower bound on the average number of bits to transmit the state of a random variable. 
