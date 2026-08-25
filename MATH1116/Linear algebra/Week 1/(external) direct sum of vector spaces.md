@@ -2,4 +2,4 @@ Suppose $U_{1},\dots,U_{m}$ are [[vector space]]s. We define their direct sum $U
 $(\mathbf{u}_{1},\dots,\mathbf{u_{m}})+(\mathbf{v}_{1},\dots,\mathbf{v_{m}}):=(\mathbf{u}_{1}+\mathbf{u_{m}},\dots,\mathbf{u_{m}+\mathbf{v_{m}}})$
 $\lambda \cdot(\mathbf{u}_{1},\dots,\mathbf{u_{m}}):=(\lambda \mathbf{u_{1}},\dots,\lambda \mathbf{u}_{m})$
 
-We note importantly that the external direct sum is of tuples, while the internal direct sum is just of vector composition. 
+We note importantly that the external direct sum is of tuples, while the internal direct sum is just of vector composition.
