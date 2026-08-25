@@ -27,7 +27,7 @@ ANOTHER USEFUL TRICK
 $-t^{3n}=(-1)^n\times t^{3n}$
 
 ### Cauchy Schwarz inequality 
-$\sum x_{i}y_{i} \leq \sqrt{ \sum x_{i}^2 }+\sqrt{ \sum y_{i}^2 }$
+$\sum x_{i}y_{i} \leq \sqrt{ \sum x_{i}^2 }\sqrt{ \sum y_{i}^2 }$
 
 
 # Constant up to N

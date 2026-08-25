@@ -11,12 +11,15 @@
             "id": "9bedb72803343132",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/MATH1116 w4.excalidraw.md"
+                "file": "MATH1116 odds and ends.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MATH1116 w4.excalidraw"
+              "icon": "lucide-file",
+              "title": "MATH1116 odds and ends"
             }
           },
           {
@@ -123,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -244,9 +246,11 @@
   },
   "active": "9bedb72803343132",
   "lastOpenFiles": [
+    "COMP2610/Week 5/COMP2610 24.08.2026.md",
+    "COMP2610/Week 3/conditional entropy.md",
+    "Excalidraw/MATH1116 w4.excalidraw.md",
     "MATH1116/Analysis/Week 2/Convergence of series.md",
     "MATH1116/Analysis/Week 3/summation by parts.md",
-    "Excalidraw/MATH1116 w4.excalidraw.md",
     "MATH1116 odds and ends.md",
     "MATH1116/Linear algebra/Week 3/range.md",
     "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
@@ -266,11 +270,9 @@
     "MATH1116/Linear algebra/Week 4/linear functional.md",
     "COMP2610/Week 4/Conditional mutual information.md",
     "COMP2610/Week 4/markov chain.md",
-    "COMP2610/Week 3/conditional entropy.md",
     "MATH1116/Linear algebra/Week 3/basis of domain theorem.md",
     "COMP2610/Week 4/data processing inequality.md",
     "attachments/Pasted image 20260824180103.png",
-    "COMP2610/Week 4/information cannot hurt theorem.md",
     "attachments/Ink/Drawing/2026.8.24 - 17.23pm.svg",
     "attachments/Pasted image 20260824162811.png",
     "attachments/Pasted image 20260824092718.png",
