@@ -26,15 +26,12 @@
             "id": "bfdb4b9de1d92fd4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "MATH1116/Analysis/Week 3/summation by parts.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Excalidraw/MATH1116 w4.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "summation by parts"
+              "icon": "excalidraw-icon",
+              "title": "MATH1116 w4.excalidraw"
             }
           },
           {
@@ -52,7 +49,8 @@
               "title": "summation by parts"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,14 +242,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9bedb72803343132",
+  "active": "bfdb4b9de1d92fd4",
   "lastOpenFiles": [
+    "MATH1116/Analysis/Week 3/summation by parts.md",
+    "MATH1116 odds and ends.md",
     "COMP2610/Week 5/COMP2610 24.08.2026.md",
     "COMP2610/Week 3/conditional entropy.md",
     "Excalidraw/MATH1116 w4.excalidraw.md",
     "MATH1116/Analysis/Week 2/Convergence of series.md",
-    "MATH1116/Analysis/Week 3/summation by parts.md",
-    "MATH1116 odds and ends.md",
     "MATH1116/Linear algebra/Week 3/range.md",
     "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
     "MATH1116/Linear algebra/Week 3/linear map.md",
