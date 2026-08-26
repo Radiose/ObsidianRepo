@@ -64,3 +64,16 @@ $$
 
 - $W_i(\mathbf{x})$ is the **influence** of observation $i$ on the decision at the point $\mathbf{x}$. The weights depend on $\mathbf{x}$ , and also on where *all* the other observations are
 
+### Visualisation
+![[Pasted image 20260827085331.png]]
+
+As you can see, each training point gets a weight $W_{i}(x)$ drawn as a bar that's tall when close to $\mathbf{x}$, and short when far. 
+
+Move $\mathbf{x}$ and the weights change. The classifier is then rebuilt at every points its evaluated. 
+
+### The assumption of non parametric method
+We encode an assumption about $P$. 
+Points that are close together in feature space, are more likely to belong to the same class than points that are far apart. 
+
+
+
