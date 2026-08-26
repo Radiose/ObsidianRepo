@@ -41,9 +41,30 @@ $$
 # Example 
 Suppose we are flipping some coin $n$ times with bias $\theta,p(X=1)=\theta$
 
-Say we flip the coin $n$ times, and observe $x_{1},\dots,x_{n} \in \{ 0,1 \}$
-We use the maximum likelihood estimator of $\theta$: $$\hat{\theta}=\frac{x_{1}+\dots+x_{n}}{n}$$we estimate how large n should be such that $p(|\hat{\theta}_{n}-\theta|\ge { 0}.05)\leq {0}.01$.  
-1% probability with 5% error. 
+We flip the coin $n$ times, and observe $x_{1},\dots,x_{n} \in \{ 0,1 \}$
+We use the maximum likelihood estimator of $\theta$ ( from the [[binomial distribution]]): $$\hat{\theta}=\frac{x_{1}+\dots+x_{n}}{n}$$we estimate how large n should be such that $p(|\hat{\theta}_{n}-\theta|\ge { 0}.05)\leq {0}.01$.  
+1% probability with 5% error.  - the probability that the dif
 
 So our goal here is to use [[Chebychovs inequality]] to this 
 We use the basic version 
+
+Observe that
+$$
+\mathbb{E}[\hat{\theta}_n] = \frac{\sum_{i=1}^n \mathbb{E}[x_i]}{n} = \theta
+$$
+$$
+\mathbb{V}[\hat{\theta}_n] = \frac{\sum_{i=1}^n \mathbb{V}[x_i]}{n^2} = \frac{\theta(1-\theta)}{n}.
+$$
+
+Thus, applying Chebyshev's inequality to $\hat{\theta}_n$,
+$$p(|\hat{\theta}_n - \theta| > 0.05) \leq \frac{\theta(1-\theta)}{(0.05)^2 \cdot n}.$$
+
+We are guaranteed this is less than 0.01 if
+
+$$p(|\hat{\theta}_n - \theta| > 0.05) \leq \frac{\theta(1-\theta)}{(0.05)^2 \cdot n}. <0.01$$
+
+$$n \geq \frac{\theta(1-\theta)}{(0.05)^2(0.01)}.$$
+
+
+
+When $\theta = 0.5$, $n \geq 10{,}000$

@@ -28,13 +28,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 5/COMP2610 24.08.2026.md",
+                "file": "COMP2610/Week 5/COMP2610 24.08.2026 25.08.2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "COMP2610 24.08.2026"
+              "title": "COMP2610 24.08.2026 25.08.2026"
+            }
+          },
+          {
+            "id": "9277ba34bf5c09b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 5/COMP2610 24.08.2026 25.08.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "COMP2610 24.08.2026 25.08.2026"
+            }
+          },
+          {
+            "id": "a39af0ad00e0d420",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 5/ensemble.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "ensemble"
+            }
+          },
+          {
+            "id": "84e35b87c201a19b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 5/extended ensemble.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "extended ensemble"
             }
           },
           {
@@ -43,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 5/Chebychovs inequality.md",
+                "file": "COMP2610/Week 3/Parameter estimation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chebychovs inequality"
+              "title": "Parameter estimation"
             }
           },
           {
@@ -68,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -263,11 +308,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d1c5c8a48b0abc0f",
+  "active": "84e35b87c201a19b",
   "lastOpenFiles": [
-    "COMP2610/Week 5/Markov's inequality.md",
+    "attachments/Pasted image 20260826172741.png",
+    "COMP2610/Week 5/ensemble.md",
+    "COMP2610/Week 5/extended ensemble.md",
+    "COMP2610/Week 5/COMP2610 24.08.2026 25.08.2026.md",
     "COMP2610/Week 5/Chebychovs inequality.md",
-    "COMP2610/Week 5/COMP2610 24.08.2026.md",
+    "COMP2610/Week 5/law of large numbers.md",
+    "COMP2610/Week 3/the Bernoulli distribution.md",
+    "COMP2610/Week 3/Parameter estimation.md",
+    "MATH1005/Week 8/Binomial theorem.md",
+    "COMP2610/Week 5/Markov's inequality.md",
     "MATH1005/Week 9/Independent event.md",
     "COMP2610/Week 2/variance.md",
     "MATH1116/Linear algebra/Week 4/Dual basis.md",
@@ -284,13 +336,6 @@
     "MATH1116/Linear algebra/Week 2/the basis theorem.md",
     "MATH1116/Linear algebra/Week 2/finite dimensional.md",
     "MATH1116/Linear algebra/Week 2/dimension of a vector space.md",
-    "MATH1116/Linear algebra/Week 2/span.md",
-    "MATH1116/Linear algebra/Week 2/linear dependence lemma.md",
-    "MATH1116/Linear algebra/Week 2/basis.md",
-    "MATH1005/Week 5/sequence.md",
-    "MATH1116/Linear algebra/Week 3/basis of domain theorem.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/Completeness axiom.md",
-    "MATH1116/Linear algebra/Week 4/MATH1116 20.08.2026.md",
     "attachments/Pasted image 20260824180103.png",
     "attachments/Ink/Drawing/2026.8.24 - 17.23pm.svg",
     "attachments/Pasted image 20260824162811.png",
