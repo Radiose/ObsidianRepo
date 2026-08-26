@@ -18,9 +18,19 @@ Suppose the probability of a head is 0.9, and the probability of tails is 0.1
 $P(hhhh)=(0.9)^4$
 $P(tttt)=(0.1)^4$
 
-# Entropy of [[extended ensemble]]s
-We can view $X^4$ as comprising 4 independent [[random variable]]s based on the [[ensemble]] $X$. Recall [[entropy (information theory)|entropy]] is additive for [[Independent event|independent]] random variables. 
-
-Thus, $H(X^4)=4(H(X)) = 4 \cdot (-0.9 \log 0.9   -0.1 \log 0.1)$
+![[Entropy of extended ensembles]]
 
 
+
+The probability of an [[extended ensemble]] 
+
+Let $X$ be an [[ensemble]] with an alphabet $A_{X}$.
+let $p(X=a_{i})=p_{i}$
+For a sequence $\mathbf{x}=x_{1},x_{2},\dots,x_{n}$, how to calculate $p(\mathbf{x})$?
+
+let $n_{i}$ be the number of time the symbol $a_{i}$ appears in $\mathbf{x}$.
+For each value in the alphabet, we get the probability o
+
+
+
+![[the multinomial coefficient]]

@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 5/ensemble.md",
+                "file": "COMP2610/Week 5/extended ensemble.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ensemble"
+              "title": "extended ensemble"
             }
           },
           {
@@ -80,6 +80,36 @@
               },
               "icon": "lucide-file",
               "title": "extended ensemble"
+            }
+          },
+          {
+            "id": "2b098e29a6f2a9cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 5/the multinomial coefficient.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "the multinomial coefficient"
+            }
+          },
+          {
+            "id": "2aedbc94b066e23d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 5/Entropy of extended ensembles.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Entropy of extended ensembles"
             }
           },
           {
@@ -113,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -308,11 +338,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "84e35b87c201a19b",
+  "active": "a39af0ad00e0d420",
   "lastOpenFiles": [
-    "attachments/Pasted image 20260826172741.png",
     "COMP2610/Week 5/ensemble.md",
     "COMP2610/Week 5/extended ensemble.md",
+    "COMP2610/Week 5/the multinomial coefficient.md",
+    "COMP2610/Week 5/Entropy of extended ensembles.md",
+    "attachments/Pasted image 20260826172741.png",
     "COMP2610/Week 5/COMP2610 24.08.2026 25.08.2026.md",
     "COMP2610/Week 5/Chebychovs inequality.md",
     "COMP2610/Week 5/law of large numbers.md",
@@ -335,7 +367,6 @@
     "MATH1116/Linear algebra/Week 3/linear operator.md",
     "MATH1116/Linear algebra/Week 2/the basis theorem.md",
     "MATH1116/Linear algebra/Week 2/finite dimensional.md",
-    "MATH1116/Linear algebra/Week 2/dimension of a vector space.md",
     "attachments/Pasted image 20260824180103.png",
     "attachments/Ink/Drawing/2026.8.24 - 17.23pm.svg",
     "attachments/Pasted image 20260824162811.png",
@@ -345,7 +376,6 @@
     "attachments/Pasted image 20260821093712.png",
     "attachments/Pasted image 20260821093651.png",
     "attachments/Pasted image 20260821093447.png",
-    "attachments/Pasted image 20260821090735.png",
     "templates",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
     "MATH1116",
