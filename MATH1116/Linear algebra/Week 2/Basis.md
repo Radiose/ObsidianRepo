@@ -81,10 +81,7 @@ This proves that the tuples of coefficients $(a_1, \dots, a_n)$ and $(c_1, \dots
 If $V$ is [[finite dimensional]], and $U$ is a subspace, then dim $U\leq$ $dim(V)$
 
 
-# Theorem 4
-If $dim(V)=n<\infty$
-Any [[linearly independent]] set with $n$ elements in it is a [[basis]].
-Any spanning set with $n$ elements is a basis. 
 
 
+![[the basis theorem]]
 

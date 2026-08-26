@@ -1,5 +1,5 @@
-Suppose $X=\{ \mathbf{v}_{1},\mathbf{v}_{2}\dots \mathbf{v_{n}} \}$ is a basis of a vector space $V$. Suppose $\mathbf{w}_{1},\mathbf{w}_{2}\dots \mathbf{w}_{m}\in W$.
-Then there exists some unique linear map $T:V \to W$ such that $T(\mathbf{v}_{j})=\mathbf{w}_{j}$ for each $j=1,\dots,n$.
+Suppose $X=\{ \mathbf{v}_{1},\mathbf{v}_{2}\dots \mathbf{v_{n}} \}$ is a [[basis]] of a [[vector space]] $V$. Suppose $\mathbf{w}_{1},\mathbf{w}_{2}\dots \mathbf{w}_{m}\in W$.
+Then there exists some unique [[linear map]] $T:V \to W$ such that $T(\mathbf{v}_{j})=\mathbf{w}_{j}$ for each $j=1,\dots,n$.
 ### Proof 
 #### Existence:
 Given $\mathbf{v}\in V$, it has a basis decomposition $\mathbf{v}=a_{1}\mathbf{x}_{1}+\dots+a_{n}\mathbf{x_{n}}$ for some $a_{i}\in \mathbb{F},x_{i}\in X$

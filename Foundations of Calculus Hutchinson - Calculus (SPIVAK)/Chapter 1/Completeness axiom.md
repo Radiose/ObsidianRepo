@@ -11,6 +11,7 @@ If A is any set of real numbers having at least one number in it, and if there e
 
 
 OR:
+
 If *A* is a set of real numbers and $x$ is a real number such that $a ≤ x$ for every $a ∈ A$, then $x$ is called an upper bound for $A$. If in addition $x ≤ b$ for every upper bound $b$, then $x$ is called the least upper bound or supremum of $A$. In this case one writes
 $x$ = lub $A$ or $x$ = sup $A$
 
@@ -25,7 +26,7 @@ We consider the set $A^* :=\{ -x:x \in A \}$, which is obtained by reflecting th
 As you can see in the image above, a least upper bound of A implies a greatest lower bound of $A^*$ and vice versa. 
 
 
-## Interpretation of the completeness axiom 
+## Consequence of the completeness axiom 
 
 The main consequence of this axiom is that the implication that the [[real number]]s have no gaps in them. 
 
