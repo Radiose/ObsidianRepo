@@ -8,23 +8,65 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "",
+      "query": "path:MATH1116/Analysis OR path:MATH1013/Calculus  OR tag:#spivak  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 15374910
+      }
+    },
+    {
+      "query": "path:\"MATH1013/Linear algebra\"  OR path:\"MATH1116/Linear algebra\"  OR path:\"MATH1013/Complex numbers\" ",
+      "color": {
+        "a": 1,
+        "rgb": 3467988
+      }
+    },
+    {
+      "query": "path:MATH1005  ",
+      "color": {
+        "a": 1,
+        "rgb": 13701174
+      }
+    },
+    {
+      "query": "path:COMP3670  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:COMP2610  ",
+      "color": {
+        "a": 1,
+        "rgb": 2370283
+      }
+    },
+    {
+      "query": "path:COMP1110  ",
+      "color": {
+        "a": 1,
+        "rgb": 13185256
+      }
+    },
+    {
+      "query": "path:BIOL2161  ",
+      "color": {
+        "a": 1,
+        "rgb": 1399298
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.438717577646666,
-  "repelStrength": 13.1440869791087,
+  "centerStrength": 0.316292682926829,
+  "repelStrength": 13.9274600826404,
   "linkStrength": 1,
-  "linkDistance": 179,
-  "scale": 0.14509317363769897,
-  "close": false
+  "linkDistance": 250,
+  "scale": 0.14509317363769925,
+  "close": true
 }
