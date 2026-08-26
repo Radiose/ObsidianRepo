@@ -4,3 +4,6 @@ An [[ensemble]] $X$ is a triple $(x,\mathcal{A}_{x},\mathcal{P}_{x})$, where $x$
 
 
 ![[extended ensemble]]
+
+
+

@@ -5,62 +5,13 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:MATH1005  ",
+      "query": "",
       "color": {
         "a": 1,
         "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:MATH1013  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:BIOL2161",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:COMP1110",
-      "color": {
-        "a": 1,
-        "rgb": 7626967
-      }
-    },
-    {
-      "query": "path:MATH1116  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:COMP2610  ",
-      "color": {
-        "a": 1,
-        "rgb": 220627
-      }
-    },
-    {
-      "query": "path:COMP3670  ",
-      "color": {
-        "a": 1,
-        "rgb": 4184394
-      }
-    },
-    {
-      "query": "tag:#spivak  ",
-      "color": {
-        "a": 1,
-        "rgb": 16318960
       }
     }
   ],
@@ -74,6 +25,6 @@
   "repelStrength": 13.1440869791087,
   "linkStrength": 1,
   "linkDistance": 179,
-  "scale": 0.14509317363769877,
-  "close": true
+  "scale": 0.14509317363769897,
+  "close": false
 }
