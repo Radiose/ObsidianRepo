@@ -11,12 +11,15 @@
             "id": "9bedb72803343132",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/MATH1116 w4.excalidraw.md"
+                "file": "MATH1116/Linear algebra/Week 3/linear operator.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MATH1116 w4.excalidraw"
+              "icon": "lucide-file",
+              "title": "linear operator"
             }
           },
           {
@@ -123,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -244,11 +246,14 @@
   },
   "active": "9bedb72803343132",
   "lastOpenFiles": [
+    "MATH1116/Linear algebra/Week 5/dual map.md",
+    "MATH1116/Linear algebra/Week 4/dual vector space.md",
+    "MATH1116/Linear algebra/Week 4/MATH1116 20.08.2026.md",
+    "Excalidraw/MATH1116 w4.excalidraw.md",
     "MATH1116 odds and ends.md",
     "MATH1005/Week 5/sequence.md",
     "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence.md",
     "MATH1116/Analysis/Week 4/pointwise convergence.md",
-    "Excalidraw/MATH1116 w4.excalidraw.md",
     "MATH1116/Analysis/Week 3/summation by parts.md",
     "COMP2610/Week 5/COMP2610 24.08.2026.md",
     "COMP2610/Week 3/conditional entropy.md",
@@ -267,9 +272,6 @@
     "Excalidraw/MATH1116 w3.excalidraw.md",
     "MATH1005/Week 8/Density function.md",
     "COMP3670/Week 3/model selection.md",
-    "MATH1116/Linear algebra/Week 4/change of base matrix.md",
-    "MATH1116/Linear algebra/Week 4/linear functional.md",
-    "COMP2610/Week 4/Conditional mutual information.md",
     "attachments/Pasted image 20260824180103.png",
     "attachments/Ink/Drawing/2026.8.24 - 17.23pm.svg",
     "attachments/Pasted image 20260824162811.png",
