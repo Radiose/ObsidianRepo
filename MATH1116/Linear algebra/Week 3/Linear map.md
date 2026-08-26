@@ -72,3 +72,12 @@ $$\dim \operatorname{Ker} T = \dim V - \dim \operatorname{Range} T \geq \dim V -
 where the equality above comes from the [[Rank nullity theorem]]. The inequality above states that $\dim \operatorname{Ker} T > 0$. This means that $\operatorname{Ker} T$ contains vectors other than $\mathbf{0}$. Thus $T$ is not injective by Theorem 3.5.
 
 (ii) Exercise. $\blacksquare$
+
+
+# Theorem 4
+Two [[finite dimensional]] vector spaces over $\mathbb{F}$ are [[isomorphism|isomorphic]] if and only if they have the same dimension.
+
+
+
+# Corollary 
+$Dim(\mathcal{L}(V,W))=dim(V) \times dim(W)$

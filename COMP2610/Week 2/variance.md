@@ -10,3 +10,4 @@ The standard deviation relates to the variance, being $sd(x)=\sqrt{ var(x) }$
 
 
 
+
