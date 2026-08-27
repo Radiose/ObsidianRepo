@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:MATH1116/Analysis OR path:MATH1013/Calculus  OR tag:#spivak  ",
@@ -57,16 +57,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.316292682926829,
-  "repelStrength": 13.9274600826404,
+  "centerStrength": 0.444292682926829,
+  "repelStrength": 9.07317073170732,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.20341814802411287,
+  "linkDistance": 183,
+  "scale": 0.2851887646270949,
   "close": true
 }
