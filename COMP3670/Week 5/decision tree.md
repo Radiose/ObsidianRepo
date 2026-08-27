@@ -83,3 +83,36 @@ Finally, we are left with the three unclassified points. Because $s=2$, we canno
 
 
 # Overfitting 
+$S=1$ is the fully grown tree. Note that $E_{in}=0$. This leads to an overfitted model, which should not be used ever. 
+
+
+# The tree hypothesis 
+
+$\hat{h}$ is a [[partition]] of the feature space into axis aligned boxes, each labelled by the majority class of the training points inside it. The boxes are [[greedy algorithm|greedily]] chosen to separate the classes as fast as possible.
+
+It is a histogram rule, whos grid was based on data rather than scaling. 
+
+Strengths:
+interpretability, categorical variables, no scaling of features needed, automatic disregard of irrelevant variables 
+
+Weaknesses: boundaries are staircases, so diagonal boundary is explained badly
+The tree is very unstable - change an observation and the split near the root may flip and change the entire tree below - this is a symptom of high [[variance]].
+
+
+
+# Bagging 
+Our rule with high variance and low bias is highly susceptible to the sample. A solution is to average many rules.
+
+Our solution is to make $B$ new samples, via drawing $N$ observations from $\mathcal{D}$ with replacement. Each has the size of $\mathcal{D}$, but some observations appear twice, and other not at all.
+Fit the rule on each bootstrap sample and let the $B$ classifiers vote. This is called bagging. 
+Bias is unchanged, but variance is substantially reduced. 
+
+![[Pasted image 20260827143023.png]]
+
+With this, we can define a new term 
+
+# Random forest 
+random forest
+Grow a large number of fully grown [[decision tree]]s, each on a bootstrap sample $\mathcal{D}$, and each restricted to consider **only a random subset of the variables at every split**. Classify by majority vote.
+
+Our sources of randomness are are the bootstrap 

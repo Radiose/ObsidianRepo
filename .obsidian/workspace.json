@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 3/kernel.md",
+                "file": "COMP3670/Week 5/decision tree.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "kernel"
+              "title": "decision tree"
             }
           }
         ]
@@ -219,8 +219,9 @@
   },
   "active": "ed4af27e1227b6c7",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 3/range.md",
+    "attachments/Pasted image 20260827143023.png",
     "MATH1116/Linear algebra/Week 3/kernel.md",
+    "MATH1116/Linear algebra/Week 3/range.md",
     "MATH1116/Linear algebra/Week 3/basis of domain theorem.md",
     "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
     "COMP3670/Week 5/COMP3670 27.08.2026.md",
@@ -254,7 +255,6 @@
     "MATH1116/Linear algebra/Week 4/Dual basis.md",
     "COMP2610/Week 5/ensemble.md",
     "COMP2610/Week 5/asymptotic equipartition property.md",
-    "COMP2610/Week 5/typical set.md",
     "templates",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
     "MATH1116",
