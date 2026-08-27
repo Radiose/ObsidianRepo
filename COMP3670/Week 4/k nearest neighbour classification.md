@@ -2,11 +2,7 @@ The idea with this is to fix the number of points and let the region adapt
 
 $\hat{h}(\mathbf{x})$ is the majority label among the $k$ training points closest to $\mathbf{x}$.
 
-$$W_i(\mathbf{x}) =
-\begin{cases}
-\dfrac{1}{k}, & \mathbf{X}_i \text{ is among the } k \text{ nearest neighbours of } \mathbf{x} \\
-0, & \text{otherwise}
-\end{cases}$$
+$$W_i(\mathbf{x}) = \begin{cases} \dfrac{1}{k}, & \mathbf{X}_i \text{ is among the } k \text{ nearest neighbours of } \mathbf{x} \\ 0, & \text{otherwise} \end{cases}$$
 
 $k=1$ gives the [[Nearest neighbour algorithm]].
 $k$ is the smoothing parameter. 
