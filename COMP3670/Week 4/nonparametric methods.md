@@ -77,3 +77,26 @@ Points that are close together in feature space, are more likely to belong to th
 
 
 
+
+## The hypothesis set 
+
+For [[nonparametric methods]], the hypothesis set is the set of all possible classifiers that the rule could output, over all possible datasets of size $N$ which grows with $N$. 
+
+The model is not fixed in advance, and as a result more data buys a richer [[hypothesis set]].
+
+![[Histogram classification]]
+
+
+
+![[k nearest neighbour classification]]
+
+
+
+
+![[k nearest neighbour classification]]
+
+
+![[kernel classification]]
+
+
+![[Pasted image 20260827093659.png]]

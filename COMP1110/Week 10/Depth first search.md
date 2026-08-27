@@ -1,5 +1,5 @@
 Depth first pathfinding algorithm 
-This is a [[Recursive backtracking]] algorithm goes all the way down the bottom of the [[Tree]] until it reaches a leaf, and then does the next leaf etc. [[Recursion]] naturally lends itself to depth first traversals.
+This is a [[Recursive backtracking]] algorithm goes all the way down the bottom of the [[tree]] until it reaches a leaf, and then does the next leaf etc. [[Recursion]] naturally lends itself to depth first traversals.
 
 ```java
 enum Airport { SYD, MEL, BNE, PER, ADL, CBR }

@@ -1,5 +1,5 @@
-Spanning [[Tree]]
-A spanning tree is a [[subgraph]] of a G which is a [[Tree]] and contains all the vertices of G. 
+Spanning [[tree]]
+A spanning tree is a [[subgraph]] of a G which is a [[tree]] and contains all the vertices of G. 
 
 An algorithm for producing a spanning tree 
 1: Initialise T to be the vertices of G but no edges. Let G have N vertices. 

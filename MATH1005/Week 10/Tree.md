@@ -1,6 +1,6 @@
 Tree 
 A tree is a [[Connected graph]] with no [[Circuit]]s other than the trivial ones (walks of length 0). There is no way to make a [[Closed walk]] without repeating edges
-A forest is a collection of [[Tree]]s
+A forest is a collection of [[tree]]s
 
 Tree [[theorem]]
 Let T be a tree with N vertices. 
