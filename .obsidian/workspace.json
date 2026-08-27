@@ -8,37 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "89d3fffd29cbb4b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 5/COMP3670 27.08.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "COMP3670 27.08.2026"
-            }
-          },
-          {
             "id": "ed4af27e1227b6c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 5/decision tree.md",
+                "file": "MATH1116/Linear algebra/Week 3/kernel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "decision tree"
+              "title": "kernel"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,6 +219,13 @@
   },
   "active": "ed4af27e1227b6c7",
   "lastOpenFiles": [
+    "MATH1116/Linear algebra/Week 3/range.md",
+    "MATH1116/Linear algebra/Week 3/kernel.md",
+    "MATH1116/Linear algebra/Week 3/basis of domain theorem.md",
+    "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
+    "COMP3670/Week 5/COMP3670 27.08.2026.md",
+    "MATH1013/Linear algebra/Week 6/Surjective transformation.md",
+    "COMP3670/Week 5/decision tree.md",
     "attachments/Pasted image 20260827105147.png",
     "attachments/Pasted image 20260827105015.png",
     "attachments/Pasted image 20260827104943.png",
@@ -242,18 +233,15 @@
     "attachments/Pasted image 20260827104155.png",
     "attachments/Pasted image 20260827102724.png",
     "COMP3670/Week 4/Histogram classification.md",
-    "COMP3670/Week 5/COMP3670 27.08.2026.md",
     "COMP3670/Week 4/kernel classification.md",
     "COMP3670/Week 4/k nearest neighbour classification.md",
     "COMP3670/Week 4/nonparametric methods.md",
     "COMP3670/Week 4/cross entropy loss.md",
-    "COMP3670/Week 5/decision tree.md",
     "MATH1005/Week 10/tree.md",
     "attachments/Pasted image 20260827094507.png",
     "attachments/Pasted image 20260827094301.png",
     "attachments/Pasted image 20260827093716.png",
     "attachments/Pasted image 20260827093659.png",
-    "attachments/Pasted image 20260827093612.png",
     "COMP2610/Week 3/Parameter estimation.md",
     "MATH1116/Analysis/Week 3/summation by parts.md",
     "COMP3670/Week 4/parametric methods.md",
@@ -267,10 +255,6 @@
     "COMP2610/Week 5/ensemble.md",
     "COMP2610/Week 5/asymptotic equipartition property.md",
     "COMP2610/Week 5/typical set.md",
-    "COMP2610/Week 5/Chebychovs inequality.md",
-    "COMP2610/Week 5/law of large numbers.md",
-    "COMP2610/Week 3/the Bernoulli distribution.md",
-    "MATH1005/Week 8/Binomial theorem.md",
     "templates",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
     "MATH1116",

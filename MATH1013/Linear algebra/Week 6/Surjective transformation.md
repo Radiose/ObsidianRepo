@@ -4,6 +4,8 @@
 Surjective transformation
 **When is T [[surjective function|surjective]]?** 
 Is every element $\vec{b} \in \mathbb{R}^m$ in the format $\vec{b}=A \vec{x}$
+
+
 # Formal
 A function $T:V \to W$ is called surjective if $Range(T)=W$
 
