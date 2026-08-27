@@ -112,7 +112,4 @@ Bias is unchanged, but variance is substantially reduced.
 With this, we can define a new term 
 
 # Random forest 
-random forest
-Grow a large number of fully grown [[decision tree]]s, each on a bootstrap sample $\mathcal{D}$, and each restricted to consider **only a random subset of the variables at every split**. Classify by majority vote.
-
-Our sources of randomness are are the bootstrap 
+![[random forest]]
