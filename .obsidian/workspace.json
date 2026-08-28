@@ -23,13 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 5/centroid.md",
+                "file": "MATH1116/Linear algebra/Week 4/change of base matrix.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "centroid"
+              "title": "change of base matrix"
             }
           },
           {
@@ -170,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -291,13 +290,17 @@
   },
   "active": "04a8f4792986efd7",
   "lastOpenFiles": [
-    "COMP3670/Week 5/clustering.md",
+    "MATH1116/Linear algebra/Week 4/MATH1116 20.08.2026.md",
+    "MATH1116/Linear algebra/Week 4/change of base matrix.md",
+    "MATH1013/Linear algebra/Week 5/Basis of a nullspace.md",
+    "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
     "COMP3670/Week 5/K-Means algorithm.md",
+    "COMP3670/Week 5/centroid.md",
+    "COMP3670/Week 5/clustering.md",
     "COMP3670/Week 1/regression.md",
     "COMP3670/Week 5/COMP3670 28.08.2026.md",
     "COMP3670/Week 5/Euclidian norm.md",
     "MATH1013/Linear algebra/Week 2/vectors in physical sciences.md",
-    "COMP3670/Week 5/centroid.md",
     "COMP3670/Week 5/Nadaraya–Watson kernel regression.md",
     "attachments/Pasted image 20260827152211.png",
     "COMP3670/Week 5/parametric regression.md",
@@ -311,7 +314,6 @@
     "MATH1116/Linear algebra/Week 3/kernel.md",
     "MATH1116/Linear algebra/Week 3/range.md",
     "MATH1116/Linear algebra/Week 3/basis of domain theorem.md",
-    "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
     "MATH1013/Linear algebra/Week 6/Surjective transformation.md",
     "attachments/Pasted image 20260827105147.png",
     "attachments/Pasted image 20260827105015.png",
@@ -323,10 +325,7 @@
     "COMP3670/Week 4/kernel classification.md",
     "COMP3670/Week 4/k nearest neighbour classification.md",
     "COMP3670/Week 4/nonparametric methods.md",
-    "COMP3670/Week 4/cross entropy loss.md",
-    "MATH1005/Week 10/tree.md",
     "attachments/Pasted image 20260827094507.png",
-    "COMP2610/Week 3/Parameter estimation.md",
     "templates",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
     "MATH1116",

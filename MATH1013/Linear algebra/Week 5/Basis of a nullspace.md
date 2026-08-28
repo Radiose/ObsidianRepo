@@ -3,6 +3,8 @@
 ---
 Basis of a nullspace
 ![[kernel]]
+
+
 You can determine a **null space**'s basis via the [[parametric vector form]] of the solutions 
 This will give you the correct dimensions of the subspace 
 
