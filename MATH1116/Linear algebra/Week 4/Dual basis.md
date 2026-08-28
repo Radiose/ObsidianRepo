@@ -1,7 +1,6 @@
-Given a [[basis]] $\alpha=\{ \alpha_{1},\dots,\alpha_{n} \}$ of $V$, we can define the dual basis of $\alpha$ is defined as $\{\phi_{1},\dots,\phi_{n}  \}$.
+Given a [[basis]] $\alpha=\{ \alpha_{1},\dots,\alpha_{n} \}$ of $V$, we can define the dual basis of $\alpha$ is defined as $$\{\phi_{1},\dots,\phi_{n}  \}$$
+where we define the function $\phi_{i}:V \to \mathbb{F}$ by $\phi_{i}(\alpha_{j})$ = 1 if $i = j$, $0$ else. 
 
-
-We define the function $\phi_{i}:V \to \mathbb{F}$ by $\phi_{i}(\alpha_{j})$ = 1 if $i = j$, $0$ else. 
 
 For each $\phi_{i}$, we have defined $\phi$ on each element of a [[basis]]. So via, the [[basis of domain theorem]], we can extend it to the basis of a linear map.
 $\{ \phi_{1},\dots,\phi_{n} \}$.
@@ -23,4 +22,4 @@ Suppose $\{ \mathbf{ v_{1}},\dots,\mathbf{v}_{n} \}$ is a basis of $V$. Let $\{ 
 for linear independence:
 suppose $a_{1},\dots,a_{n} \in \mathbb{F}$ are such that $a_{1}\phi_{1}+\dots+a_{n}\phi_{n}=\mathbf{0}$
 We have to note that $\phi$ is a function. 
-Now, via the definition of $\phi_{i}$, $(a_{1}\phi_{1}+\dots+a_{n}\phi_{n})(\mathbf{v_{j}})=a_{j}$ for $j=1,\dots,n$. So, $a_{1}=\dots=a_{n}=0$ for $a_{1}\phi_{1}+\dots+a_{n}\phi_{n}$ being the zero function. Then, via 
+Now, via the definition of $\phi_{i}$, $(a_{1}\phi_{1}+\dots+a_{n}\phi_{n})(\mathbf{v_{j}})=a_{j}$ for $j=1,\dots,n$. So, $a_{1}=\dots=a_{n}=0$ for $a_{1}\phi_{1}+\dots+a_{n}\phi_{n}$ being the zero function. Via [[the basis theorem]], this must be the basis for $V^V$
