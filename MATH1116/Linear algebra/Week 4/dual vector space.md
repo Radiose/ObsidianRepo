@@ -42,7 +42,9 @@ Then, if we prove $\dim(\ker(ev))=\{ \vec{0} \}$, then it must be an isomorphism
 
 Take $v \in V  \setminus \{ \mathbf{0} \}$
 Extend $\{ \mathbf{v} \}$ to a basis $\{ \mathbf{v}, \mathbf{u}_{2},\dots,\mathbf{u}_{n} \}$ of $V$
-Then, take the dual basis of 
+Then, take the dual basis of $V^V =\{ \phi_{1},\dots,\phi_{n} \}$
+$ev_{v}(\phi_{1})=\phi_{1}(v_{1})=1$ via the definition of $ev$, and via the definition of [[Dual basis]] vectors. 
+Thus, $ev_{\mathbf{v}}$ **is not the zero functional**, so $\ker(ev)=\{ \mathbf{0} \}$
 
 
 # Dual basis
