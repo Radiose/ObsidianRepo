@@ -53,3 +53,18 @@ $\implies \dim(\ker(T^V))=\dim(W)-\dim(Range(T))$
 $\implies \dim(\ker(T^V))=\dim(W)-(\dim(V)-\dim(\ker(T)))$
 $\implies \dim(\ker(T^V))=\dim(\ker(T))+\dim(W)-\dim(V)$
 iii:
+$\dim(V)-\dim(\ker(T))=\dim(W)-\dim(\ker(T^V))$
+$\implies LHS = \dim(range(T))$ via [[Rank nullity theorem]]
+$\implies RHS= \dim(W^V)-\dim(\ker(T^V))=\dim(Range(T^V))$ via [[linear map#Corollary]]
+$\implies LHS = RHS$
+iv)
+What we want to say: an element in the range of $T^V$ will send an element of the kernel of $T$ to $0$
+
+Pick $\phi \in Range(T^V)$
+$\implies \exists \gamma \in V^V \quad  s.t \ \ \ \gamma \circ T =\phi$
+Pick $u \in \ker(T)$
+$\implies \phi(\mathbf{u})=\gamma \circ T(\mathbf{u})=\gamma(\mathbf{0})$ 
+$=0$ via linearity of $\gamma$
+Thus, $\phi(\mathbf{u})=0$ for $\mathbf{u}\in \ker(T)$
+Thus, $\phi \in ann(\ker(T))$
+

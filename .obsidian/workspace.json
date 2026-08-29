@@ -68,13 +68,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 5/Nadaraya–Watson kernel regression.md",
+                "file": "MATH1116/Linear algebra/Week 3/linear map.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Nadaraya–Watson kernel regression"
+              "title": "linear map"
             }
           },
           {
@@ -292,8 +292,10 @@
   "active": "997f2fe6381069f5",
   "lastOpenFiles": [
     "MATH1116/Linear algebra/Week 5/dual map.md",
-    "MATH1116/Linear algebra/Week 4/dual vector space.md",
     "MATH1116/Linear algebra/Week 5/annihilator.md",
+    "MATH1116/Linear algebra/Week 4/dual vector space.md",
+    "MATH1116/Linear algebra/Week 3/linear map.md",
+    "COMP3670/Week 5/Nadaraya–Watson kernel regression.md",
     "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
     "COMP3670/Week 5/Euclidian norm.md",
     "MATH1116/Linear algebra/Week 4/Dual basis.md",
@@ -313,11 +315,9 @@
     "COMP3670/Week 1/regression.md",
     "COMP3670/Week 5/COMP3670 28.08.2026.md",
     "MATH1013/Linear algebra/Week 2/vectors in physical sciences.md",
-    "COMP3670/Week 5/Nadaraya–Watson kernel regression.md",
     "attachments/Pasted image 20260827152211.png",
     "COMP3670/Week 5/parametric regression.md",
     "COMP3670/Week 2/loss function.md",
-    "COMP3670/Week 5/COMP3670 27.08.2026.md",
     "attachments/Pasted image 20260827144529.png",
     "attachments/Pasted image 20260827143023.png",
     "attachments/Pasted image 20260827105147.png",

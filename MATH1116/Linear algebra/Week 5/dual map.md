@@ -30,3 +30,5 @@ LHS($\phi$)=$(ST)^V \phi$=$\phi \circ(S\circ T)$ ) ($ST$) is defined as [[compos
 $= (\phi \circ T)\circ S = T^V ( \phi)\circ S=S^VT^V(\phi)=RHS$
 
 
+
+
