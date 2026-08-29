@@ -36,3 +36,20 @@ iv)$Range(T^V)=Ann(\ker(T))$
 
 ### Proof 
 i) Pick $\phi \in W^V$ such that $T^V (\phi)=0$
+$\subseteq$
+$0=(\phi \circ T)(\mathbf{v})=\phi(T\mathbf{v})$
+Thus, $\phi \in Ann(Range(T))$
+This is because $T(\mathbf{v})\in Range(T)$
+$\implies \phi(T(\mathbf{v})) =0$
+$\supseteq$
+Suppose $\phi \in Ann(Range(T))$
+$\implies \phi(T(\mathbf{v}))=0\quad \forall \mathbf{v}\in V$
+$\implies 0=\phi \circ T ( \mathbf{v})=T^V (\phi)$ 
+which is the same as saying $\phi \in Ker(T^V)$
+
+ii) 
+$\dim(\ker(T^V))=\dim(Ann(Range(T)))$ via i)
+$\implies \dim(\ker(T^V))=\dim(W)-\dim(Range(T))$
+$\implies \dim(\ker(T^V))=\dim(W)-(\dim(V)-\dim(\ker(T)))$
+$\implies \dim(\ker(T^V))=\dim(\ker(T))+\dim(W)-\dim(V)$
+iii:
