@@ -23,6 +23,16 @@ $\forall i>k,\phi_{i}(\mathbf{u_{j}})=0$ when $j \leq k$
 $\implies U \in \ker(\phi _{i})$
 $\implies \phi_{i} \in ann(U)$
 $\implies \dim(ann(U))\geq n-k$
-On the other hand, $ann(u) \oplus Span(\phi_{1},\dots,\phi_{k})$ is a [[internal direct sum of subspaces|direct sum]]
-$\implies \dim(ann(U))+k \leq \dim(V^V)=n$
-COME BACK 
+On the other hand, $ann(U) \oplus Span(\phi_{1},\dots,\phi_{k})$ is a [[internal direct sum of subspaces|direct sum]]
+$\implies \dim(ann(U))+k \leq \dim(V^V)=n \blacksquare$
+
+
+# Theorem 2
+$T:V\to W$ is a linear map, then 
+i) $\ker(T^V)=Ann(Range(T))$
+ii)$\dim(\ker(T^V))=\dim(\ker(T))+\dim(W)-\dim(V)$
+iii)$\dim(Range(T^V))=\dim(Range(T))$
+iv)$Range(T^V)=Ann(\ker(T))$
+
+### Proof 
+i) Pick $\phi \in W^V$ such that $T^V (\phi)=0$
