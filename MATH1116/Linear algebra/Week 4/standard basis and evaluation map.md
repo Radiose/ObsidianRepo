@@ -1,0 +1,70 @@
+Given a finite subset $X \subset V$, we can write is as $X=\{ x_{1},\dots,x_{n} \}$
+Now, consider the [[vector space]] $\mathbb{F}^X=\{ fns X \to F \}$
+We denote the standard basis vectors in $\mathbb{F}^X$
+$e_{i}: X\to \mathbb{F}$, $e_i(x_j) =  \begin{cases} 1 & \text{if } i = j \\ 0 & \text{if } i \neq j \end{cases}$
+Note what this is saying. For any arbitrary subset of $V$, we can define a standard basis vector $\mathbf{e}_{i}$ by outputting $1$ if we input $x_{i}$
+A function $f:X \to \mathbb{F}$ can be written by enumerating its values: $\begin{bmatrix}f(x_{1}) \\  . \\  . \\  . \\  f(x_{n})\end{bmatrix}$ 
+so with this identification, a standard basis vector can be written as $\mathbf{e}_{1}=\begin{bmatrix}1  \\  0 . \\  . \\  . \\  0\end{bmatrix}, \mathbf{e}_{2}=\begin{bmatrix}0  \\  1  \\  0  \\  . \\  . \\  . \\  0\end{bmatrix}$ etc.
+We define the **evaluation [[function|map]]**  $\mathbb{F}^X \to V$ as $\mathbf{ev_{x}}(\mathbf{e}_{i}):=\mathbf{x_{i}}$, it will take in some function and output a corresponding 
+
+# Theorem 
+Given some finite [[subset]] $X \subset V$ as above, we have the following:
+1:$Range(\mathbf{e_{v}}(x))=Span(X)$
+2: $ev_{X}$ is injective $\iff$ $X$ is [[linearly independent]] 
+3:$ev_{X}$ is [[surjective function|surjective]] $\iff$ $X$ is a spanning set of $V$
+4: $ev_{X}$ is an [[isomorphism]]  
+
+### Proof 
+
+1:
+$$
+\begin{aligned}
+\text{Range}(\text{ev}_X) &= \{\text{ev}_X(\lambda_1 \mathbf{e}_1 + \cdots + \lambda_n \mathbf{e}_n) \mid \lambda_j \in \mathbb{F}\}, \quad \text{by definition of range and because} \\
+&\quad \text{every element of } \mathbb{F}^X \text{ is a linear combination of the standard basis vectors} \\
+&= \{\lambda_1 \, \text{ev}_X(\mathbf{e}_1) + \cdots + \lambda_n \, \text{ev}_X(\mathbf{e}_n) \mid \lambda_j \in \mathbb{F}\}, \quad \text{by linearity of ev}_X \\
+&= \{\lambda_1 \mathbf{v}_1 + \cdots + \lambda_n \mathbf{v}_n \mid \lambda_j \in \mathbb{F}\}, \quad \text{by definition of ev}_X \\
+&= \text{Span}\{\mathbf{v}_1, \dots, \mathbf{v}_n\}, \quad \text{by definition of span} \\
+&= \text{Span}(X).
+\end{aligned}
+$$
+2:
+Assume $ev_{x}$ is injective. We want $X$ to be [[linearly independent]]
+Pick some [[Linear combination of vectors|linear combination]] $\lambda x_{1}+\lambda_{2}x_{2}+\dots+\lambda_{n}x_{n}=\mathbf{0}$
+
+Then, $\mathbf{0}=\sum \lambda_{i} x_{i}=\sum \lambda_{i}ev_{x}(e_{i})=ev_{x}\left[ \sum \lambda_{i}e_{i} \right]$
+Thus, $\sum\lambda_{i}e_{i}\in ker(ev_{x})=\{ \mathbf{0} \}\implies \sum \lambda _{i}\mathbf{e}_{i}=\mathbf{0}$ - via assumption of injectivity([[kernel#Theorem|from this theorem]])
+$\implies \{ \mathbf{e_{1}},\dots,\mathbf{e_{n}} \}$ is the (standard) basis $\implies \lambda_{1}=\lambda_{n}=\mathbf{0}$
+
+$\impliedby$
+assume $X$ is linearly independent. 
+The kernel of $Ev_{x}$ must $=$ $\{ \lambda_{1}e_{1}+..+\lambda_{n}\mathbf{e}_{n}| \lambda_{1}\mathbf{e}_{1}+\dots+\lambda_{n}\mathbf{e}_{n}=\mathbf{0} \}$
+$= \{ 0\mathbf{e_{}}_{1}+\dots+0\mathbf{e}_{n} \}$ ($X$ is linearly independent)
+$=\{ 0 \}$(scalar 0)
+Thus injective by the theorem.
+
+3: follows directly from 1 
+4: follows directly from 2
+
+
+# Corollary 
+if $V$ is [[finite dimensional]],
+1: given some [[linearly independent]] set of $n$ vectors is the same as giving any injection $\mathbb{F}^n \to V$
+2: giving some spanning set of $m$ vectors is the same as giving a surjection from $\mathbb{F}^m \to V$
+3:  giving some basis is the same as giving an [[isomorphism]] from $\mathbb{F}^n \to V$
+
+
+# Corollary 2 
+if $V,W$ have the same dimension, then $V \cong W$.
+### Proof:
+if $\alpha$ is a basis of $V$, and $\beta$ is a basis of $W$, then $\alpha,\beta$ have the same number of elements $n$. Then, 
+$ev_{\alpha}:\mathbb{F}^n \to V$, $ev_{\beta}=\mathbb{F}^n \to W$. Since we can take inverses of isomorphisms, we can define a map $\phi:= ev_{\beta}\circ (ev_{\alpha})^{-1}$ which is a map $V\to W$ 
+$$V \to \mathbb{F}^n\to W= ev_{\beta} \circ ev_{\alpha} \implies V\to W\text{ is an isomorphism}$$
+(because the composition of two isomorphisms are isomorphic).
+
+
+# Corollary 
+if $V,W$ are finite dimensional, and $dim(V)=n$, $dim(W)=m$, then $dim(\mathcal{L}(V,W))=m \cdot n$
+
+
+
+# ![[Coordinatizing matrices]]
