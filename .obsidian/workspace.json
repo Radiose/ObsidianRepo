@@ -23,13 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
+                "file": "MATH1116/Linear algebra/Week 5/generalised eigenspace.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "nilpotent operator"
+              "title": "generalised eigenspace"
             }
           },
           {
@@ -197,7 +197,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "D",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,8 +236,7 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -361,12 +360,15 @@
   },
   "active": "d266a65f3df7b112",
   "lastOpenFiles": [
-    "attachments/Pasted image 20260830160233.png",
-    "MATH1116/Linear algebra/Week 3/linear operator.md",
-    "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
-    "TO DO.md",
+    "MATH1116/Linear algebra/Week 3/linear map.md",
+    "COMP3670/Week 5/random forest.md",
     "MATH1116/Linear algebra/Week 5/generalised eigenspace.md",
     "MATH1116/Linear algebra/Week 5/annihilator.md",
+    "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
+    "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
+    "attachments/Pasted image 20260830160233.png",
+    "MATH1116/Linear algebra/Week 3/linear operator.md",
+    "TO DO.md",
     "MATH1116/Linear algebra/Week 3/invariant subspace.md",
     "MATH1116/Linear algebra/Week 5/eigenvector.md",
     "MATH1116/Linear algebra/Week 5/eigenvalue.md",
@@ -374,7 +376,6 @@
     "MATH1116/Linear algebra/Week 4/dual basis.md",
     "MATH1116/Linear algebra/Week 5/eigenspace.md",
     "attachments/Pasted image 20260830143210.png",
-    "COMP3670/Week 5/random forest.md",
     "COMP2610/Week 3/entropy (information theory).md",
     "MATH1116/Linear algebra/Week 3/commutator.md",
     "MATH1005/Week 6/Matrix multiplication.md",
@@ -385,7 +386,6 @@
     "MATH1116/Linear algebra/Week 4/MATH1116 20.08.2026.md",
     "MATH1005/Week 10/isomorphism.md",
     "MATH1116/Linear algebra/Week 4/standard basis and evaluation map.md",
-    "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
     "MATH1116/Linear algebra/Week 4/linear functional.md",
     "MATH1116/Linear algebra/Week 4/change of base matrix.md",
     "attachments/Pasted image 20260827152211.png",
@@ -396,7 +396,6 @@
     "attachments/Pasted image 20260827104943.png",
     "attachments/Pasted image 20260827104729.png",
     "attachments/Pasted image 20260827104155.png",
-    "attachments/Pasted image 20260827102724.png",
     "templates",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
     "MATH1116",

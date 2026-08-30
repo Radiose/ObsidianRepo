@@ -42,4 +42,7 @@ and $T(\mathbf{u}_{i})=(T-\lambda_{i},id)(\mathbf{u_{i}})+\lambda_{i}\mathbf{u_{
 Similarly $G(\lambda_{i},T)$ is [[invariant subspace|invariant]] under $T-\lambda_{k}id$ (via the rewriting of $T(\mathbf{u}_{i})$ above)
 
 Thus, $(T-\lambda_{k}\cdot id)\mathbf{u}_{1}+\dots+(T-\lambda_{k}\cdot id)\mathbf{u_{k-1}}+\mathbf{0}=\mathbf{0}$ has each $(T-\lambda _{k}id)\mathbf{u_{i}} \in G(\lambda_{1},T)\setminus \{ \mathbf{0} \}$
-This contradicts the minimality, as we have $k-1$ nonzero terms. 
+This contradicts the minimality, as we have $k-1$ nonzero terms. The key bit is that vectors after being applied by $(T-\lambda _{k} \cdot id)^{dk}$ are still in the original vector space so we have a contradiction. 
+
+
+
