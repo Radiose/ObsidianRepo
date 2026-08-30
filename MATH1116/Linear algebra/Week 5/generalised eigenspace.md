@@ -36,4 +36,10 @@ We want to pick a sum with minimal possible $k$
 $\exists d_{k}\in \mathbb{N}$ such that $(T-\lambda \cdot id)^{dk}\mathbf{u}_{k}=\mathbf{0}$
 Apply $(T-\lambda_{k}\cdot id)^{d_{k}}$  to $\mathbf{u_{1}}+\dots+\mathbf{u_{k}}$
 $(T-\lambda_{k}\cdot id)\mathbf{u}_{1}+\dots+(T-\lambda_{k}\cdot id)\mathbf{u_{k-1}}+\mathbf{0}=\mathbf{0}$
+##### Observe
+Each $G(\lambda _{i},T)$ is [[invariant subspace|invariant]] under $T$, because $(T-\lambda_{i}\cdot id)(\mathbf{u_{i}})\in G(\lambda_{i},T)$ 
+and $T(\mathbf{u}_{i})=(T-\lambda_{i},id)(\mathbf{u_{i}})+\lambda_{i}\mathbf{u_{i}}$
+Similarly $G(\lambda_{i},T)$ is [[invariant subspace|invariant]] under $T-\lambda_{k}id$ (via the rewriting of $T(\mathbf{u}_{i})$ above)
 
+Thus, $(T-\lambda_{k}\cdot id)\mathbf{u}_{1}+\dots+(T-\lambda_{k}\cdot id)\mathbf{u_{k-1}}+\mathbf{0}=\mathbf{0}$ has each $(T-\lambda _{k}id)\mathbf{u_{i}} \in G(\lambda_{1},T)\setminus \{ \mathbf{0} \}$
+This contradicts the minimality, as we have $k-1$ nonzero terms. 
