@@ -81,15 +81,12 @@
             "id": "698d63b5272daaea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 3/linear map.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Excalidraw/Drawing 2026-08-30 18.25.11.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "linear map"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-08-30 18.25.11.excalidraw"
             }
           },
           {
@@ -163,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -240,7 +237,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -358,15 +356,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "997f2fe6381069f5",
+  "active": "698d63b5272daaea",
   "lastOpenFiles": [
+    "MATH1116/Linear algebra/Week 3/linear map.md",
+    "Excalidraw/Drawing 2026-08-30 18.25.11.excalidraw.md",
     "MATH1116/Linear algebra/Week 5/generalised eigenspace.md",
+    "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
     "MATH1116/Linear algebra/Week 4/MATH1116 20.08.2026.md",
     "MATH1116/Linear algebra/Week 5/annihilator.md",
-    "MATH1116/Linear algebra/Week 3/linear map.md",
     "COMP3670/Week 5/random forest.md",
     "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
-    "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
     "attachments/Pasted image 20260830160233.png",
     "MATH1116/Linear algebra/Week 3/linear operator.md",
     "TO DO.md",
@@ -387,7 +386,6 @@
     "MATH1005/Week 10/isomorphism.md",
     "MATH1116/Linear algebra/Week 4/standard basis and evaluation map.md",
     "MATH1116/Linear algebra/Week 4/linear functional.md",
-    "MATH1116/Linear algebra/Week 4/change of base matrix.md",
     "attachments/Pasted image 20260827152211.png",
     "attachments/Pasted image 20260827144529.png",
     "attachments/Pasted image 20260827143023.png",
