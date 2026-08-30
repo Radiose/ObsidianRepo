@@ -168,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -363,7 +363,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8167b90f7f5f2b4e",
+  "active": "e39394a42489ec68",
   "lastOpenFiles": [
     "COMP2610/Week 3/entropy (information theory).md",
     "MATH1005/Week 6/Matrix multiplication.md",

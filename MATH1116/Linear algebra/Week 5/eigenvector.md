@@ -1,5 +1,5 @@
 # Definition 
-an eigenvector with eigenvalue $\lambda$ is a non-zero vector $v \in V \setminus \{ \mathbf{0} \}$ such that $T \mathbf{v}=\lambda \mathbf{v}$
+an eigenvector with eigenvalue $\lambda$ is a non-zero vector $v \in V \setminus \{ \mathbf{0} \}$ such that $T \mathbf{v}=\lambda \mathbf{v}$ where $\lambda$ is the corresponding [[eigenvalue]]
 
 
 # Theorem 
@@ -23,3 +23,24 @@ Since $\lambda_{i}\not=\lambda_{j}\quad \forall i<j$, not all coefficients are $
 $\implies \{ \mathbf{v_{1}},\dots,\mathbf{v}_{j-1} \}$ is linearly independent 
 But, via the dependence lemma, that set must be linearly independent.
 Thus a contradiction. 
+
+
+# Corollary 
+Suppose $V$ is finite dimensional 
+Then, any $T \in \mathcal{L}(V)$ has at most $\dim(V)$ distinct [[eigenvalue]]s
+
+This is because every eigenvalue gives you some eigenvector, and for distinct eigenvalues, they are linearly independent, and thus the dimension of a linearly independent set is at most the dimension of the vector space 
+
+
+# Theorem
+Suppose that $\lambda_{1}\dots \lambda_{m}$ are distinct eigenvalues of $T$. 
+Then 
+i) The sum of eigenspaces is a [[internal direct sum of subspaces|direct sum]] ($E(\lambda;T) \oplus\dots \oplus E(\lambda_{m};T)$ is direct)
+ii) if $V$ is finite dimensional, $\sum_{i=1}^m(\dim(E(\lambda_{1};T_{1}))\leq \dim(V)$
+### Proof 
+ii) follows from i) because [[internal direct sum of subspaces|direct sum]] is a subspace
+IE $\sum\dim(E(\lambda_{i};T))=\dim(E(\lambda_{1};T))\oplus\dots \oplus \dim(E(\lambda_{m};T)) \leq \dim(V)$ 
+The proof of i) will need a bit more work 
+i)
+suppose $\mathbf{u}_{i} \in E(\lambda_{i};T)$ s.t $\mathbf{u_{1}}+\dots+\mathbf{u}_{m}=\mathbf{0}$
+Assume not all $\mathbf{u}_{i}=\mathbf{0}$
