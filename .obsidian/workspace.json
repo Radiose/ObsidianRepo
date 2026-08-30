@@ -11,10 +11,15 @@
             "id": "6292d733efeafe10",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 3/entropy (information theory).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "entropy (information theory)"
             }
           },
           {
@@ -151,9 +156,19 @@
               "icon": "lucide-file",
               "title": "eigenvector"
             }
+          },
+          {
+            "id": "8167b90f7f5f2b4e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -348,12 +363,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e39394a42489ec68",
+  "active": "8167b90f7f5f2b4e",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 5/eigenspace.md",
-    "MATH1116/Linear algebra/Week 5/eigenvector.md",
-    "MATH1116/Linear algebra/Week 5/eigenvalue.md",
+    "COMP2610/Week 3/entropy (information theory).md",
     "MATH1005/Week 6/Matrix multiplication.md",
+    "MATH1116/Linear algebra/Week 5/eigenvector.md",
+    "MATH1116/Linear algebra/Week 5/eigenspace.md",
+    "MATH1116/Linear algebra/Week 5/eigenvalue.md",
     "MATH1116/Linear algebra/Week 5/Gaussian elimination.md",
     "MATH1013/Linear algebra/Week 1/Row operation.md",
     "COMP3670/Week 5/random forest.md",
@@ -375,7 +391,6 @@
     "MATH1116/Linear algebra/Week 3/invariant subspace.md",
     "MATH1116/Linear algebra/Week 3/composition of linear maps.md",
     "MATH1116/Linear algebra/Week 3/commutator.md",
-    "MATH1116/Linear algebra/Week 3/linear operator.md",
     "attachments/Pasted image 20260827152211.png",
     "attachments/Pasted image 20260827144529.png",
     "attachments/Pasted image 20260827143023.png",
