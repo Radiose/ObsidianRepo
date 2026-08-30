@@ -160,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -356,10 +356,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "698d63b5272daaea",
+  "active": "ce019c34c2fa1cca",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 3/linear map.md",
     "Excalidraw/Drawing 2026-08-30 18.25.11.excalidraw.md",
+    "MATH1116/Linear algebra/Week 3/linear map.md",
     "MATH1116/Linear algebra/Week 5/generalised eigenspace.md",
     "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
     "MATH1116/Linear algebra/Week 4/MATH1116 20.08.2026.md",

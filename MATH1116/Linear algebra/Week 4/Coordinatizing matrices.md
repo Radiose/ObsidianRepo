@@ -8,6 +8,10 @@ If we have a [[linear map]] $T:V\to W$, with bases $\alpha,\beta$ of $V$ and $\g
 ![[Pasted image 20260823160629.png]]
 
 This can be viewed on the above photo, but a formal proof will be supplied
+
+
+The diagram above shows a couple things:
+1: A matrix is a way of getting the scalars for one basis, and outputting the scalars for the vector after the linear transformation in the other basis. Thus, we represent each column in the matrix $[T]_{\gamma \leftarrow \alpha}$ as the basis vectors in $\alpha$ with each column as the coefficients of $\gamma$. So if $\alpha_{1}=c_{1}\gamma_{1}+\dots+c_{n}\gamma_{n}$, the column $1$ will be $(c_{1},\dots,c_{n})$
 ### Proof 
 
 
