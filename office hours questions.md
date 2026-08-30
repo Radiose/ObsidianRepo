@@ -1,1 +1,0 @@
-How do we know that $-1 \times u$ gives some 

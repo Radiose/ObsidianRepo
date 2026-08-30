@@ -17,7 +17,7 @@ If $V$ is [[finite dimensional]], $U$ is a [[vector subspace|subspace]], then $\
 ### Proof 
 Let $\{ \mathbf{u_{1}},\dots,\mathbf{u}_{k} \}$ be a [[basis]] of $U$
 Via [[basis#Theorem 2 (linear independent list extends to a basis)|this theorem]], we extend to a basis of $V = \{ \mathbf{u_{1}},\dots,\mathbf{u_{k}},\dots,\mathbf{u}_{n} \}$
-Consider the [[Dual basis]] $\{ \phi_{1},\dots,\phi_{n} \}$ of $V^V$
+Consider the [[dual basis]] $\{ \phi_{1},\dots,\phi_{n} \}$ of $V^V$
 We claim that $ann(U)=span\{ \phi_{k+1},..,\phi_{n} \}$ of $V^V$
 $\forall i>k,\phi_{i}(\mathbf{u_{j}})=0$ when $j \leq k$
 $\implies U \in \ker(\phi _{i})$
