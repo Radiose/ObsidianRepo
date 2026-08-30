@@ -11,15 +11,10 @@
             "id": "6292d733efeafe10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP2610/Week 3/entropy (information theory).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "entropy (information theory)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -133,13 +128,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 5/eigenvalue.md",
+                "file": "MATH1116/Linear algebra/Week 5/eigenspace.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "eigenvalue"
+              "title": "eigenspace"
             }
           },
           {
@@ -148,13 +143,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 5/eigenvector.md",
+                "file": "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "eigenvector"
+              "title": "diagonalisable operator"
             }
           },
           {
@@ -365,14 +360,17 @@
   },
   "active": "e39394a42489ec68",
   "lastOpenFiles": [
-    "COMP2610/Week 3/entropy (information theory).md",
-    "MATH1005/Week 6/Matrix multiplication.md",
-    "MATH1116/Linear algebra/Week 5/eigenvector.md",
     "MATH1116/Linear algebra/Week 5/eigenspace.md",
+    "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
     "MATH1116/Linear algebra/Week 5/eigenvalue.md",
+    "COMP3670/Week 5/random forest.md",
+    "COMP2610/Week 3/entropy (information theory).md",
+    "MATH1116/Linear algebra/Week 3/linear operator.md",
+    "MATH1116/Linear algebra/Week 3/commutator.md",
+    "MATH1116/Linear algebra/Week 5/eigenvector.md",
+    "MATH1005/Week 6/Matrix multiplication.md",
     "MATH1116/Linear algebra/Week 5/Gaussian elimination.md",
     "MATH1013/Linear algebra/Week 1/Row operation.md",
-    "COMP3670/Week 5/random forest.md",
     "MATH1116/Linear algebra/Week 5/annihilator.md",
     "MATH1116/Linear algebra/Week 5/dual map.md",
     "MATH1116/Linear algebra/Week 4/dual vector space.md",
@@ -388,9 +386,6 @@
     "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
     "MATH1116/Linear algebra/Week 3/kernel.md",
     "MATH1116/Linear algebra/Week 3/range.md",
-    "MATH1116/Linear algebra/Week 3/invariant subspace.md",
-    "MATH1116/Linear algebra/Week 3/composition of linear maps.md",
-    "MATH1116/Linear algebra/Week 3/commutator.md",
     "attachments/Pasted image 20260827152211.png",
     "attachments/Pasted image 20260827144529.png",
     "attachments/Pasted image 20260827143023.png",

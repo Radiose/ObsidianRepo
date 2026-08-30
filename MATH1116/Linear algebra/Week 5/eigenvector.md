@@ -2,7 +2,7 @@
 an eigenvector with eigenvalue $\lambda$ is a non-zero vector $v \in V \setminus \{ \mathbf{0} \}$ such that $T \mathbf{v}=\lambda \mathbf{v}$ where $\lambda$ is the corresponding [[eigenvalue]]
 
 
-# Theorem 
+# Theorem 1
 Let $T \in \mathcal{L}(V)$
 Suppose $\{ \mathbf{v_{1}},\dots,\mathbf{v_{n}} \}\in V$ are [[eigenvector]]s of $T$, with **distinct** eigenvalues $\lambda_{1},\dots,\lambda_{k-1}$
 Then, $\{ \mathbf{v_{1}},..,\mathbf{v_{n}} \}$ is [[linearly independent]]
@@ -32,8 +32,9 @@ Then, any $T \in \mathcal{L}(V)$ has at most $\dim(V)$ distinct [[eigenvalue]]s
 This is because every eigenvalue gives you some eigenvector, and for distinct eigenvalues, they are linearly independent, and thus the dimension of a linearly independent set is at most the dimension of the vector space 
 
 
-# Theorem
+# Theorem 2
 Suppose that $\lambda_{1}\dots \lambda_{m}$ are distinct eigenvalues of $T$. 
+
 Then 
 i) The sum of eigenspaces is a [[internal direct sum of subspaces|direct sum]] ($E(\lambda;T) \oplus\dots \oplus E(\lambda_{m};T)$ is direct)
 ii) if $V$ is finite dimensional, $\sum_{i=1}^m(\dim(E(\lambda_{1};T_{1}))\leq \dim(V)$
@@ -44,3 +45,9 @@ The proof of i) will need a bit more work
 i)
 suppose $\mathbf{u}_{i} \in E(\lambda_{i};T)$ s.t $\mathbf{u_{1}}+\dots+\mathbf{u}_{m}=\mathbf{0}$
 Assume not all $\mathbf{u}_{i}=\mathbf{0}$
+Pick the non zero $\mathbf{u}_{i}$, so $\mathbf{u}_{i_{1}},\dots,\mathbf{u}_{i_{k}} = \mathbf{0}$
+Then, $\{ \mathbf{u}_{i_{1}},\dots,\mathbf{u_{i_{k}}} \}$ are [[linearly independent]]
+But via [[eigenvector#Theorem 1|theorem 1]], $\{ \mathbf{u}_{i_{1}},\dots,\mathbf{u_{i_{k}}} \}$ are linearly independent. 
+Thus, $\mathbf{u}_{i}=\mathbf{0}\quad \forall i \in \{ 1\dots m \}$
+
+
