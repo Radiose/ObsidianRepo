@@ -110,13 +110,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 5/generalised eigenspace.md",
+                "file": "MATH1116/Linear algebra/Week 5/dual map.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "generalised eigenspace"
+              "title": "dual map"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 3/Bijective.md",
+                "file": "MATH1116/Linear algebra/Week 5/dual map.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Bijective"
+              "title": "dual map"
             }
           }
         ],
@@ -358,13 +358,15 @@
   },
   "active": "698d63b5272daaea",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 5/generalised eigenspace.md",
-    "TO DO.md",
+    "MATH1116/Linear algebra/Week 5/dual map.md",
+    "MATH1116/Linear algebra/Week 4/dual vector space.md",
     "MATH1005/Week 3/Bijective.md",
-    "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
-    "MATH1116/Linear algebra/Week 5/annihilator.md",
     "Excalidraw/MATH1116 w5.excalidraw.md",
+    "MATH1116/Linear algebra/Week 5/generalised eigenspace.md",
+    "MATH1116/Linear algebra/Week 5/annihilator.md",
     "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
+    "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
+    "TO DO.md",
     "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
     "MATH1116/Linear algebra/Week 3/invertible linear map.md",
     "COMP3670/Week 5/random forest.md",
@@ -384,8 +386,6 @@
     "MATH1005/Week 6/Matrix multiplication.md",
     "MATH1116/Linear algebra/Week 5/Gaussian elimination.md",
     "MATH1013/Linear algebra/Week 1/Row operation.md",
-    "MATH1116/Linear algebra/Week 5/dual map.md",
-    "MATH1116/Linear algebra/Week 4/dual vector space.md",
     "attachments/Pasted image 20260827152211.png",
     "attachments/Pasted image 20260827144529.png",
     "attachments/Pasted image 20260827143023.png",
