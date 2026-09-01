@@ -164,13 +164,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
+                "file": "MATH1116/Linear algebra/Week 4/standard basis and evaluation map.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Coordinatizing matrices"
+              "title": "standard basis and evaluation map"
             }
           },
           {
@@ -256,7 +256,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -329,12 +329,12 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -452,8 +452,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d266a65f3df7b112",
+  "active": "ce019c34c2fa1cca",
   "lastOpenFiles": [
+    "MATH1013/Calculus/Week 1/Evaluating limits using the definition.md",
+    "MATH1116/Linear algebra/Week 4/linear functional.md",
+    "MATH1116/Linear algebra/Week 3/linear map.md",
+    "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
+    "Excalidraw/MATH1116 w5.excalidraw.md",
     "MATH1116/Linear algebra/Week 5/generalised eigenspace.md",
     "MATH1116/Linear algebra/Week 5/eigenvalue.md",
     "COMP2610/Week 6/raw bit content.md",
@@ -476,11 +481,6 @@
     "COMP2610/Week 6/COMP2610 01.09.2026.md",
     "MATH1116/Linear algebra/Week 5/dual map.md",
     "COMP2610/Week 6/source code.md",
-    "COMP2610/Week 1/information.md",
-    "COMP2610/Week 5/ensemble.md",
-    "COMP2610/Week 6/the source coding theorem.md",
-    "COMP2610/Week 6/compression.md",
-    "MATH1013/Linear algebra/Week 6/Injective transformation.md",
     "attachments/Pasted image 20260830160233.png",
     "attachments/Pasted image 20260830143210.png",
     "attachments/Pasted image 20260827152211.png",
