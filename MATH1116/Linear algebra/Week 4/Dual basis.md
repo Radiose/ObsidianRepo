@@ -1,4 +1,4 @@
-Given a [[basis]] $\alpha=\{ \alpha_{1},\dots,\alpha_{n} \}$ of $V$, the [[dual vector space|dual]] basis of $\alpha$ is defined as $$\{\phi_{1},\dots,\phi_{n}  \}$$
+Given* a [[basis]] $\alpha=\{ \alpha_{1},\dots,\alpha_{n} \}$ of $V$, the [[dual vector space|dual]] basis of $\alpha$ is defined as $$\{\phi_{1},\dots,\phi_{n}  \}$$
 where we define the function $\phi_{i}:V \to \mathbb{F}$ by $\phi_{i}(\alpha_{j})$ = 1 if $i = j$, $0$ else. 
 
 
