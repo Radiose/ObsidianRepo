@@ -21,15 +21,12 @@
             "id": "d266a65f3df7b112",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 5/generalised eigenspace.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Excalidraw/MATH1116 w5.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "generalised eigenspace"
+              "icon": "excalidraw-icon",
+              "title": "MATH1116 w5.excalidraw"
             }
           },
           {
@@ -259,7 +256,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -332,12 +329,12 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -455,8 +452,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eed0ac2186fb53b3",
+  "active": "d266a65f3df7b112",
   "lastOpenFiles": [
+    "MATH1116/Linear algebra/Week 5/generalised eigenspace.md",
+    "MATH1116/Linear algebra/Week 5/eigenvalue.md",
     "COMP2610/Week 6/raw bit content.md",
     "TO DO.md",
     "MATH1116/Linear algebra/Week 5/eigenspace.md",
@@ -476,14 +475,12 @@
     "attachments/Pasted image 20260901130416.png",
     "COMP2610/Week 6/COMP2610 01.09.2026.md",
     "MATH1116/Linear algebra/Week 5/dual map.md",
-    "MATH1116/Linear algebra/Week 5/generalised eigenspace.md",
     "COMP2610/Week 6/source code.md",
     "COMP2610/Week 1/information.md",
     "COMP2610/Week 5/ensemble.md",
     "COMP2610/Week 6/the source coding theorem.md",
     "COMP2610/Week 6/compression.md",
     "MATH1013/Linear algebra/Week 6/Injective transformation.md",
-    "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
     "attachments/Pasted image 20260830160233.png",
     "attachments/Pasted image 20260830143210.png",
     "attachments/Pasted image 20260827152211.png",
