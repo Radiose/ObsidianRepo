@@ -162,15 +162,12 @@
             "id": "ce019c34c2fa1cca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 4/standard basis and evaluation map.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Excalidraw/MATH1116 w1.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "standard basis and evaluation map"
+              "icon": "excalidraw-icon",
+              "title": "MATH1116 w1.excalidraw"
             }
           },
           {
@@ -255,8 +252,7 @@
               "title": "dual map"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -329,8 +325,7 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -452,20 +447,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ce019c34c2fa1cca",
+  "active": "6292d733efeafe10",
   "lastOpenFiles": [
+    "Excalidraw/MATH1116 w1.excalidraw.md",
+    "Excalidraw/MATH1116 w5.excalidraw.md",
+    "Excalidraw/MATH1005 workshop week 11.excalidraw.md",
+    "Excalidraw/MATH1005 workshop 5.excalidraw.md",
+    "MATH1116/Linear algebra/Week 4/standard basis and evaluation map.md",
     "MATH1013/Calculus/Week 1/Evaluating limits using the definition.md",
     "MATH1116/Linear algebra/Week 4/linear functional.md",
     "MATH1116/Linear algebra/Week 3/linear map.md",
     "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
-    "Excalidraw/MATH1116 w5.excalidraw.md",
     "MATH1116/Linear algebra/Week 5/generalised eigenspace.md",
     "MATH1116/Linear algebra/Week 5/eigenvalue.md",
     "COMP2610/Week 6/raw bit content.md",
     "TO DO.md",
     "MATH1116/Linear algebra/Week 5/eigenspace.md",
     "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
-    "MATH1116/Linear algebra/Week 4/standard basis and evaluation map.md",
     "MATH1116/Linear algebra/Week 4/dual vector space.md",
     "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
     "MATH1116/Linear algebra/Week 3/invertible linear map.md",
@@ -478,9 +476,6 @@
     "COMP2610/Week 6/essential bit content.md",
     "COMP2610/Week 6/Smallest delta sufficient subset.md",
     "attachments/Pasted image 20260901130416.png",
-    "COMP2610/Week 6/COMP2610 01.09.2026.md",
-    "MATH1116/Linear algebra/Week 5/dual map.md",
-    "COMP2610/Week 6/source code.md",
     "attachments/Pasted image 20260830160233.png",
     "attachments/Pasted image 20260830143210.png",
     "attachments/Pasted image 20260827152211.png",
