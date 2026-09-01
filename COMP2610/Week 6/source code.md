@@ -1,3 +1,10 @@
+---
+aliases:
+  - uniform code
+  - variable length code
+  - lossless code
+  - lossy code
+---
 # Motivation 
 This is a process for assigning names to outcomes. The names are typically expressed by strings of binary symbols. 
 We denote the set of all finite binary strings by $\{ 0,1 \}^+ :=\{ 0,1,00,01,10\dots \}$

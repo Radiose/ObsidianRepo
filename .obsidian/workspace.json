@@ -53,13 +53,67 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 6/source code.md",
+                "file": "COMP2610/Week 6/raw bit content.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "source code"
+              "title": "raw bit content"
+            }
+          },
+          {
+            "id": "8fa20c8ce5761086",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1116/Linear algebra/Week 4/standard basis and evaluation map.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "standard basis and evaluation map"
+            }
+          },
+          {
+            "id": "f532929c25c03d48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 6/Smallest delta sufficient subset.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Smallest delta sufficient subset"
+            }
+          },
+          {
+            "id": "14d94ac3caa6eb59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 6/raw bit content.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "raw bit content"
             }
           },
           {
@@ -205,7 +259,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -400,34 +454,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eed0ac2186fb53b3",
+  "active": "8fa20c8ce5761086",
   "lastOpenFiles": [
+    "MATH1116/Linear algebra/Week 4/dual vector space.md",
+    "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
+    "MATH1116/Linear algebra/Week 3/invertible linear map.md",
+    "MATH1116/Linear algebra/Week 3/range.md",
+    "MATH1005/Week 6/Inverse matrix.md",
+    "MATH1005/Week 3/surjective function.md",
+    "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence.md",
+    "MATH1013/Linear algebra/Week 8/Invertible matrix theorem.md",
+    "MATH1013/Linear algebra/Week 6/Surjective transformation.md",
+    "COMP2610/Week 6/essential bit content.md",
+    "COMP2610/Week 6/Smallest delta sufficient subset.md",
+    "attachments/Pasted image 20260901130416.png",
+    "COMP2610/Week 6/raw bit content.md",
     "COMP2610/Week 6/COMP2610 01.09.2026.md",
+    "MATH1116/Linear algebra/Week 5/dual map.md",
+    "MATH1116/Linear algebra/Week 5/generalised eigenspace.md",
     "COMP2610/Week 6/source code.md",
     "COMP2610/Week 1/information.md",
     "COMP2610/Week 5/ensemble.md",
     "COMP2610/Week 6/the source coding theorem.md",
     "COMP2610/Week 6/compression.md",
     "MATH1013/Linear algebra/Week 6/Injective transformation.md",
-    "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
     "MATH1116/Linear algebra/Week 4/standard basis and evaluation map.md",
     "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
     "MATH1116/Linear algebra/Week 4/dual basis.md",
     "MATH1116/Linear algebra/Week 4/change of base matrix.md",
     "MATH1116/Linear algebra/Week 4/linear functional.md",
-    "MATH1116/Linear algebra/Week 5/annihilator.md",
-    "MATH1116/Linear algebra/Week 3/basis of domain theorem.md",
-    "Excalidraw/MATH1116 w5.excalidraw.md",
-    "MATH1116/Linear algebra/Week 5/generalised eigenspace.md",
-    "MATH1116/Linear algebra/Week 3/invertible linear map.md",
-    "TO DO.md",
-    "MATH1116/Linear algebra/Week 5/dual map.md",
-    "MATH1116/Linear algebra/Week 4/dual vector space.md",
-    "MATH1005/Week 3/Bijective.md",
-    "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
-    "COMP3670/Week 5/random forest.md",
-    "MATH1116/Linear algebra/Week 3/linear map.md",
-    "MATH1116/Linear algebra/Week 4/MATH1116 20.08.2026.md",
     "attachments/Pasted image 20260830160233.png",
     "attachments/Pasted image 20260830143210.png",
     "attachments/Pasted image 20260827152211.png",
@@ -437,7 +492,6 @@
     "attachments/Pasted image 20260827105015.png",
     "attachments/Pasted image 20260827104943.png",
     "attachments/Pasted image 20260827104729.png",
-    "attachments/Pasted image 20260827104155.png",
     "templates",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
     "MATH1116",

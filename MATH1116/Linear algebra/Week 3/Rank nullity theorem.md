@@ -30,11 +30,11 @@ where we used the assumption that $T(\mathbf{u}_j) = \mathbf{0}$ for each $\math
 
 
 ### Independence
-To show $\{T(\mathbf{v}_1), \ldots, T(\mathbf{v}_n)\}$ is linearly independent, suppose $c_1, \ldots, c_n \in \mathbf{F}$ and
+To show $\{T(\mathbf{v}_1), \ldots, T(\mathbf{v}_n)\}$ is [[linearly independent]], suppose $c_1, \ldots, c_n \in \mathbf{F}$ and
 
 $$c_1 T(\mathbf{v}_1) + \cdots + c_n T(\mathbf{v}_n) = \mathbf{0}.$$
 
-Then, by linearity of $T$,
+Then, by [[linearity]] of $T$,
 
 $$T(c_1\mathbf{v}_1 + \cdots + c_n\mathbf{v}_n) = \mathbf{0}.$$
 
