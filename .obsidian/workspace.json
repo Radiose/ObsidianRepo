@@ -38,13 +38,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 6/the source coding theorem.md",
+                "file": "COMP3670/Week 6/COMP 3670 03.09.2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "the source coding theorem"
+              "title": "COMP 3670 03.09.2026"
+            }
+          },
+          {
+            "id": "c2b35d1ab0b5b615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Coordinatizing matrices"
             }
           },
           {
@@ -123,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -318,14 +333,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "301106a7d399bcab",
+  "active": "c2b35d1ab0b5b615",
   "lastOpenFiles": [
+    "COMP3670/Week 6/hierarchical clustering.md",
+    "COMP2610/Week 2/variance.md",
+    "COMP3670/Week 6/COMP 3670 03.09.2026.md",
+    "MATH1013/Linear algebra/Week 1/matrix.md",
+    "MATH1013/Complex numbers/Roots of unity.md",
+    "MATH1116/Linear algebra/Week 2/field.md",
+    "COMP2610/Week 6/the source coding theorem.md",
+    "MATH1116/Analysis/Week 5/uniformly Cauchy.md",
     "COMP2610/Week 6/essential bit content.md",
     "MATH1005/Week 5/Geometric series.md",
-    "MATH1116/Analysis/Week 5/uniformly Cauchy.md",
     "COMP2610/Week 5/asymptotic equipartition property.md",
     "MATH1116 odds and ends.md",
-    "COMP2610/Week 6/the source coding theorem.md",
     "COMP2610/Week 5/law of large numbers.md",
     "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
     "attachments/Pasted image 20260902162257.png",
@@ -341,12 +362,6 @@
     "TO DO.md",
     "MATH1116/Linear algebra/Week 4/linear functional.md",
     "MATH1116/Linear algebra/Week 3/basis of domain theorem.md",
-    "Excalidraw/MATH1116 w1.excalidraw.md",
-    "MATH1013/Linear algebra/Week 6/Injective transformation.md",
-    "COMP2610/Week 6/compression.md",
-    "COMP2610/Week 6/raw bit content.md",
-    "MATH1116/Linear algebra/Week 5/eigenvalue.md",
-    "Excalidraw/MATH1005 workshop week 11.excalidraw.md",
     "attachments/Pasted image 20260901130416.png",
     "attachments/Pasted image 20260830160233.png",
     "attachments/Pasted image 20260830143210.png",
