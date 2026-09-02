@@ -9,3 +9,12 @@ $$H_{\delta}(X):=\log_{2}|S_{\delta}|$$
 Where $S_{\delta}$ is:
 
 ![[Smallest delta sufficient subset]]
+
+
+
+![[Pasted image 20260902162257.png]]
+
+
+Above, we can see that the essential bit content of extended ensembles become more and more  predictable.  
+
+This is the [[asymptotic equipartition property]].

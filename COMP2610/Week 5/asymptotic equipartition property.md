@@ -1,7 +1,11 @@
+---
+aliases:
+  - AEP
+---
 # Informal 
 As $N \to \infty$, $\log_{2}P(x_{1},\dots,x_{n})$ is close to $-NH(X)$ with high probability 
 
-For large block sizes, almost all sequences are in the [[typical set]]. 
+For large block sizes, almost all probability mass is in the [[typical set]]. 
 
 # Formally
 
@@ -23,3 +27,6 @@ $$\mathbb{E}[Y] = H(X).$$
 
 But then by the law of large numbers,
 $$(\forall \beta > 0) \lim_{N\to\infty} p\left(\left|\frac{1}{N}\sum_{n=1}^N y_n - H(X)\right| > \beta\right) = 0.$$
+
+
+
