@@ -25,7 +25,7 @@ $$= -\frac{1}{N}\sum_{n=1}^N \log p(x_n).$$
 Let $Y = -\log p(X)$ and $y_n = -\log p(x_n)$. Then, $y_n \sim Y$, and
 $$\mathbb{E}[Y] = H(X).$$
 
-But then by the law of large numbers,
+But then by the law of [[law of large numbers]],
 $$(\forall \beta > 0) \lim_{N\to\infty} p\left(\left|\frac{1}{N}\sum_{n=1}^N y_n - H(X)\right| > \beta\right) = 0.$$
 
 

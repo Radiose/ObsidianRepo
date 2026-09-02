@@ -20,7 +20,7 @@ The basis of this is ![[Pasted image 20260902162257.png]]
 Above, we can see that the essential bit content of extended ensembles become more and more  predictable.  
 
 
-# The Source Coding Theorem — Formal Proof
+# Proof of the source coding theorem
 
 ## Statement
 
@@ -35,8 +35,8 @@ Above, we can see that the essential bit content of extended ensembles become mo
 
 **Key bound on $T_{N\beta}$.** Rearranging the typical-set definition gives, for every $\mathbf{x} \in T_{N\beta}$, $$2^{-N(H+\beta)} < P(\mathbf{x}) < 2^{-N(H-\beta)}. \tag{1}$$
 
-**AEP.** By the (weak) Law of [[law of large numbers]] applied to $h(X) = -\log_2 P(X)$, for any $\beta > 0$, $$P(\mathbf{x} \in T_{N\beta}) \to 1 \quad \text{as } N \to \infty. \tag{2}$$
-
+**[[asymptotic equipartition property|AEP]].** By the (weak) Law of [[law of large numbers]] applied to $h(X) = -\log_2 P(X)$, for any $\beta > 0$, $$P(\mathbf{x} \in T_{N\beta}) \to 1 \quad \text{as } N \to \infty. \tag{2}$$
+(the probability that something is in the typical set tends to 100%)
 ## Proof strategy
 
 - **Part 1:** $\dfrac{1}{N} H_\delta\left(X^N\right) < H + \epsilon$
@@ -50,8 +50,8 @@ Above, we can see that the essential bit content of extended ensembles become mo
 
 From the counting consequence of $(1)$: since every $\mathbf{x} \in T_{N\beta}$ has $P(\mathbf{x}) > 2^{-N(H+\beta)}$, and the total probability of $T_{N\beta}$ cannot exceed 1, $$|T_{N\beta}| \cdot 2^{-N(H+\beta)} < 1 \implies |T_{N\beta}| \leq 2^{N(H(X)+\beta)}. \tag{3}$$
 
-By the AEP $(2)$, for any $\delta > 0$ we can always find $N$ large enough that $$P(\mathbf{x} \in T_{N\beta}) \geq 1-\delta.$$
-
+By the [[asymptotic equipartition property|AEP]] $(2)$, for any $\delta > 0$ we can always find $N$ large enough that $$P(\mathbf{x} \in T_{N\beta}) \geq 1-\delta.$$
+	
 Recall $S_\delta$ is defined as the **smallest** subset achieving coverage $\geq 1-\delta$. Since $T_{N\beta}$ is _some_ subset achieving that coverage, it follows that $$|S_\delta| \leq |T_{N\beta}|.$$
 
 Combining with $(3)$: $$|S_\delta| \leq |T_{N\beta}| \leq 2^{N(H(X)+\beta)}$$ $$\log_2 |S_\delta| \leq \log_2 |T_{N\beta}| \leq N(H(X)+\beta)$$ $$H_\delta\left(X^N\right) \leq N(H(X)+\beta).$$
@@ -66,9 +66,10 @@ Setting $\beta = \epsilon$ and dividing through by $N$ gives $$\frac{1}{N} H_\de
 
 **Proof by contradiction.** Suppose this were _not_ the case — that for every $N$, $$\frac{1}{N} H_\delta\left(X^N\right) \leq H(X) - \epsilon \iff |S_\delta| \leq 2^{N(H(X)-\epsilon)}. \tag{4}$$
 
-Decompose the probability of $S_\delta$ by splitting on membership in $T_{N\beta}$: $$P(\mathbf{x} \in S_\delta) = P\left(\mathbf{x} \in S_\delta \cap T_{N\beta}\right) + P\left(\mathbf{x} \in S_\delta \cap \overline{T_{N\beta}}\right).$$
+Decompose the probability of $S_\delta$ by splitting on membership in $T_{N\beta}$: $$P(\mathbf{x} \in S_\delta) = P\left(\mathbf{x} \in S_\delta \cap T_{N\beta}\right) + P\left(\mathbf{x} \in S_\delta \cap \{{T_{N\beta}}\}^C\right).$$
+(the part of S thats also in T and the part of S that isnt)
 
-Bound each term:
+We bound each term:
 
 - Every $\mathbf{x} \in T_{N\beta}$ satisfies $P(\mathbf{x}) \leq 2^{-N(H-\beta)}$ by $(1)$, so $$P\left(\mathbf{x} \in S_\delta \cap T_{N\beta}\right) \leq |S_\delta| \cdot 2^{-N(H-\beta)}.$$
 - Since $S_\delta \cap \overline{T_{N\beta}} \subseteq \overline{T_{N\beta}}$, $$P\left(\mathbf{x} \in S_\delta \cap \overline{T_{N\beta}}\right) \leq P\left(\mathbf{x} \notin T_{N\beta}\right).$$
@@ -81,7 +82,7 @@ which simplifies to
 
 $$P(\mathbf{x} \in S_\delta) \leq 2^{-N\epsilon} + P\left(\mathbf{x} \notin T_{N\beta}\right).$$
 
-As $N \to \infty$: the first term $2^{-N\epsilon} \to 0$, and by the AEP $(2)$, $P(\mathbf{x} \notin T_{N\beta}) \to 0$. So $$P(\mathbf{x} \in S_\delta) \to 0 \quad \text{as } N \to \infty.$$
+As $N \to \infty$: the first term $2^{-N\epsilon} \to 0$, and by the [[asymptotic equipartition property|AEP]] $(2)$, $P(\mathbf{x} \notin T_{N\beta}) \to 0$. So $$P(\mathbf{x} \in S_\delta) \to 0 \quad \text{as } N \to \infty.$$
 
 But by the **definition** of $S_\delta$, $P(\mathbf{x} \in S_\delta) \geq 1-\delta$ for _every_ $N$ — a fixed positive constant, not something that can shrink to 0.
 
