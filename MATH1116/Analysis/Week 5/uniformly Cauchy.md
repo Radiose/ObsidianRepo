@@ -10,7 +10,9 @@ Assume $$\forall\epsilon >0\ \ \exists N\in \mathbb{N} \ \ \forall n,n>N \implie
 Let $x \in[a,b]$
 $$\forall\epsilon>0 \ \ \  \exists N \in \mathbb{N}\ \ \ \forall n,m \geq N \implies|f_{n}(x)-f_{m}(x)|<\epsilon$$
 Then $(f_{n})_{n\in \mathbb{N}} \in \mathbb{R}^\mathbb{N}$ is [[Cauchy sequence|cauchy]] and thereby convergent.
-We define $f(x)=\lim_{ n \to \infty }f_{n}(x)$ $\forall x \in[a,b]$
-By uniformly Cauchy, choose $(N_{j})_{j\in \mathbb{N}}\in \mathbb{N}^\mathbb{N}$ such that 
+
+We define $$f(x)=\lim_{ n \to \infty }f_{n}(x)\ \ \forall x \in[a,b]$$
+
+Because it is uniformly Cauchy, , choose some increasing $(N_{j})_{j\in \mathbb{N}}\in \mathbb{N}^\mathbb{N}$ such that 
 $$\forall j \in \mathbb{N}\ \ ||f_{N_{j+1}}-f_{N_{j}}||_{\infty} <2^{-j}$$
-Therefore, for z
+Therefore, for $x \in[a,b]$, $$|f(x)-f_{N_{j}}(x)|= \lim_{ J \to \infty } |\sum_{k=j}^{J}\left[ f_{N_{k+1}}(x)-f_{N_{k}}(x)\right]|$$ Above we are passing these into a **telescoping sum** $$\leq \sum_{k=j}^J ||f_{N_{k+1}}-f_{N_{k}}||_{\infty}\leq 2^{-j}$$ The final term is derived by [[Geometric Sequence]] identity on $2^{-k}$.
