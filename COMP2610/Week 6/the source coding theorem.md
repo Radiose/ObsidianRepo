@@ -13,6 +13,8 @@ If you want to [[source code|uniformly code]] blocks of $N$ symbols, drawn ident
 
 If you use less than $NH(X)$ bits per block, you will almost certainly lose information 
 
+SO BASICALLY, if you want to uniformly encode something, 
+
 
 The basis of this is ![[Pasted image 20260902162257.png]]
 
