@@ -83,4 +83,8 @@ $$\leq 2 ||f-f_{n}||_{\infty}+|\int_{y}^x|f'(z)-g(z)|dz$$ (combined $f_{n}-f$ to
 $$\leq 2 ||f-f_{n}||_{\infty}+ \int_{y}^x ||f'_{n}-g||_{\infty}$$
 $$= 2||f_{n}-f||_{\infty} +(x-y)||f'-g||_{\infty}$$
 
-Now, all terms in this 
+Now, all terms in this tend to zero, thus $f(y)-f(x)=\int_{x}^yg(z)dz$
+Now via FTC, $g=f'$ and $f$ is differentiable 
+
+
+![[uniformly Cauchy]]
