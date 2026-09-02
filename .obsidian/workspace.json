@@ -18,241 +18,22 @@
             }
           },
           {
-            "id": "d266a65f3df7b112",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/MATH1116 w5.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "MATH1116 w5.excalidraw"
-            }
-          },
-          {
-            "id": "4444aef9d1316142",
+            "id": "301106a7d399bcab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 6/COMP2610 01.09.2026.md",
+                "file": "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "COMP2610 01.09.2026"
-            }
-          },
-          {
-            "id": "eed0ac2186fb53b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1116/Linear algebra/Week 5/eigenvalue.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "eigenvalue"
-            }
-          },
-          {
-            "id": "8fa20c8ce5761086",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO DO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TO DO"
-            }
-          },
-          {
-            "id": "f532929c25c03d48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP2610/Week 6/Smallest delta sufficient subset.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Smallest delta sufficient subset"
-            }
-          },
-          {
-            "id": "14d94ac3caa6eb59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP2610/Week 6/raw bit content.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "raw bit content"
-            }
-          },
-          {
-            "id": "7bda141b5bb0ab15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP2610/Week 6/source code.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "source code"
-            }
-          },
-          {
-            "id": "2dce13325a93b8ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP2610/Week 6/compression.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "compression"
-            }
-          },
-          {
-            "id": "997f2fe6381069f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1013/Linear algebra/Week 6/Injective transformation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Injective transformation"
-            }
-          },
-          {
-            "id": "ce019c34c2fa1cca",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/MATH1116 w1.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "MATH1116 w1.excalidraw"
-            }
-          },
-          {
-            "id": "698d63b5272daaea",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/MATH1116 w5.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "MATH1116 w5.excalidraw"
-            }
-          },
-          {
-            "id": "614c67d6decd3b6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1116/Linear algebra/Week 3/basis of domain theorem.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "basis of domain theorem"
-            }
-          },
-          {
-            "id": "936b5fd33c7ab80c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1116/Linear algebra/Week 4/linear functional.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "linear functional"
-            }
-          },
-          {
-            "id": "c197a373659aca71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO DO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "TO DO"
-            }
-          },
-          {
-            "id": "8167b90f7f5f2b4e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "04a8f4792986efd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1116/Linear algebra/Week 5/dual map.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "dual map"
+              "title": "uniform convergence and L1 norm convergence"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -325,7 +106,8 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -447,34 +229,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6292d733efeafe10",
+  "active": "e9433c2d2fbca9a5",
   "lastOpenFiles": [
-    "Excalidraw/MATH1116 w1.excalidraw.md",
     "Excalidraw/MATH1116 w5.excalidraw.md",
+    "MATH1116/Linear algebra/Week 5/dual map.md",
+    "TO DO.md",
+    "MATH1116/Linear algebra/Week 4/linear functional.md",
+    "MATH1116/Linear algebra/Week 3/basis of domain theorem.md",
+    "Excalidraw/MATH1116 w1.excalidraw.md",
+    "MATH1013/Linear algebra/Week 6/Injective transformation.md",
+    "COMP2610/Week 6/compression.md",
+    "COMP2610/Week 6/source code.md",
+    "COMP2610/Week 6/raw bit content.md",
+    "COMP2610/Week 6/Smallest delta sufficient subset.md",
+    "MATH1116/Linear algebra/Week 5/eigenvalue.md",
+    "COMP2610/Week 6/COMP2610 01.09.2026.md",
     "Excalidraw/MATH1005 workshop week 11.excalidraw.md",
     "Excalidraw/MATH1005 workshop 5.excalidraw.md",
     "MATH1116/Linear algebra/Week 4/standard basis and evaluation map.md",
     "MATH1013/Calculus/Week 1/Evaluating limits using the definition.md",
-    "MATH1116/Linear algebra/Week 4/linear functional.md",
     "MATH1116/Linear algebra/Week 3/linear map.md",
     "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
     "MATH1116/Linear algebra/Week 5/generalised eigenspace.md",
-    "MATH1116/Linear algebra/Week 5/eigenvalue.md",
-    "COMP2610/Week 6/raw bit content.md",
-    "TO DO.md",
     "MATH1116/Linear algebra/Week 5/eigenspace.md",
     "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
     "MATH1116/Linear algebra/Week 4/dual vector space.md",
     "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
     "MATH1116/Linear algebra/Week 3/invertible linear map.md",
     "MATH1116/Linear algebra/Week 3/range.md",
-    "MATH1005/Week 6/Inverse matrix.md",
-    "MATH1005/Week 3/surjective function.md",
-    "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence.md",
-    "MATH1013/Linear algebra/Week 8/Invertible matrix theorem.md",
-    "MATH1013/Linear algebra/Week 6/Surjective transformation.md",
-    "COMP2610/Week 6/essential bit content.md",
-    "COMP2610/Week 6/Smallest delta sufficient subset.md",
     "attachments/Pasted image 20260901130416.png",
     "attachments/Pasted image 20260830160233.png",
     "attachments/Pasted image 20260830143210.png",

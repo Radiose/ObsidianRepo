@@ -49,3 +49,12 @@ $\implies \forall x \in[a,b]\ \ \forall\epsilon>0\ \ \exists M_{\epsilon,x}\fora
 $\implies f_{n}(x)\xrightarrow[n \to \infty]{}f(x)$ pointwise. 
 
 As you can see, the difference between pointwise and uniform convergence is the same as [[continuous function|continuous]] vs [[uniform continuity]], IE whether $N$ depends on $x$ or not. 
+
+
+# Theorem 2
+let $b >a$. Let $f_{n}:[a,b]\to \mathbb{R}$, and $f:[a,b) \to\mathbb{R} \ \ \forall n \in \mathbb{N}$.
+If $f_{n}\in C[a,b]\ \ \ \forall n\in \mathbb{N},$ and $||f_{n}(x)-f||_{\infty}\to {0}$, then $f \in C[a,b]$.
+(a uniformly convergent, continuous sequence of functions must converge to a continuous function)
+### Proof 
+Let $\epsilon>0$, $x \in[a,b]$. Pick $N\in \mathbb{N} :||f_{n}-f||_{\infty}<\epsilon\ \ \forall n\in \mathbb{N}$ 
+Since $f_{N} \in C[a,b]$ $\forall x \in[a,b]$, then $\exists\delta>0$: $$\forall y \in[a,b]|y-x|<\delta \implies$$
