@@ -27,6 +27,9 @@ $$
 T_{N\beta} &\overset{\text{def}}{=} \left\{ \mathbf{x} : \left| -\log_2 P(\mathbf{x}) - NH(X) \right| < N\beta \right\} \\
 &= \left\{ \mathbf{x} : \left| -\frac{1}{N}\log_2 P(\mathbf{x}) - H(X) \right| < \beta \right\}
 \end{aligned}$$
+
+Where $\frac{1}{N}\log_{2}p(x)$ is the average information content, and H(x) is the entropy. 
+
 The name typical is used because each $\mathbf{x}\in T_{N\beta}$ will have roughly $p_{1}N$ occurrences of symbol $a_{1}$, $p_{2}N$ of $a_{2},\dots p_{k}N$ of $a_{k}$
 
 ![[Pasted image 20260826191546.png]]

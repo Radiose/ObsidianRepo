@@ -10,4 +10,7 @@ Additionally, the expected length will be $N\log_{2} |S_{\delta}|$
 # Example 
 We construct $S_{\delta }$ by removing elements in $X$ in ascending order of probability until we have reached $1-\delta$ threshold.
 
-For example, ![[Pasted image 20260901130416.png]] given the distribution to the left, if we choose $\delta=0$, then the probability that $x$ is in $S_{\delta}$ has to be 1, so there is no error and $s_{\delta}$ has to include the entirety of $a-g$
+ ![[Pasted image 20260901130416.png]] 
+ 
+ For example, given the distribution to the left, if we choose $\delta=0$, then the probability that $x$ is in $S_{\delta}$ has to be 1, so there is no error and $s_{\delta}$ has to include the entirety of $a-g$
+ 

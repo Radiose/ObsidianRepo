@@ -1,6 +1,9 @@
+
 information
 
 This is the fundamental concept underpinning the course COMP2610. 
+# Motivation
+
 ### Dictionary definition 
 - facts provided or learned about something or someone 
 - what is conveyed or represented by a particular arrangement or sequence of things 
@@ -28,4 +31,4 @@ $$h(x)=\log_{2} \frac{1}{p(x)}$$
 This is because the information content of something more unlikely will be larger, which is why its under 1.
 In this case, we use $\log_{2}$ because we are using bits, but choice of base is still arbitrary. 
 
-![[entropy (information theory)]]
+The *average* information content of a random variable is called the [[entropy (information theory)|entropy]] of a random variable. 
