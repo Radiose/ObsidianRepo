@@ -47,4 +47,4 @@ Then, $\exists x_{0}\in \mathbb{R} \setminus \{ c \}:\quad \sum {a_{n}}(x_{0}-c)
 $\quad \quad \ \ \  \exists x_{1} \in \mathbb{R} \setminus \{ c \}:\quad \sum{|a_{n}|} |x_{1}-c|^n$ diverges 
 By the lemma above 
 if $R < |x_{0}-c|$, then $\sum |a_{n}R|$ converges.
-If $\sum$
+If $\sum a_{n}\hat{\rho}$
