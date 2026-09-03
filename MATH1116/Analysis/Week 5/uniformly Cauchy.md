@@ -15,7 +15,7 @@ Thus  $(f(x)_{n})_{n\in \mathbb{N}} \in \mathbb{R}^\mathbb{N}$ is [[Cauchy seque
 We define $$f(x)=\lim_{ n \to \infty }f_{n}(x)\ \ \forall x \in[a,b]$$
 
 Because it is uniformly Cauchy, choose some increasing $(N_{j})_{j\in \mathbb{N}}\in \mathbb{N}^\mathbb{N}$ such that 
-$$\forall j \in \mathbb{N}\ \ ||f-f_{N_{j}}||_{\infty} <2^{-j}$$
+$$\forall j \in \mathbb{N}\ \ ||f_{N_{j+1}}-f_{N_{j}}||_{\infty} <2^{-j}$$
 Note that $\sum_{j=0}^\infty f_{N_{j+1}}(x)-f_{N_{j}}(x)$ will converge (via inf geometric sequence)
 
 
@@ -24,4 +24,6 @@ Therefore, for $x \in[a,b]$, $$|f(x)-f_{N_{j}}(x)|= \lim_{ J \to \infty } |\sum_
 This gives $||f-f_{N_{j}}||_{\infty}\leq 2^{-j}\quad\forall j\in \mathbb{N}$
 
 So, for $\epsilon>0$, choose $j \in \mathbb{N}$ such that $2^{-j}<\epsilon$, and such that $\forall m>N_{j}\quad ||f_{m}-f_{N_{j}}||_{\infty}<\epsilon$. 
-Then, $\forall n >N_{j},\ \ ||f_{n}-f||_{\infty}\leq||f_{n}-f_{N_{j}}||_{\infty}+||f_{N_{j}}-f||_{\infty}\leq 2\epsilon$
+Then, $\forall n >N_{j},\ \ ||f_{n}-f||_{\infty}\leq||f_{n}-f_{N_{j}}||_{\infty}+||f_{N_{j}}-f||_{\infty}\leq 2^{-j}+\epsilon \blacksquare$
+
+So
