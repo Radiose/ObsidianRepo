@@ -33,33 +33,18 @@
             }
           },
           {
-            "id": "a36e748f980f2fae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 6/COMP 3670 03.09.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "COMP 3670 03.09.2026"
-            }
-          },
-          {
             "id": "c1564ba5b73bd0fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 5/uniformly Cauchy.md",
+                "file": "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "uniformly Cauchy"
+              "title": "nilpotent operator"
             }
           },
           {
@@ -183,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -378,15 +363,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c1564ba5b73bd0fc",
+  "active": "301106a7d399bcab",
   "lastOpenFiles": [
+    "COMP3670/Week 6/linear regression loss.md",
+    "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
+    "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
+    "MATH1116/Linear algebra/Week 5/annihilator.md",
+    "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
+    "MATH1116/Analysis/Week 2/Convergence of series.md",
+    "MATH1116/Analysis/Week 5/uniformly Cauchy.md",
+    "COMP3670/Week 6/COMP 3670 03.09.2026.md",
     "MATH1116 odds and ends.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/Bolzano Weierstrass theorem.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/subsequence.md",
-    "MATH1116/Analysis/Week 5/uniformly Cauchy.md",
     "COMP3670/Week 6/tensor.md",
-    "COMP3670/Week 6/COMP 3670 03.09.2026.md",
-    "COMP3670/Week 6/linear regression loss.md",
     "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
     "COMP3670/Week 6/hierarchical clustering.md",
     "COMP2610/Week 2/variance.md",
@@ -402,11 +392,6 @@
     "attachments/Pasted image 20260902162257.png",
     "COMP2610/Week 3/entropy (information theory).md",
     "COMP2610/Week 6/source code.md",
-    "COMP2610/Week 1/information.md",
-    "COMP2610/Week 5/typical set.md",
-    "COMP2610/Week 6/Smallest delta sufficient subset.md",
-    "COMP2610/Week 6/COMP2610 01.09.2026.md",
-    "MATH1013/Calculus/Week 2/uniform continuity.md",
     "attachments/Pasted image 20260901130416.png",
     "attachments/Pasted image 20260830160233.png",
     "attachments/Pasted image 20260830143210.png",
