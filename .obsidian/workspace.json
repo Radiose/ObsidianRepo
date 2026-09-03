@@ -182,8 +182,7 @@
               "title": "Bolzano Weierstrass theorem"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -378,10 +377,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "becc2da08aca5a68",
+  "active": "6292d733efeafe10",
   "lastOpenFiles": [
-    "MATH1116/Analysis/Week 6/uniform convergence of a series of sequence of functions.md",
     "MATH1116/Analysis/Week 6/power series.md",
+    "MATH1116/Analysis/Week 6/uniform convergence of a series of sequence of functions.md",
     "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
     "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
     "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
