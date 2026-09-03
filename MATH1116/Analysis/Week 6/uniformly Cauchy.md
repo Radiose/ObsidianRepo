@@ -25,5 +25,3 @@ This gives $||f-f_{N_{j}}||_{\infty}\leq 2^{-j}\quad\forall j\in \mathbb{N}$
 
 So, for $\epsilon>0$, choose $j \in \mathbb{N}$ such that $2^{-j}<\epsilon$, and such that $\forall m>N_{j}\quad ||f_{m}-f_{N_{j}}||_{\infty}<\epsilon$. 
 Then, $\forall n >N_{j},\ \ ||f_{n}-f||_{\infty}\leq||f_{n}-f_{N_{j}}||_{\infty}+||f_{N_{j}}-f||_{\infty}\leq 2^{-j}+\epsilon \blacksquare$
-
-So

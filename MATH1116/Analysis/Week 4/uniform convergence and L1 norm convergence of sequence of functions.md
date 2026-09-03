@@ -88,3 +88,5 @@ Now via FTC, $g=f'$ and $f$ is differentiable
 
 
 ![[uniformly Cauchy]]
+
+![[uniform convergence of a series of sequence of functions]]

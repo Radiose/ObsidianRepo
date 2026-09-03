@@ -23,13 +23,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 5/uniformly Cauchy.md",
+                "file": "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "uniformly Cauchy"
+              "title": "uniform convergence and L1 norm convergence of sequence of functions"
+            }
+          },
+          {
+            "id": "becc2da08aca5a68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1116/Analysis/Week 6/power series.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "power series"
             }
           },
           {
@@ -168,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -363,15 +378,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "301106a7d399bcab",
+  "active": "becc2da08aca5a68",
   "lastOpenFiles": [
-    "COMP3670/Week 6/linear regression loss.md",
+    "MATH1116/Analysis/Week 6/uniform convergence of a series of sequence of functions.md",
+    "MATH1116/Analysis/Week 6/power series.md",
     "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
+    "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
+    "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
+    "COMP3670/Week 6/linear regression loss.md",
     "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
     "MATH1116/Linear algebra/Week 5/annihilator.md",
     "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
     "MATH1116/Analysis/Week 2/Convergence of series.md",
-    "MATH1116/Analysis/Week 5/uniformly Cauchy.md",
     "COMP3670/Week 6/COMP 3670 03.09.2026.md",
     "MATH1116 odds and ends.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/Bolzano Weierstrass theorem.md",
@@ -388,10 +406,7 @@
     "MATH1005/Week 5/Geometric series.md",
     "COMP2610/Week 5/asymptotic equipartition property.md",
     "COMP2610/Week 5/law of large numbers.md",
-    "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
     "attachments/Pasted image 20260902162257.png",
-    "COMP2610/Week 3/entropy (information theory).md",
-    "COMP2610/Week 6/source code.md",
     "attachments/Pasted image 20260901130416.png",
     "attachments/Pasted image 20260830160233.png",
     "attachments/Pasted image 20260830143210.png",
