@@ -3,6 +3,8 @@ An [[ensemble]] $X$ is a triple $(x,\mathcal{A}_{x},\mathcal{P}_{x})$, where $x$
 The [[information]] in the observation that $x=a_{i}$ in the ensemble $x$ is given by $h(a_{i})=\log_{2} \frac{1}{p_{i}}=-\log_{2} p_{i}$
 
 
+
+
 ![[extended ensemble]]
 
 
