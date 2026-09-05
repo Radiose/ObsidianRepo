@@ -32,3 +32,13 @@ $(3)\quad \exists \delta >0:\forall x \in \mathbb{R} \setminus \{ c \}$
 Assume $\exists x_{0}\in \mathbb{R} \setminus \{ c \}$ such that $\sum_{n=0}^\infty a_{n}(x_{0}-c)^n$ converges. If not, (1) holds.
 We have $a_{n}(x_{0}-c)^n \xrightarrow[n \to \infty]{}0$
 Therefore, $\exists N >0$ such that $\forall n \in \mathbb{N}$, $|a_{n}(x_{0}-c)^n|\leq M$ and thus $\forall n\in \mathbb{N},\ \forall x \in \mathbb{R}$, $|a_{n}(x-c)|\leq M \left( \frac{|x-c|}{|x_{0}-c|} \right)^n$
+Therefore, $|x-c|<|x_{0}-c|$ implies that the M term goes to zero, and via [[Convergence of series#Theorem 2 (converging series bounds smaller one)|comparison test]], $\sum a_{n}(x-c)^n$ must converge, so $\sum |a_{n}r_{0}^n|$ converging implies that $\sum |a_{n}r^n|$ converges for all $r \in[0,r_{0}]$
+If $\sum^\infty a_nr^n$ converges for all $r\geq0$, then $(2)$ holds. 
+If note, let $\delta:= sup \left\{  r>0:\sum_{n=0}^\infty |a_{n}r^n|  \text{  converges}\right\}$
+
+Then, $\forall x \in(c-\delta,c+\delta),\quad\exists r\in(0,\delta)$ such that $|x-c|=r<\delta$
+
+Therefore, $\forall x \in(c-\delta,c+\delta),\sum_{n=0}^\infty a_{n}(x-c)^n$ converges. 
+
+ $\forall x \not \in [c-\delta,c+\delta]$$\quad \exists R>\delta$ such that $|x-c|=R$. Assume that $\sum_{n=0}^\infty a_{n}(x-c)^n$ converges. Then, $\sum_{n=0}^\infty a_{n}\bar{R}^{n}$ converges for $\delta<\bar{R}<R$, which contradicts the definition of $\delta$. Thus, $(3)$ holds $\blacksquare$.
+

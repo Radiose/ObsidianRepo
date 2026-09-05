@@ -253,7 +253,8 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -375,7 +376,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0c6223604bd1a922",
+  "active": "e9433c2d2fbca9a5",
   "lastOpenFiles": [
     "MATH1116/Analysis/Week 6/power series.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/Bolzano Weierstrass theorem.md",
