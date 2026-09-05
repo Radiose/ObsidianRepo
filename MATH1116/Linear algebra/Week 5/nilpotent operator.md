@@ -17,9 +17,12 @@ For example, $\begin{bmatrix}0 &  1 \\  0 & 0\end{bmatrix}$ is a [[nilpotent ope
 
 
 # Theorem 
-If $U$ is [[finite dimensional]] and $N \in \mathcal{L}(U)$ is nilpotent, then $\exists$ some basis $B$ of $U$ such that 
-$[N]_{B}=$
-![[Pasted image 20260830160233.png|212]]
+If $U$ is [[finite dimensional]] and $N \in \mathcal{L}(U)$ is nilpotent. Then, there exists some set of linearly independent vectors $\{ \mathbf{u}_{1},\dots,\mathbf{u}_{k} \}$ and a [[sequence]] of non-negative integers $i_{1}\geq\dots\geq i_{k}\geq {0}$ such that the set 
+$$\{ N^{i_{1}}(\mathbf{u_{1}}),\dots,N(\mathbf{u}_{1}),\mathbf{u}_{1},
+\dots N^{i_{k}}(\mathbf{u}_{k}),\dots,N{\mathbf{u}_{k}} \}$$
+is a basis of $U$. In this basis, the matrix of $N$ is as follows:
+
+![[Pasted image 20260830160233.png|496]]
 
 
 ### Proof 

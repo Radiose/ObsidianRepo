@@ -158,15 +158,12 @@
             "id": "c1f6af4d06d1d9bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "MATH1116/Analysis/Week 6/power series.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Excalidraw/MATH1116 w6.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "power series"
+              "icon": "excalidraw-icon",
+              "title": "MATH1116 w6.excalidraw"
             }
           },
           {
@@ -253,8 +250,7 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -376,13 +372,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e9433c2d2fbca9a5",
+  "active": "c1f6af4d06d1d9bc",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Excalidraw/MATH1116 w6.excalidraw.md",
+    "Excalidraw/MATH1116 w4.excalidraw.md",
+    "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
+    "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
     "MATH1116/Analysis/Week 6/power series.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/Bolzano Weierstrass theorem.md",
     "Excalidraw/MATH1005 workshop week 10.excalidraw.md",
     "MATH1116 odds and ends.md",
-    "Excalidraw/MATH1116 w4.excalidraw.md",
     "Excalidraw/MATH1013 assignment 5.excalidraw.md",
     "Excalidraw/MATH1116 w5.excalidraw.md",
     "MATH1005/Week 5/Geometric series.md",
@@ -394,16 +394,12 @@
     "COMP3670/Week 6/tensor.md",
     "COMP3670/Week 4/nonparametric methods.md",
     "MATH1116/Analysis/Week 6/uniform convergence of a series of sequence of functions.md",
-    "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
     "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
     "COMP3670/Week 6/linear regression loss.md",
     "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
     "MATH1116/Linear algebra/Week 5/annihilator.md",
     "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
     "MATH1116/Analysis/Week 2/Convergence of series.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/subsequence.md",
-    "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
-    "COMP3670/Week 6/hierarchical clustering.md",
     "attachments/Pasted image 20260902162257.png",
     "attachments/Pasted image 20260901130416.png",
     "attachments/Pasted image 20260830160233.png",
