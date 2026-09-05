@@ -42,3 +42,34 @@ Therefore, $\forall x \in(c-\delta,c+\delta),\sum_{n=0}^\infty a_{n}(x-c)^n$ con
 
  $\forall x \not \in [c-\delta,c+\delta]$$\quad \exists R>\delta$ such that $|x-c|=R$. Assume that $\sum_{n=0}^\infty a_{n}(x-c)^n$ converges. Then, $\sum_{n=0}^\infty a_{n}\bar{R}^{n}$ converges for $\delta<\bar{R}<R$, which contradicts the definition of $\delta$. Thus, $(3)$ holds $\blacksquare$.
 
+# Theorem 2(ratio determines radius of convergence)
+Let $(a_{n})_{n\in \mathbb{N}} \in \mathbb{R}^\mathbb{N},c \in \mathbb{R}$
+$(1)$ If $$\lim_{ n \to \infty }\frac{a_{n+1}}{a_{n}}=\ell>0$$
+then $\sum a_{_{n}}(x-c)^n$ has radius of convergence of $\frac{\ell}{2}$
+
+$(2)$ If $$\lim_{ n \to \infty } \left| \frac{a_{n+1}}{a_{n}}\right|=0$$ then $\sum {a_{n}}(x-c)^n$ has radius of convergence $\infty$
+
+$(3)$ If $$\lim_{ n \to \infty }\left| \frac{a_{n+1}}{a_{n}}\right|=\infty$$then $\sum a_{n}(x-c)^n$ has radius of convergence of $0$.
+
+### Proof 
+$(1)$
+$\forall x \in \mathbb{R} \setminus \{ c \}$
+$$\lim_{ n \to \infty } \left| \frac{a_{n+1} (x-c)^{n+1}}{a_{n}(x-c)^n} \right| =\ell|x-c|$$
+Via [[The ratio test]], $\ell \cdot|x-c|$ will converge $\iff \ell \cdot|x-c|<1$
+$\implies |x-c|  < \frac{1}{\ell}$.
+Similarly, $\ell \cdot|x-c|$ will diverge $\iff l\cdot|x-c|>1$
+$\implies |x-c|> \frac{1}{\ell}$
+This is the definition of $\delta$ from [[power series#Theorem|theorem 1]].
+ 
+$(2)$
+$$\lim_{ n \to \infty } \left| \frac{a_{n+1} (x-c)^{n+1}}{a_{n}(x-c)^n} \right| =0|x-c| ={0}\ \ \forall x \in \mathbb{R}$$
+
+$\implies \sum a_{n} (x-r)^n$ converges for all $x$ via ratio test. 
+
+$(3)$
+$$\lim_{ n \to \infty } \left| \frac{a_{n+1} (x-c)^{n+1}}{a_{n}(x-c)^n} \right| =\infty|x-c|=\infty >1$$
+$\implies \sum a_{n}(x-c)^n$ diverges $\forall x \in \mathbb{R}$ via ratio test. 
+
+# Remark 
+Let $(a_{n})_{n\in \mathbb{N}},(b_{n})_{n\in \mathbb{N}}\in \mathbb{R}^\mathbb{N}$.
+If $\sum a_{n}(x-c)^n$ has radius of convergence 

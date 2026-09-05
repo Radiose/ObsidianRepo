@@ -35,5 +35,5 @@ Since $\frac{\ell+1}{2} > 1$, then
 
 $$\sum_{j=N}^{\infty} \left( \frac{\ell+1}{2} \right)^{j-N} x_N$$
 
-diverges, and so does $\sum_{j=0}^{\infty} x_j$.
+diverges, and so does $\sum_{j=0}^{\infty} x_j. \blacksquare$
 

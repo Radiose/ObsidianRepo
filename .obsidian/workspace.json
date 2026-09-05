@@ -8,33 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6292d733efeafe10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 6/COMP 3670 03.09.2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "COMP 3670 03.09.2026"
-            }
-          },
-          {
             "id": "301106a7d399bcab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
+                "file": "MATH1116/Analysis/Week 6/power series.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "uniform convergence and L1 norm convergence of sequence of functions"
+              "title": "power series"
             }
           },
           {
@@ -177,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -372,14 +357,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c1f6af4d06d1d9bc",
+  "active": "becc2da08aca5a68",
   "lastOpenFiles": [
-    "Untitled.md",
+    "MATH1116/Analysis/Week 6/uniform convergence of a series of sequence of functions.md",
+    "MATH1116/Analysis/Week 6/power series.md",
+    "MATH1116/Analysis/Week 3/The ratio test.md",
+    "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
+    "COMP3670/Week 6/COMP 3670 03.09.2026.md",
     "Excalidraw/MATH1116 w6.excalidraw.md",
+    "Untitled.md",
     "Excalidraw/MATH1116 w4.excalidraw.md",
     "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
     "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
-    "MATH1116/Analysis/Week 6/power series.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/Bolzano Weierstrass theorem.md",
     "Excalidraw/MATH1005 workshop week 10.excalidraw.md",
     "MATH1116 odds and ends.md",
@@ -389,17 +378,13 @@
     "COMP2610/Week 5/ensemble.md",
     "COMP2610/Week 6/source code.md",
     "COMP2610/Week 6/essential bit content.md",
-    "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
-    "COMP3670/Week 6/COMP 3670 03.09.2026.md",
     "COMP3670/Week 6/tensor.md",
     "COMP3670/Week 4/nonparametric methods.md",
-    "MATH1116/Analysis/Week 6/uniform convergence of a series of sequence of functions.md",
     "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
     "COMP3670/Week 6/linear regression loss.md",
     "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
     "MATH1116/Linear algebra/Week 5/annihilator.md",
     "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
-    "MATH1116/Analysis/Week 2/Convergence of series.md",
     "attachments/Pasted image 20260902162257.png",
     "attachments/Pasted image 20260901130416.png",
     "attachments/Pasted image 20260830160233.png",
