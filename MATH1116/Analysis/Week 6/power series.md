@@ -72,4 +72,12 @@ $\implies \sum a_{n}(x-c)^n$ diverges $\forall x \in \mathbb{R}$ via ratio test.
 
 # Remark 
 Let $(a_{n})_{n\in \mathbb{N}},(b_{n})_{n\in \mathbb{N}}\in \mathbb{R}^\mathbb{N}$.
-If $\sum a_{n}(x-c)^n$ has radius of convergence 
+If $\sum a_{n}(x-c)^n$ has radius of convergence of $\delta$, and $\sum b_{n}(x-c)^n$ has radius of convergence of $\gamma$, then $\sum(a_{n}+b_{n})(x-c)^n$ has radius of convergence of at least $\min(\gamma,\delta)$. (if no cancellation occurs between $a_{n}$ and $b_{n}$, then it will be minimum, but it would be larger if cancellation occurs).
+
+# Theorem 3 
+Let $\sum a_{n}(x-c)^n$ have radius of convergence $\delta$.
+Then, $\sum \frac{a_{n}}{n+1}(x-c)^{n+1}$ has radius of convergence of $\delta$.
+Additionally, $\forall x \in (c-\delta,c+\delta)$, 
+$$\int_{0}^x \sum a_{n}(t-c)^n dt=\sum \frac{a_{n}}{n+1}(x-c)^{n+1}$$
+### Proof 
+let $x \in(c-\delta, c+\delta)$
