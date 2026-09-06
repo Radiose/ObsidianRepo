@@ -1,1 +1,0 @@
-$\sum x_{n}y_{n} \leq \sum x_{n}^2y_{n}$
