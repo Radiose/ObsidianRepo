@@ -101,4 +101,8 @@ $(2)$ $$f: x \mapsto \sum_{n=0}^\infty a_{n}(x-c)^n$$
 is [[derivative|differentiable]] on $(c-r,c+r)$ and $$f'(x)=\sum_{n=0}^\infty (n+1)a_{n+1}(x-c)^n$$
 ### Proof 
 $(1)$:
-Let $r>0$. For all $n \in \mathbb{N}^*$, $|na_{n}r^{n-1}|\geq|a_{n}r^{n-1}|$. Therefore the radius of convergence of $\bar{r}$ of $\sum_{n=0}^\infty (n+1)a_{n+1}(x-c)^n$ is such that $\bar{r} \leq r$ . 
+Let $r>0$. For all $n \in \mathbb{N}^*$, $|na_{n}r^{n-1}|\geq|a_{n}r^{n-1}|$. Therefore the radius of convergence of $\bar{r}$ of $\sum_{n=0}^\infty (n+1)a_{n+1}(x-c)^n$ is such that $\bar{r} \leq r$. Basically, if $a_{n}r^{n-1}$ diverges, then the other one has to as well. 
+
+Let $0<\bar{\rho}<\rho<r\quad \forall n\in \mathbb{N}$ $$\left| na_{n} \bar{\rho} ^{n-1}\right|\leq \frac{1}{\rho}|a_{n}\rho^n|{n} \cdot \left( \frac{\bar{\rho}}{\rho} \right) ^n $$
+$\exists N\in \mathbb{N}$ such that $\forall n\geq N$
+$$|na_{n}\bar{\rho}^{n-1}|\leq \frac{1}{\rho}|a_{n}\rho^n|$$
