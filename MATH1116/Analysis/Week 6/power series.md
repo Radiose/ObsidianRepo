@@ -81,4 +81,7 @@ Additionally, $\forall x \in (c-\delta,c+\delta)$,
 $$\int_{0}^x \sum a_{n}(t-c)^n dt=\sum \frac{a_{n}}{n+1}(x-c)^{n+1}$$
 ### Proof 
 let $x \in(c-\delta, c+\delta)$, $n \in \mathbb{N}$
-$\left| \frac{a_{n}}{a_{n+1}} (x-c)^{n+1}\right| \leq $
+$\left| \frac{a_{n}}{{n+1}} (x-c)^{n+1}\right| \leq |a_{n}(x-c)^{n+1}|$
+Thus, since $\sum a_{n}(x-c)^n$ converges, via comparison test, so does $\sum \frac{a_{n}}{n+1}(x-c)^n$
+Therefore, radius of convergence is $\bar{r} \geq r$.
+Let $\bar{\rho} > \rho >r$. Then there exists $N \in \mathbb{N}$ such that 
