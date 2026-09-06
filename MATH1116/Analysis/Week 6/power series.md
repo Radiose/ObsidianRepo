@@ -80,4 +80,5 @@ Then, $\sum \frac{a_{n}}{n+1}(x-c)^{n+1}$ has radius of convergence of $\delta$.
 Additionally, $\forall x \in (c-\delta,c+\delta)$, 
 $$\int_{0}^x \sum a_{n}(t-c)^n dt=\sum \frac{a_{n}}{n+1}(x-c)^{n+1}$$
 ### Proof 
-let $x \in(c-\delta, c+\delta)$
+let $x \in(c-\delta, c+\delta)$, $n \in \mathbb{N}$
+$\left| \frac{a_{n}}{a_{n+1}} (x-c)^{n+1}\right| \leq $
