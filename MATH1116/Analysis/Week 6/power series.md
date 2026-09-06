@@ -107,3 +107,6 @@ Let $0<\bar{\rho}<\rho<r\quad \forall n\in \mathbb{N}$ $$\left| na_{n} \bar{\rho
 $\exists N\in \mathbb{N}$ such that $\forall n\geq N$
 $$|na_{n}\bar{\rho}^{n-1}|\leq \frac{1}{\bar{\rho}}|a_{n}\rho^n|$$
 And because $\sum a_{n}\rho^n$ converges, so does $\sum na_{n} \bar{\rho}^{n-1}$. Thus, $\bar{r} \geq r$. So $\bar{r}=r$.
+
+$(2)$
+Let $N  \in \mathbb{N}$, $x \in(c,c+r)$. We have that $$\sum_{n=0}$$
