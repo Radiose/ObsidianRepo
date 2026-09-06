@@ -45,7 +45,7 @@ Therefore, $\forall x \in(c-\delta,c+\delta),\sum_{n=0}^\infty a_{n}(x-c)^n$ con
 # Theorem 2(ratio determines radius of convergence)
 Let $(a_{n})_{n\in \mathbb{N}} \in \mathbb{R}^\mathbb{N},c \in \mathbb{R}$
 $(1)$ If $$\lim_{ n \to \infty }\frac{a_{n+1}}{a_{n}}=\ell>0$$
-then $\sum a_{_{n}}(x-c)^n$ has radius of convergence of $\frac{\ell}{2}$
+then $\sum a_{_{n}}(x-c)^n$ has radius of convergence of $\frac{1}{\ell}$
 
 $(2)$ If $$\lim_{ n \to \infty } \left| \frac{a_{n+1}}{a_{n}}\right|=0$$ then $\sum {a_{n}}(x-c)^n$ has radius of convergence $\infty$
 
@@ -75,13 +75,21 @@ Let $(a_{n})_{n\in \mathbb{N}},(b_{n})_{n\in \mathbb{N}}\in \mathbb{R}^\mathbb{N
 If $\sum a_{n}(x-c)^n$ has radius of convergence of $\delta$, and $\sum b_{n}(x-c)^n$ has radius of convergence of $\gamma$, then $\sum(a_{n}+b_{n})(x-c)^n$ has radius of convergence of at least $\min(\gamma,\delta)$. (if no cancellation occurs between $a_{n}$ and $b_{n}$, then it will be minimum, but it would be larger if cancellation occurs).
 
 # Theorem 3 
-Let $\sum a_{n}(x-c)^n$ have radius of convergence $\delta$.
-Then, $\sum \frac{a_{n}}{n+1}(x-c)^{n+1}$ has radius of convergence of $\delta$.
-Additionally, $\forall x \in (c-\delta,c+\delta)$, 
+Let $\sum a_{n}(x-c)^n$ have radius of convergence $r$.
+Then, $\sum \frac{a_{n}}{n+1}(x-c)^{n+1}$ has radius of convergence of $r$.
+Additionally, $\forall x \in (c-r,c+r)$, 
 $$\int_{0}^x \sum a_{n}(t-c)^n dt=\sum \frac{a_{n}}{n+1}(x-c)^{n+1}$$
 ### Proof 
-let $x \in(c-\delta, c+\delta)$, $n \in \mathbb{N}$
-$\left| \frac{a_{n}}{{n+1}} (x-c)^{n+1}\right| \leq |a_{n}(x-c)^{n+1}|$
-Thus, since $\sum a_{n}(x-c)^n$ converges, via comparison test, so does $\sum \frac{a_{n}}{n+1}(x-c)^n$
+let $x \in(c-r, c+r)$, $n \in \mathbb{N}$
+$\left| \frac{a_{n}}{{n+1}} (x-c)^{n+1}\right| \leq |a_{n}(x-c)^{n}| \cdot \left| x-c \right|$
+Since $\sum a_{n}(x-c)^n$ converges, via comparison test, so does $\sum \frac{a_{n}}{n+1}(x-c)^n$
 Therefore, radius of convergence is $\bar{r} \geq r$.
-Let $\bar{\rho} > \rho >r$. Then there exists $N \in \mathbb{N}$ such that 
+Let $\bar{\rho} > \rho >r$. Then there exists $N \in \mathbb{N}$ such that $\forall n \geq N$
+$\left| \frac{a_{n}}{n+1} \bar{\rho}^n\right|=|a_{n}\rho^n| \left( \frac{\bar{\rho}}{\rho} \right)^n \cdot \frac{1}{n+1} \geq |a_{n}\rho^n|$ ($\bar{\rho}^n$ grows quicker than $\frac{1}{n}$). Thus, because $\sum a_{n}\rho_{n}$ diverges (by definition of $r$), then, $\sum a_{n}\bar{\rho}_{_{n}}$ will as well. Thus,  $\sum a_{n}\bar{\rho}_{_{n}}$ will diverge for $\bar{\rho} > r$, thus $\bar{r} \leq r$. 
+
+
+
+Let $x \in(c,c+r)$, $N \in \mathbb{N}$, $\delta \in(x-c,r)$
+Then $$\left| \int_{c}^x \sum a_{n}(t-c)^ndt-\sum_{n=0}^N\int_{c}^x a_{n}(t-c)^ndt \right|\leq \int_{c}^x \left| \sum_{n=N+1}^\infty a_{n}(t-c)^n\right|dt  $$
+$$\leq \int_{c}^x \sum_{n=N+1}^\infty |a_{n}||\delta|^n dt$$
+$$=(x-c)\sum_{n=N+1}^\infty |a_{n}\delta^n|\xrightarrow[n \to \infty]{}0$$
