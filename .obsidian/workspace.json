@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 6/power series.md",
+                "file": "MATH1013/Calculus/Week 3/Derivate rules.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "power series"
+              "title": "Derivate rules"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116 analysis typos.md",
+                "file": "MATH1116/Analysis/Week 6/power series.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1116 analysis typos"
+              "title": "power series"
             }
           },
           {
@@ -133,13 +133,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 5/ensemble.md",
+                "file": "MATH1116/Analysis/Week 6/power series.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ensemble"
+              "title": "power series"
             }
           },
           {
@@ -172,16 +172,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/Bolzano Weierstrass theorem.md",
+                "file": "MATH1013/Calculus/Week 3/Product rule.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Bolzano Weierstrass theorem"
+              "title": "Product rule"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -254,8 +255,7 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -377,11 +377,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "301106a7d399bcab",
+  "active": "7b26be7a13f80f6d",
   "lastOpenFiles": [
-    "MATH1116 analysis typos.md",
-    "MATH1116/Analysis/Week 6/power series.md",
+    "COMP2610/Week 5/ensemble.md",
+    "MATH1013/Calculus/Week 3/Product rule.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/Bolzano Weierstrass theorem.md",
+    "MATH1116/Analysis/Week 6/power series.md",
+    "MATH1116 analysis typos.md",
+    "MATH1013/Calculus/Week 3/Derivate rules.md",
     "TO DO.md",
     "MATH1116/Analysis/Week 2/Convergence of series.md",
     "MATH1116/Analysis/Week 3/summation by parts.md",
@@ -399,12 +402,9 @@
     "Excalidraw/MATH1013 assignment 5.excalidraw.md",
     "Excalidraw/MATH1116 w5.excalidraw.md",
     "MATH1005/Week 5/Geometric series.md",
-    "COMP2610/Week 5/ensemble.md",
     "COMP2610/Week 6/source code.md",
     "COMP2610/Week 6/essential bit content.md",
     "COMP3670/Week 6/tensor.md",
-    "COMP3670/Week 4/nonparametric methods.md",
-    "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
     "attachments/Pasted image 20260902162257.png",
     "attachments/Pasted image 20260901130416.png",
     "attachments/Pasted image 20260830160233.png",
