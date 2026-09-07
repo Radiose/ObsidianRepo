@@ -122,4 +122,5 @@ Then, $f \in C^\infty(c-r,c+r)$ and $$a_{n}=\frac{f^{(n)}(c)}{n!}\quad \forall n
 We utilise mathematical induction.
 Call $p(k):f \in C^k(c-r,c+r)\quad \forall x \in(c-r,c+r)$ and that 
 $$f^{(k)}(x)=\sum_{n=0}^\infty \frac{(n+k)!}{n!} a_{n+k}(x-c)^n$$For $p(0)$, $f(x)=\sum_{n=0}^\infty a_{n}(x-c)^n,\quad\forall x \in(c-r,c+r)$ and $f\in C(c-r,c+r)$ since $f$ is [[derivative|differentiable]] on $(c-r,c+r)$.
-Assume $p(1),\dots p(k)$ holds. 
+Assume $p(1),\dots p(n)$ holds. IE $f^{(n)}(x)=\sum_{j=0}^\infty \frac{(j+n)!}{j!} a_{j+n}(x-c)^j$
+By theorem 4, $f^{(n)}$ is differentiable, and $$f^{n+1}(x)=\sum_{j=1}^\infty \frac{(j+n)!}{j!}a_{n+j}\cdot j(x-c)^{j-1}$$because $f^{n+1}$ = $(f^{n})'$, and the first term is 0 so we can remove it from the sum.  $$= \sum_{j=0}^\infty \frac{(j+1+n)!}{(j+1)!}a_{n+j+1} \cdot(j+1)(x-c)^j$$$$= \sum_{j=0}^\infty \frac{(j+1+n)!}{j!}a_{n+j+1}(x-c)^j \blacksquare$$
