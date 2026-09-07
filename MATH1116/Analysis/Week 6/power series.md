@@ -109,4 +109,8 @@ $$|na_{n}\bar{\rho}^{n-1}|\leq \frac{1}{\bar{\rho}}|a_{n}\rho^n|$$
 And because $\sum a_{n}\rho^n$ converges, so does $\sum na_{n} \bar{\rho}^{n-1}$. Thus, $\bar{r} \geq r$. So $\bar{r}=r$.
 
 $(2)$
-Let $N  \in \mathbb{N}$, $x \in(c,c+r)$. We have that $$\sum_{n=0}$$
+Let $N  \in \mathbb{N}$, $x \in(c,c+r)$. We have that $$\sum_{n=0}^N a_{n}(x-c)^n = \int_{c}^x\sum_{n=1}^N na_{n}(t-c)^{n-1}dt \xrightarrow[N \to \infty]{}\int_{c}^x \sum_{n=0}^\infty na_{n}(t-c)^{n-1}dt$$via uniform convergence. 
+Therefore, for all $x \in(c,c+r)$, $$f(x)= \int_{c}^x \sum_{n=0}^\infty(n+1)a_{n+1}(t-x)^n dt$$
+And via [[The fundamental theorem of calculus]], 
+$f'(x)=\sum_{n=0}^\infty (n+1)a_{n+1}(t-x)^n$
+Similar proof 
