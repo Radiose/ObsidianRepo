@@ -113,4 +113,13 @@ Let $N  \in \mathbb{N}$, $x \in(c,c+r)$. We have that $$\sum_{n=0}^N a_{n}(x-c)^
 Therefore, for all $x \in(c,c+r)$, $$f(x)= \int_{c}^x \sum_{n=0}^\infty(n+1)a_{n+1}(t-x)^n dt$$
 And via [[The fundamental theorem of calculus]], 
 $f'(x)=\sum_{n=0}^\infty (n+1)a_{n+1}(t-x)^n$
-Similar proof 
+Similar proof applies to the other case with $x \in(c-r,c)$
+
+# Corollary 
+Let $\sum_{n=0}^\infty a_{n}(x-c)^n$ have radius of convergence $r>0$, and $f(x)=\sum_{n=0}^\infty a_{n}(x -c)^n$ for all $x \in(c-r,c+r)$
+Then, $f \in C^\infty(c-r,c+r)$ and $$a_{n}=\frac{f^{(n)}(c)}{n!}\quad \forall n \in \mathbb{N}$$
+### Proof 
+We utilise mathematical induction.
+Call $p(k):f \in C^k(c-r,c+r)\quad \forall x \in(c-r,c+r)$ and that 
+$$f^{(k)}(x)=\sum_{n=0}^\infty \frac{(n+k)!}{n!} a_{n+k}(x-c)^n$$For $p(0)$, $f(x)=\sum_{n=0}^\infty a_{n}(x-c)^n,\quad\forall x \in(c-r,c+r)$ and $f\in C(c-r,c+r)$ since $f$ is [[derivative|differentiable]] on $(c-r,c+r)$.
+Assume $p(1),\dots p(k)$ holds. 
