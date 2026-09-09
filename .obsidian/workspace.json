@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
+                "file": "MATH1116/Linear algebra/Week 5/annihilator.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Coordinatizing matrices"
+              "title": "annihilator"
             }
           },
           {
@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 6/the source coding theorem.md",
+                "file": "MATH1116/Linear algebra/Week 5/dual map.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "the source coding theorem"
+              "title": "dual map"
             }
           },
           {
@@ -180,9 +180,24 @@
               "icon": "lucide-file",
               "title": "Product rule"
             }
+          },
+          {
+            "id": "4961ec28dd0cee41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1116 A6.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MATH1116 A6"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -377,17 +392,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7b26be7a13f80f6d",
+  "active": "c2b35d1ab0b5b615",
   "lastOpenFiles": [
-    "MATH1116/Analysis/Week 6/power series.md",
-    "COMP2610/Week 5/ensemble.md",
+    "MATH1116/Linear algebra/Week 5/dual map.md",
+    "MATH1116/Linear algebra/Week 5/annihilator.md",
+    "MATH1116/Analysis/Week 3/summation by parts.md",
     "MATH1013/Calculus/Week 3/Product rule.md",
+    "MATH1116 A6.md",
+    "COMP3670/Week 6/linear regression loss.md",
+    "MATH1116/Linear algebra/Week 4/dual vector space.md",
+    "COMP2610/Week 6/the source coding theorem.md",
+    "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
+    "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
+    "MATH1116/Analysis/Week 2/Convergence of series.md",
+    "MATH1116/Analysis/Week 6/power series.md",
+    "MATH1013/Calculus/Week 3/Derivate rules.md",
+    "COMP2610/Week 5/ensemble.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/Bolzano Weierstrass theorem.md",
     "MATH1116 analysis typos.md",
-    "MATH1013/Calculus/Week 3/Derivate rules.md",
     "TO DO.md",
-    "MATH1116/Analysis/Week 2/Convergence of series.md",
-    "MATH1116/Analysis/Week 3/summation by parts.md",
     "COMP2610/Week 5/asymptotic equipartition property.md",
     "MATH1116/Analysis/Week 6/uniform convergence of a series of sequence of functions.md",
     "MATH1116/Analysis/Week 3/The ratio test.md",
@@ -395,16 +418,8 @@
     "COMP3670/Week 6/COMP 3670 03.09.2026.md",
     "Excalidraw/MATH1116 w6.excalidraw.md",
     "Excalidraw/MATH1116 w4.excalidraw.md",
-    "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
     "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
     "Excalidraw/MATH1005 workshop week 10.excalidraw.md",
-    "MATH1116 odds and ends.md",
-    "Excalidraw/MATH1013 assignment 5.excalidraw.md",
-    "Excalidraw/MATH1116 w5.excalidraw.md",
-    "MATH1005/Week 5/Geometric series.md",
-    "COMP2610/Week 6/source code.md",
-    "COMP2610/Week 6/essential bit content.md",
-    "COMP3670/Week 6/tensor.md",
     "attachments/Pasted image 20260902162257.png",
     "attachments/Pasted image 20260901130416.png",
     "attachments/Pasted image 20260830160233.png",
