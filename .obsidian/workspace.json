@@ -28,17 +28,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 5/Markov's inequality.md",
+                "file": "COMP2610/Week 5/Chebychovs inequality.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Markov's inequality"
+              "title": "Chebychovs inequality"
+            }
+          },
+          {
+            "id": "f50ff7b9e0bd3c44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1116/Analysis/Week 6/power series.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "power series"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -233,8 +248,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e9f255d561e1a750",
+  "active": "f50ff7b9e0bd3c44",
   "lastOpenFiles": [
+    "MATH1116/Analysis/Week 6/uniform convergence of a series of sequence of functions.md",
+    "MATH1116 A6.md",
+    "COMP2610/Week 5/Chebychovs inequality.md",
+    "COMP2610/Week 5/Markov's inequality.md",
     "COMP2610/Week 5/COMP2610 24.08.2026 25.08.2026.md",
     "COMP2610/Week 5/extended ensemble.md",
     "COMP2610/Week 5/asymptotic equipartition property.md",
@@ -242,7 +261,6 @@
     "COMP2610/Week 4/Jensens Inequality.md",
     "COMP2610/Week 4/Gibbs inequality.md",
     "COMP2610/Week 4/markov chain.md",
-    "MATH1116 A6.md",
     "MATH1013/Calculus/Week 3/Product rule.md",
     "Excalidraw/MATH1116 w6.excalidraw.md",
     "Excalidraw/MATH1116 w4.excalidraw.md",
@@ -258,9 +276,6 @@
     "COMP2610/Week 6/the source coding theorem.md",
     "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
     "COMP2610/Week 5/ensemble.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/Bolzano Weierstrass theorem.md",
-    "MATH1116 analysis typos.md",
-    "TO DO.md",
     "attachments/Pasted image 20260902162257.png",
     "attachments/Pasted image 20260901130416.png",
     "attachments/Pasted image 20260830160233.png",
