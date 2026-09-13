@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 5/Chebychovs inequality.md",
+                "file": "COMP3670/Week 1/COMP3670 30.07.2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chebychovs inequality"
+              "title": "COMP3670 30.07.2026"
             }
           },
           {
@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,11 +248,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f50ff7b9e0bd3c44",
+  "active": "e9f255d561e1a750",
   "lastOpenFiles": [
+    "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
+    "COMP2610/Week 5/Chebychovs inequality.md",
+    "MATH1116/Analysis/Week 6/power series.md",
     "MATH1116/Analysis/Week 6/uniform convergence of a series of sequence of functions.md",
     "MATH1116 A6.md",
-    "COMP2610/Week 5/Chebychovs inequality.md",
     "COMP2610/Week 5/Markov's inequality.md",
     "COMP2610/Week 5/COMP2610 24.08.2026 25.08.2026.md",
     "COMP2610/Week 5/extended ensemble.md",
@@ -270,12 +272,10 @@
     "COMP3670/Week 6/linear regression loss.md",
     "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
     "MATH1116/Analysis/Week 2/Convergence of series.md",
-    "MATH1116/Analysis/Week 6/power series.md",
     "MATH1013/Calculus/Week 3/Derivate rules.md",
     "MATH1116/Linear algebra/Week 4/dual vector space.md",
     "COMP2610/Week 6/the source coding theorem.md",
     "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
-    "COMP2610/Week 5/ensemble.md",
     "attachments/Pasted image 20260902162257.png",
     "attachments/Pasted image 20260901130416.png",
     "attachments/Pasted image 20260830160233.png",
