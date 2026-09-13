@@ -6,12 +6,15 @@ The mean value [[theorem]]
 This is needed to know where a [[function]] is increasing and decreasing 
 We need to identify different types of [[Critical point of a function|critical points]]
 Identify how many zeroes a polynomial has 
-![[Rolles theorem]]Mean value theorem 
+![[Rolles theorem]]
+# Definition 
+Mean value theorem 
 Let f be a [[function]] that satisfies the following hypothesis 
 1: f is [[continuous on an interval]] \[a,b]
 2: F is differentiable on the open interval (a,b)
 Then there exists at least one number c such that 
-$f'(c)=\frac{f(b)-f(a)}{b-a}$
+$$f'(c)=\frac{f(b)-f(a)}{b-a}$$
+
 
 
 ```handdrawn-ink

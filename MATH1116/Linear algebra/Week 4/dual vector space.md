@@ -17,6 +17,7 @@ $\phi \in V^V$ to $\phi(\mathbf{v})\in \mathbb{F}$
 
 We can denote this functional $ev_{v}:V^V \to\mathbb{F}$
 or $ev_{v}\in V^{VV}$
+Where, $ev_{\mathbf{v}}(\phi)=\phi(\mathbf{v})$
 
 # Theorem 
 $ev:V\to V^{VV}$ is a [[linear map]]
