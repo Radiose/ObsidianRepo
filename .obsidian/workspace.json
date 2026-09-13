@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 3/entropy (information theory).md",
+                "file": "COMP2610/Week 5/extended ensemble.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "entropy (information theory)"
+              "title": "extended ensemble"
             }
           },
           {
@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 5/typical set.md",
+                "file": "COMP2610/Week 5/asymptotic equipartition property.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "typical set"
+              "title": "asymptotic equipartition property"
             }
           },
           {
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -323,13 +323,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "725c67c0d7c7538a",
+  "active": "0d04e0d120fe0a53",
   "lastOpenFiles": [
+    "COMP2610/Week 5/law of large numbers.md",
+    "COMP2610/Week 5/asymptotic equipartition property.md",
+    "COMP2610/Week 5/typical set.md",
+    "COMP2610/Week 5/extended ensemble.md",
     "COMP2610/Week 3/binomial distribution.md",
     "COMP2610/Week 3/the Bernoulli distribution.md",
     "COMP2610/Week 6/Smallest delta sufficient subset.md",
-    "COMP2610/Week 5/extended ensemble.md",
-    "COMP2610/Week 5/typical set.md",
+    "MATH1116 A6.md",
+    "COMP3670/Week 1/COMP3670 30.07.2026.md",
+    "COMP2610/Week 5/Markov's inequality.md",
     "COMP2610/Week 3/entropy (information theory).md",
     "COMP2610/Week 5/Entropy of extended ensembles.md",
     "COMP2610/Week 5/ensemble.md",
@@ -338,14 +343,9 @@
     "COMP2610/Week 1/information.md",
     "COMP2610/Week 2/variance.md",
     "COMP2610/Week 5/Chebychovs inequality.md",
-    "COMP2610/Week 5/law of large numbers.md",
-    "COMP2610/Week 5/Markov's inequality.md",
     "MATH1116/Analysis/Week 6/power series.md",
-    "COMP3670/Week 1/COMP3670 30.07.2026.md",
     "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
     "MATH1116/Analysis/Week 6/uniform convergence of a series of sequence of functions.md",
-    "MATH1116 A6.md",
-    "COMP2610/Week 5/asymptotic equipartition property.md",
     "COMP2610/Week 4/joint mutual information.md",
     "COMP2610/Week 4/Jensens Inequality.md",
     "COMP2610/Week 4/Gibbs inequality.md",
