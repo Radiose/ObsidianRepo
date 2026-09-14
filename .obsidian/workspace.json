@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 1/COMP3670 30.07.2026.md",
+                "file": "MATH1116/Analysis/Week 6/power series.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "COMP3670 30.07.2026"
+              "title": "power series"
             }
           },
           {
@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -353,8 +353,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9510b298ec3a9447",
+  "active": "e9f255d561e1a750",
   "lastOpenFiles": [
+    "COMP3670/Week 1/COMP3670 30.07.2026.md",
+    "MATH1116 A6.md",
+    "MATH1116/Linear algebra/Week 4/dual vector space.md",
     "MATH1013/Calculus/Week 5/mean value theorem.md",
     "COMP2610/Week 5/asymptotic equipartition property.md",
     "COMP2610/Week 5/law of large numbers.md",
@@ -363,8 +366,6 @@
     "COMP2610/Week 3/binomial distribution.md",
     "COMP2610/Week 3/the Bernoulli distribution.md",
     "COMP2610/Week 6/Smallest delta sufficient subset.md",
-    "MATH1116 A6.md",
-    "COMP3670/Week 1/COMP3670 30.07.2026.md",
     "COMP2610/Week 5/Markov's inequality.md",
     "COMP2610/Week 3/entropy (information theory).md",
     "COMP2610/Week 5/Entropy of extended ensembles.md",
@@ -380,7 +381,6 @@
     "COMP2610/Week 4/joint mutual information.md",
     "COMP2610/Week 4/Jensens Inequality.md",
     "COMP2610/Week 4/Gibbs inequality.md",
-    "COMP2610/Week 4/markov chain.md",
     "attachments/Pasted image 20260902162257.png",
     "attachments/Pasted image 20260901130416.png",
     "attachments/Pasted image 20260830160233.png",

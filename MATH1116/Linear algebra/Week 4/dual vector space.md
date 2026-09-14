@@ -48,5 +48,8 @@ $ev_{v}(\phi_{1})=\phi_{1}(v_{1})=1$ via the definition of $ev$, and via the def
 Thus, $ev_{\mathbf{v}}$ **is not the zero functional**, so $\ker(ev)=\{ \mathbf{0} \}$
 
 
+This is a significant theorem. 
+
+
 # Dual basis
 ![[dual basis]]
