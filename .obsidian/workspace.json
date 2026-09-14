@@ -13,14 +13,29 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/MATH1116 w4.excalidraw.md"
+                "file": "Excalidraw/COMP2610 A2.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "MATH1116 w4.excalidraw"
+              "title": "COMP2610 A2.excalidraw"
             }
           },
           {
             "id": "e9f255d561e1a750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 5/Chebychovs inequality.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Chebychovs inequality"
+            }
+          },
+          {
+            "id": "f50ff7b9e0bd3c44",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,21 +47,6 @@
               },
               "icon": "lucide-file",
               "title": "power series"
-            }
-          },
-          {
-            "id": "f50ff7b9e0bd3c44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP2610/Week 5/Markov's inequality.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Markov's inequality"
             }
           },
           {
@@ -168,9 +168,23 @@
               "icon": "lucide-file",
               "title": "Taylor polynomial"
             }
+          },
+          {
+            "id": "73b2161d20157aac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 5/Chebychovs inequality.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Chebychovs inequality"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,7 +261,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -365,14 +380,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e9f255d561e1a750",
+  "active": "4961ec28dd0cee41",
   "lastOpenFiles": [
+    "COMP2610/Week 5/Chebychovs inequality.md",
+    "Excalidraw/COMP2610 A2.excalidraw.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylor polynomial.md",
+    "COMP2610/Week 5/Markov's inequality.md",
+    "MATH1005/Week 5/Geometric series.md",
     "Excalidraw/MATH1116 w4.excalidraw.md",
+    "MATH1116/Analysis/Week 6/power series.md",
     "Excalidraw/MATH1116 w5.excalidraw.md",
     "Excalidraw/MATH1116 w6.excalidraw.md",
     "MATH1116 A6.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylor polynomial.md",
-    "MATH1116/Analysis/Week 6/power series.md",
     "COMP3670/Week 1/COMP3670 30.07.2026.md",
     "MATH1116/Linear algebra/Week 4/dual vector space.md",
     "MATH1013/Calculus/Week 5/mean value theorem.md",
@@ -383,16 +402,12 @@
     "COMP2610/Week 3/binomial distribution.md",
     "COMP2610/Week 3/the Bernoulli distribution.md",
     "COMP2610/Week 6/Smallest delta sufficient subset.md",
-    "COMP2610/Week 5/Markov's inequality.md",
     "COMP2610/Week 3/entropy (information theory).md",
     "COMP2610/Week 5/Entropy of extended ensembles.md",
     "COMP2610/Week 5/ensemble.md",
     "COMP2610/Week 6/raw bit content.md",
     "COMP2610/Week 5/COMP2610 24.08.2026 25.08.2026.md",
     "COMP2610/Week 1/information.md",
-    "COMP2610/Week 2/variance.md",
-    "COMP2610/Week 5/Chebychovs inequality.md",
-    "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
     "attachments/Pasted image 20260902162257.png",
     "attachments/Pasted image 20260901130416.png",
     "attachments/Pasted image 20260830160233.png",
