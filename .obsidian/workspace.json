@@ -244,7 +244,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 2/Empirical risk minimisation.md",
+                "file": "COMP3670/Week 3/Shatter coefficient.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -259,7 +259,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Empirical risk minimisation"
+              "title": "Shatter coefficient"
             }
           }
         ],
@@ -461,6 +461,9 @@
   },
   "active": "2533be62669e2499",
   "lastOpenFiles": [
+    "COMP3670/Week 3/Vapnik-Chervonenkis dimension.md",
+    "COMP3670/Week 3/Shatter coefficient.md",
+    "COMP3670/Week 2/Empirical risk minimisation.md",
     "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
     "MATH1116/Linear algebra/Week 2/finite dimensional.md",
     "MATH1116/Linear algebra/Week 2/basis.md",
@@ -484,9 +487,6 @@
     "Excalidraw/MATH1116 w5.excalidraw.md",
     "Excalidraw/MATH1116 w6.excalidraw.md",
     "MATH1116 A6.md",
-    "COMP3670/Week 1/COMP3670 30.07.2026.md",
-    "COMP2610/Week 5/asymptotic equipartition property.md",
-    "COMP2610/Week 5/law of large numbers.md",
     "attachments/Pasted image 20260902162257.png",
     "attachments/Pasted image 20260901130416.png",
     "attachments/Pasted image 20260830160233.png",
