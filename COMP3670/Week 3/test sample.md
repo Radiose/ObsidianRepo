@@ -1,6 +1,7 @@
 This is a set of examples drawn from a distribution $P$ that is locked away at the start and looked at only once at the very end of [[supervised learning]].
 
-Our $\hat{h}$ is produced only once, at the end of testing over our [[validation set]]. 
+Our $\hat{h}$ is produced only once, at the end of [[model selection]]
+
 
 Because $\hat{h}$ is a single, fixed hypothesis, plain [[Hoeffdings inequality]] applies here. 
 $$
