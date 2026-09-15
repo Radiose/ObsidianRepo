@@ -2,7 +2,7 @@
 aliases:
   - VC dimension
 ---
-the VC dimension $d_{VC}(\mathcal{H})$ is the largest number of points that $\mathcal{H}$ can shatter. If $\mathcal{H}$ shatters sets of every size, then $d_{VC}(\mathcal{H})=\infty$.
+the VC dimension $d_{VC}(\mathcal{H})$ is the largest number of points that $\mathcal{H}$ can shatter. If $\mathcal{H}$ shatters sets of every size, then $d_{VC}(\mathcal{H})=\infty$. (largest $N$ such that $S(\mathcal{H},N)=2^N$)
 
 This is some single integer summarising the complexity, or flexibility of some model ([[hypothesis set]]).
 
@@ -24,13 +24,13 @@ Conversely, a VC dimension of less than infinity($d_{VC}(\mathcal{H})=v<\infty$)
 
 
 
-Sauers lemma
+### Sauers lemma
 If $d_{VC}(\mathcal{H})=v<\infty$, then for every $N >v,$
 $S(\mathcal{H},N)\leq(N+1)^v$.
 
-The right side is some polynomial of degree $v$ in $N$. So either $\mathcal{H}$ shatters sets of every size and $S(\mathcal{H},N)=2^N$ IE doubles ate very new point, or $d_{VC}(\mathcal{H})=v<\infty$, and grows only polynomially. 
+The right side is some polynomial of degree $v$ in $N$. So either $\mathcal{H}$ shatters sets of every size and $S(\mathcal{H},N)=2^N$ IE doubles ate very new point, or $d_{VC}(\mathcal{H})=v<\infty$, and grows only polynomially. This is very significant, as even though it looks like it might grow exponentially, its capped at polynomial growth. 
 
 
 # Revisiting the generalisation gap:
 ![[VC bound]]
-![[The fundamental theorem of statistical learning theory(binary loss)]]
+

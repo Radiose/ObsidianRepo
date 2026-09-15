@@ -4,6 +4,8 @@ aliases:
 ---
 This is a set we use to score each [[model selection|candidate model]] on their accuracy.
 
+
+
 We fit $\hat{h}_{i}$ on the training part, using our candidate model $\mathcal{M}_{i}$ for $i=1,\dots ,n$. So for each candidate model, we get the smallest possible hypothesis, and then select the model with the least error. 
 
 We then score it on the validation part. 
