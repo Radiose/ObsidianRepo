@@ -26,6 +26,14 @@ Thus, we can use the GS identity $\sum_{0}^n ar^n = a*\frac{1-x^{n+1}}{1-x}$. Be
 ANOTHER USEFUL TRICK 
 $-t^{3n}=(-1)^n\times t^{3n}$
 
+
+A cool trick to find the limit of a series (of functions): 
+get the derivative 
+use tricks to get into a geometric series 
+Use identity 
+Integrate and make sure that C is the same at 0 
+
+
 ### Cauchy Schwarz inequality 
 $\left( \sum x_{i}y_{i} \right) \leq \sqrt{ \sum x_{i}^2 }\sqrt{ \sum y_{i}^2 }$
 $\sum (x_{i}y_{i})^2 \leq$
