@@ -298,13 +298,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 9/Conditional probability.md",
+                "file": "MATH1005/Week 8/Probability rules.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Conditional probability"
+              "title": "Probability rules"
             }
           },
           {
@@ -521,10 +521,12 @@
   },
   "active": "0d6e299431f99826",
   "lastOpenFiles": [
+    "COMP2610/Week 4/mutual information.md",
+    "COMP2610/Week 4/relative entropy.md",
     "MATH1005/Week 8/Probability rules.md",
+    "MATH1005/Week 9/Conditional probability.md",
     "COMP2610/Week 1/marginal probability.md",
     "COMP2610/Week 6/Smallest delta sufficient subset.md",
-    "COMP2610/Week 4/mutual information.md",
     "COMP3670/Week 2/Empirical risk minimisation.md",
     "COMP3670/Week 4/parametric methods.md",
     "COMP2610/Week 3/Parameter estimation.md",
@@ -545,8 +547,6 @@
     "MATH1005/Week 1/The conditional statement.md",
     "COMP2610/Week 5/Chebychovs inequality.md",
     "COMP2610/Week 5/the multinomial coefficient.md",
-    "COMP2610/Week 5/ensemble.md",
-    "MATH1005/Week 2/Axiom of extensionality.md",
     "attachments/Pasted image 20260902162257.png",
     "attachments/Pasted image 20260901130416.png",
     "attachments/Pasted image 20260830160233.png",
