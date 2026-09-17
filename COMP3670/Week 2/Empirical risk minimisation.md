@@ -23,4 +23,4 @@ We still cannot prove that some rule fitted on a finite sample will work on new 
 
 
 # The overarching idea 
-	We start off with a prechosen hypothesis set, and our goal is to compute $E_{in}(h)$ for each $h \in \mathcal{H}$. We aim then to return the $h$ that has the lowest in sample error. 
+we start off with a prechosen hypothesis set, and our goal is to compute $E_{in}(h)$ for each $h \in \mathcal{H}$. We aim then to return the $h$ that has the lowest in sample error. 
