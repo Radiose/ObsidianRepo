@@ -298,13 +298,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 6/Smallest delta sufficient subset.md",
+                "file": "MATH1005/Week 9/Conditional probability.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Smallest delta sufficient subset"
+              "title": "Conditional probability"
             }
           },
           {
@@ -313,17 +313,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 2/Empirical risk minimisation.md",
+                "file": "COMP2610/Week 4/mutual information.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Empirical risk minimisation"
+              "title": "mutual information"
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -400,7 +400,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -518,8 +519,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "537d0cc01e2a19bf",
+  "active": "0d6e299431f99826",
   "lastOpenFiles": [
+    "MATH1005/Week 8/Probability rules.md",
+    "COMP2610/Week 1/marginal probability.md",
+    "COMP2610/Week 6/Smallest delta sufficient subset.md",
+    "COMP2610/Week 4/mutual information.md",
+    "COMP3670/Week 2/Empirical risk minimisation.md",
     "COMP3670/Week 4/parametric methods.md",
     "COMP2610/Week 3/Parameter estimation.md",
     "MATH1116/Analysis/Week 6/power series.md",
@@ -538,14 +544,9 @@
     "MATH1005/Week 1/sufficient and necessary conditions.md",
     "MATH1005/Week 1/The conditional statement.md",
     "COMP2610/Week 5/Chebychovs inequality.md",
-    "COMP2610/Week 6/Smallest delta sufficient subset.md",
     "COMP2610/Week 5/the multinomial coefficient.md",
     "COMP2610/Week 5/ensemble.md",
     "MATH1005/Week 2/Axiom of extensionality.md",
-    "MATH1005/Week 8/permutation.md",
-    "COMP2610/Week 3/entropy (information theory).md",
-    "COMP2610/Week 6/raw bit content.md",
-    "MATH1005/Week 7/set counting.md",
     "attachments/Pasted image 20260902162257.png",
     "attachments/Pasted image 20260901130416.png",
     "attachments/Pasted image 20260830160233.png",
