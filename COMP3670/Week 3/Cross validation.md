@@ -1,4 +1,4 @@
-This is a method for [[model selection]] using varying splits of validation sets to rotate the role of data. 
+*This* is a method for [[model selection]] using varying splits of validation sets to rotate the role of data. 
 
 ![[Pasted image 20260820183222.png]]
 
