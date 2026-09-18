@@ -40,13 +40,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 9/random variable.md",
+                "file": "MATH1116/Analysis/Week 3/summation by parts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "random variable"
+              "title": "summation by parts"
             }
           },
           {
@@ -209,7 +209,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -405,10 +405,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "936a74c6896475c2",
+  "active": "f50ff7b9e0bd3c44",
   "lastOpenFiles": [
-    "COMP2610/Week 3/binomial distribution.md",
+    "MATH1005/Week 9/random variable.md",
     "Excalidraw/MATH1116 w6.excalidraw.md",
+    "MATH1116/Analysis/Week 6/power series.md",
+    "COMP3670/Week 5/decision tree.md",
+    "COMP2610/Week 3/binomial distribution.md",
     "COMP3670/Week 3/model selection.md",
     "MATH1116/Linear algebra/Week 4/standard basis and evaluation map.md",
     "MATH1116/Linear algebra/Week 5/annihilator.md",
@@ -418,10 +421,8 @@
     "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
     "MATH1116/Analysis/Week 4/pointwise convergence.md",
     "COMP2610/Week 3/the Bernoulli distribution.md",
-    "COMP3670/Week 5/decision tree.md",
     "COMP3670/Week 3/Cross validation.md",
     "MATH1116 A6.md",
-    "MATH1116/Analysis/Week 6/power series.md",
     "MATH1116/Analysis/Week 2/Convergence of series.md",
     "COMP2610/Week 4/mutual information.md",
     "MATH1013/Linear algebra/Week 3/linearly independent.md",
@@ -432,7 +433,6 @@
     "COMP2610/Week 4/relative entropy.md",
     "MATH1005/Week 9/Conditional probability.md",
     "COMP2610/Week 1/marginal probability.md",
-    "COMP2610/Week 6/Smallest delta sufficient subset.md",
     "attachments/Pasted image 20260902162257.png",
     "attachments/Pasted image 20260901130416.png",
     "attachments/Pasted image 20260830160233.png",
