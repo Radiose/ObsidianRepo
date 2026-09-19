@@ -199,13 +199,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 3/invertible linear map.md",
+                "file": "MATH1116/Linear algebra/Week 5/annihilator.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "invertible linear map"
+              "title": "annihilator"
             }
           },
           {
@@ -214,13 +214,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 2/out of sample error.md",
+                "file": "MATH1116/Linear algebra/Week 3/basis of domain theorem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "out of sample error"
+              "title": "basis of domain theorem"
             }
           },
           {
@@ -239,7 +239,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -434,34 +434,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "51b6358cff0b7f16",
+  "active": "cc2907159c876198",
   "lastOpenFiles": [
+    "MATH1005/Week 1/The conditional statement.md",
+    "COMP3670/Week 2/out of sample error.md",
+    "MATH1116/Linear algebra/Week 5/annihilator.md",
+    "MATH1116/Linear algebra/Week 5/dual map.md",
+    "MATH1116/Linear algebra/Week 4/MATH1116 20.08.2026.md",
+    "MATH1116/Linear algebra/Week 4/linear functional.md",
+    "MATH1116/Linear algebra/Week 4/change of base matrix.md",
+    "MATH1116/Linear algebra/Week 4/dual basis.md",
+    "MATH1116/Linear algebra/Week 4/dual vector space.md",
     "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
+    "MATH1116/Linear algebra/Week 3/invertible linear map.md",
     "MATH1116/Linear algebra/Week 3/linear operator.md",
     "MATH1116/Linear algebra/Week 3/composition of linear maps.md",
     "MATH1116/Linear algebra/Week 3/commutator.md",
     "MATH1116/Linear algebra/Week 3/invariant subspace.md",
     "MATH1116/Linear algebra/Week 3/range.md",
     "MATH1116/Linear algebra/Week 3/basis of domain theorem.md",
-    "MATH1116/Linear algebra/Week 4/linear functional.md",
     "MATH1116/Linear algebra/Week 4/standard basis and evaluation map.md",
-    "MATH1116/Linear algebra/Week 4/change of base matrix.md",
     "MATH1116 A6.md",
     "COMP3670 MTT cheatsheet.md",
     "COMP2610/Week 2/variance.md",
-    "COMP3670/Week 2/out of sample error.md",
     "COMP3670/Week 2/loss function.md",
     "COMP3670/Week 2/Empirical risk minimisation.md",
     "COMP3670/Week 5/decision tree.md",
     "MATH1116/Analysis/Week 3/summation by parts.md",
     "MATH1005/Week 9/random variable.md",
-    "Excalidraw/MATH1116 w6.excalidraw.md",
-    "MATH1116/Analysis/Week 6/power series.md",
-    "COMP2610/Week 3/binomial distribution.md",
-    "COMP3670/Week 3/model selection.md",
-    "MATH1116/Linear algebra/Week 5/annihilator.md",
-    "COMP2610/Week 5/Chebychovs inequality.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylor polynomial.md",
     "attachments/Pasted image 20260902162257.png",
     "attachments/Pasted image 20260901130416.png",
     "attachments/Pasted image 20260830160233.png",

@@ -11,7 +11,9 @@ and F T = T
 
 If today is wednesday, then Im a gold medalist. Since today is not wednesday, the statement is true. 
 
-for $p \implies q$, p is known as the hypothesis, and q is known as the conditional.
+for $p \implies q$,
+p is known as the hypothesis, 
+and q is known as the conditional.
 negating an implication:
 $\neg(p \implies q)\equiv$
 $p \land \neg q$
