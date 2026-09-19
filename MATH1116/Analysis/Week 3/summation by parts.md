@@ -1,4 +1,4 @@
-xThis technique is one of the essential analysis tools. It is the discrete analogue to [[Integration by parts]].
+This technique is one of the essential analysis tools. It is the discrete analogue to [[Integration by parts]].
 ## Lemma
 Let $(a_j)_{j\in\mathbb{N}}, (b_j)_{j\in\mathbb{N}} \in \mathbb{R}^{\mathbb{N}}$, and $n \in \mathbb{N}$. Then
 
