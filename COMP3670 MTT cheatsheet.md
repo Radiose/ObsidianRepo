@@ -53,3 +53,8 @@ So obviously, the hypothesis set is the set of non zero weights summed together,
 
 
 NONPARAMETRIC:
+$\kappa$ is the shape of the bump, $\sigma$ is the width - the smoothing parameter. 
+$W_{i}(\mathbf{x})=\frac{\kappa\left( \frac{\mathbf{x}-\mathbf{X_{i}}}{\sigma} \right)}{\sum_{j=1}^N \kappa\left( \left( \frac{\mathbf{x-\mathbf{X}}_{j}}{\sigma} \right) \right)}$
+$\kappa$ can look like for example $\kappa(u)=\frac{1}{\sqrt{ 2\pi }}e^{-u^2/2}$
+General rule  for NP plugin
+$\hat{\eta}(\mathbf{x})=\sum_{i=1}^N W_{i}(\mathbf{x})\mathbb{1}\{ Y_{i}=1 \}$
