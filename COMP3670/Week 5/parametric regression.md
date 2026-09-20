@@ -1,6 +1,5 @@
 ---
 aliases:
-  - nonparametric regression
   - linear regression
 ---
 [[parametric methods|parametric]] [[regression]]
@@ -33,10 +32,4 @@ where the **[[basis]] functions** $\phi_j$ can be anything at all: powers, logar
 
 
 
-# [[nonparametric methods|Nonparametric]] regression 
-
-We drop the parametric family and estimate $f^*(\mathbf{x})$= $\mathbb{E}(Y|\mathbf{X}=\mathbf{x})$ by average $Y_{i}$ of the observations near $\mathbf{x}$
-
-### ![[Nadaraya–Watson kernel regression]]
-
-
+# ![[nonparametric regression]]
