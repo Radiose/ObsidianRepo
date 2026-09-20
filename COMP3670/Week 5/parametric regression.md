@@ -1,12 +1,14 @@
 ---
 aliases:
   - nonparametric regression
+  - linear regression
 ---
 [[parametric methods|parametric]] [[regression]]
 
 currently regression is highly effected by noise in a sample. Our solution is as follows 
 
 Assume a shape with finitely many unknowns.
+
 Estimate $\theta$ and return the [[plug in rules|plug in]] predictor $\hat{h}(\mathbf{x})=h(\mathbf{x};\hat{\theta})$
 
 The gap between what the predictor says at $\mathbf{X}_{i}$, and what we observed is called the residual $Y_{i}-h(\mathbf{X}_{i};\theta)$

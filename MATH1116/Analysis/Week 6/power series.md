@@ -92,7 +92,7 @@ $\left| \frac{a_{n}}{n+1} \bar{\rho}^n\right|=|a_{n}\rho^n| \left( \frac{\bar{\r
 Let $x \in(c,c+r)$, $N \in \mathbb{N}$, $\delta \in(x-c,r)$
 Then $$\left| \int_{c}^x \sum_{n=0}^N a_{n}(t-c)^ndt-\sum_{n=0}^N\int_{c}^x a_{n}(t-c)^ndt \right|\leq \int_{c}^x \left| \sum_{n=N+1}^\infty a_{n}(t-c)^n\right|dt  $$
 $$\leq \int_{c}^x \sum_{n=N+1}^\infty |a_{n}||\delta|^n dt$$
-$$=(x-c)\sum_{n=N+1}^\infty |a_{n}\delta^n|\xrightarrow[n \to \infty]{}0$$(because the series above converges, its tail converges to $0\blacksquare$).
+$$=(x-c)\sum_{n=N+1}^\infty |a_{n}\delta^n|\xrightarrow[n \to \infty]{}0$$(because the series above converges, its tail converges to 0). $\blacksquare$
 A similar argument applies for $x \in(c-r,c)$
 # Theorem 4 
 Let $(a_{n})_{n \in \mathbb{N}} \in \mathbb{R}^\mathbb{N}$, $c \in \mathbb{R}$, $r$ be the radius of convergence of $\sum a_{n}(x-c)^n$. Then 
