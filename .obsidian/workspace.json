@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/MATH1116 w6.excalidraw.md"
+                "file": "Excalidraw/COMP2610 A2.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "MATH1116 w6.excalidraw"
+              "title": "COMP2610 A2.excalidraw"
             }
           },
           {
@@ -451,6 +451,7 @@
   },
   "active": "4961ec28dd0cee41",
   "lastOpenFiles": [
+    "Excalidraw/COMP2610 A2.excalidraw.md",
     "Excalidraw/MATH1116 w6.excalidraw.md",
     "MATH1116/Linear algebra/Week 4/dual vector space.md",
     "MATH1116/Analysis/Week 6/power series.md",
@@ -477,7 +478,6 @@
     "COMP3670/Week 3/Controlling the generalisation gap.md",
     "COMP3670/Week 2/COMP3670 06.08.2026.md",
     "COMP3670/Week 2/union bound.md",
-    "COMP3670/Week 2/out of sample error.md",
     "attachments/Pasted image 20260920125741.png",
     "attachments/Pasted image 20260920110552.png",
     "attachments/Pasted image 20260902162257.png",
