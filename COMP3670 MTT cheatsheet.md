@@ -72,9 +72,10 @@ misclassification: $min(p,1-p)$
 Where $p$ is the proportion of points in class $1$ (for binary)
 Misclassification is the error of the best possible classifier $f^*$
 Impurity drop:
-$\Delta_{R}(j,\alpha)=I(R)-$
+$\Delta_{R}(j,\alpha)=I(R)- \frac{N(R^j_{\alpha,^-})}{N(R)}I(R_{\alpha,^-}^j) - \frac{N(R_{\alpha,^+}^j)}{N(R)}I(R_{\alpha,^+}^j)$
 
-
+$I(R)$ = original impurity - $R_{\alpha^-}^j$, $R_{\alpha^+}^j$ - two regions split at $\alpha$ threshold. $N(R)$ - count of elements in region R. 
+At each step of the tree, we want to maximise $\Delta_{r}$ out of all possible $j,\alpha$
 
 
 REGRESSION 

@@ -268,8 +268,7 @@
               "title": "parametric regression"
             }
           }
-        ],
-        "currentTab": 15
+        ]
       }
     ],
     "direction": "vertical"
@@ -464,12 +463,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4411c01e485c0207",
+  "active": "4961ec28dd0cee41",
   "lastOpenFiles": [
+    "COMP3670 MTT cheatsheet.md",
     "COMP3670/Week 5/parametric regression.md",
     "COMP3670/Week 5/nonparametric regression.md",
     "COMP3670/Week 4/parametric methods.md",
-    "COMP3670 MTT cheatsheet.md",
     "COMP3670 MTT notes.md",
     "COMP3670/Week 3/COMP3670 13.08.2026.md",
     "COMP3670/Week 5/Nadaraya–Watson kernel regression.md",
