@@ -268,7 +268,8 @@
               "title": "dual map"
             }
           }
-        ]
+        ],
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -464,21 +465,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4961ec28dd0cee41",
+  "active": "51b6358cff0b7f16",
   "lastOpenFiles": [
-    "Excalidraw/MATH1116 w6.excalidraw.md",
     "MATH1116/Linear algebra/Week 5/dual map.md",
+    "Excalidraw/MATH1116 w6.excalidraw.md",
+    "MATH1116/Linear algebra/Week 5/annihilator.md",
+    "attachments/Pasted Image 20260921132617_583.png",
+    "COMP3670 MTT cheatsheet.md",
+    "COMP3670/Week 5/nonparametric regression.md",
+    "COMP3670/Week 3/COMP3670 13.08.2026.md",
     "MATH1116/Linear algebra/Week 5/generalised eigenspace.md",
     "MATH1116/Linear algebra/Week 5/eigenvalue.md",
     "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
     "MATH1116/Analysis/Week 6/uniform convergence of a series of sequence of functions.md",
     "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
     "COMP3670/Week 5/parametric regression.md",
-    "COMP3670 MTT cheatsheet.md",
-    "COMP3670/Week 5/nonparametric regression.md",
     "COMP3670/Week 4/parametric methods.md",
     "COMP3670 MTT notes.md",
-    "COMP3670/Week 3/COMP3670 13.08.2026.md",
     "COMP3670/Week 5/Nadaraya–Watson kernel regression.md",
     "BIOL2161/Week 9/DNA methylation.md",
     "COMP3670/Week 3/Cross validation.md",
@@ -490,8 +493,6 @@
     "COMP3670/Week 2/out of sample error.md",
     "COMP3670/Week 2/generalisation gap.md",
     "COMP3670/Week 2/Empirical risk minimisation.md",
-    "COMP3670/Week 2/simple random sample.md",
-    "COMP2610/Week 3/entropy (information theory).md",
     "attachments/Pasted image 20260920125741.png",
     "attachments/Pasted image 20260920110552.png",
     "attachments/Pasted image 20260902162257.png",
@@ -501,7 +502,6 @@
     "attachments/Pasted image 20260827152211.png",
     "attachments/Pasted image 20260827144529.png",
     "attachments/Pasted image 20260827143023.png",
-    "attachments/Pasted image 20260827105147.png",
     "templates",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
     "MATH1116",
