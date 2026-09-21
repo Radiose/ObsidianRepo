@@ -214,13 +214,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 4/parametric methods.md",
+                "file": "COMP3670/Week 5/nonparametric regression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "parametric methods"
+              "title": "nonparametric regression"
             }
           },
           {
@@ -244,13 +244,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 5/parametric regression.md",
+                "file": "COMP3670 MTT cheatsheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "parametric regression"
+              "title": "COMP3670 MTT cheatsheet"
             }
           },
           {
@@ -269,7 +269,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -464,13 +464,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7fe3ac797f10de31",
+  "active": "4411c01e485c0207",
   "lastOpenFiles": [
-    "COMP3670/Week 5/nonparametric regression.md",
-    "COMP3670/Week 5/Nadaraya–Watson kernel regression.md",
     "COMP3670/Week 5/parametric regression.md",
-    "BIOL2161/Week 9/DNA methylation.md",
+    "COMP3670/Week 5/nonparametric regression.md",
+    "COMP3670/Week 4/parametric methods.md",
+    "COMP3670 MTT cheatsheet.md",
+    "COMP3670 MTT notes.md",
     "COMP3670/Week 3/COMP3670 13.08.2026.md",
+    "COMP3670/Week 5/Nadaraya–Watson kernel regression.md",
+    "BIOL2161/Week 9/DNA methylation.md",
     "COMP3670/Week 3/Cross validation.md",
     "COMP3670/Week 2/Kolmogorov's axioms.md",
     "COMP3670/Week 6/COMP 3670 03.09.2026.md",
@@ -488,11 +491,8 @@
     "MATH1116/Analysis/Week 6/uniform convergence of a series of sequence of functions.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylors theorem.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Remainder term.md",
-    "COMP3670 MTT cheatsheet.md",
     "attachments/Pasted image 20260920125741.png",
-    "COMP3670/Week 4/parametric methods.md",
     "COMP3670/Week 4/regression.md",
-    "COMP3670/Week 4/nonparametric methods.md",
     "attachments/Pasted image 20260920110552.png",
     "attachments/Pasted image 20260902162257.png",
     "attachments/Pasted image 20260901130416.png",

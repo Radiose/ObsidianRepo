@@ -52,9 +52,44 @@ So obviously, the hypothesis set is the set of non zero weights summed together,
 
 
 
-NONPARAMETRIC:
+NONPARAMETRIC CLASSIFICATION:
 $\kappa$ is the shape of the bump, $\sigma$ is the width - the smoothing parameter. 
 $W_{i}(\mathbf{x})=\frac{\kappa\left( \frac{\mathbf{x}-\mathbf{X_{i}}}{\sigma} \right)}{\sum_{j=1}^N \kappa\left( \left( \frac{\mathbf{x-\mathbf{X}}_{j}}{\sigma} \right) \right)}$
 $\kappa$ can look like for example $\kappa(u)=\frac{1}{\sqrt{ 2\pi }}e^{-u^2/2}$
 General rule  for NP plugin
 $\hat{\eta}(\mathbf{x})=\sum_{i=1}^N W_{i}(\mathbf{x})\mathbb{1}\{ Y_{i}=1 \}$
+
+
+DECISION TREE 
+Impurity satisfies:
+Region with one class is pure 
+Region split 50/50 is inpure 
+increases up to $\frac{1}{2}$ and decreases from $\frac{1}{2}$
+Three choices:
+entropy $-p\log p-(1-p)\log(1-p)$
+gini: $2p(1-p)$
+misclassification: $min(p,1-p)$
+Where $p$ is the proportion of points in class $1$ (for binary)
+Misclassification is the error of the best possible classifier $f^*$
+Impurity drop:
+$\Delta_{R}(j,\alpha)=I(R)-$
+
+
+
+
+REGRESSION 
+PARAMETRIC:$$
+\hat{\theta} = \operatorname*{arg\,min}_{\theta \in \Theta} \underbrace{\sum_{i=1}^{N} \left(Y_i - h(\mathbf{X}_i; \theta)\right)^2}_{\text{residual sum of squares, RSS}}$$
+basically ERM 
+
+LINEAR REGRESSION:
+The model is a hyperplane in the features 
+$Y=\theta_{0}+\theta_{1}X_{1}+\theta_{2}X_{2}+\dots+\theta_{d}X_{d}+\epsilon$
+But, its not exactly *linear*, model extends immediately to 
+$Y=\theta_{0}\phi_{0}(\mathbf{X})+\dots+\theta_{1}\phi_{1}(\mathbf{X)}+\epsilon$
+The important part is that the linear dependence is on $\theta$. 
+
+NONPARA 
+Nadaraya Watson kernel regression 
+$\sum_{i=1}^N W_{i}(\mathbf{x})Y_{i}$
+$W_{i}$ is exactly the same for kernel classification, we just 
