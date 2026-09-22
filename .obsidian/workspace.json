@@ -130,13 +130,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 7/Kraft inequality.md",
+                "file": "MATH1013/Calculus/Week 2/continuous function.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Kraft inequality"
+              "title": "continuous function"
             }
           },
           {
@@ -243,7 +243,8 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -365,13 +366,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b1337cc2cb8c4a14",
+  "active": "e9433c2d2fbca9a5",
   "lastOpenFiles": [
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 3/The formal definition of a limit.md",
+    "MATH1013/Calculus/Week 2/continuous function.md",
+    "COMP2610/Week 7/Kraft inequality.md",
     "attachments/Pasted image 20260922175009.png",
     "attachments/Pasted image 20260922173957.png",
     "COMP2610/Week 7/prefix code.md",
     "COMP2610/Week 7/binary symbol code.md",
-    "COMP2610/Week 7/Kraft inequality.md",
     "COMP2610/Week 7/uniquely decodable.md",
     "COMP2610/Week 6/source code.md",
     "MATH1116/Linear algebra/Week 5/eigenspace.md",
@@ -393,7 +396,6 @@
     "MATH1116/Linear algebra/Week 5/Gaussian elimination.md",
     "MATH1116/Linear algebra/Week 5/dual map.md",
     "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
-    "COMP2610/Week 5/asymptotic equipartition property.md",
     "attachments/Pasted Image 20260921132617_583.png",
     "attachments/Pasted image 20260920125741.png",
     "attachments/Pasted image 20260920110552.png",
@@ -402,7 +404,6 @@
     "attachments/Pasted image 20260830160233.png",
     "attachments/Pasted image 20260830143210.png",
     "attachments/Pasted image 20260827152211.png",
-    "attachments/Pasted image 20260827144529.png",
     "templates",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
     "MATH1116",

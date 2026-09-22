@@ -10,7 +10,17 @@ the domain of f includes some neighbourhood of a $N(a,\delta)=(a-\delta,a+\delta
 The limit exists ($\lim_{ x \to a^- }f(x)=\lim_{ x \to a^+ }f(x)$)
 The limit exists as x approaches a 
 $\lim_{ x \to a }f(x)$=f(a) 
+Formally: $f$ is continuous at $x_{0}$ if
+
+$$\forall\epsilon>0 \quad \exists\delta>0\quad\forall x \in \mathbb{R} |x-x_{0}|\implies|f(x)-f(x_{0})|<\epsilon$$
+
+
 All of these are important.
+
+
+
+
+
 
 
 ```handdrawn-ink
