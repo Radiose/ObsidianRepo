@@ -16,7 +16,20 @@ Consistent means: $E_{out}(\hat{h}_{N}) \to E_{out}(h^*)$ as $N \to \infty$, wit
 (Basically, the idea is that with enough data, we can falsify all hypothesis).
 
 
+[[Shatter coefficient]]
+$2^N$ dichotomies for $N$ points. 
+$S(\mathcal{H},N)$, the shatter coefficient, is the number of distinct dichotomies that $\mathcal{H}$ can produce on $N$ points. 
+If $S(\mathcal{H},N)\leq{2}^N$ $\mathcal{H}$ shatters $N$ points. 
+VC DIM $d_{VC}(\mathcal{H})$- number of points that H can shatter. - worst case 
+vc bound: $E_{out}(h)\leq E_{in}(h)+\sqrt{ \frac{32}{N}\left[ v\log(N+1)+\log \frac{8}{\delta} \right] }$ - useful for infinite size $\left| \mathcal{H} \right|$ - importantly tends to 0 as $N$ goes to infinity
 
+
+
+
+
+
+To show $d_{VC}\geq k$, exhibit one set of $k$ points labelled in all $2^k$ ways. 
+to show $d_{VC}<k+1$, show that no set of $k+1$ points can be labelled in all ways. 
 
 # squared loss 
 For continuous cases, we use the squared loss 
