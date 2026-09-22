@@ -243,8 +243,7 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -366,7 +365,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e9433c2d2fbca9a5",
+  "active": "f348cd9abe5857a6",
   "lastOpenFiles": [
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 3/The formal definition of a limit.md",
     "MATH1013/Calculus/Week 2/continuous function.md",
