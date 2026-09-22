@@ -35,3 +35,5 @@ $$
 Thus $T$ is uniquely determined on $\text{span}\{\mathbf{v}_1,\dots,\mathbf{v}_n\}$. Because $\{\mathbf{v}_1,\dots,\mathbf{v}_n\}$ is a basis, we know $\text{span}\{\mathbf{v}_1,\dots,\mathbf{v}_n\} = V$. Hence $T$ is uniquely determined on $V$. $\blacksquare$
 
 This theorem above is very important. It allows us to define any linear map solely by the values it take on a basis.
+
+A typical map will look like $T(v_{1})=c_{1}w_{1}+\dots+c_{n}w{n}$
