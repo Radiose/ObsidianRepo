@@ -12,6 +12,8 @@ $D^{deg(f(x)+1)}(f(x))=0$, so $E(0;D)=F[x]$
 
 
 
+![[eigenvector#Theorem 2]]
+
 # Generalised eigenspace
 
 ![[generalised eigenspace]]

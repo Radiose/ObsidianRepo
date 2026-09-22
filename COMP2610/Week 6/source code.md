@@ -44,3 +44,10 @@ otherwise
 4. $c(\texttt{a}) = 00$, $c(\texttt{b}) = 00$, $c(\texttt{c}) = 10$, $c(\texttt{d}) = 11$ is **uniform lossy**
 5. $c(\texttt{a}) = -$, $c(\texttt{b}) = -$, $c(\texttt{c}) = 10$, $c(\texttt{d}) = 11$ is **uniform lossy**
 
+
+![[binary symbol code]]
+
+
+# ![[uniquely decodable]]
+
+

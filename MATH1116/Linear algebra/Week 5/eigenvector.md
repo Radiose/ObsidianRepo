@@ -36,7 +36,7 @@ This is because every eigenvalue gives you some eigenvector, and for distinct ei
 Suppose that $\lambda_{1}\dots \lambda_{m}$ are distinct eigenvalues of $T$. 
 
 Then 
-i) The sum of eigenspaces is a [[internal direct sum of subspaces|direct sum]] ($E(\lambda;T) \oplus\dots \oplus E(\lambda_{m};T)$ is direct)
+i) The sum of [[eigenspace]]s is a [[internal direct sum of subspaces|direct sum]] ($E(\lambda;T) \oplus\dots \oplus E(\lambda_{m};T)$ is direct)
 ii) if $V$ is finite dimensional, $\sum_{i=1}^m(\dim(E(\lambda_{1};T_{1}))\leq \dim(V)$
 ### Proof 
 ii) follows from i) because [[internal direct sum of subspaces|direct sum]] is a subspace

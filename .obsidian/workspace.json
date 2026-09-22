@@ -100,17 +100,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 3/basis of domain theorem.md",
+                "file": "COMP2610/Week 6/source code.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "basis of domain theorem"
+              "title": "source code"
+            }
+          },
+          {
+            "id": "6a2a2d292fce986c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 6/uniquely decodable.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "uniquely decodable"
+            }
+          },
+          {
+            "id": "0d6217021d57a08c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 6/binary symbol code.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "binary symbol code"
+            }
+          },
+          {
+            "id": "678b723f6e9ee078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1116/Linear algebra/Week 5/eigenspace.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "eigenspace"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -305,12 +350,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3dcff0187684bd9f",
+  "active": "6a2a2d292fce986c",
   "lastOpenFiles": [
+    "COMP2610/Week 6/source code.md",
+    "COMP2610/Week 6/uniquely decodable.md",
+    "COMP2610/Week 6/binary symbol code.md",
+    "MATH1116/Linear algebra/Week 5/eigenspace.md",
+    "MATH1116/Linear algebra/Week 5/eigenvector.md",
+    "MATH1116/Linear algebra/Week 5/eigenvalue.md",
+    "COMP3670/Week 2/union bound.md",
+    "COMP2610/Week 5/ensemble.md",
+    "COMP2610/Week 4/Jensens Inequality.md",
+    "COMP2610/Week 6/the source coding theorem.md",
+    "MATH1116/Linear algebra/Week 3/basis of domain theorem.md",
     "MATH1116/Linear algebra/Week 4/dual vector space.md",
     "MATH1116/Linear algebra/Week 3/linear map.md",
     "MATH1116/Linear algebra/Week 4/linear functional.md",
-    "MATH1116/Linear algebra/Week 3/basis of domain theorem.md",
     "MATH1116/Linear algebra/Week 1/vector subspace.md",
     "MATH1116/Linear algebra/Week 5/annihilator.md",
     "COMP3670/Week 3/Vapnik-Chervonenkis dimension.md",
@@ -319,20 +374,10 @@
     "MATH1116/Linear algebra/Week 5/Gaussian elimination.md",
     "MATH1116/Linear algebra/Week 5/dual map.md",
     "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
-    "MATH1116/Linear algebra/Week 5/eigenspace.md",
     "COMP2610/Week 5/asymptotic equipartition property.md",
     "COMP3670/Week 5/decision tree.md",
     "COMP2610/Week 4/markov chain.md",
     "COMP2610/Week 3/conditional entropy.md",
-    "COMP3670/Week 5/nonparametric regression.md",
-    "MATH1013/Linear algebra/Week 3/linearly independent.md",
-    "COMP2610/Week 5/ensemble.md",
-    "MATH1005/Week 2/Axiom of extensionality.md",
-    "COMP3670/Week 3/model selection.md",
-    "COMP3670/Week 3/VC bound.md",
-    "COMP3670/Week 3/Shatter coefficient.md",
-    "COMP3670/Week 3/The fundamental theorem of statistical learning theory(binary loss).md",
-    "COMP3670/Week 4/parametric methods.md",
     "attachments/Pasted Image 20260921132617_583.png",
     "attachments/Pasted image 20260920125741.png",
     "attachments/Pasted image 20260920110552.png",
