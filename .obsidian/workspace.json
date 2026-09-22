@@ -11,12 +11,15 @@
             "id": "4961ec28dd0cee41",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/COMP2610 A2.excalidraw.md"
+                "file": "MATH1005/Week 3/surjective function.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "COMP2610 A2.excalidraw"
+              "icon": "lucide-file",
+              "title": "surjective function"
             }
           },
           {
@@ -283,8 +286,7 @@
               "title": "markov chain"
             }
           }
-        ],
-        "currentTab": 17
+        ]
       }
     ],
     "direction": "vertical"
@@ -361,8 +363,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -480,10 +481,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0a88685eecfd94bf",
+  "active": "4961ec28dd0cee41",
   "lastOpenFiles": [
-    "COMP2610/Week 1/conditional expectation.md",
+    "Excalidraw/MATH1116 w5.excalidraw.md",
     "Excalidraw/COMP2610 A2.excalidraw.md",
+    "COMP2610/Week 4/markov chain.md",
+    "COMP2610/Week 1/conditional expectation.md",
     "COMP2610/Week 3/conditional entropy.md",
     "COMP2610/Week 3/entropy (information theory).md",
     "COMP2610/Week 3/joint entropy.md",
@@ -491,7 +494,6 @@
     "MATH1013/Calculus/Week 8/Chain rule.md",
     "COMP2610/Week 1/information.md",
     "COMP2610/Week 6/essential bit content.md",
-    "COMP2610/Week 4/markov chain.md",
     "COMP2610/Week 6/raw bit content.md",
     "COMP2610/Week 4/joint mutual information.md",
     "COMP2610/Week 4/Conditional mutual information.md",
@@ -508,7 +510,6 @@
     "MATH1116/Linear algebra/Week 5/generalised eigenspace.md",
     "MATH1116/Linear algebra/Week 5/eigenvalue.md",
     "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
-    "MATH1116/Analysis/Week 6/uniform convergence of a series of sequence of functions.md",
     "attachments/Pasted image 20260920125741.png",
     "attachments/Pasted image 20260920110552.png",
     "attachments/Pasted image 20260902162257.png",
