@@ -2,6 +2,22 @@ Decision trees:
 
 
 ERM
+Risk: $\quad L(h) = \mathbb{E}\big[\ell((\mathbf{X}, Y), h)\big] = \int \ell((\mathbf{x}, y), h)\, dP(\mathbf{x}, y)$ = out of sample error 
+Empirical risk: $L_{\mathcal{D_{n}}}(h)=\frac{1}{N}\sum_{i=1}^N \ell((\mathbf{X_{i},}Y_{i}),h)$
+
+Hoeffdings: 
+$E_{out }(h)\leq E_{in}(h)+\sqrt{ \frac{1}{2N}\log \frac{2}{\delta} }$ for a fixed h
+For a set of h: 
+$E_{out }(h)\leq E_{in}(h)+\sqrt{ \frac{1}{2N}\log \frac{2M}{\delta} }$ - where m is the quantity of hypotheses in $\mathcal{H}$
+
+Fundamental theorem of statistical learning
+[[Empirical risk minimisation]] on some $\mathcal{H}$ is consistent for every distribution $P \iff d_{VC}(\mathcal{H})<\infty$.
+Consistent means: $E_{out}(\hat{h}_{N}) \to E_{out}(h^*)$ as $N \to \infty$, with probability 1 over all possible samples. 
+(Basically, the idea is that with enough data, we can falsify all hypothesis).
+
+
+
+
 # squared loss 
 For continuous cases, we use the squared loss 
 $l(\mathbf{x},y)h)=(y-h(\mathbf{x}))^2$
@@ -93,4 +109,10 @@ The important part is that the linear dependence is on $\theta$.
 NONPARA 
 Nadaraya Watson kernel regression 
 $\sum_{i=1}^N W_{i}(\mathbf{x})Y_{i}$
-$W_{i}$ is exactly the same for kernel classification, we just 
+$W_{i}$ is exactly the same for kernel classification 
+
+
+
+
+[[Simpson's rule]]
+[[Trapezoidal rule]]

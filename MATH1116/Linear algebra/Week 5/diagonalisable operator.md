@@ -32,5 +32,5 @@ Thus, it must be a [[basis]].
 ### Remark: this is sufficient, but not necessary.
 There can be [[diagonalisable operator|diagonalisable]] matrices that have less than $\dim(V)$ eigenvalues 
 Example 
-$\begin{bmatrix}5,0,0 \\  0,5,0 \\  0,0,5\end{bmatrix}$ - obviously diagonalisable but at the same time one one distinct eigenvalue 
+$\begin{bmatrix}5,0,0 \\  0,5,0 \\  0,0,5\end{bmatrix}$ - obviously diagonalisable but at the same time one distinct eigenvalue 
 
