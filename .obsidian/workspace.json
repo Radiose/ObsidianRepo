@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 6/power series.md",
+                "file": "MATH1116/Linear algebra/Week 5/dual map.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "power series"
+              "title": "dual map"
             }
           },
           {
@@ -232,13 +232,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670 MTT cheatsheet.md",
+                "file": "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "COMP3670 MTT cheatsheet"
+              "title": "Coordinatizing matrices"
             }
           },
           {
@@ -286,7 +286,8 @@
               "title": "markov chain"
             }
           }
-        ]
+        ],
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -481,9 +482,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4961ec28dd0cee41",
+  "active": "4411c01e485c0207",
   "lastOpenFiles": [
+    "MATH1116/Linear algebra/Week 5/eigenvalue.md",
+    "MATH1116/Linear algebra/Week 5/generalised eigenspace.md",
+    "MATH1116/Linear algebra/Week 5/dual map.md",
+    "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
+    "MATH1116/Linear algebra/Week 5/Gaussian elimination.md",
+    "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
+    "COMP3670 MTT cheatsheet.md",
+    "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
+    "Excalidraw/MATH1116 w6.excalidraw.md",
+    "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
+    "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
     "Excalidraw/MATH1116 w5.excalidraw.md",
+    "MATH1116/Analysis/Week 6/power series.md",
+    "MATH1005/Week 3/surjective function.md",
     "Excalidraw/COMP2610 A2.excalidraw.md",
     "COMP2610/Week 4/markov chain.md",
     "COMP2610/Week 1/conditional expectation.md",
@@ -496,20 +510,7 @@
     "COMP2610/Week 6/essential bit content.md",
     "COMP2610/Week 6/raw bit content.md",
     "COMP2610/Week 4/joint mutual information.md",
-    "COMP2610/Week 4/Conditional mutual information.md",
-    "MATH1116/Linear algebra/Week 4/dual vector space.md",
-    "MATH1116/Analysis/Week 6/power series.md",
-    "Excalidraw/MATH1116 w6.excalidraw.md",
-    "COMP3670/Week 5/nonparametric regression.md",
-    "MATH1116/Linear algebra/Week 5/annihilator.md",
-    "COMP3670 MTT cheatsheet.md",
-    "MATH1116/Linear algebra/Week 5/dual map.md",
-    "MATH1013/Linear algebra/Week 3/linearly independent.md",
     "attachments/Pasted Image 20260921132617_583.png",
-    "COMP3670/Week 3/COMP3670 13.08.2026.md",
-    "MATH1116/Linear algebra/Week 5/generalised eigenspace.md",
-    "MATH1116/Linear algebra/Week 5/eigenvalue.md",
-    "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
     "attachments/Pasted image 20260920125741.png",
     "attachments/Pasted image 20260920110552.png",
     "attachments/Pasted image 20260902162257.png",
