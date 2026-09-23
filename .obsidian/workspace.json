@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 9/random variable.md",
+                "file": "COMP3670/Week 4/parametric methods.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "random variable"
+              "title": "parametric methods"
             }
           },
           {
@@ -412,6 +412,7 @@
   },
   "active": "e9f255d561e1a750",
   "lastOpenFiles": [
+    "MATH1005/Week 9/random variable.md",
     "COMP3670/Week 1/Humes problem of induction.md",
     "COMP3670/Week 3/model selection.md",
     "COMP3670/Week 2/target function.md",
@@ -438,7 +439,6 @@
     "MATH1116/Analysis/Week 7/canonical basis.md",
     "COMP3670/Week 5/Euclidian norm.md",
     "COMP3670/Week 3/Vapnik-Chervonenkis dimension.md",
-    "MATH1116/Analysis/Week 7/inner product.md",
     "attachments/Pasted image 20260922175009.png",
     "attachments/Pasted image 20260922173957.png",
     "attachments/Pasted Image 20260921132617_583.png",
