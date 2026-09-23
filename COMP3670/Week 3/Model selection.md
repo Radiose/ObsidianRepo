@@ -6,7 +6,7 @@ aliases:
 1: Use [[prior knowledge]] to build candidate models. 
 2: estimate $E_{out}$ for each using either the singular [[validation set]] or cross validation.
 3: Select the model with the least error on the validation method
-4: refit on all data available, using the selected model and obtain the final $hhat$
+4: refit on all data available, using the selected model and obtain the final $\hat{h}$
 
 # Choosing a model 
 The total error is

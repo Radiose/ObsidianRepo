@@ -138,4 +138,31 @@ Basically, the centroid will minimise the sum of squared distances to the datapo
 
 
 K means: Compute centroid of each cluster 
-For each element of each cluster, 
+For each element of each cluster, compute its distance to each centroid $||\mathbf{x_{i}}-\mathbf{c}||_{2}^2$ (or just regular Euclidian norm)
+Assign each $\mathbf{x}_{i}$ to whatever centroid is closest - if the one its in is tied to another, do not move it. 
+Repeat until no changes 
+
+Theorem: Assume every cluster remains nonempty and ties are resolved by leaving a point in its
+current cluster. The K-Means algorithm terminates after finitely many rounds.
+
+The goal of k means is to minimise $J(\mathcal{C_{1}},\dots,\mathcal{C_{n}})=\sum_{r=1}^k \sum_{\mathbf{x}_{i}\in \mathcal{C}_{r}}\lVert \mathbf{x_{i}}-c_{r} \rVert_{2}^2$
+We seek a partition with small $SSE$ (sum of squared error)
+
+
+# Agglomerative hierarchical clustering 
+General overview:
+1: Start with a singleton cluster per observation 
+2: find the two closest clusters
+3: merge them 
+4: repeat until only one cluster remains 
+A linkage rule is used to define the distance between clusters
+
+The linkage rules are as follows: 
+$d_{single}(\mathcal{A},\mathcal{B})=min_{x \in \mathcal{A},y\in \mathcal{B}}\ \ \ d(x,y)$, with $d(x,y)$ being the [[Euclidian norm]]
+$d_{complete}(\mathcal{A},\mathcal{B})=max_{x \in \mathcal{A}, y \in \mathcal{B}}\ \ d(x,y)$
+
+Single linkage aims to look at the nearest cross cluster pair, and complete linkage looks at the furthest cross cluster pair. 
+
+Average linkage uses every cross cluster pair, defined as $d_{average}(\mathcal{A},\mathcal{B})=\frac{1}{|\mathcal{A}||\mathcal{B}|}\sum_{x \in A}\sum_{y \in \mathcal{B}}d(x,y)$
+
+You cut the dendrogram to decide on the number of clusters. 
