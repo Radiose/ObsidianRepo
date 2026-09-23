@@ -88,8 +88,6 @@ The model is not fixed in advance, and as a result more data buys a richer [[hyp
 
 
 
-![[k nearest neighbour classification]]
-
 
 
 
