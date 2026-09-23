@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 3/model selection.md",
+                "file": "MATH1005/Week 9/random variable.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "model selection"
+              "title": "random variable"
             }
           },
           {
@@ -215,7 +215,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -410,8 +410,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "302e2ab314e90d09",
+  "active": "e9f255d561e1a750",
   "lastOpenFiles": [
+    "COMP3670/Week 1/Humes problem of induction.md",
+    "COMP3670/Week 3/model selection.md",
+    "COMP3670/Week 2/target function.md",
+    "MATH1013/Linear algebra/Week 3/parametric vector form.md",
     "COMP3670/Week 1/unsupervised learning.md",
     "COMP3670/Week 1/reinforcement learning.md",
     "COMP3670/Week 1/supervised learning.md",
@@ -423,8 +427,6 @@
     "COMP3670 MTT cheatsheet.md",
     "COMP3670 MTT notes.md",
     "COMP3670/Week 6/hierarchical clustering.md",
-    "COMP3670/Week 2/target function.md",
-    "COMP3670/Week 3/model selection.md",
     "COMP3670/Week 3/prior knowledge.md",
     "COMP3670/Week 3/validation set.md",
     "COMP3670/Week 3/Cross validation.md",
@@ -437,8 +439,6 @@
     "COMP3670/Week 5/Euclidian norm.md",
     "COMP3670/Week 3/Vapnik-Chervonenkis dimension.md",
     "MATH1116/Analysis/Week 7/inner product.md",
-    "MATH1116/Analysis/Week 7/$langle (x_{1},dots,x_{n}),(y_{1},dots,y_{n}) rangle=sum_{j=1}^n x_{j}y_{j}$.md",
-    "MATH1005/Week 3/antisymmetric relation.md",
     "attachments/Pasted image 20260922175009.png",
     "attachments/Pasted image 20260922173957.png",
     "attachments/Pasted Image 20260921132617_583.png",
