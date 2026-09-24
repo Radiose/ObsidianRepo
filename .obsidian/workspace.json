@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 4/parametric methods.md",
+                "file": "COMP3670/Week 4/Histogram classification.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "parametric methods"
+              "title": "Histogram classification"
             }
           },
           {
@@ -412,7 +412,16 @@
   },
   "active": "e9f255d561e1a750",
   "lastOpenFiles": [
+    "COMP3670/Week 4/k nearest neighbour classification.md",
+    "COMP3670/Week 5/K-Means algorithm.md",
+    "MATH1013/Calculus/Week 11/Simpson's rule.md",
+    "COMP3670/Week 6/tensor.md",
+    "COMP3670/Week 6/linear regression loss.md",
     "MATH1005/Week 9/random variable.md",
+    "COMP3670/Week 4/parametric methods.md",
+    "COMP3670/Week 6/hierarchical clustering.md",
+    "COMP3670/Week 5/centroid.md",
+    "COMP3670/Week 5/Euclidian norm.md",
     "COMP3670/Week 1/Humes problem of induction.md",
     "COMP3670/Week 3/model selection.md",
     "COMP3670/Week 2/target function.md",
@@ -420,25 +429,16 @@
     "COMP3670/Week 1/unsupervised learning.md",
     "COMP3670/Week 1/reinforcement learning.md",
     "COMP3670/Week 1/supervised learning.md",
-    "COMP3670/Week 4/k nearest neighbour classification.md",
-    "COMP3670/Week 5/K-Means algorithm.md",
     "COMP3670/Week 1/The perceptron.md",
     "COMP3670/Week 4/Histogram classification.md",
     "COMP3670/Week 4/nonparametric methods.md",
     "COMP3670 MTT cheatsheet.md",
     "COMP3670 MTT notes.md",
-    "COMP3670/Week 6/hierarchical clustering.md",
     "COMP3670/Week 3/prior knowledge.md",
     "COMP3670/Week 3/validation set.md",
     "COMP3670/Week 3/Cross validation.md",
     "attachments/Pasted image 20260923135706.png",
-    "COMP3670/Week 5/centroid.md",
     "COMP3670/Week 2/loss function.md",
-    "MATH1116/Analysis/Week 3/summation by parts.md",
-    "MATH1116/Analysis/Week 7/open ball.md",
-    "MATH1116/Analysis/Week 7/canonical basis.md",
-    "COMP3670/Week 5/Euclidian norm.md",
-    "COMP3670/Week 3/Vapnik-Chervonenkis dimension.md",
     "attachments/Pasted image 20260922175009.png",
     "attachments/Pasted image 20260922173957.png",
     "attachments/Pasted Image 20260921132617_583.png",
