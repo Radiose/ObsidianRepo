@@ -88,10 +88,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/COMP2610 A2.excalidraw.md"
+                "file": "Excalidraw/MATH1116 w6.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "COMP2610 A2.excalidraw"
+              "title": "MATH1116 w6.excalidraw"
             }
           },
           {
@@ -323,8 +323,8 @@
   },
   "active": "adfe8e9bed64b540",
   "lastOpenFiles": [
-    "COMP2610/Week 5/asymptotic equipartition property.md",
     "Excalidraw/COMP2610 A2.excalidraw.md",
+    "COMP2610/Week 5/asymptotic equipartition property.md",
     "COMP2610/Week 5/extended ensemble.md",
     "COMP2610/Week 7/uniquely decodable.md",
     "COMP2610/Week 5/typical set.md",
