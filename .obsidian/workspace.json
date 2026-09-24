@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 7/multivariate differentiability.md",
+                "file": "MATH1116/Analysis/Week 6/power series.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "multivariate differentiability"
+              "title": "power series"
             }
           },
           {
@@ -412,16 +412,16 @@
   },
   "active": "93e355baf349c64d",
   "lastOpenFiles": [
+    "MATH1116/Analysis/Week 7/inner product.md",
+    "MATH1116/Analysis/Week 7/multivariate differentiability.md",
     "MATH1116/Analysis/Week 7/canonical basis.md",
     "MATH1116/Analysis/Week 6/power series.md",
-    "MATH1116/Analysis/Week 7/multivariate differentiability.md",
     "MATH1116/Analysis/Week 7/multivariate continuity.md",
     "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
     "MATH1116/Analysis/Week 6/uniform convergence of a series of sequence of functions.md",
     "MATH1013/Calculus/Week 2/continuous function.md",
     "MATH1116/Analysis/Week 7/open ball.md",
     "MATH1013/Calculus/Week 3/derivative.md",
-    "MATH1116/Analysis/Week 7/inner product.md",
     "MATH1116/Analysis/Week 3/summation by parts.md",
     "COMP3670/Week 4/Histogram classification.md",
     "COMP3670/Week 4/k nearest neighbour classification.md",
