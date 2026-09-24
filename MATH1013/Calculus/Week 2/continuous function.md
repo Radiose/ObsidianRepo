@@ -2,8 +2,7 @@
 aliases:
   - continuous
 ---
-continuous functions 
-
+# Single variable
 let f be a function and let $a\in \mathbb{R}$
 We say that f is continuous at a if 
 the domain of f includes some neighbourhood of a $N(a,\delta)=(a-\delta,a+\delta) \subset domain(f)$ for some $\delta>0$
@@ -63,3 +62,4 @@ compute the limit when x approaches from the left, and when x approaches from th
 
 #![[uniform continuity]]
 
+![[multivariate continuity]]
