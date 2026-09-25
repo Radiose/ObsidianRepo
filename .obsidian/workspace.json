@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 7/multivariate differentiability.md",
+                "file": "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "multivariate differentiability"
+              "title": "uniform convergence and L1 norm convergence of sequence of functions"
             }
           },
           {
@@ -351,6 +351,10 @@
   },
   "active": "4961ec28dd0cee41",
   "lastOpenFiles": [
+    "MATH1116/Analysis/Week 6/uniform convergence of a series of sequence of functions.md",
+    "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
+    "MATH1013/Calculus/Week 5/mean value theorem.md",
+    "MATH1116/Analysis/Week 7/multivariate differentiability.md",
     "MATH1116/Analysis/Week 7/inner product.md",
     "MATH1005/Week 9/Markov process.md",
     "MATH1116 revision adlay.md",
@@ -368,15 +372,11 @@
     "MATH1005/Week 9/random variable.md",
     "MATH1116/Linear algebra/Week 2/basis.md",
     "COMP2610/Week 5/asymptotic equipartition property.md",
-    "MATH1116/Analysis/Week 7/multivariate differentiability.md",
     "MATH1013/Calculus/Week 2/continuous function.md",
     "COMP2610/Week 4/markov chain.md",
     "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
     "MATH1116/Linear algebra/Week 5/dual map.md",
     "MATH1116/Linear algebra/Week 5/generalised eigenspace.md",
-    "MATH1116/Linear algebra/Week 5/Gaussian elimination.md",
-    "MATH1116/Linear algebra/Week 5/eigenvector.md",
-    "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
     "attachments/Pasted image 20260923135706.png",
     "attachments/Pasted image 20260922175009.png",
     "attachments/Pasted image 20260922173957.png",
