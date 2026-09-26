@@ -3,10 +3,12 @@ Worksheet knowledge from each question:
 Analysis:
 W5:
 Determine $f_{n}(x)= n\exp(-nx)$ converges uniformly 
-Because 
+Because integral limits commuting is a necessary condition for uniform convergence, proving that they dont means that $f_{n}$ must converge uniformly
 
 W6:
-Determine whether a series of functions converges uniformly 
+Determine whether a series of functions converges uniformly
+Idea: utilise integration by parts
+
 W7:
 Show that a series of functions that converges uniformly have its derivative converge uniformly:
 Proof idea:
@@ -31,8 +33,7 @@ the limit of a continuous sequence of functions is also continuous
 
 
 Power series:
-Require uniform convergence to be created. 
-Some neat tricks during the pe 
+Require uniform convergence to be created. The idea is that $f_{N}(x)=\sum_{n=1}^N a_{n}(x-c)^n$ converges uniformly to $f(x)=$
 
 
 LA:

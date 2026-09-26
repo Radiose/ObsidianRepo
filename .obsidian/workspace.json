@@ -26,15 +26,12 @@
             "id": "f50ff7b9e0bd3c44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "MATH1013/Calculus/Week 2/continuous function.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Excalidraw/MATH1116 w7.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "continuous function"
+              "icon": "excalidraw-icon",
+              "title": "MATH1116 w7.excalidraw"
             }
           },
           {
@@ -73,13 +70,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 4/dual basis.md",
+                "file": "MATH1116/Analysis/Week 6/uniform convergence of a series of sequence of functions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "dual basis"
+              "title": "uniform convergence of a series of sequence of functions"
             }
           },
           {
@@ -88,10 +85,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/MATH1116.excalidraw.md"
+                "file": "Excalidraw/MATH1116 w6.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "MATH1116.excalidraw"
+              "title": "MATH1116 w6.excalidraw"
             }
           },
           {
@@ -175,17 +172,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
+                "file": "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "uniform convergence and L1 norm convergence of sequence of functions"
+              "title": "uniformly Cauchy"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -380,23 +377,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9b38e2125afdb024",
+  "active": "f900c541eb3fdd82",
   "lastOpenFiles": [
-    "MATH1116/Analysis/Week 6/power series.md",
-    "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
-    "MATH1116/Analysis/Week 4/pointwise convergence.md",
-    "Excalidraw/MATH1116.excalidraw.md",
-    "Excalidraw/MATH1116 w6.excalidraw.md",
-    "Excalidraw/Untitled.md",
+    "MATH1005/Week 9/random variable.md",
+    "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
     "MATH1116 revision adlay.md",
+    "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
+    "MATH1013/Calculus/Week 5/mean value theorem.md",
+    "Excalidraw/MATH1116 w7.excalidraw.md",
+    "MATH1013/Calculus/Week 2/continuous function.md",
+    "MATH1116/Analysis/Week 6/uniform convergence of a series of sequence of functions.md",
+    "Excalidraw/MATH1116 w6.excalidraw.md",
+    "MATH1116/Linear algebra/Week 4/dual basis.md",
+    "MATH1116/Analysis/Week 6/power series.md",
+    "MATH1116/Analysis/Week 4/pointwise convergence.md",
+    "Excalidraw/Untitled.md",
     "MATH1116/Analysis/Week 2/Convergence of series.md",
     "MATH1116/Linear algebra/Week 2/basis.md",
     "MATH1005/Week 6/Matrix multiplication.md",
     "MATH1116/Analysis/Week 7/multivariate differentiability.md",
     "Untitled.md",
-    "MATH1013/Calculus/Week 5/mean value theorem.md",
-    "MATH1116/Analysis/Week 6/uniform convergence of a series of sequence of functions.md",
-    "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
     "MATH1116/Analysis/Week 7/inner product.md",
     "MATH1005/Week 9/Markov process.md",
     "TO DO.md",
@@ -405,9 +405,6 @@
     "MATH1116 things to revisit.md",
     "COMP3670 MTT cheatsheet.md",
     "Z_MATH help/math tricks.md",
-    "Z_MATH help/MATH1005 midsem rundown.md",
-    "MATH1116/Linear algebra/Week 5/annihilator.md",
-    "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
     "attachments/Pasted image 20260923135706.png",
     "attachments/Pasted image 20260922175009.png",
     "attachments/Pasted image 20260922173957.png",

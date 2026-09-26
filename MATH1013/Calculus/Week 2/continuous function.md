@@ -61,5 +61,6 @@ compute the limit when x approaches from the left, and when x approaches from th
 ![[Harder theorems for continuity]]
 
 #![[uniform continuity]]
+# Multivariable
 
 ![[multivariate continuity]]

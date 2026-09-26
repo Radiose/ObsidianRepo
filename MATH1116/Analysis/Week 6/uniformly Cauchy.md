@@ -1,4 +1,4 @@
-xlet $b>a$, $f_{n}:[a,b)\to \mathbb{R}$ $f : [a,b]\to \mathbb{R}\ \ \forall n\in \mathbb{N}$
+let $b>a$, $f_{n}:[a,b)\to \mathbb{R}$ $f : [a,b]\to \mathbb{R}\ \ \forall n\in \mathbb{N}$
 The [[sequence]] $(f_{n})_{n \in \mathbb{N}}$ is said to be [[uniformly Cauchy]] if 
 $$\forall\epsilon>0\ \ \exists N\in \mathbb{N}\ \ \forall n>m\geq N \implies ||f_{n}-f_{m}||_{\infty}<\epsilon$$
 # Theorem 
