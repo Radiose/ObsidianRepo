@@ -88,10 +88,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/MATH1116 w6.excalidraw.md"
+                "file": "Excalidraw/MATH1116.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "MATH1116 w6.excalidraw"
+              "title": "MATH1116.excalidraw"
             }
           },
           {
@@ -145,13 +145,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116 revision adlay.md",
+                "file": "MATH1116/Analysis/Week 6/power series.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1116 revision adlay"
+              "title": "power series"
             }
           },
           {
@@ -175,17 +175,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 6/Matrix multiplication.md",
+                "file": "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Matrix multiplication"
+              "title": "uniform convergence and L1 norm convergence of sequence of functions"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -380,13 +380,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "66019c92a36b9653",
+  "active": "9b38e2125afdb024",
   "lastOpenFiles": [
-    "MATH1116 revision adlay.md",
-    "MATH1116/Analysis/Week 7/multivariate differentiability.md",
-    "Untitled.md",
+    "MATH1116/Analysis/Week 6/power series.md",
     "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
     "MATH1116/Analysis/Week 4/pointwise convergence.md",
+    "Excalidraw/MATH1116.excalidraw.md",
+    "Excalidraw/MATH1116 w6.excalidraw.md",
+    "Excalidraw/Untitled.md",
+    "MATH1116 revision adlay.md",
+    "MATH1116/Analysis/Week 2/Convergence of series.md",
+    "MATH1116/Linear algebra/Week 2/basis.md",
+    "MATH1005/Week 6/Matrix multiplication.md",
+    "MATH1116/Analysis/Week 7/multivariate differentiability.md",
+    "Untitled.md",
     "MATH1013/Calculus/Week 5/mean value theorem.md",
     "MATH1116/Analysis/Week 6/uniform convergence of a series of sequence of functions.md",
     "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
@@ -401,13 +408,6 @@
     "Z_MATH help/MATH1005 midsem rundown.md",
     "MATH1116/Linear algebra/Week 5/annihilator.md",
     "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
-    "MATH1116/Linear algebra/Week 4/dual basis.md",
-    "MATH1116/Linear algebra/Week 4/dual vector space.md",
-    "MATH1005/Week 9/random variable.md",
-    "MATH1116/Linear algebra/Week 2/basis.md",
-    "COMP2610/Week 5/asymptotic equipartition property.md",
-    "MATH1013/Calculus/Week 2/continuous function.md",
-    "COMP2610/Week 4/markov chain.md",
     "attachments/Pasted image 20260923135706.png",
     "attachments/Pasted image 20260922175009.png",
     "attachments/Pasted image 20260922173957.png",
