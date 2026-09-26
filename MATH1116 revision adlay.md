@@ -31,6 +31,10 @@ Allows for: exchange of limits
 the integral of a limit is the limit of the integral 
 the limit of a continuous sequence of functions is also continuous 
 
+Theorems: Integral limit 
+One time differentiable 
+
+
 
 Power series:
 Require uniform convergence to be created. The idea is that $f_{N}(x)=\sum_{n=1}^N a_{n}(x-c)^n$ converges uniformly to $f(x)$ when $x$ is in the radius of convergence 
