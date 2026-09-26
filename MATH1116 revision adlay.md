@@ -33,7 +33,14 @@ the limit of a continuous sequence of functions is also continuous
 
 
 Power series:
-Require uniform convergence to be created. The idea is that $f_{N}(x)=\sum_{n=1}^N a_{n}(x-c)^n$ converges uniformly to $f(x)=$
+Require uniform convergence to be created. The idea is that $f_{N}(x)=\sum_{n=1}^N a_{n}(x-c)^n$ converges uniformly to $f(x)$ when $x$ is in the radius of convergence 
+
+
+
+
+Requires 
+
+
 
 
 LA:
