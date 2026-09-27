@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Calculus/Week 5/mean value theorem.md",
+                "file": "MATH1116/Linear algebra/Week 3/linear map.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "mean value theorem"
+              "title": "linear map"
             }
           },
           {
@@ -40,13 +40,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 7/multivariate differentiability.md",
+                "file": "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "multivariate differentiability"
+              "title": "uniform convergence and L1 norm convergence of sequence of functions"
             }
           },
           {
@@ -167,21 +167,6 @@
             }
           },
           {
-            "id": "66019c92a36b9653",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1116 revision adlay.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "MATH1116 revision adlay"
-            }
-          },
-          {
             "id": "00f95c3344b3637d",
             "type": "leaf",
             "state": {
@@ -197,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -392,13 +377,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0d04e0d120fe0a53",
+  "active": "9b38e2125afdb024",
   "lastOpenFiles": [
-    "MATH1116/Analysis/Week 6/uniform convergence of a series of sequence of functions.md",
-    "MATH1116 revision adlay.md",
-    "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
     "MATH1116/Linear algebra/Week 3/linear operator.md",
+    "MATH1116 revision adlay.md",
+    "MATH1116/Linear algebra/Week 5/annihilator.md",
+    "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
+    "Excalidraw/MATH1116 w7.excalidraw.md",
+    "MATH1116/Linear algebra/Week 3/linear map.md",
     "MATH1116/Linear algebra/Week 3/invertible linear map.md",
+    "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
+    "MATH1116/Linear algebra/Week 3/basis of domain theorem.md",
+    "MATH1116/Analysis/Week 7/multivariate differentiability.md",
+    "MATH1013/Calculus/Week 5/mean value theorem.md",
+    "MATH1005/Week 9/random variable.md",
+    "MATH1116/Analysis/Week 6/uniform convergence of a series of sequence of functions.md",
+    "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
     "MATH1116/Linear algebra/Week 3/range.md",
     "MATH1116/Linear algebra/Week 3/kernel.md",
     "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
@@ -406,20 +400,11 @@
     "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
     "MATH1116/Linear algebra/Week 5/dual map.md",
     "MATH1116/Linear algebra/Week 4/dual vector space.md",
-    "MATH1116/Linear algebra/Week 5/annihilator.md",
     "MATH1116/Linear algebra/Week 4/dual basis.md",
     "MATH1116/Linear algebra/Week 3/invariant subspace.md",
-    "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
-    "MATH1116/Linear algebra/Week 3/basis of domain theorem.md",
     "MATH1116/Linear algebra/Week 4/MATH1116 20.08.2026.md",
-    "Excalidraw/MATH1116 w7.excalidraw.md",
     "MATH1116/Analysis/Week 6/power series.md",
-    "MATH1005/Week 9/random variable.md",
-    "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
-    "MATH1013/Calculus/Week 5/mean value theorem.md",
     "MATH1013/Calculus/Week 2/continuous function.md",
-    "Excalidraw/MATH1116 w6.excalidraw.md",
-    "MATH1116/Analysis/Week 4/pointwise convergence.md",
     "attachments/Pasted image 20260923135706.png",
     "attachments/Pasted image 20260922175009.png",
     "attachments/Pasted image 20260922173957.png",
