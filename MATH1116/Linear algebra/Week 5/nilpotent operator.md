@@ -1,6 +1,7 @@
 ---
 aliases:
   - nilpotent
+  - jordan basis
 ---
 # Motivation
 If we have $V=G(\lambda_{1},T)\oplus\dots \oplus G(\lambda_{m},T)$
@@ -23,7 +24,7 @@ $$\{ N^{i_{1}}(\mathbf{u_{1}}),\dots,N(\mathbf{u}_{1}),\mathbf{u}_{1},
 is a basis of $U$. In this basis, the matrix of $N$ is as follows:
 
 ![[Pasted image 20260830160233.png|496]]
-
+We call this the Jordan [[basis]]
 
 ### Proof 
 1: 
@@ -59,3 +60,12 @@ The last term $N^{i_{1}+1}$ is the zero operator, and because $\phi$ is linear, 
 4: 
 Prove $W_{1}+U_{1}$ is a [[internal direct sum of subspaces|direct sum]]
 We show $U_{1} \cap W_{1}=\{ \mathbf{0} \}$
+
+
+## Applications 
+$\left[ T|_{u} \right]_{\alpha}= \left[ N+\lambda id \right]_{\alpha}= \left[ N \right]_{\alpha} + \lambda \cdot id$
+
+
+# Corollary 
+
+![[Jordan normal form]]

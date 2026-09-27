@@ -16,7 +16,7 @@ In other words, $b-1$ is also an upper bound of $\mathbb{N}$, which contradicts 
 
 
 
-A [[Corrolary]] that follows from this, which is important to prove the [[Density of the rational and irrational numbers]].
+A [[Corollary]] that follows from this, which is important to prove the [[Density of the rational and irrational numbers]].
 
 For any [[real number]] $\epsilon> 0$, there is a natural number $n$ such that $\frac{1}{n}< \epsilon$.
 
