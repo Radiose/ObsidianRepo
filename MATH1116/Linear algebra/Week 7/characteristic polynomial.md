@@ -11,3 +11,8 @@ Then, $\chi_{A}(z)=\det(zI-A)$
 
 ### Proof 
 $\chi_{A}(z)=\det(zI-J)$
+
+
+
+
+![[Cayley Hamilton theorem]]
