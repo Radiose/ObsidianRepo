@@ -17,7 +17,7 @@ An [[linear operator|operator]] $N$ is *nilpotent* if $\exists d>0$ such that $N
 For example, $\begin{bmatrix}0 &  1 \\  0 & 0\end{bmatrix}$ is a [[nilpotent operator]] on $\mathbb{F}^2$
 
 
-# Theorem 
+# Theorem 1
 If $U$ is [[finite dimensional]] and $N \in \mathcal{L}(U)$ is nilpotent. Then, there exists some set of linearly independent vectors $\{ \mathbf{u}_{1},\dots,\mathbf{u}_{k} \}$ and a [[sequence]] of non-negative integers $i_{1}\geq\dots\geq i_{k}\geq {0}$ such that the set 
 $$\{ N^{i_{1}}(\mathbf{u_{1}}),\dots,N(\mathbf{u}_{1}),\mathbf{u}_{1},
 \dots N^{i_{k}}(\mathbf{u}_{k}),\dots,N{\mathbf{u}_{k}} \}$$
@@ -68,4 +68,4 @@ $\left[ T|_{u} \right]_{\alpha}= \left[ N+\lambda id \right]_{\alpha}= \left[ N 
 
 # Corollary 
 
-![[Jordan normal form]]
+![[Jordan basis]]

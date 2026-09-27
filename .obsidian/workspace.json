@@ -145,13 +145,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116 revision adlay.md",
+                "file": "MATH1116/Linear algebra/Week 5/generalised eigenspace.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1116 revision adlay"
+              "title": "generalised eigenspace"
             }
           },
           {
@@ -160,13 +160,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
+                "file": "MATH1116/Linear algebra/Week 7/Jordan basis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Jordan normal form"
+              "title": "Jordan basis"
             }
           }
         ],
@@ -367,19 +367,23 @@
   },
   "active": "00f95c3344b3637d",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260927185650.png",
     "MATH1116/Linear algebra/Week 7/algebraically closed field.md",
+    "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
+    "MATH1116/Linear algebra/Week 7/Jordan basis.md",
+    "attachments/Pasted image 20260927185427.png",
+    "MATH1116/Linear algebra/Week 5/dual map.md",
+    "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
+    "MATH1116/Linear algebra/Week 5/annihilator.md",
     "MATH1116/Linear algebra/Week 5/generalised eigenspace.md",
-    "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
+    "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
+    "MATH1116 revision adlay.md",
     "MATH1013/Complex numbers/Fundamental theorem of algebra.md",
     "MATH1116/Linear algebra/Week 2/the basis theorem.md",
     "MATH1116/Analysis/Week 6/power series.md",
-    "MATH1116 revision adlay.md",
     "MATH1116/Linear algebra/Week 3/linear operator.md",
     "MATH1116/Linear algebra/Week 4/dual basis.md",
     "MATH1116/Linear algebra/Week 5/eigenspace.md",
-    "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
-    "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
-    "MATH1116/Linear algebra/Week 5/dual map.md",
     "MATH1116/Linear algebra/Week 5/eigenvalue.md",
     "MATH1116/Linear algebra/Week 5/eigenvector.md",
     "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
@@ -390,9 +394,6 @@
     "MATH1005/Week 1/Corollary.md",
     "MATH1116/Linear algebra/Week 5/Gaussian elimination.md",
     "MATH1116/Analysis/Week 7/multivariate integration.md",
-    "MATH1116/Linear algebra/Week 4/standard basis and evaluation map.md",
-    "MATH1116/Linear algebra/Week 4/change of base matrix.md",
-    "MATH1116/Linear algebra/Week 4/linear functional.md",
     "attachments/Pasted image 20260923135706.png",
     "attachments/Pasted image 20260922175009.png",
     "attachments/Pasted image 20260922173957.png",
@@ -402,7 +403,6 @@
     "attachments/Pasted image 20260902162257.png",
     "attachments/Pasted image 20260901130416.png",
     "attachments/Pasted image 20260830160233.png",
-    "attachments/Pasted image 20260830143210.png",
     "templates",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
     "MATH1116",

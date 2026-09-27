@@ -4,11 +4,16 @@ If $V = \bigoplus_{t=1}^m G(\lambda_{i},T)$, then there exists a [[basis]] $\bet
 
 Except, instead of 0s, there are repetitions of eigenvalues.
 
+Let $T$ be an [[linear operator|operator]] on a [[finite dimensional]] vector space $V$, and let $\lambda$ be its generalised eigenvalue. Then there is a basis $\beta=\{ \mathbf{v}_{1},\dots,\mathbf{v}_{n} \}$ of $U:=G(\lambda,T)$ such that in this basis, the matrix $\left[ T|_{U} \right]_{\beta}$ is above, with blocks $J_{\lambda,j}$
+
+A Jordan block is a matrix that looks like this, ![[Pasted image 20260927185650.png]]
+![[Pasted image 20260927185650.png]]
+
 
 # Theorem 
 If $\mathbb{F}$ is [[algebraically closed field|algebraically closed]], and $\lambda_{1},\dots,\lambda_m$ are all distinct [[eigenvalue]]s of $T$, then  
 $1:V= \bigoplus G(\lambda,T)$ 
-2: $\exists$ a [[Jordan normal form]] for $T$
+2: $\exists$ a [[Jordan basis]] for $T$
 
 ### Proof 
 The key to this proof is to prove that if $\mathbb{F}$ is algebraically closed, then $T$ has an [[eigenvalue]].
@@ -42,4 +47,9 @@ Take $\mathbf{v}\in U \cap W$,  then, $\exists \mathbf{w}\in V$ such that $S^n(\
 Note that $\ker(S^n)=\ker(S^{2n})$, and $S^{2n} \mathbf{w }=\mathbf{0}\implies S^n(\mathbf{w})=\mathbf{0}$
 
 $(3)$ so $U \oplus W \subseteq V$, and by [[Rank nullity theorem]], $\ker(s^n)\oplus Range(S^n)=V$
+
+If $W\not=0$, then $T|_{w}$ has an [[eigenvalue]] (via the subproof)
+But, then the eigenvector $\mathbf{w}\in G(T,\lambda_{i})\subset U$, so $U \cap W \not= \{ 0 \}$
+And thus, contradiction, so $W=\{ 0 \}$
+
 
