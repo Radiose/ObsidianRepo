@@ -58,7 +58,15 @@ So we use that, add in the $f_n(x)$ and y to the actual inequality, and from the
 Power series:
 Require uniform convergence to be created. The idea is that $f_{N}(x)=\sum_{n=1}^N a_{n}(x-c)^n$ converges uniformly to $f(x)$ when $x$ is in the radius of convergence 
 
+Theorems:
+ROC one 
 
+lim $\frac{a_{n+1}}{a_{n}}$ is the inverse of the ROC. If it = 0, then ROC is $\mathbb{R}$, if it equals $\infty$, then $ROC$= 0
+
+
+Derivative and integral have same ROC 
+
+Built using $\frac{f^n(c)}{n!}$ as $a_{n}$
 
 
 Requires 
