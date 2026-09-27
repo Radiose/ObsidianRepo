@@ -1,18 +1,19 @@
 Given a finite subset $X \subset V$, we can write is as $X=\{ x_{1},\dots,x_{n} \}$
-Now, consider the [[vector space]] $\mathbb{F}^X=\{ fns X \to F \}$
+Now, consider the [[vector space]] $\mathbb{F}^X=\{ f: X \to F \}$
 We denote the standard basis vectors in $\mathbb{F}^X$
 $e_{i}: X\to \mathbb{F}$, $e_i(x_j) =  \begin{cases} 1 & \text{if } i = j \\ 0 & \text{if } i \neq j \end{cases}$
 Note what this is saying. For any arbitrary subset of $V$, we can define a standard basis vector $\mathbf{e}_{i}$ by outputting $1$ if we input $x_{i}$
+
 A function $f:X \to \mathbb{F}$ can be written by enumerating its values: $\begin{bmatrix}f(x_{1}) \\  . \\  . \\  . \\  f(x_{n})\end{bmatrix}$ 
 so with this identification, a standard basis vector can be written as $\mathbf{e}_{1}=\begin{bmatrix}1  \\  0 . \\  . \\  . \\  0\end{bmatrix}, \mathbf{e}_{2}=\begin{bmatrix}0  \\  1  \\  0  \\  . \\  . \\  . \\  0\end{bmatrix}$ etc.
-We define the **evaluation [[function|map]]**  $\mathbb{F}^X \to V$ as $\mathbf{ev_{x}}(\mathbf{e}_{i}):=\mathbf{x_{i}}$, it will take in some function and output a corresponding 
+We define the **evaluation [[function|map]]**  $\mathbb{F}^X \to V$ as $\mathbf{ev_{x}}(\mathbf{e}_{i}):=\mathbf{x_{i}}$, it will take in some function(a basis vector) and output the vector that that basis vector evaluates as $1$.
 
 # Theorem 
 Given some finite [[subset]] $X \subset V$ as above, we have the following:
 1:$Range(\mathbf{e_{v}}(x))=Span(X)$
 2: $ev_{X}$ is injective $\iff$ $X$ is [[linearly independent]] 
 3:$ev_{X}$ is [[surjective function|surjective]] $\iff$ $X$ is a spanning set of $V$
-4: $ev_{X}$ is an [[isomorphism]]  
+4: $ev_{X}$ is an [[isomorphism]] $\iff X$ is a basis of $V$
 
 ### Proof 
 
@@ -67,4 +68,5 @@ if $V,W$ are finite dimensional, and $dim(V)=n$, $dim(W)=m$, then $dim(\mathcal{
 
 
 
-# ![[Coordinatizing matrices]]
+# [[Coordinatizing matrices]] 
+![[Coordinatizing matrices]]

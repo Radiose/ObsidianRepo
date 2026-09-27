@@ -70,4 +70,6 @@ LA:
 COORDINATING MATRICES
 
 
-Annihilator: $\{ \phi \in V^V | \phi \}$
+Annihilator: $ann(u)=\{ \phi \in V^V | \phi(u)=0 \forall u\in V \}$
+$ann(ann(u))=u$
+$$
