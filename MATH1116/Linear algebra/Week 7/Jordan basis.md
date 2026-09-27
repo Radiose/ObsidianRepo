@@ -5,8 +5,7 @@ If $V = \bigoplus_{t=1}^m G(\lambda_{i},T)$, then there exists a [[basis]] $\bet
 Except, instead of 0s, there are repetitions of eigenvalues.
 
 Let $T$ be an [[linear operator|operator]] on a [[finite dimensional]] vector space $V$, and let $\lambda$ be its generalised eigenvalue. Then there is a basis $\beta=\{ \mathbf{v}_{1},\dots,\mathbf{v}_{n} \}$ of $U:=G(\lambda,T)$ such that in this basis, the matrix $\left[ T|_{U} \right]_{\beta}$ is above, with blocks $J_{\lambda,j}$
-
-A Jordan block is a matrix that looks like this, ![[Pasted image 20260927185650.png]]
+A Jordan block is a matrix that looks like this 
 ![[Pasted image 20260927185650.png]]
 
 
