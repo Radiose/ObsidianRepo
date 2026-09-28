@@ -175,13 +175,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Linear algebra/Week 6/Linear transformation of R n.md",
+                "file": "MATH1116/Analysis/Week 6/power series.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Linear transformation of R n"
+              "title": "power series"
             }
           },
           {
@@ -210,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -406,21 +406,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f900c541eb3fdd82",
+  "active": "00f95c3344b3637d",
   "lastOpenFiles": [
+    "MATH1013/Linear algebra/Week 6/Linear transformation of R n.md",
+    "MATH1116/Linear algebra/Week 5/annihilator.md",
+    "Excalidraw/MATH1116 w7.excalidraw.md",
     "MATH1116 revision adlay.md",
     "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
     "MATH1116/Linear algebra/Week 5/generalised eigenspace.md",
-    "MATH1116/Linear algebra/Week 5/annihilator.md",
     "MATH1116/Linear algebra/Week 3/linear map.md",
-    "MATH1013/Linear algebra/Week 6/Linear transformation of R n.md",
     "MATH1005/Week 6/Matrix multiplication.md",
     "MATH1013/Calculus/Week 3/derivative.md",
     "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
     "MATH1116/Linear algebra/Week 7/Cayley Hamilton theorem.md",
     "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
     "MATH1116/Linear algebra/Week 5/eigenspace.md",
-    "Excalidraw/MATH1116 w7.excalidraw.md",
     "Excalidraw/MATH1116 w6.excalidraw.md",
     "MATH1116/Linear algebra/Week 1/MATH1116 review.md",
     "MATH1116/Linear algebra/Week 4/standard basis and evaluation map.md",
