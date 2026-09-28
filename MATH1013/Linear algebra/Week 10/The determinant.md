@@ -14,6 +14,9 @@ This complex looking sum makes sense when the following is explained:
 3: The permutation can be thought of as a map from column to row. If a 3x3 matrix has permutation $(3,2,1)$, then this definition maps $(3,2,1)\to(1,2,3)$, where we have $A_{3,1}A_{2,2}A_{1,3}$
 
 
+# Eigenvalue definition 
+For a [[linear operator]] $T$, $\det(T)=\prod_{i}^m \lambda_{i}^{d_{i}}$, where $\lambda_{1},\dots \lambda_{m}$ are the [[eigenvalue]]s, with algebraic multiplicities$d_{1},\dots,d_{m}$
+
 # Motivation for the determinant 
 
 ###  Decomposing the area of a parallelogram 
@@ -107,7 +110,7 @@ we can represent Area$(T_{a}T_{b}(S_{1}))$ = $detA \times \det B \times Area(S)$
 Also, $\det(A^{-1}) = \frac{1}{\det A}$ if A is an invertible [[matrix]]
 
 
-# Applications 
+## Applications 
 
 Find the area of a shape bound by a standard ellipse 
 
@@ -117,7 +120,7 @@ Basically, the magnitude of the ellipse times the unit circle gives the answer. 
 
 
 
-# Three dimensions 
+## Three dimensions 
 Find the volume of a parallelepiped spanned by three vectors in $\mathbb{R}^3$
 Let vol($\vec{u},\vec{v},\vec{w}$) denote the oriented volume of the parallelepiped spanned by the three vectors 
 

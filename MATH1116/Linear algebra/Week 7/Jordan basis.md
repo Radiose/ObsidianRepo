@@ -1,15 +1,31 @@
+---
+aliases:
+  - Jordan block
+---
+# Jordan block 
+
+A Jordan block is a matrix that looks like this. We denote them $J_{\lambda,k}$, note that these matrices are $k\times k$
+![[Pasted image 20260927185650.png]]
+
+We denote the matrices below that make up the large image $N_{k}$, so $J_{\lambda ,k}=N_{k}+\lambda I$
+
+# Jordan basis
+
+
 If $V = \bigoplus_{t=1}^m G(\lambda_{i},T)$, then there exists a [[basis]] $\beta$ such that $\left[ T \right]_{\beta}$ = 
 
 ![[Pasted image 20260830160233.png|496]]
 
 Except, instead of 0s, there are repetitions of eigenvalues.
 
-Let $T$ be an [[linear operator|operator]] on a [[finite dimensional]] vector space $V$, and let $\lambda$ be its generalised eigenvalue. Then there is a basis $\beta=\{ \mathbf{v}_{1},\dots,\mathbf{v}_{n} \}$ of $U:=G(\lambda,T)$ such that in this basis, the matrix $\left[ T|_{U} \right]_{\beta}$ is above, with blocks $J_{\lambda,j}$
-A Jordan block is a matrix that looks like this 
-![[Pasted image 20260927185650.png]]
-
-
 # Theorem 
+Let $T$ be an [[linear operator|operator]] on a [[finite dimensional]] vector space $V$, and let $\lambda$ be its generalised eigenvalue. Then there is a basis $\beta=\{ \mathbf{v}_{1},\dots,\mathbf{v}_{n} \}$ of $U:=G(\lambda,T)$ such that in this basis, the matrix $\left[ T|_{U} \right]_{\beta}$ is above, with blocks $J_{\lambda,j}$
+
+
+
+
+
+# Theorem 2
 If $\mathbb{F}$ is [[algebraically closed field|algebraically closed]], and $\lambda_{1},\dots,\lambda_m$ are all distinct [[eigenvalue]]s of $T$, then  
 $1:V= \bigoplus G(\lambda,T)$ 
 2: $\exists$ a [[Jordan basis]] for $T$
