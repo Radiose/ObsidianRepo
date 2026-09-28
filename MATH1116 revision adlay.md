@@ -53,6 +53,9 @@ Limit is continuous:
 Remember the goal is to prove $\forall x \in [a,b]\quad \forall\epsilon>0\quad \exists\delta>0 \quad \lvert x-y \rvert<\delta \implies \lvert f(x)-f(y) \rvert<\epsilon$
 We know that $\forall n \in \mathbb{N}, \forall x \in[a,b]\quad\dots|x-y|\delta \implies |f_{n}(x)-f_{n}(y)|<\epsilon$
 So we use that, add in the $f_n(x)$ and y to the actual inequality, and from there we can control because $f_{n}-f$ is less than the sup norm ( which is less than epsilon chosen at the beginning)
+Note that this also 
+
+
 
 
 Power series:

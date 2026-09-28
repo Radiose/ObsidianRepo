@@ -80,7 +80,7 @@ Let $\sum a_{n}(x-c)^n$ have radius of convergence $r$.
 Then, $\sum \frac{a_{n}}{n+1}(x-c)^{n+1}$ has radius of convergence of $r$.
 Additionally, $\forall x \in (c-r,c+r)$, 
 $$\int_{0}^x \sum a_{n}(t-c)^n dt=\sum \frac{a_{n}}{n+1}(x-c)^{n+1}$$
-### Proof 
+### Proof
 let $x \in(c-r, c+r)$, $n \in \mathbb{N}$
 $\left| \frac{a_{n}}{{n+1}} (x-c)^{n+1}\right| \leq |a_{n}(x-c)^{n}| \cdot \left| x-c \right|$
 Since $\sum a_{n}(x-c)^n$ converges, via comparison test, so does $\sum \frac{a_{n}}{n+1}(x-c)^n$
