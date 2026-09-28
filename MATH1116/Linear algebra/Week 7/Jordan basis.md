@@ -16,12 +16,12 @@ If $V = \bigoplus_{t=1}^m G(\lambda_{i},T)$, then there exists a [[basis]] $\bet
 
 ![[Pasted image 20260830160233.png|496]]
 
-Except, instead of 0s, there are repetitions of eigenvalues.
+Except, instead of 0s, there are repetitions of eigenvalues. This gives the jordan normal form. 
 
 # Theorem 
-Let $T$ be an [[linear operator|operator]] on a [[finite dimensional]] vector space $V$, and let $\lambda$ be its generalised eigenvalue. Then there is a basis $\beta=\{ \mathbf{v}_{1},\dots,\mathbf{v}_{n} \}$ of $U:=G(\lambda,T)$ such that in this basis, the matrix $\left[ T|_{U} \right]_{\beta}$ is above, with blocks $J_{\lambda,j}$
-
-
+Let $T$ be an [[linear operator|operator]] on a [[finite dimensional]] vector space $V$, and let $\lambda$ be its generalised eigenvalue. Then there is a basis $\beta=\{ \mathbf{v}_{1},\dots,\mathbf{v}_{n} \}$ of $U:=G(\lambda,T)$ such that in this basis, the matrix $\left[ T|_{U} \right]_{\beta}$ is above, with blocks $J_{\lambda,j}$. 
+Note that each $\mathbf{v_{i}}$ in the basis is an element in each Jordan chain. 
+Note that a Jordan chain is $v_{1} \to v_{2}\to v_{3}\to {0}$, so  $v_{1},v_{2},v_{3}$ are each in the basis.  - this comes from [[nilpotent operator#Theorem 1]]
 
 
 
@@ -65,6 +65,4 @@ $(3)$ so $U \oplus W \subseteq V$, and by [[Rank nullity theorem]], $\ker(s^n)\o
 
 If $W\not=0$, then $T|_{w}$ has an [[eigenvalue]] (via the subproof)
 But, then the eigenvector $\mathbf{w}\in G(T,\lambda_{i})\subset U$, so $U \cap W \not= \{ 0 \}$
-And thus, contradiction, so $W=\{ 0 \}$
-
-
+And thus, contradiction, so $W=\{ 0 \}$.
