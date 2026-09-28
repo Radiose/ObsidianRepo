@@ -81,3 +81,5 @@ COORDINATING MATRICES
 Annihilator: $ann(u)=\{ \phi \in V^V | \phi(u)=0 \forall u\in V \}$
 $ann(ann(u))=u$
 $\ker(T^v)=ann(range(T))$
+$range(T^v)=ann(\ker(T))$
+$\dim(\ker(T^V))=\dim(W)-\dim(V)+\dim\ker(T)$
