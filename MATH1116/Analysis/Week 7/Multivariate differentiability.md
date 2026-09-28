@@ -7,7 +7,7 @@ We write $\lim_{ h \to \infty } \frac{1}{h} \left[ f(t+h)-f(t) \right]=\ell$
 # Theorem 1
 Let $f:\mathbb{R}\to \mathbb{R}^n$
 Define $x_{j}:\mathbb{R}\to \mathbb{R}$
-	$t \mapsto f(t)\cdot x_{j}$
+	$t \mapsto f(t)\cdot e_{j}$
 $f$ is [[derivative|differentiable]] at $t \in \mathbb{R}$ if and only if $x_{j}$ is differentiable at $t \in \mathbb{R}$
 Moreover, $f'(t)=(x_{1}'(t)\cdot e_{1},x_{2}'(t)\cdot e_{2},\dots,x_{n}'(t)\cdot e_{n})$
 

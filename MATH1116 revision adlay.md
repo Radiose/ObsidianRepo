@@ -58,6 +58,7 @@ Note that this also
 
 
 
+
 Power series:
 Require uniform convergence to be created. The idea is that $f_{N}(x)=\sum_{n=1}^N a_{n}(x-c)^n$ converges uniformly to $f(x)$ when $x$ is in the radius of convergence 
 
