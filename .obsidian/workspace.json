@@ -11,12 +11,15 @@
             "id": "4961ec28dd0cee41",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/MATH1116 w5.excalidraw.md"
+                "file": "MATH1116/Analysis/Week 1/series.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MATH1116 w5.excalidraw"
+              "icon": "lucide-file",
+              "title": "series"
             }
           },
           {
@@ -109,7 +112,8 @@
               "title": "dual map"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -305,11 +309,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4961ec28dd0cee41",
+  "active": "7f0cccb307aafa3d",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 5/dual map.md",
-    "Excalidraw/MATH1116 w5.excalidraw.md",
+    "MATH1116/Analysis/Week 1/series.md",
+    "MATH1005/Week 5/Geometric series.md",
     "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
+    "Excalidraw/MATH1116 w5.excalidraw.md",
+    "MATH1116/Linear algebra/Week 5/dual map.md",
     "MATH1116/Linear algebra/Week 7/Cayley Hamilton theorem.md",
     "MATH1013/Calculus/Week 3/Quotient rule.md",
     "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
@@ -329,10 +335,8 @@
     "MATH1116/Linear algebra/Week 2/basis.md",
     "Excalidraw/MATH1116 w7.excalidraw.md",
     "MATH1116/Linear algebra/Week 5/annihilator.md",
-    "MATH1005/Week 5/Geometric series.md",
     "MATH1013/Calculus/Week 7/Integration by parts.md",
     "MATH1013/Calculus/Week 7/Integration by substitution.md",
-    "MATH1116/Linear algebra/Week 7/Jordan basis.md",
     "attachments/Pasted image 20260927185650.png",
     "attachments/Pasted image 20260927185427.png",
     "attachments/Pasted image 20260923135706.png",
