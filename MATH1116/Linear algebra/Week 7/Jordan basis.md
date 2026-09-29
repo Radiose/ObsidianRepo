@@ -14,7 +14,7 @@ We denote the matrices below that make up the large image $N_{k}$, so $J_{\lambd
 
 If $V = \bigoplus_{t=1}^m G(\lambda_{i},T)$, then there exists a [[basis]] $\beta$ such that $\left[ T \right]_{\beta}$ = 
 
-![[Pasted image 20260830160233.png|496]]
+
 
 Except, instead of 0s, there are repetitions of eigenvalues. This gives the jordan normal form. 
 
@@ -66,3 +66,8 @@ $(3)$ so $U \oplus W \subseteq V$, and by [[Rank nullity theorem]], $\ker(s^n)\o
 If $W\not=0$, then $T|_{w}$ has an [[eigenvalue]] (via the subproof)
 But, then the eigenvector $\mathbf{w}\in G(T,\lambda_{i})\subset U$, so $U \cap W \not= \{ 0 \}$
 And thus, contradiction, so $W=\{ 0 \}$.
+
+
+
+
+# Basic idea behind jordan normal form. 
