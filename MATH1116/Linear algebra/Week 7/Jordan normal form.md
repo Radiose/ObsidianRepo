@@ -89,3 +89,5 @@ And thus, contradiction, so $W=\{ 0 \}$.
 
 $2$ can be proven by applying [[Jordan normal form#Corollary]] to each $G(\lambda_{i},T)$ 
 $\blacksquare$
+
+![[Algorithm for finding Jordan normal form]]

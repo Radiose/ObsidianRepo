@@ -16,3 +16,5 @@ $\begin{matrix}[a_{1},a_{2},a_{3}\dots] \\ [a_{m_{1}},a_{m_{2}},a_{m_{3}}\dots]\
 
 Two lines cross each other when each equation is satisfied. This can be accomplished by finding a solution to a linear equation. If x and y both satisfy each equation, then thats the point they cross.
 
+# Abstract definition 
+[[Coordinatizing matrices]]
