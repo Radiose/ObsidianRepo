@@ -15,7 +15,7 @@ This complex looking sum makes sense when the following is explained:
 
 
 # Eigenvalue definition 
-For a [[linear operator]] $T$, $\det(T)=\prod_{i}^m \lambda_{i}^{d_{i}}$, where $\lambda_{1},\dots \lambda_{m}$ are the [[eigenvalue]]s, with algebraic multiplicities$d_{1},\dots,d_{m}$
+For a [[linear operator]] $T$, $\det(T)=\prod_{i}^m \lambda_{i}^{d_{i}}$, where $\lambda_{1},\dots \lambda_{m}$ are the [[eigenvalue]]s, with algebraic multiplicities $d_{1},\dots,d_{m}$
 
 # Motivation for the determinant 
 

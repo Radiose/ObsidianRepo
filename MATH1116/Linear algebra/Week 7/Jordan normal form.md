@@ -1,6 +1,7 @@
 ---
 aliases:
   - Jordan block
+  - Jordan basis
 ---
 # Jordan block 
 
@@ -11,6 +12,22 @@ We denote the matrices below that make up the large image $N_{k}$, so $J_{\lambd
 
 # Jordan basis
 
+# Corollary 
+corollary to [[nilpotent operator#Theorem 1]]
+
+Let $T$ be an [[linear operator|operator]] on a [[finite dimensional]] vector space $V$, and let $\lambda$ be its generalised eigenvalue. Then there is a basis $\beta=\{ \mathbf{v}_{1},\dots,\mathbf{v}_{n} \}$ of $U:=G(\lambda,T)$ such that in this basis, the matrix $\left[ T|_{U} \right]_{\beta}$ is block diagonal, with blocks $J_{\lambda,j}$. 
+
+### Proof 
+This comes from the application of [[nilpotent operator#Theorem 1]] to $N:=T|_{U} - \lambda I$
+
+
+This gives a Jordan basis restricted to a singular generalised eigenspace. 
+
+# Jordan normal form 
+A Jordan normal form is described as the matrix presentation of a Jordan basis.
+
+![[Pasted image 20260930135336.png]]
+A Jordan normal form looks like this, where each $A_{i}$ is a Jordan block. 
 
 If $V = \bigoplus_{t=1}^m G(\lambda_{i},T)$, then there exists a [[basis]] $\beta$ such that $\left[ T \right]_{\beta}$ = 
 
@@ -18,17 +35,20 @@ If $V = \bigoplus_{t=1}^m G(\lambda_{i},T)$, then there exists a [[basis]] $\bet
 
 Except, instead of 0s, there are repetitions of eigenvalues. This gives the jordan normal form. 
 
-# Theorem 
-Let $T$ be an [[linear operator|operator]] on a [[finite dimensional]] vector space $V$, and let $\lambda$ be its generalised eigenvalue. Then there is a basis $\beta=\{ \mathbf{v}_{1},\dots,\mathbf{v}_{n} \}$ of $U:=G(\lambda,T)$ such that in this basis, the matrix $\left[ T|_{U} \right]_{\beta}$ is above, with blocks $J_{\lambda,j}$. 
+
+
+
+
 Note that each $\mathbf{v_{i}}$ in the basis is an element in each Jordan chain. 
 Note that a Jordan chain is $v_{1} \to v_{2}\to v_{3}\to {0}$, so  $v_{1},v_{2},v_{3}$ are each in the basis.  - this comes from [[nilpotent operator#Theorem 1]]
+
 
 
 
 # Theorem 2
 If $\mathbb{F}$ is [[algebraically closed field|algebraically closed]], and $\lambda_{1},\dots,\lambda_m$ are all distinct [[eigenvalue]]s of $T$, then  
 $1:V= \bigoplus G(\lambda,T)$ 
-2: $\exists$ a [[Jordan basis]] for $T$
+2: $\exists$ a [[nilpotent operator|jordan basis]] for $T$
 
 ### Proof 
 The key to this proof is to prove that if $\mathbb{F}$ is algebraically closed, then $T$ has an [[eigenvalue]].
@@ -67,7 +87,5 @@ If $W\not=0$, then $T|_{w}$ has an [[eigenvalue]] (via the subproof)
 But, then the eigenvector $\mathbf{w}\in G(T,\lambda_{i})\subset U$, so $U \cap W \not= \{ 0 \}$
 And thus, contradiction, so $W=\{ 0 \}$.
 
-
-
-
-# Basic idea behind jordan normal form. 
+$2$ can be proven by applying [[Jordan normal form#Corollary]] to each $G(\lambda_{i},T)$ 
+$\blacksquare$
