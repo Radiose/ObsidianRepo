@@ -130,13 +130,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 7/Algorithm for finding Jordan normal form.md",
+                "file": "MATH1116/Analysis/Week 7/multivariate integration.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Algorithm for finding Jordan normal form"
+              "title": "multivariate integration"
             }
           },
           {
@@ -352,9 +352,9 @@
   },
   "active": "770bb22e9a729abe",
   "lastOpenFiles": [
+    "MATH1116/Linear algebra/Week 7/Algorithm for finding Jordan normal form.md",
     "attachments/Pasted image 20260930161040.png",
     "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
-    "MATH1116/Linear algebra/Week 7/Algorithm for finding Jordan normal form.md",
     "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
     "MATH1013/Linear algebra/Week 1/matrix.md",
     "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
@@ -387,7 +387,6 @@
     "attachments/Pasted Image 20260921132617_583.png",
     "attachments/Pasted image 20260920125741.png",
     "attachments/Pasted image 20260920110552.png",
-    "attachments/Pasted image 20260902162257.png",
     "templates",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
     "MATH1116",

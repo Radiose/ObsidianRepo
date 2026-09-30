@@ -1,4 +1,21 @@
-# Algorithm for finding [[Jordan normal form]]
+# Intuitive understanding of the algorithm 
+
+This algorithm revolves around finding chains of eigenvectors. 
+We first construct nested spaces $\ker N \subset \ker N^2 \subset\dots$
+We record what new vectors occur at each level. 
+
+$B_{r}$ corresponds to chains of length $r$, what our algorithm is attempting to do is to identify which newly added vectors should become the top of Jordan chains. 
+
+After extracting the longest chains, we descend down. This is to basically ensure that each lower power kernel will have the eigenvector removed. For example, if $N^4(v)=0$, then we dont count that chain in the dimension of $\ker(N^3)$.
+
+$C_{r}$ then aims to find the new chains of length $r$ after accounting for the longer chains we've already constructed. 
+
+We continue until we reach the chains of length $1$.
+
+
+
+
+### Algorithm for finding [[Jordan normal form]]
 
 First, compute the characteristic polynomial $\chi_{T}(z)=\det(zI-T)$
 Its roots are exactly $T$'s [[eigenvalue]]s, to the power of their algebraic multiplicities $d_{1},\dots,d_{k}$
