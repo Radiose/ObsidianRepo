@@ -6,3 +6,4 @@ For real numbers, this is just the [[standard basis and evaluation map|standard 
 
 ### Notation 
 We also use the notation $(e_{k})^n_{k=1}$ for the canonical basis - range from $k=1$ to $n$
+
