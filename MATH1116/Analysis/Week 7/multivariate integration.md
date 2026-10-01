@@ -11,4 +11,11 @@ $$\int_{\mathcal{C}} F(x) \cdot dx :=\int F(x(t))\cdot x'(t)dt$$
 $$\int_{\mathcal{C}}f(x)dx:= \int_{a}^b f(x(t))x'(t)dt \in \mathbb{R}^n$$
 Intuitively, this can be established from $\frac{dx}{dt}=x'(t),$ so $dx=x'(t)dt$ (not mathematically, but intuitively), where the variation on the curve, can be bought back to the variation of the parameter $t$, that you multiply by $x'(t)$. Or even simpler, the $dx$ gets changed into $x'(t)dt$.
 
+## Remark
+Look at the third integral we have. The same concept of [[The fundamental theorem of calculus]] applies to this one, where we are summing up the changes in the tangent [[vector]] $x'(t)dt$.
+
+
+
+
+
 ![[arc length parametrisation]]

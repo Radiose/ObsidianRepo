@@ -19,4 +19,25 @@ Note that $\sigma$ is increasing from $[0,1]$, to $[0,\sigma(1)]$, so it is a [[
 Finally, we have that $$\mathcal{C}=\{ y(\sigma^{-1}(s));s \in[0,\sigma(1)] \}$$ 
 We call $z:[0,\sigma(1)]\to \mathbb{R}^n$
 	$s \mapsto y(\sigma^{-1}(s)))$ the [[arc length parametrisation]] of $\mathcal{C}$
-	
+
+# Proposition 
+Let $\mathcal{C}=\{ x(t);t\in[a,b] \}$ and $z:[0,\sigma(1)]$ be its [[arc length parametrisation]]. 
+Let $F:\mathbb{R}^n \to \mathbb{R}^n$ and $f:\mathbb{R}^n \to \mathbb{R}$ be such that $t \mapsto F(x(t))$ and $t\mapsto f(x(t))$ are [[continuous function|continuous]] on $[a,b]$.
+
+Then, $$\int_{x(t);t\in[a,b]}F(x)\cdot dx=\int_{z(s);s \in[0,\sigma(1)]}F(x)\cdot dx$$and $$\int_{x(t);t\in[a,b]}f(x)dx=\int_{z(s);s \in[0,\sigma(1)]}f(x)dx$$
+### Proof 
+We define $y(t):=x(a+t(b-a))$ and $\sigma(t):=\int_{0}^t \lVert y'(s) \rVert ds$ for all $t\in[0,1]$
+
+Note that since $\sigma^{-1}(\sigma(s))=s$, $(\sigma^{-1})'(t)= \frac{1}{\sigma'(\sigma^{-1}(t))}=\frac{1}{\lVert y'(\sigma^{-1}t) \rVert}$ for all $t\in[0,\sigma(1)]$ ([[Inverse function|proof]] for the first one, and FTC for the denominator of second third ).
+So, for $s \in[0,\sigma(1)]$ $z'(s)=\frac{1}{\sigma'(\sigma^{{-1}}(s))}\cdot y'(\sigma^{-1}(s))=\frac{ y'(\sigma^{-1}(s)) }{\lVert y'(\sigma^{-1}(s)) \rVert}$. 
+
+Thus,$$
+\begin{aligned}
+\int_{\{z(s)\, s\in[0,\sigma(1)]\}} F(x)\cdot dx
+&= \int_0^{\sigma(1)} F\big(y(\sigma^{-1}(s))\big)\,\frac{y'(\sigma^{-1}(s))}{\sigma'(\sigma^{-1}(s))}\,ds \text{ via change of variable }\\
+&= \int_0^1 F(y(\tau))\,y'(\tau)\,d\tau \text{via another change of var} \\
+&= \int_0^1 F\big(x(a+\tau(b-a))\big)(b-a)\,x'\big(a+\tau(b-a)\big)\,d\tau \text{   COV} \\
+&= \int_a^b F(x(t))\,x'(t)\,dt
+= \int_{\{x(t);\,t\in[a,b]\}} F(x)\cdot dx.
+\end{aligned}$$
+A similar proof applies for $f(x) \blacksquare$
