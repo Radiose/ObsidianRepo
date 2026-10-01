@@ -19,3 +19,4 @@ Look at the third integral we have. The same concept of [[The fundamental theore
 
 
 ![[arc length parametrisation]]
+
