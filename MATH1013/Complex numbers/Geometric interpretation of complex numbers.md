@@ -28,7 +28,7 @@ This can be thought of as addition of [[vector]]s in $\mathbb{R}^2$
 	"aspectRatio": 1
 }
 ```
-##  Geometric representation of [[Complex conjugate]]s
+##  Geometric representation of [[complex conjugate]]s
 
 Note that $|z|=|\bar{z}|$ and $arg(z)=arg(|\bar{z}|)(mod (2\pi))$
 
