@@ -25,13 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 8/inner product.md",
+                "file": "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "inner product"
+              "title": "nilpotent operator"
             }
           },
           {
@@ -409,8 +409,8 @@
   },
   "active": "3c29d507ca8d9c1c",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 8/Inner product space.md",
     "MATH1116/Linear algebra/Week 8/inner product.md",
+    "MATH1116/Linear algebra/Week 8/Inner product space.md",
     "COMP3670/Week 8/Hard margin SVM.md",
     "COMP3670/Week 8/Support vector machine.md",
     "COMP3670/Week 8/Affine score.md",
