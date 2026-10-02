@@ -13,7 +13,7 @@ Operations:
 $\bar{z_{1}z_{2}} = \bar{z_{1}} + \bar{z_{2}}$ 
 $\bar{z_{1}z_{2}}=\bar{z_{1}} \times  \bar{z_{2}}$
 
-This can be utilised extensively to solve quadratics, as getting one complex solution will give you the other one.
+This can be utilised extensively to solve quadratics, as getting one complex solution will give you the other one(under certain conditions that can be viewed in the [[Fundamental theorem of algebra]]).
 
 The complex conjugate also gives us some useful properties for a polynomial with all real coefficients, that is that all complex numbers must come in pairs 
 IE - you cannot have 3 strictly complex roots, and you cannot have one complex root and 2 real roots 
