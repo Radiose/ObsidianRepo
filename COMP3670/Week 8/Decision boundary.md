@@ -28,4 +28,9 @@ If $m_{i}>0$, the point is strictly on the correct side, and $m_{i}<0$ implies i
 Multiplying by $y_{i}$ treats both classes the same way.
 
 # Linearly separable
-We say a dataset $\mathcal{D}$ is linearly separable, if $$\forall i \in \{ 0,1\dots|\mathcal{D}| \},\exists \mathbf{w},b\text{ such that} m_{i}>0$$
+We say a dataset $\mathcal{D}$ is linearly separable, if $$\forall i \in \{ 0,1\dots|\mathcal{D}| \},\exists \mathbf{w},b\text{ such that  } m_{i}>0$$
+The margin of a separating classifier is $\gamma=min_{i=1,\dots,n}\ \ \gamma_{i}$
+
+A perturbation $\delta$ with $\lVert \delta \rVert_{2}<\gamma_{i}$ cannot change the prediction for that point. Additionally, a larger training margin does not itself guarantee predictions on unseen data.
+
+![[Support vector machine]]
