@@ -1,5 +1,14 @@
 A norm of a [[vector]] is defined in relation to an [[inner product]].
-$\lVert \mathbf{u} \rVert=\sqrt{ \langle \mathbf{u},\mathbf{v} \rangle }$
+A norm on a [[vector space]] $V$ has the following properties:
+(1) $\lVert \mathbf{v} \rVert\geq 0\quad \forall \mathbf{v}\in V$
+(2) $\lVert \mathbf{v} \rVert=\mathbf{0}\iff \mathbf{v=0}$
+(3) $\lVert \lambda \mathbf{v} \rVert= \lvert \lambda \rvert \lVert \mathbf{v} \rVert\quad \forall \lambda \in \mathbb{F},\ \ \forall v\in V$
+(4) $\lVert \mathbf{v+u} \rVert\leq \lVert \mathbf{v} \rVert+\lVert \mathbf{u} \rVert$
+(5) $\lVert \mathbf{u} \rVert=\sqrt{ \langle \mathbf{u},\mathbf{v} \rangle }$
+
+
+
+
 
 # Theorem (Pythagorean)
 If $\mathbf{v},\mathbf{w}$ are [[orthogonal vectors|orthogonal]], $\lVert \mathbf{u}+\mathbf{w} \rVert^2=\lVert \mathbf{u} \rVert^2+\lVert \mathbf{v} \rVert^2$
