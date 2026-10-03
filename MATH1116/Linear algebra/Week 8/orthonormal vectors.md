@@ -39,4 +39,4 @@ Suppose $V$ is [[finite dimensional]]. Choose some basis $\{ \mathbf{v}_{1},\dot
 Let $\mathbf{e}_{1}=\frac{\mathbf{v_{1}}}{\lVert \mathbf{v}_{1} \rVert}$. Note that $\lVert \mathbf{e}_{1} \rVert=\left\lVert  \frac{\mathbf{v}_{1}}{\lVert \mathbf{v}_{1} \rVert}  \right\rVert=\frac{1}{\lVert \mathbf{v}_{1} \rVert}\cdot \lVert \mathbf{v}_{1} \rVert=1$
 
 For $j=2,..,m$, define $\mathbf{e}_{j}$ inductively by $$\mathbf{e}_{j}=\frac{\mathbf{v}_{j}-\langle \mathbf{v}_{j},\mathbf{e}_{1} \rangle\mathbf{e}_{1}-\dots-\langle \mathbf{v}_{j},\mathbf{e}_{j-1} \rangle\mathbf{e}_{j-1}  }{\lVert \mathbf{v}_{j}-\langle \mathbf{v}_{j},\mathbf{e}_{1} \rangle\mathbf{e}_{1}-\dots-\langle \mathbf{v}_{j},\mathbf{e}_{j-1} \rangle\mathbf{e}_{j-1} \rVert }$$
-If we can show that $\{ \mathbf{e}_{1},\dots,\mathbf{e}_{m} \}$ is an orthonormal set of vectors in $V$ such that $$
+If we can show that $\{ \mathbf{e}_{1},\dots,\mathbf{e}_{m} \}$ is an orthonormal set of vectors in $V$ such that $span\{  \mathbf{v}_{1},\dots,\mathbf{v}_{j}\}=span \{ \mathbf{e}_{1},\dots,\mathbf{e}_{j} \}$ for $j=1,\dots,m$, then $\{ \mathbf{e}_{1},\dots,\mathbf{e}_{m} \}$ is a basis. 
