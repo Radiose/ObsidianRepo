@@ -21,6 +21,7 @@ $\langle \mathbf{u},\mathbf{v} \rangle=\overline{\langle \mathbf{v},\mathbf{u} \
 
 #### Consequences:
 Additivity and homogeneity imply that a fixed $\langle \_,\mathbf{v} \rangle$ is a [[linear map]]
+Additionally, it allows for [[orthogonal vectors|orthogonal]] projection which leads to things like [[Gauss least squares]]
 
 
 ### Examples 
