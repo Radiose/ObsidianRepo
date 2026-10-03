@@ -37,7 +37,6 @@ This proof uses the Graham-Schmidt procedure.
 
 Suppose $V$ is [[finite dimensional]]. Choose some basis $\{ \mathbf{v}_{1},\dots,\mathbf{v}_{n} \}$ of $V$
 Let $\mathbf{e}_{1}=\frac{\mathbf{v_{1}}}{\lVert \mathbf{v}_{1} \rVert}$. Note that $\lVert \mathbf{e}_{1} \rVert=\left\lVert  \frac{\mathbf{v}_{1}}{\lVert \mathbf{v}_{1} \rVert}  \right\rVert=\frac{1}{\lVert \mathbf{v}_{1} \rVert}\cdot \lVert \mathbf{v}_{1} \rVert=1$
-Then, define $\mathbf{u}_{j}=\mathbf{v}_{j}-\langle \mathbf{v}_{j},\mathbf{e}_{1} \rangle\mathbf{e}_{1}-\dots-\langle \mathbf{v}_{j},\mathbf{e}_{j-1} \rangle\mathbf{e}_{j}$ (we define $\mathbf{e}_{j}$ in a similar way)
 
-Suppose $1 \leq k < j$, then $\langle \mathbf{u_{j}},\mathbf{e}_{k} \rangle$ = $\langle \mathbf{v}_{j},\mathbf{e}_{k} \rangle-\langle \mathbf{v}_{j},\mathbf{e}_{j-1} \rangle\langle \mathbf{e}_{j-1},\mathbf{e}_{k} \rangle$
-$=\langle \mathbf{v}_{j},\mathbf{e}_{k} \rangle$
+For $j=2,..,m$, define $\mathbf{e}_{j}$ inductively by $$\mathbf{e}_{j}=\frac{\mathbf{v}_{j}-\langle \mathbf{v}_{j},\mathbf{e}_{1} \rangle\mathbf{e}_{1}-\dots-\langle \mathbf{v}_{j},\mathbf{e}_{j-1} \rangle\mathbf{e}_{j-1}  }{\lVert \mathbf{v}_{j}-\langle \mathbf{v}_{j},\mathbf{e}_{1} \rangle\mathbf{e}_{1}-\dots-\langle \mathbf{v}_{j},\mathbf{e}_{j-1} \rangle\mathbf{e}_{j-1} \rVert }$$
+If we can show that $\{ \mathbf{e}_{1},\dots,\mathbf{e}_{m} \}$ is an orthonormal set of vectors in $V$ such that $$
