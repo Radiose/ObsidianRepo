@@ -56,10 +56,15 @@
             "id": "d5407b566fcde3d1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "MATH1013/Linear algebra/Week 3/parametric vector form.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "parametric vector form"
             }
           },
           {
@@ -276,6 +281,8 @@
   },
   "active": "d5407b566fcde3d1",
   "lastOpenFiles": [
+    "MATH1116/Analysis/Week 3/The ratio test.md",
+    "MATH1005/Week 6/Matrix multiplication.md",
     "MATH1013/Calculus/Week 3/very important limit.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 3/The formal definition of a limit.md",
     "MATH1013/Calculus/Week 2/continuous function.md",
@@ -300,9 +307,7 @@
     "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
     "COMP3670/Week 8/Support vector machine.md",
     "COMP3670/Week 8/Hard margin SVM.md",
-    "MATH1116/Linear algebra/Week 8/Cauchy-schwarz inequality.md",
     "attachments/Ink/Drawing/2026.10.2 - 19.05pm.svg",
-    "MATH1013/Complex numbers/Fundamental theorem of algebra.md",
     "attachments/Pasted Image 20261002160549_035.png",
     "attachments/Pasted Image 20261002160252_638.png",
     "attachments/Pasted image 20261002091636.png",
