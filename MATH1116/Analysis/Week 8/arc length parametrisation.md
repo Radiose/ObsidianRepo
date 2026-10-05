@@ -35,7 +35,7 @@ Thus,$$
 \begin{aligned}
 \int_{\{z(s)\, s\in[0,\sigma(1)]\}} F(x)\cdot dx
 &= \int_0^{\sigma(1)} F\big(y(\sigma^{-1}(s))\big)\,\frac{y'(\sigma^{-1}(s))}{\sigma'(\sigma^{-1}(s))}\,ds \text{ via change of variable }\\
-&= \int_0^1 F(y(\tau))\,y'(\tau)\,d\tau \text{via another change of var} \\
+&= \int_0^1 F(y(\tau))\,y'(\tau)\,d\tau \text{  via another change of var} \\
 &= \int_0^1 F\big(x(a+\tau(b-a))\big)(b-a)\,x'\big(a+\tau(b-a)\big)\,d\tau \text{   COV} \\
 &= \int_a^b F(x(t))\,x'(t)\,dt
 = \int_{\{x(t);\,t\in[a,b]\}} F(x)\cdot dx.
