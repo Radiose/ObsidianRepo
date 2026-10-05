@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
+                "file": "MATH1116/Analysis/Week 4/pointwise convergence.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "uniform convergence and L1 norm convergence of sequence of functions"
+              "title": "pointwise convergence"
             }
           },
           {
@@ -310,6 +310,13 @@
   },
   "active": "f0bfea62e585ab9e",
   "lastOpenFiles": [
+    "MATH1116/Analysis/Week 7/multivariate integration.md",
+    "MATH1116/Analysis/Week 7/canonical basis.md",
+    "MATH1116/Analysis/Week 7/multivariate continuity.md",
+    "MATH1116/Analysis/Week 8/vector valued curve.md",
+    "MATH1116/Analysis/Week 8/arc length parametrisation.md",
+    "MATH1116/Analysis/Week 7/multivariate differentiability.md",
+    "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
     "MATH1116/Analysis/Week 6/applications of power series.md",
     "MATH1013/Calculus/Week 11/applications of integration.md",
     "MATH1116/Linear algebra/Week 8/inner product space.md",
@@ -329,13 +336,6 @@
     "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
     "MATH1013/Linear algebra/Week 5/Basis of a nullspace.md",
     "MATH1116/Analysis/Week 3/The ratio test.md",
-    "MATH1005/Week 6/Matrix multiplication.md",
-    "MATH1013/Calculus/Week 2/continuous function.md",
-    "MATH1116/Analysis/Week 7/multivariate integration.md",
-    "MATH1116/Linear algebra/Week 8/orthonormal vectors.md",
-    "MATH1116/Linear algebra/Week 8/orthogonal vectors.md",
-    "MATH1116/Linear algebra/Week 2/the basis theorem.md",
-    "MATH1116/Linear algebra/Week 8/inner product.md",
     "attachments/Ink/Drawing/2026.10.2 - 19.05pm.svg",
     "attachments/Pasted Image 20261002160549_035.png",
     "attachments/Pasted Image 20261002160252_638.png",
