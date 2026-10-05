@@ -6,7 +6,7 @@ Suppose that you wanted to get [[prefix code]]s with fixed lengths.
 this is the overall image of the lengths you can have in total (up to 4). 
 
 # Definition 
-For an [[prefix code]] $C$, its codeword lengths $\{ \ell_{1},\dots,\ell_{I} \}$ satisfy
+For a [[prefix code]] $C$, its codeword lengths $\{ \ell_{1},\dots,\ell_{I} \}$ satisfy
 $$\sum_{i_=1}^I 2^{-\ell_{i}}\leq {1}$$
 Conversely, if the set $\{ \ell_{1},\dots,\ell_{I} \}$ satisfy the above inequality, then there must exist a [[prefix code]] $C$ with those codeword lengths. 
 
