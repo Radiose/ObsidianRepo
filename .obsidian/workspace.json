@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Linear algebra/Week 3/parametric vector form.md",
+                "file": "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "parametric vector form"
+              "title": "characteristic polynomial"
             }
           },
           {
@@ -311,17 +311,18 @@
   },
   "active": "1b27ba2bc0bf665d",
   "lastOpenFiles": [
-    "MATH1013/Linear algebra/Week 10/The determinant.md",
-    "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
-    "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
-    "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
-    "MATH1013/Linear algebra/Week 3/parametric vector form.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 3/The formal definition of a limit.md",
     "MATH1013/Calculus/Week 3/very important limit.md",
+    "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
+    "MATH1116/Linear algebra/Week 5/eigenvector.md",
+    "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
+    "MATH1013/Linear algebra/Week 3/parametric vector form.md",
+    "MATH1013/Linear algebra/Week 10/The determinant.md",
+    "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
     "MATH1013/Linear algebra/Week 5/Basis of a nullspace.md",
     "Untitled.md",
     "MATH1116/Analysis/Week 3/The ratio test.md",
     "MATH1005/Week 6/Matrix multiplication.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 3/The formal definition of a limit.md",
     "MATH1013/Calculus/Week 2/continuous function.md",
     "MATH1116/Analysis/Week 7/multivariate integration.md",
     "MATH1116/Linear algebra/Week 8/orthonormal vectors.md",
@@ -336,7 +337,6 @@
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Integrable (spivak).md",
     "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
     "MATH1013/Calculus/Week 11/ordinary differential equation.md",
-    "MATH1116/Linear algebra/Week 5/dual map.md",
     "attachments/Ink/Drawing/2026.10.2 - 19.05pm.svg",
     "attachments/Pasted Image 20261002160549_035.png",
     "attachments/Pasted Image 20261002160252_638.png",
