@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 4/pointwise convergence.md",
+                "file": "MATH1116 A7.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "pointwise convergence"
+              "title": "MATH1116 A7"
             }
           },
           {
@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "diagonalisable operator"
             }
           },
           {
@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 5/Geometric series.md",
+                "file": "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Geometric series"
+              "title": "characteristic polynomial"
             }
           }
         ],
@@ -310,6 +310,15 @@
   },
   "active": "f0bfea62e585ab9e",
   "lastOpenFiles": [
+    "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
+    "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
+    "MATH1116/Linear algebra/Week 5/eigenvector.md",
+    "Untitled.md",
+    "MATH1116 A7.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 3/The formal definition of a limit.md",
+    "MATH1005/Week 5/Geometric series.md",
+    "MATH1116/Linear algebra/Week 1/trace.md",
+    "MATH1116/Analysis/Week 4/pointwise convergence.md",
     "MATH1116/Analysis/Week 7/multivariate integration.md",
     "MATH1116/Analysis/Week 7/canonical basis.md",
     "MATH1116/Analysis/Week 7/multivariate continuity.md",
@@ -320,22 +329,13 @@
     "MATH1116/Analysis/Week 6/applications of power series.md",
     "MATH1013/Calculus/Week 11/applications of integration.md",
     "MATH1116/Linear algebra/Week 8/inner product space.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 3/The formal definition of a limit.md",
-    "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
-    "Untitled.md",
     "MATH1013/Calculus/Week 3/very important limit.md",
-    "MATH1005/Week 5/Geometric series.md",
     "MATH1116/Analysis/Week 1/MATH1116 29.07.2026.md",
     "COMP2610/Week 7/expected code length.md",
     "COMP2610/Week 7/prefix code.md",
     "COMP2610/Week 7/Kraft inequality.md",
-    "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
-    "MATH1116/Linear algebra/Week 5/eigenvector.md",
     "MATH1013/Linear algebra/Week 3/parametric vector form.md",
     "MATH1013/Linear algebra/Week 10/The determinant.md",
-    "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
-    "MATH1013/Linear algebra/Week 5/Basis of a nullspace.md",
-    "MATH1116/Analysis/Week 3/The ratio test.md",
     "attachments/Ink/Drawing/2026.10.2 - 19.05pm.svg",
     "attachments/Pasted Image 20261002160549_035.png",
     "attachments/Pasted Image 20261002160252_638.png",
