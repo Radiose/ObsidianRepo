@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
+                "file": "COMP2610/Week 7/expected code length.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "diagonalisable operator"
+              "title": "expected code length"
             }
           }
         ],
@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.05028915405273,
-    "collapsed": true
+    "width": 287.05028915405273
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -311,9 +310,12 @@
   },
   "active": "1b27ba2bc0bf665d",
   "lastOpenFiles": [
+    "COMP2610/Week 7/prefix code.md",
+    "COMP2610/Week 7/expected code length.md",
+    "COMP2610/Week 7/Kraft inequality.md",
+    "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 3/The formal definition of a limit.md",
     "MATH1013/Calculus/Week 3/very important limit.md",
-    "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
     "MATH1116/Linear algebra/Week 5/eigenvector.md",
     "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
     "MATH1013/Linear algebra/Week 3/parametric vector form.md",
@@ -334,9 +336,6 @@
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 3/Limit lemma 1.md",
     "MATH1116/Linear algebra/Week 8/inner product space.md",
     "MATH1116/Linear algebra/Week 7/Algorithm for finding Jordan normal form.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Integrable (spivak).md",
-    "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
-    "MATH1013/Calculus/Week 11/ordinary differential equation.md",
     "attachments/Ink/Drawing/2026.10.2 - 19.05pm.svg",
     "attachments/Pasted Image 20261002160549_035.png",
     "attachments/Pasted Image 20261002160252_638.png",
