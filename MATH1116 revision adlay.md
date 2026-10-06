@@ -56,6 +56,9 @@ So we use that, add in the $f_n(x)$ and y to the actual inequality, and from the
 Note that this also 
 
 
+Proving convergence using uniform convergence is basically just 
+
+
 
 
 
