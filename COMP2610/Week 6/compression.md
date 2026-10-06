@@ -12,3 +12,6 @@ The main question is about quantifying this reliability.
 
 The goal is the send a smaller message on average when outcomes are from a fixed, known but uncertain source. 
 
+
+# Goal of compression 
+Mathematically, we have a goal of compression. 

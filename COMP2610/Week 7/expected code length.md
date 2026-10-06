@@ -15,4 +15,4 @@ The [[Kraft inequality]] can be used to convert the tuple of lengths $\{ \ell_{1
 Given code lengths $\ell_{1},\dots,\ell_{I}$ such that $\sum_{i=1}^I 2^{-2\ell_{i}}\leq {1}$, we define $\mathbf{q}=\{ q_{1},\dots q_{I} \}$, the probabilities for $\ell$, by $$q_{i}=\frac{2^{-\ell_{1}}}{z}$$ where $z=\sum_{i}2^{-\ell_{1}}$.
 
 Ensure that $q_{i}$ satisfy $\sum_{i} q_{i}=1$
-# Minimizing the expected code length 
+![[compression]]
