@@ -133,13 +133,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Calculus/Week 8/Odd and even functions.md",
+                "file": "MATH1116 W8.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Odd and even functions"
+              "title": "MATH1116 W8"
             }
           }
         ],
@@ -340,6 +340,9 @@
   },
   "active": "80b8f2a41e4b43f5",
   "lastOpenFiles": [
+    "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
+    "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
+    "MATH1013/Calculus/Week 8/Odd and even functions.md",
     "MATH1116/Analysis/Week 8/arc length parametrisation.md",
     "MATH1116 W8.md",
     "COMP2610/Week 7/expected code length.md",
@@ -363,9 +366,6 @@
     "MATH1013/Calculus/Week 11/applications of integration.md",
     "MATH1116/Linear algebra/Week 8/inner product space.md",
     "MATH1013/Calculus/Week 3/very important limit.md",
-    "MATH1116/Analysis/Week 1/MATH1116 29.07.2026.md",
-    "COMP2610/Week 7/prefix code.md",
-    "MATH1013/Linear algebra/Week 3/parametric vector form.md",
     "attachments/Ink/Drawing/2026.10.2 - 19.05pm.svg",
     "attachments/Pasted Image 20261002160549_035.png",
     "attachments/Pasted Image 20261002160252_638.png",
