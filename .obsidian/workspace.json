@@ -156,6 +156,36 @@
               "icon": "lucide-file",
               "title": "Jordan normal form"
             }
+          },
+          {
+            "id": "04b719357049c728",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1116/Analysis/Week 7/multivariate integration.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "multivariate integration"
+            }
+          },
+          {
+            "id": "4c5e168342bbfc10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/More theorems of continuity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "More theorems of continuity"
+            }
           }
         ],
         "currentTab": 8
@@ -231,7 +261,8 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -356,6 +387,9 @@
   "active": "80b8f2a41e4b43f5",
   "lastOpenFiles": [
     "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/More theorems of continuity.md",
+    "MATH1013/Calculus/Week 2/uniform continuity.md",
+    "MATH1116/Analysis/Week 7/multivariate integration.md",
     "MATH1116 W8.md",
     "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
     "attachments/Ink/Drawing/2026.10.6 - 14.43pm.svg",
@@ -373,7 +407,6 @@
     "MATH1005/Week 5/Geometric series.md",
     "MATH1116/Linear algebra/Week 1/trace.md",
     "MATH1116/Analysis/Week 4/pointwise convergence.md",
-    "MATH1116/Analysis/Week 7/multivariate integration.md",
     "MATH1116/Analysis/Week 7/canonical basis.md",
     "MATH1116/Analysis/Week 7/multivariate continuity.md",
     "MATH1116/Analysis/Week 8/vector valued curve.md",
@@ -381,7 +414,6 @@
     "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
     "MATH1116/Analysis/Week 6/applications of power series.md",
     "MATH1013/Calculus/Week 11/applications of integration.md",
-    "MATH1116/Linear algebra/Week 8/inner product space.md",
     "attachments/Ink/Drawing/2026.10.2 - 19.05pm.svg",
     "attachments/Pasted Image 20261002160549_035.png",
     "attachments/Pasted Image 20261002160252_638.png",
