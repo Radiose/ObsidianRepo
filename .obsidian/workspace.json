@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Integrable (spivak).md",
+                "file": "MATH1116 W8.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Integrable (spivak)"
+              "title": "MATH1116 W8"
             }
           },
           {
@@ -186,9 +186,49 @@
               "icon": "lucide-file",
               "title": "More theorems of continuity"
             }
+          },
+          {
+            "id": "95cdba1b8f43ad41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1013/Calculus/Week 10/L'Hopital's rule.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L'Hopital's rule"
+            }
+          },
+          {
+            "id": "9a3cd39e4877c034",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "47c6e769aebcf9d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1116 revision adlay.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MATH1116 revision adlay"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -383,14 +423,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "80b8f2a41e4b43f5",
+  "active": "47c6e769aebcf9d2",
   "lastOpenFiles": [
-    "MATH1116 A6.md",
-    "MATH1116 W8.md",
-    "COMP2610/Week 6/compression.md",
-    "COMP2610/Week 4/relative entropy.md",
     "MATH1116/Analysis/Week 7/multivariate integration.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/More theorems of continuity.md",
+    "MATH1013/Calculus/Week 10/L'Hopital's rule.md",
+    "MATH1116 W8.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Integrable (spivak).md",
+    "COMP2610/Week 6/compression.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 3/The formal definition of a limit.md",
+    "MATH1116 revision adlay.md",
+    "MATH1116 A6.md",
+    "COMP2610/Week 4/relative entropy.md",
     "COMP2610/Week 7/expected code length.md",
     "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
     "MATH1013/Calculus/Week 2/uniform continuity.md",
@@ -405,14 +449,10 @@
     "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
     "MATH1116/Linear algebra/Week 5/eigenvector.md",
     "Untitled.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 3/The formal definition of a limit.md",
     "MATH1005/Week 5/Geometric series.md",
     "MATH1116/Linear algebra/Week 1/trace.md",
     "MATH1116/Analysis/Week 4/pointwise convergence.md",
     "MATH1116/Analysis/Week 7/canonical basis.md",
-    "MATH1116/Analysis/Week 7/multivariate continuity.md",
-    "MATH1116/Analysis/Week 8/vector valued curve.md",
-    "MATH1116/Analysis/Week 7/multivariate differentiability.md",
     "attachments/Ink/Drawing/2026.10.2 - 19.05pm.svg",
     "attachments/Pasted Image 20261002160549_035.png",
     "attachments/Pasted Image 20261002160252_638.png",

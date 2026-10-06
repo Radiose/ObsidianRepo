@@ -5,6 +5,7 @@ W5:
 Determine $f_{n}(x)= n\exp(-nx)$ converges uniformly 
 Because integral limits commuting is a necessary condition for uniform convergence, proving that they dont means that $f_{n}$ must converge uniformly - could also work with continuous functions 
 
+
 W6:
 Determine whether a series of functions converges uniformly
 Idea: utilise integration by parts - comparison test - if the sup norm of the thing converges, then the series converges 
