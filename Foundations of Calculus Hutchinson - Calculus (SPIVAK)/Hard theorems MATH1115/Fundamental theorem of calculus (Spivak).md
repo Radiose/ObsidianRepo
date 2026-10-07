@@ -21,7 +21,7 @@ $$F'(c) = f(c).$$
 
 ### Proof 
 
-We will assume that $c$ is in $(a,b)$; the easy modifications for $c=a$ or $b$ may be supplied by the reader. By definition,
+We will assume that $c$ is in $(a,b)$; the easy modifications for $c=a$ or $b$ can be done. By definition,
 
 $$F'(c) = \lim_{h\to 0} \frac{F(c+h) - F(c)}{h}.$$
 

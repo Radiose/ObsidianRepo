@@ -11,7 +11,8 @@ discontinuities, then f is integrable on \[a, b]
 
 
 
-[[theorem]]
+Theorem:
+
 if f is [[MATH1013/Calculus/Week 7/integrable]] on \[a,b], and 
 
 P1,P2,P3... is any [[sequence]] of [[partition]]s of [a,b] such that $\lim_{ n \to \infty } ||P_{n}||=0$  and 
