@@ -27,7 +27,7 @@ and $\lVert x'_{n}(t)-x'_{m}(t) \rVert_{\infty}< \frac{\epsilon_{2}}{2C}$
 
 Then, $\lVert f(x_{n}(t))\cdot x'_{n}(t) -f(x_{m}(t))x'_{m}(t)\rVert_{\infty} = \lVert x'_{n}(f(x_{n}(t))-f(x_{m}(t)))+f(x_{m}(t))(x'_{n}(t)-x'_{m}(t)) \rVert_{\infty}$
 
-$\leq \lVert G(f(x_{m}(t))-f(x_{n}(t))) \rVert + \lVert C(x'_{n}(t)-x'_{m}(t)) \rVert< \frac{\epsilon_{2}}{2}+\frac{\epsilon_{2}}{2}$ thus uniformly cauchy.
+$\leq \lVert G(f(x_{m}(t))-f(x_{n}(t))) \rVert_{\infty} + \lVert C(x'_{n}(t)-x'_{m}(t)) \rVert_{\infty} < \frac{\epsilon_{2}}{2}+\frac{\epsilon_{2}}{2}$ thus uniformly cauchy.
 
 Because of this, $\lim_{ n \to \infty }\int_{0}^1 f(x_{n}(t))x_{n}'(t)dt=\int_{0}^1\lim_{ n \to \infty }f(x_{n}(t))x'_{n}(t)dt=\int_{0}^1 f(x(t))x'(t)$, where $x(t)$ and $x'(t)$ are the limits of $x_{n}(t)$ and $x'_{n}(t)$.
 Thus, the sequence is convergent.
@@ -41,14 +41,34 @@ f(t), & \text{if t }\in \mathbb{R^*}
 \\ (0,1/2), & \text{otherwise}
 \end{cases}$$
 as the extension of $f(t)$.
-We check that is it continuous. If $\lim_{ t \to 0 }f(t)=\left( \frac{0,1}{2} \right)$, then we know that the function is continuous. 
+
+We check that is it continuous. If $\lim_{ t \to 0 }f(t)=\left( 0,\frac{1}{2} \right)$, then we know that the function is continuous. 
 Via the lecture notes, if $\lim_{ x \to \infty }\frac{x-\sin(x)}{x^2}=0$, $\lim_{ x \to 0 } \frac{1-\cos x}{x^2}=0$, then $g(t)$ is continuous. 
 
-$\lim_{ x \to 0 } \frac{x-\sin(x)}{x^2}=\lim_{ x \to 0 } \frac{1-\cos(x)}{2x}=\lim_{ x \to 0 }\frac{\sin(x)}{2}=0$ via differentiability of numerator and denominator, and lhopitals rule. 
+$\lim_{ x \to 0 } \frac{x-\sin(x)}{x^2}=\lim_{ x \to 0 } \frac{1-\cos(x)}{2x}=\lim_{ x \to 0 }\frac{\sin(x)}{2}=0$ via differentiability of numerator and denominator, and L'Hopital's rule. 
 
-Similarly, $\lim_{ x \to 0 }\frac{1-\cos(x)}{x^2}=\frac{\sin(x)}{2x}=\frac{\cos(x)}{2}=\frac{1}{2}$.
+Similarly, $\lim_{ x \to 0 }\frac{1-\cos(x)}{x^2}= \lim_{ x \to 0 }\frac{\sin(x)}{2x}=\lim_{  x \to 0 }\frac{\cos(x)}{2}=\frac{1}{2}$ because each of the numerators and denominators were differentiable, thus we used L'Hopital's. 
 
-Now we show it has an axis of symmetry about 
+
+Now we show it has an axis of symmetry about the $y$ axis. Call $x(t) := \frac{t-\sin(t)}{t^2}$, $y(t):=\frac{1-\cos(t)}{t^2}$
+
+$\forall t\in \mathbb{R},\exists t_{2}\in \mathbb{R}\quad x(t)=-x(t_{2}),\ \ y(t)=y(t_{2})$ 
+Let $t \in \mathbb{R}$
+Choose $t_{2}=-t$
+Note that $sin(t)$ is "odd", so by definition, so $\sin(-t)=-\sin(t)$
+
+$\implies t-\sin(t)=t+\sin(-t)$
+$\implies t-\sin(t)=-1 \left( (-t)- \sin(-t)\right)$
+$\implies \frac{t-\sin(t)}{t^2}=-1\left( \frac{(-t)-\sin(-t)}{t^2} \right)$
+
+$\implies x(t)=-(x(-t))$ (because $(-t)^2=t^2$)
+
+And additionally, $\cos(t)=\cos(-t)$ by definition. 
+$\implies 1-\cos(t)=1-\cos(-t)$
+$\implies\frac{{1}-\cos(t)}{t^2}=\frac{1-\cos(-t)}{t^2}$ 
+So, $g(t)$ has an axis of symmetry about the $y$ axis. 
+
+
 
 
 3:
@@ -127,4 +147,16 @@ Thus, our total Jordan basis is $\{ \begin{bmatrix}0  \\  1  \\  2  \\  1\end{bm
 and our jordan normal form is $\begin{bmatrix}2  & 1 & 0 & 0 \\  0 & 2 & 0 & 0 \\0 & 0 & 3 & 0 \\  0 & 0 & 0 & 4  \end{bmatrix}$
 
 
-Reflection statement 
+5: Reflection statement 
+I used AI to help me work my way through problems. In particular, I produced one solution for question 1 and it turned out to be wrong because I misunderstood some principles of uniform convergence. This was very helpful and after it showed me my error, I redid my proof using a method that will actually work. For question 2, I used the internet to give me the statement for axis of symmetry. I could come up with the main idea of the statement, but it is much easier when you have the actual statement in front of you to prove. 
+
+I used AI to also help me solve part of question 3. It was a simple sum manipulation but I was going about it the wrong way and was incorrectly applying principles of analysis to linear algebra. Finally, I used AI to double check my row reductions were correct for question 4. I could have done this myself but I was feeling lazy. 
+
+I used help from my tutor during the workshop for question 2. 
+
+For the exams:
+Question 1: I understand the principles behind this, but I am not sure I would be able to solve it in an exam under time pressure. This is a familiar theme with this weeks problems. It possibly shows a lack of complete understanding. 
+2: I would be able to solve this in an exam, but I would probably not be able to make some parts of it as rigorous because I did not come up with statement myself. Again, it did say "show" instead of prove so I could probably informally show the axis did exist. 
+3: I would be able to solve most of this in an exam, but probably not completely or fully rigorously. Time crunch would also be a problem.
+
+4: I would not be able to solve a similar question in an exam currently, this is mainly because I have not memorised the JNF algorithm fully. I will need to spend time remembering how to actually get the JNF. The previous parts are also shaky(diagonalisable operators, eigenspace dimensions). I need more time working with that area of LA. 
