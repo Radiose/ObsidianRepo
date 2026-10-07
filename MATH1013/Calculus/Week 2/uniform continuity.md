@@ -1,3 +1,7 @@
+---
+aliases:
+  - uniformly continuous
+---
 uniform continuity
 
 This is a specific property of a continuous function defined by the following statement 

@@ -14,9 +14,11 @@ Define A $:= max(\lVert x_{1}(t) -x(t)\rVert_{\infty},\dots,\lVert x_{N}(t)-x(t)
 Define $G:= max(1,A)$
 Define $C$ as the upper bound on $f$, from its continuity.
 
-Additionally, note that because $f$ is uniformly continuous (it has a closed interval as domain and is continuous on it), there is some delta, such that $f$ is small for all values in its domain. For this reason we can choose $N$ such that $m,n>N$ has $|x_{n}(t)-x_{m}(t)|<\delta \quad \forall t$ by uniformly Cauchy.
+Additionally, note that because $f$ is uniformly continuous (it has a closed interval as domain and is continuous on it), 
+$\forall\epsilon >0\  \exists\delta > 0\ \forall t,t_{0}\in[0,1]^d\ \ \lvert t-t_{0} \rvert<\delta \implies |f(t)-f(t_{0})|<\epsilon$.
 
-Then, $\forall \epsilon > 0$, $\exists N\quad\forall n,m>N$$\lVert f(x_{n}(t))-f(x_{m}(t)) \rVert_{\infty}<\epsilon$.
+
+For this reason we can choose $N$ such that $m,n>N$ has $||x_{n}(t)-x_{m}(t)||_{\infty}<\delta \quad \forall t$ by uniformly Cauchy. Then, $\forall \epsilon > 0$, $\exists N\quad\forall n,m>N$$\lVert f(x_{n}(t))-f(x_{m}(t)) \rVert_{\infty}<\epsilon$.
 
 So, 
 
