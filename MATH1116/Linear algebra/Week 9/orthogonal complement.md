@@ -13,4 +13,4 @@ let $\mathbf{v}\in V$, and $\{ \mathbf{e}_{1},\dots,\mathbf{e}_{n} \}$ be an [[o
 Define $\mathbf{u}=\langle \mathbf{v},\mathbf{e}_{1} \rangle\mathbf{e}_{1}+\dots+\langle v,\mathbf{e}_{m} \rangle\mathbf{e}_{m} \in U$
 Define $\mathbf{w}:=\mathbf{v}-\mathbf{u}$ $\implies$$\mathbf{v}=\mathbf{u}+\mathbf{w}$
 We can check that $\forall i \in \{ 1,\dots,m \} ,\langle \mathbf{w},\mathbf{e}_{i} \rangle=0$
-$\langle \mathbf{w},\mathbf{e}_{i} \rangle=\langle \mathbf{v}-\mathbf{u},\mathbf{e}_{i} \rangle=\langle \mathbf{v},\mathbf{e}_{i} \rangle-\langle \sum_{j=1}^m \langle \mathbf{v},\mathbf{e}_{j} \rangle \rangle$
+$\langle \mathbf{w},\mathbf{e}_{i} \rangle=\langle \mathbf{v}-\mathbf{u},\mathbf{e}_{i} \rangle=\langle \mathbf{v},\mathbf{e}_{i} \rangle-\langle \sum_{j=1}^m \langle \mathbf{v},\mathbf{e}_{j} \rangle,\mathbf{e}_{j},\mathbf{e}_{i} \rangle$
