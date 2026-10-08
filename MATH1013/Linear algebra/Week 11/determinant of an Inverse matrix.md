@@ -24,7 +24,7 @@ $$\begin{aligned}
 \end{aligned}$$
 
 
-We notice a pattern, and as such define a [[theorem]]
+We notice a pattern, and as such define a theorem
 
 $(A^{-1})_{ij} = M_{ij} = \frac{C_{ji}}{\det A}= (-1)^{i+j}\det \frac{A_{ji}}{\det A}$
 

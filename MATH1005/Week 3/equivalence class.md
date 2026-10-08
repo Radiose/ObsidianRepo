@@ -11,7 +11,7 @@ The set of equivalent classes is a [[partition]] of s. There is no empty bucket 
 
 let F = $\{ (n,d)\ |\ n,d \in \mathbb{Z} \ and \ d\not=0 \}$
 for all $(n1, d1),(n2,d2) \in F$, we write $(n_{1}d_{1} \textasciitilde (n_{2}d_{2}) \iff (n_{1}d_{2} =n_{2}d_{2}))$
-[[theorem]]: $\textasciitilde$ is an [[equivalence relation]] on f
+theorem: $\textasciitilde$ is an [[equivalence relation]] on f
 
 Let T be the set of all ~ [[equivalence class]]es. This represents the set of all real numbers. 
 

@@ -1,4 +1,4 @@
-The fundamental [[theorem]] of algebra is as follows 
+The fundamental theorem of algebra is as follows 
 
 Any degree $n$ polynomial with [[Complex number|complex]] coefficients can be factored into the product of $n$ degree 1 polynomials with [[Complex number|complex]] coefficients. 
 

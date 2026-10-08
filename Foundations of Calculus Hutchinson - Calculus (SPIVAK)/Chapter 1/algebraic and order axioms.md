@@ -48,7 +48,7 @@ We define the operation $a-b$ to be $a+(-b)$, and we define $a \div b$ to be $a 
 
 
 ## Cancellation theorem 
-[[theorem]]:
+theorem:
 If $a, b, c$ are real numbers, and $a + c = b + c$, then $a = b$. Similarly, if $c + a = c + b \text{, then } a = b$.
 
 proof: 

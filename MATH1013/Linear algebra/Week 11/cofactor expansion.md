@@ -24,7 +24,7 @@ as cofactor expansion *with respect to the first column*
 
 Cofactor expansion is a powerful tool for proofs, but not super useful for raw calculations.
 
-[[theorem]]
+theorem
 
 Pick any col of A $\begin{bmatrix}a_{1i}  \\  a_{21}a. \\ . \\ . \\ . \\ a_{ni}\end{bmatrix}$
 We have $\det A = a_{1i}C_{1i}+a_{2i}C_{2i}+\dots+a_{ni}C_{ni}$ 

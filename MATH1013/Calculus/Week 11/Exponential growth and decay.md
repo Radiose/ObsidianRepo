@@ -17,6 +17,6 @@ $\implies y = Ae^{kt}$, where $A =e^C,-e^C, or$ 0
 We note that when $t = 0$, the solution gives $y = A$, that is $y(0) = A$
 Thus we write the general solution as $y = y(0)e^Ce^{kt}$
 
-[[theorem]] from ODEs 
+Theorem] from ODEs 
 The only solutions of $\frac{dy}{dt}=ky$ are the exponential functions: 
 $y = Ae^{kt}$ and $y = Ae^{-kt}$,

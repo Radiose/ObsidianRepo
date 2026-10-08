@@ -31,7 +31,7 @@ This part of the FTC tells us that every [[function]] defined as an [[Definite i
 
 If $f,F$ are [[function]]s defined on (a,b), then we say that F is an **antiderivative** of f on (a,b) if $F'(x) = f(x)$ for all x $\in (a,b)$
 
-[[theorem]]
+Theorem:
 
 i: Let g : $[a,b] \to \mathbb{R}$ be the [[function]] g(x) = $\int_{a}^x f(t)dt$. Then g is an antiderivative of f on (a,b).
 

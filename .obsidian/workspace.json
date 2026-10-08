@@ -218,17 +218,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 8/orthonormal vectors.md",
+                "file": "MATH1116/Linear algebra/Week 8/orthogonal vectors.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "orthonormal vectors"
+              "title": "orthogonal vectors"
+            }
+          },
+          {
+            "id": "cd735ca26faebdd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "orthogonal complement"
+            }
+          },
+          {
+            "id": "d707477accb53478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "orthogonal complement"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -305,8 +335,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.05028915405273,
-    "collapsed": true
+    "width": 287.05028915405273
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -424,34 +453,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "47c6e769aebcf9d2",
+  "active": "d707477accb53478",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 8/inner product.md",
-    "MATH1116/Linear algebra/Week 8/orthonormal vectors.md",
-    "MATH1116/Linear algebra/Week 8/orthogonal vectors.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylors theorem.md",
-    "MATH1013/Calculus/Week 6/Riemann sum.md",
-    "COMP3670 A2.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Fundamental theorem of calculus (Spivak).md",
+    "MATH1005/Week 1/theorem.md",
     "MATH1013/Calculus/Week 7/The fundamental theorem of calculus.md",
-    "MATH1013/Complex numbers/Fundamental theorem of algebra.md",
-    "MATH1013/Calculus/Week 7/integrable.md",
-    "MATH1013/Calculus/Week 2/uniform continuity.md",
-    "MATH1116 revision adlay.md",
-    "MATH1116 assignment 8.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 3/The formal definition of a limit.md",
-    "COMP2610/Week 7/expected code length.md",
-    "COMP2610/Week 6/compression.md",
-    "MATH1013/Calculus/Week 8/Odd and even functions.md",
-    "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
-    "MATH1116/Analysis/Week 7/multivariate integration.md",
-    "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/More theorems of continuity.md",
     "MATH1013/Calculus/Week 10/L'Hopital's rule.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Integrable (spivak).md",
-    "MATH1116 A6.md",
-    "COMP2610/Week 4/relative entropy.md",
-    "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
+    "MATH1013/Calculus/Week 3/intermediate value theorem.md",
+    "MATH1005/Week 10/Handshake theorem.md",
+    "MATH1013/Complex numbers/Fundamental theorem of algebra.md",
+    "MATH1013/Calculus/Week 4/Fermat's theorem.md",
+    "MATH1013/Calculus/Week 4/Extreme value theorem.md",
+    "MATH1005/Week 1/Disjunctive normal form.md",
+    "MATH1013/Calculus/Week 11/Exponential growth and decay.md",
+    "MATH1005/Week 3/equivalence class.md",
+    "MATH1013/Linear algebra/Week 11/determinant of an Inverse matrix.md",
+    "MATH1005/Week 1/Corollary.md",
+    "MATH1005/Week 10/Connected graph.md",
+    "MATH1013/Linear algebra/Week 11/cofactor expansion.md",
+    "MATH1005/Week 8/Binomial theorem.md",
+    "MATH1005/Week 9/Bayes theorem.md",
+    "MATH1013/Linear algebra/Week 5/Basis of a column space.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 1/algebraic and order axioms.md",
+    "MATH1005/Week 1/proof.md",
+    "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
+    "MATH1116/Linear algebra/Week 1/vector subspace.md",
+    "MATH1116/Linear algebra/Week 8/orthonormal vectors.md",
+    "MATH1116 final exam hints.md",
+    "MATH1116/Linear algebra/Week 8/orthogonal vectors.md",
+    "MATH1116/Linear algebra/Week 8/inner product.md",
     "attachments/Ink/Drawing/2026.10.6 - 14.43pm.svg",
     "attachments/Ink/Drawing/2026.10.6 - 14.38pm.svg",
     "attachments/Ink/Drawing/2026.10.2 - 19.05pm.svg",

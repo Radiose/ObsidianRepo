@@ -1,6 +1,6 @@
-Binomial [[theorem]]
+Binomial theorem
 
-The binomial [[theorem]] states that $(x+y)^n = \begin{pmatrix}n  \\  0\end{pmatrix}y^nx^n + \begin{pmatrix} n  \\ 1\end{pmatrix}y^{n-1}x^{1}+\dots+ \begin{pmatrix} n  \\  n\end{pmatrix} y^0 x^n$
+The binomial theorem states that $(x+y)^n = \begin{pmatrix}n  \\  0\end{pmatrix}y^nx^n + \begin{pmatrix} n  \\ 1\end{pmatrix}y^{n-1}x^{1}+\dots+ \begin{pmatrix} n  \\  n\end{pmatrix} y^0 x^n$
 So the coefficient is a product of n [[combination|choose]] some value. 
 
 The idea 
