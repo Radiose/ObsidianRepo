@@ -218,13 +218,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylors theorem.md",
+                "file": "MATH1116/Linear algebra/Week 8/orthonormal vectors.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Taylors theorem"
+              "title": "orthonormal vectors"
             }
           }
         ],
@@ -305,7 +305,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.05028915405273
+    "width": 287.05028915405273,
+    "collapsed": true
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -425,6 +426,10 @@
   },
   "active": "47c6e769aebcf9d2",
   "lastOpenFiles": [
+    "MATH1116/Linear algebra/Week 8/inner product.md",
+    "MATH1116/Linear algebra/Week 8/orthonormal vectors.md",
+    "MATH1116/Linear algebra/Week 8/orthogonal vectors.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylors theorem.md",
     "MATH1013/Calculus/Week 6/Riemann sum.md",
     "COMP3670 A2.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/Fundamental theorem of calculus (Spivak).md",
@@ -449,10 +454,6 @@
     "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
     "attachments/Ink/Drawing/2026.10.6 - 14.43pm.svg",
     "attachments/Ink/Drawing/2026.10.6 - 14.38pm.svg",
-    "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
-    "MATH1116/Analysis/Week 8/arc length parametrisation.md",
-    "COMP2610/Week 7/Kraft inequality.md",
-    "MATH1116/Linear algebra/Week 5/eigenvector.md",
     "attachments/Ink/Drawing/2026.10.2 - 19.05pm.svg",
     "attachments/Pasted Image 20261002160549_035.png",
     "attachments/Pasted Image 20261002160252_638.png",

@@ -2,6 +2,7 @@
 aliases:
   - orthonormal
   - orthonormal basis
+  - Gram-Schmidt procedure
 ---
 # Definition 
 A set of vectors $\{ \mathbf{e_{1}},\dots,\mathbf{e}_{n} \}$ in $V$ are orthonormal if $\langle \mathbf{e}_{i},\mathbf{e}_{j} \rangle=\delta_{i,j}$
@@ -33,7 +34,7 @@ via [[the basis theorem]]
 # Theorem 
 If $\dim(V)=n<\infty$, then $V$ has an [[orthonormal vectors|orthonormal basis]]
 ### Proof 
-This proof uses the Graham-Schmidt procedure. 
+This proof uses the Gram-Schmidt procedure. 
 
 Suppose $V$ is [[finite dimensional]]. Choose some basis $\{ \mathbf{v}_{1},\dots,\mathbf{v}_{n} \}$ of $V$
 Let $\mathbf{e}_{1}=\frac{\mathbf{v_{1}}}{\lVert \mathbf{v}_{1} \rVert}$. Note that $\lVert \mathbf{e}_{1} \rVert=\left\lVert  \frac{\mathbf{v}_{1}}{\lVert \mathbf{v}_{1} \rVert}  \right\rVert=\frac{1}{\lVert \mathbf{v}_{1} \rVert}\cdot \lVert \mathbf{v}_{1} \rVert=1$
