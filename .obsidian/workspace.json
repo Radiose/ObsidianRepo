@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
+                "file": "COMP3670 A2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "uniform convergence and L1 norm convergence of sequence of functions"
+              "title": "COMP3670 A2"
             }
           },
           {
@@ -127,7 +127,8 @@
               "title": "regression"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,8 +201,7 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -323,13 +323,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "04b719357049c728",
+  "active": "f348cd9abe5857a6",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 8/inner product.md",
+    "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
     "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
+    "MATH1116/Linear algebra/Week 8/inner product.md",
     "COMP3670 A2.md",
     "MATH1116/Linear algebra/Week 8/orthogonal vectors.md",
-    "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/More theorems of continuity.md",
     "COMP3670/Week 4/regression.md",
     "COMP3670/Week 6/linear regression loss.md",
