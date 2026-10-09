@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/More theorems of continuity.md",
+                "file": "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "More theorems of continuity"
+              "title": "uniform convergence and L1 norm convergence of sequence of functions"
             }
           },
           {
@@ -128,16 +128,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 6/linear regression loss.md",
+                "file": "COMP3670/Week 4/regression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "linear regression loss"
+              "title": "regression"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -332,17 +333,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "04b719357049c728",
+  "active": "4c5e168342bbfc10",
   "lastOpenFiles": [
-    "COMP3670/Week 6/linear regression loss.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/More theorems of continuity.md",
     "COMP3670 A2.md",
     "COMP3670/Week 4/regression.md",
+    "COMP3670/Week 6/linear regression loss.md",
+    "MATH1116/Analysis/Week 8/vector valued curve.md",
     "COMP3670/Week 2/loss function.md",
     "COMP2610/Week 6/source code.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/More theorems of continuity.md",
     "MATH1013/Calculus/Week 10/L'Hopital's rule.md",
     "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
-    "MATH1116/Analysis/Week 8/vector valued curve.md",
     "MATH1116/Analysis/Week 8/arc length parametrisation.md",
     "MATH1116/Analysis/Week 7/multivariate continuity.md",
     "MATH1116/Analysis/Week 7/open ball.md",
