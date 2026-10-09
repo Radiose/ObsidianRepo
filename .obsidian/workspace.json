@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670 A2.md",
+                "file": "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "COMP3670 A2"
+              "title": "orthogonal complement"
             }
           },
           {
@@ -200,7 +200,8 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -324,8 +325,10 @@
   },
   "active": "04b719357049c728",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 8/orthogonal vectors.md",
+    "MATH1116/Linear algebra/Week 8/inner product.md",
+    "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
     "COMP3670 A2.md",
+    "MATH1116/Linear algebra/Week 8/orthogonal vectors.md",
     "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/More theorems of continuity.md",
     "COMP3670/Week 4/regression.md",
@@ -334,7 +337,6 @@
     "COMP3670/Week 2/loss function.md",
     "COMP2610/Week 6/source code.md",
     "MATH1013/Calculus/Week 10/L'Hopital's rule.md",
-    "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
     "MATH1116/Analysis/Week 8/arc length parametrisation.md",
     "MATH1116/Analysis/Week 7/multivariate continuity.md",
     "MATH1116/Analysis/Week 7/open ball.md",
@@ -349,7 +351,6 @@
     "MATH1116 revision adlay.md",
     "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
     "MATH1013/Calculus/Week 3/very important limit.md",
-    "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
     "attachments/Ink/Drawing/2026.10.6 - 14.43pm.svg",
     "attachments/Ink/Drawing/2026.10.6 - 14.38pm.svg",
     "attachments/Ink/Drawing/2026.10.2 - 19.05pm.svg",
