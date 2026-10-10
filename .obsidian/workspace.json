@@ -235,7 +235,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.05028915405273
+    "width": 287.05028915405273,
+    "collapsed": true
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -356,6 +357,7 @@
   "active": "4c5e168342bbfc10",
   "lastOpenFiles": [
     "MATH1013/Calculus/Week 10/L'Hopital's rule.md",
+    "MATH1116/Analysis/Week 6/power series.md",
     "MATH1116/Analysis/Week 6/applications of power series.md",
     "MATH1116 revision adlay.md",
     "MATH1116/Linear algebra/Week 5/annihilator.md",
@@ -380,7 +382,6 @@
     "COMP3670/Week 6/linear regression loss.md",
     "MATH1116/Analysis/Week 8/vector valued curve.md",
     "COMP3670/Week 2/loss function.md",
-    "COMP2610/Week 6/source code.md",
     "attachments/Ink/Drawing/2026.10.6 - 14.43pm.svg",
     "attachments/Ink/Drawing/2026.10.6 - 14.38pm.svg",
     "attachments/Ink/Drawing/2026.10.2 - 19.05pm.svg",
