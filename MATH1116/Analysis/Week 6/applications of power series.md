@@ -12,5 +12,11 @@ For example, $\left\lvert  e^x - \sum_{n=0}^N \frac{x^n}{n!}  \right\rvert$ is t
 
 So for $x \in \left( 2,2 \right)$ to get $|e^x -\sum_{n=0}^N \frac{x^n}{n!}|\leq 10^{-4}$, we know our $x$ is never going to be greater than 2. 
 Thus, we aim to bind it. 
-$|e^x-\sum_{n=0}^N \frac{x^n}{n!}|=\sum_{N+1}^\infty \frac{2^n}{n!}=9 \sum_{N+1}^\infty\left( \frac{2}{3} \right)^n =18 \times \frac{\frac{2}{3}^{N+1}}{1-\frac{2}{3}}$
+$|e^x-\sum_{n=0}^N \frac{x^n}{n!}|=\sum_{N+1}^\infty \frac{2^n}{n!}=9 \sum_{N+1}^\infty\left( \frac{2}{3} \right)^n =18 \times \frac{\frac{2}{3}^{N+1}}{1-\frac{2}{3}}$ 
 
+# Differential equations 
+
+Power series can be used to solve [[ordinary differential equation|ODE]]s. Take the example of $y'(x)=-xy(x)\quad\forall x \in \mathbb{R},\quad y(0)=1$
+
+Assume that $y(x)=\sum_{n=0}^\infty a_{{n}}x^n\quad\forall x \in \mathbb{R}$ 
+Then, $\sum_{n=0}^\infty(n+1)a_{n+1}x^n =-x \sum_{n=0}^\infty a_{n}x^n=-\sum_{n=0}^\infty a_{n}x^{n+1}=\sum _{n=1}^\infty a_{n-1}x^n$
