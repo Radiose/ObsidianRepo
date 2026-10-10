@@ -20,3 +20,8 @@ Power series can be used to solve [[ordinary differential equation|ODE]]s. Take 
 
 Assume that $y(x)=\sum_{n=0}^\infty a_{{n}}x^n\quad\forall x \in \mathbb{R}$ 
 Then, $\sum_{n=0}^\infty(n+1)a_{n+1}x^n =-x \sum_{n=0}^\infty a_{n}x^n=-\sum_{n=0}^\infty a_{n}x^{n+1}=\sum _{n=1}^\infty a_{n-1}x^n$
+$\implies y(0)=a_{0}=1$
+
+Similarly, $y'(0)=0$
+$\implies \sum_{n=0}(n+1)a_{n+1}0^n=0$
+$\implies a_{1}=0$

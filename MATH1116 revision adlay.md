@@ -56,6 +56,7 @@ We know that $\forall n \in \mathbb{N}, \forall x \in[a,b]\quad\dots|x-y|\delta 
 So we use that, add in the $f_n(x)$ and y to the actual inequality, and from there we can control because $f_{n}-f$ is less than the sup norm ( which is less than epsilon chosen at the beginning)
 Note that this also 
 
+derivative
 
 Proving convergence using uniform convergence is basically just 
 
