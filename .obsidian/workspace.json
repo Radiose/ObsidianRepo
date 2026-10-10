@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 6/applications of power series.md",
+                "file": "MATH1116/Analysis/Week 6/power series.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "applications of power series"
+              "title": "power series"
             }
           },
           {
@@ -148,17 +148,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 5/annihilator.md",
+                "file": "MATH1116 revision adlay.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "annihilator"
+              "title": "MATH1116 revision adlay"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -353,8 +353,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6bf17cabd32d8809",
+  "active": "4c5e168342bbfc10",
   "lastOpenFiles": [
+    "MATH1013/Calculus/Week 10/L'Hopital's rule.md",
+    "MATH1116/Analysis/Week 6/applications of power series.md",
+    "MATH1116 revision adlay.md",
+    "MATH1116/Linear algebra/Week 5/annihilator.md",
     "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
     "MATH1116/Linear algebra/Week 4/standard basis and evaluation map.md",
     "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
@@ -363,9 +367,7 @@
     "MATH1116/Linear algebra/Week 3/invariant subspace.md",
     "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
     "MATH1116/Linear algebra/Week 8/Cauchy-schwarz inequality.md",
-    "MATH1116 revision adlay.md",
     "BIOL2161/Week 10/Onsen.md",
-    "MATH1116/Analysis/Week 6/applications of power series.md",
     "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
     "MATH1116/Analysis/Week 1/series.md",
     "MATH1013/Calculus/Week 11/ordinary differential equation.md",
@@ -379,8 +381,6 @@
     "MATH1116/Analysis/Week 8/vector valued curve.md",
     "COMP3670/Week 2/loss function.md",
     "COMP2610/Week 6/source code.md",
-    "MATH1013/Calculus/Week 10/L'Hopital's rule.md",
-    "MATH1116/Analysis/Week 8/arc length parametrisation.md",
     "attachments/Ink/Drawing/2026.10.6 - 14.43pm.svg",
     "attachments/Ink/Drawing/2026.10.6 - 14.38pm.svg",
     "attachments/Ink/Drawing/2026.10.2 - 19.05pm.svg",
