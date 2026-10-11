@@ -10,9 +10,16 @@ Define $x_{j}:\mathbb{R}\to \mathbb{R}$
 	$t \mapsto f(t)\cdot e_{j}$
 $f$ is [[derivative|differentiable]] at $t \in \mathbb{R}$ if and only if $x_{j}$ is differentiable at $t \in \mathbb{R}$
 Moreover, $f'(t)=(x_{1}'(t)\cdot e_{1},x_{2}'(t)\cdot e_{2},\dots,x_{n}'(t)\cdot e_{n})$
+### Proof 
+$\implies$
+
+
+
+
 
 # Theorem 2
 Let $f,g:\mathbb{R}\to \mathbb{R}^n$ be differentiable at $t\in \mathbb{R}$. Then, $$(f\cdot g)'(t)=f'(t)\cdot g(t)+f(t)\cdot g'(t)$$
+
 # Theorem 3 
 Let $f,g$ : $\mathbb{R}\to \mathbb{R}^n$ be differentiable at $t \in \mathbb{R}$
 define $h:\mathbb{R}\to \mathbb{R}$
