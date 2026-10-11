@@ -48,7 +48,10 @@ the limit of a continuous sequence of functions is also continuous
 
 Theorems: Integral limit 
 Requires continuous $f_{n}$
-Proven, because the difference between the two is less than the integral of the sup norm, which is a constant, so then as N approaches infinity that constant goes to 0.
+Proven, because the difference between the two is less than the integral of the sup norm, which is a constant, so then as N approaches infinity that constant goes to 0. 
+Integral not commuting will prove non uniform convergence 
+
+
 
 Limit is continuous:
 Remember the goal is to prove $\forall x \in [a,b]\quad \forall\epsilon>0\quad \exists\delta>0 \quad \lvert x-y \rvert<\delta \implies \lvert f(x)-f(y) \rvert<\epsilon$
