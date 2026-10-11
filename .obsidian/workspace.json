@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 5/dual map.md",
+                "file": "MATH1013/Calculus/Week 5/mean value theorem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "dual map"
+              "title": "mean value theorem"
             }
           },
           {
@@ -370,6 +370,9 @@
   },
   "active": "4c5e168342bbfc10",
   "lastOpenFiles": [
+    "MATH1013/Calculus/Week 11/Midpoint rule.md",
+    "MATH1013/Calculus/Week 11/Trapezoidal rule.md",
+    "MATH1116/Linear algebra/Week 5/dual map.md",
     "MATH1116/Linear algebra/Week 5/annihilator.md",
     "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
     "MATH1116/Linear algebra/Week 4/dual vector space.md",
@@ -393,9 +396,6 @@
     "COMP3670 A2.md",
     "MATH1116/Linear algebra/Week 8/inner product.md",
     "MATH1116/Linear algebra/Week 8/orthogonal vectors.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Hard theorems MATH1115/More theorems of continuity.md",
-    "COMP3670/Week 4/regression.md",
-    "COMP3670/Week 6/linear regression loss.md",
     "attachments/Ink/Drawing/2026.10.6 - 14.43pm.svg",
     "attachments/Ink/Drawing/2026.10.6 - 14.38pm.svg",
     "attachments/Ink/Drawing/2026.10.2 - 19.05pm.svg",
