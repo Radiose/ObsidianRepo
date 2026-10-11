@@ -25,3 +25,4 @@ $\implies y(0)=a_{0}=1$
 Similarly, $y'(0)=0$
 $\implies \sum_{n=0}(n+1)a_{n+1}0^n=0$
 $\implies a_{1}=0$
+

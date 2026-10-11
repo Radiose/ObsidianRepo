@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"88a5d62c446eb0f3","x":-200,"y":-300,"width":820,"height":940,"type":"group","label":"Uniform convergence"},
+		{"id":"7719e748a5e2f85a","x":340,"y":60,"width":250,"height":60,"type":"text","text":"[[Convergence of a sequence]]\n"},
+		{"id":"1dd21d13e1ee9742","x":-60,"y":60,"width":250,"height":60,"type":"text","text":"[[series]]"},
+		{"id":"6f66b091807210bd","x":181,"y":-82,"width":250,"height":60,"type":"text","text":"[[pointwise convergence]]"},
+		{"id":"418de5c1db37d128","x":340,"y":-220,"width":250,"height":60,"type":"text","text":"[[uniform convergence and L1 norm convergence of sequence of functions|uniform convergence]]\n"},
+		{"id":"81a6cb24d0da43d9","x":-185,"y":-142,"width":250,"height":60,"type":"text","text":"[[power series]]"}
+	],
+	"edges":[
+		{"id":"e0e436f18a66453b","fromNode":"7719e748a5e2f85a","fromSide":"left","toNode":"1dd21d13e1ee9742","toSide":"right"},
+		{"id":"f357bf49ae011d62","fromNode":"7719e748a5e2f85a","fromSide":"top","toNode":"6f66b091807210bd","toSide":"bottom"},
+		{"id":"43bd96cd448babba","fromNode":"6f66b091807210bd","fromSide":"top","toNode":"418de5c1db37d128","toSide":"bottom"},
+		{"id":"c39b3fdd1e05abc3","fromNode":"418de5c1db37d128","fromSide":"top","toNode":"1dd21d13e1ee9742","toSide":"top"},
+		{"id":"78048a7b8d2b576f","fromNode":"1dd21d13e1ee9742","fromSide":"bottom","toNode":"81a6cb24d0da43d9","toSide":"bottom"},
+		{"id":"8646edd87584064f","fromNode":"418de5c1db37d128","fromSide":"top","toNode":"81a6cb24d0da43d9","toSide":"top"}
+	]
+}
