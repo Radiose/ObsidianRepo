@@ -19,10 +19,11 @@ $|e^x-\sum_{n=0}^N \frac{x^n}{n!}|=\sum_{N+1}^\infty \frac{2^n}{n!}=9 \sum_{N+1}
 Power series can be used to solve [[ordinary differential equation|ODE]]s. Take the example of $y'(x)=-xy(x)\quad\forall x \in \mathbb{R},\quad y(0)=1$
 
 Assume that $y(x)=\sum_{n=0}^\infty a_{{n}}x^n\quad\forall x \in \mathbb{R}$ 
-Then, $\sum_{n=0}^\infty(n+1)a_{n+1}x^n =-x \sum_{n=0}^\infty a_{n}x^n=-\sum_{n=0}^\infty a_{n}x^{n+1}=\sum _{n=1}^\infty a_{n-1}x^n$
+Then, $\sum_{n=0}^\infty(n+1)a_{n+1}x^n =-x \sum_{n=0}^\infty a_{n}x^n=-\sum_{n=0}^\infty a_{n}x^{n+1}=-\sum _{n=1}^\infty a_{n-1}x^n$
 $\implies y(0)=a_{0}=1$
 
 Similarly, $y'(0)=0$
 $\implies \sum_{n=0}(n+1)a_{n+1}0^n=0$
 $\implies a_{1}=0$
 
+matching from the top, we have that $(n+1)a_{n+1}=-a_{n-1}$. This is because the only part of the power series that actually matters is the $x^n$ power to make it equal. 

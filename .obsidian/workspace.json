@@ -45,13 +45,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 6/applications of power series.md",
+                "file": "MATH1116/Analysis/Week 6/power series.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "applications of power series"
+              "title": "power series"
             }
           },
           {
@@ -372,6 +372,7 @@
   },
   "active": "95cdba1b8f43ad41",
   "lastOpenFiles": [
+    "MATH1116/Analysis/Week 6/applications of power series.md",
     "MATH1013/Calculus/Week 10/L'Hopital's rule.md",
     "Untitled.canvas",
     "MATH1116/Linear algebra/Week 5/eigenspace.md",
@@ -397,7 +398,6 @@
     "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
     "MATH1116/Analysis/Week 6/power series.md",
     "MATH1116/Analysis/Week 2/The integral test.md",
-    "MATH1116/Analysis/Week 6/applications of power series.md",
     "attachments/Ink/Drawing/2026.10.6 - 14.43pm.svg",
     "attachments/Ink/Drawing/2026.10.6 - 14.38pm.svg",
     "attachments/Ink/Drawing/2026.10.2 - 19.05pm.svg",
