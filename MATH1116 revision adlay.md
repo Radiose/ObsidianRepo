@@ -49,8 +49,9 @@ the limit of a continuous sequence of functions is also continuous
 Theorems: Integral limit 
 Requires continuous $f_{n}$
 Proven, because the difference between the two is less than the integral of the sup norm, which is a constant, so then as N approaches infinity that constant goes to 0. 
-Integral not commuting will prove non uniform convergence 
 
+Integral not commuting will prove non uniform convergence 
+If we are given some integral and we
 
 
 Limit is continuous:
