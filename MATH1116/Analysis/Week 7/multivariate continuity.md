@@ -61,4 +61,6 @@ We say that $\lim_{ x \to x_{0} }f(x)=\ell$ if $\forall\epsilon >0 \quad \exists
 We say that $f$ is continuous at $x_{0}$ if $\lim_{ x \to x_{0} }f(x)=f(x_{0})$
 
 We say that $f$ is continuous on a set $E \subset B(C,R)$ if $$\forall y \in E,\ \ \forall\epsilon>0\quad \exists\delta>0\quad\forall x,y \in E,\ \ \lVert x-y \rVert<\delta \implies \lvert f(x)-f(y) \rvert<\epsilon$$
-## We sa
+## Uniformly continuous 
+
+We say that $f$ is uniformly continuous on $E \subset B(C,R)$ if $$\forall\epsilon>0\quad\exists\delta>0\quad\forall x,y\in E,\quad\lVert x-y \rVert<\delta \implies \lvert f(x)-f(y) \rvert <\epsilon $$
