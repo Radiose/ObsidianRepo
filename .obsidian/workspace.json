@@ -165,13 +165,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
+                "file": "MATH1116/Analysis/Week 7/multivariate continuity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "uniform convergence and L1 norm convergence of sequence of functions"
+              "title": "multivariate continuity"
             }
           },
           {
@@ -385,8 +385,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d4b258e693957d39",
+  "active": "f348cd9abe5857a6",
   "lastOpenFiles": [
+    "MATH1116/Analysis/Week 7/multivariate differentiability.md",
+    "MATH1116/Analysis/Week 7/multivariate continuity.md",
+    "MATH1116/Linear algebra/Week 8/norm.md",
+    "MATH1116/Analysis/Week 9/Untitled.md",
+    "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
     "MATH1116/Linear algebra/Week 5/annihilator.md",
     "MATH1116/Analysis/Week 6/power series.md",
     "BIOL2161/Week 3/Structure of mitochondria and chloroplast.md",
@@ -395,11 +400,8 @@
     "MATH1005/Week 2/Proper subset.md",
     "MATH1116/Linear algebra/Week 5/eigenvalue.md",
     "MATH1116 revision adlay.md",
-    "MATH1116/Analysis/Week 7/multivariate differentiability.md",
     "MATH1116/Analysis/Week 6/applications of power series.md",
     "MATH1116/Analysis/Week 4/pointwise convergence.md",
-    "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
-    "MATH1116/Analysis/Week 7/multivariate continuity.md",
     "MATH1116/Analysis/Week 2/The integral test.md",
     "MATH1116/Analysis/Week 7/open ball.md",
     "MATH1116/Analysis/Week 7/canonical basis.md",
@@ -412,8 +414,6 @@
     "MATH1116/Linear algebra/Week 5/eigenspace.md",
     "MATH1116/Linear algebra/Week 5/eigenvector.md",
     "MATH1116/Linear algebra/Week 4/standard basis and evaluation map.md",
-    "MATH1013/Linear algebra/Week 11/Axiomatic definition of the determinant.md",
-    "MATH1013/Linear algebra/Week 10/The determinant.md",
     "attachments/Ink/Drawing/2026.10.6 - 14.43pm.svg",
     "attachments/Ink/Drawing/2026.10.6 - 14.38pm.svg",
     "attachments/Ink/Drawing/2026.10.2 - 19.05pm.svg",
