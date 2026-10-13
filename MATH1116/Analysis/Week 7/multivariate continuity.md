@@ -94,6 +94,8 @@ Assume $f$ is not uniformly continuous, so $$\exists\epsilon>0\ \forall\delta>0 
 We are building two sequences, from the pair of points that is given by $\delta=\frac{1}{m}$.
 For $j=1,\dots,n$, we have that $\langle x_{m},e_{j} \rangle_{m \in \mathbb{N}}\in[a_{j},b_{j}]^{\mathbb{N}^*}$ has a converging subsequence, via the [[Bolzano Weierstrass theorem]] in $\mathbb{R}$, so each vector value converges within $x_{m}$. Our goal from here is to create the overall sequence such that all of the vector values converge. 
 
+The sequence, in $x_{m}\cdot e_{1}$ has a convergent subsequence, via BWT, so we extract the subsequence $m_{i},\dots,m_{n}$ that converges. Then, we put these on $x_{m}\cdot e_{2}$ and get the convergent subsequence of that, and repeat $n$ times. This gives us $m_{k} \in (\mathbb{R}^\mathbb{N})^n$
+
 
 
 This gives us that $\exists (m_{k})_{k \in \mathbb{N}}\in \mathbb{N}^\mathbb{N}$ increasing and $x \in E$ such that $$\lvert x \cdot e_{j}-x_{m_{k}}\cdot e_{j} \rvert \xrightarrow[k \to \infty]{}0 \quad \forall j=1,..,n $$
