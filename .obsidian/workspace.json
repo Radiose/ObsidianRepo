@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 7/multivariate integration.md",
+                "file": "COMP2610/Week 6/compression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "multivariate integration"
+              "title": "compression"
+            }
+          },
+          {
+            "id": "da630eae9da1f0e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 6/source coding theorem for symbol codes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "source coding theorem for symbol codes"
             }
           },
           {
@@ -187,7 +202,8 @@
               "title": "Proper subset"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -382,12 +398,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "04b719357049c728",
+  "active": "da630eae9da1f0e0",
   "lastOpenFiles": [
+    "COMP2610/Week 6/Shannon code.md",
+    "COMP2610/Week 6/source coding theorem for symbol codes.md",
+    "COMP2610/Week 6/compression.md",
+    "COMP2610/Week 7/expected code length.md",
+    "MATH1116/Analysis/Week 7/multivariate integration.md",
     "MATH1116/Analysis/Week 9/Multivariate intermediate value theorem.md",
     "MATH1116/Analysis/Week 7/multivariate continuity.md",
     "MATH1116/Analysis/Week 7/multivariate differentiability.md",
-    "MATH1116/Analysis/Week 7/multivariate integration.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/Bolzano Weierstrass theorem.md",
     "MATH1013/Calculus/Week 3/intermediate value theorem.md",
     "MATH1005/Week 2/Proper subset.md",
@@ -407,10 +427,6 @@
     "MATH1116 revision adlay.md",
     "MATH1116/Analysis/Week 6/applications of power series.md",
     "MATH1116/Analysis/Week 4/pointwise convergence.md",
-    "MATH1116/Analysis/Week 2/The integral test.md",
-    "MATH1116/Analysis/Week 7/open ball.md",
-    "MATH1116/Analysis/Week 7/canonical basis.md",
-    "MATH1116/Analysis/Week 6/uniform convergence of a series of sequence of functions.md",
     "attachments/Ink/Drawing/2026.10.6 - 14.43pm.svg",
     "attachments/Ink/Drawing/2026.10.6 - 14.38pm.svg",
     "attachments/Ink/Drawing/2026.10.2 - 19.05pm.svg",
