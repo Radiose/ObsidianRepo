@@ -64,3 +64,14 @@ We say that $f$ is continuous on a set $E \subset B(C,R)$ if $$\forall y \in E,\
 ## Uniformly continuous 
 
 We say that $f$ is uniformly continuous on $E \subset B(C,R)$ if $$\forall\epsilon>0\quad\exists\delta>0\quad\forall x,y\in E,\quad\lVert x-y \rVert<\delta \implies \lvert f(x)-f(y) \rvert <\epsilon $$
+
+# Proposition 
+Let $c \in \mathbb{R}^n$, let $f,g:B(c,R)\to \mathbb{R}^n$ be continuous at $x \in B(c,R)$ and $\lambda \in \mathbb{R}$.
+Then,
+- $f+\lambda g$ is continuous at $x$
+- $f \cdot g$ is continuous at $x$
+- if $\exists R_{0}>0| \ g(y)\not=0\ \ \forall y \in B(x,R_{0})$, then $\frac{f}{g}$ is continuous at $x$
+
+## Lemma 3
+
+$\forall k=1,\dots,n$ 
