@@ -20,3 +20,8 @@ Look at the third integral we have. The same concept of [[The fundamental theore
 
 ![[arc length parametrisation]]
 
+# One dim codomain 
+
+Let $\prod_{j=1}^n \left[ a_{j},b_{j} \right]=R$ 
+We define $\prod_{j=1}^n [a_{j},b_{j}]:\mathbb{R}^n \to \mathbb{R}$
+$x \mapsto $

@@ -98,4 +98,12 @@ The sequence, in $x_{m}\cdot e_{1}$ has a convergent subsequence, via BWT, so we
 
 
 
-This gives us that $\exists (m_{k})_{k \in \mathbb{N}}\in \mathbb{N}^\mathbb{N}$ increasing and $x \in E$ such that $$\lvert x \cdot e_{j}-x_{m_{k}}\cdot e_{j} \rvert \xrightarrow[k \to \infty]{}0 \quad \forall j=1,..,n $$
+This gives us that $\exists (m_{k})_{k \in \mathbb{N}}\in \mathbb{N}^\mathbb{N}$ increasing and $x \in E$ (the limit) such that $$\lvert x \cdot e_{j}-x_{m_{k}}\cdot e_{j} \rvert \xrightarrow[k \to \infty]{}0 \quad \forall j=1,..,n $$Therefore $\lVert x-x_{m_{k}} \rVert \xrightarrow[k \to \infty]{}0$
+Additionally, $\lVert y_{m_{k}}- x\rVert \leq \lVert y_{m_{k}}-x_{m_{k}} \rVert+ \lVert x_{m_{k}}-x \rVert< \frac{1}{m_{k}}+ \lVert x_{m_{k}}-x \rVert \xrightarrow[k \to \infty]{}0$,
+then $\epsilon < \lvert f(x_{m_{k}})-f(y_{m_{k}}) \rvert\xrightarrow[k \to \infty]{}0$, but $\epsilon>0$, so a contradiction. 
+
+Assume that $f$ is not bounded. 
+$\implies \forall n \in \mathbb{N}\quad \exists x_{n}\in E\ \ \lvert f(x_{{n}}) \rvert\geq n$
+As before, $\exists$ increasing sequence $(m_{k})_{k \in \mathbb{N}}\in \mathbb{N}^\mathbb{N}$, and $x \in E$ such that $\lVert x-x_{m_{k}} \rVert\xrightarrow[k \to \infty]{}0$
+But $\lvert f(x) \rvert \not= \lvert \lim_{ k \to \infty } f(x_{m_{k}})\rvert> \lim_{ k \to \infty }m_{k}=\infty$ 
+($m_k$ is increasing). So then the limits arent the same so not continuous and another contradiction. Thus, must be bounded. $\blacksquare$
