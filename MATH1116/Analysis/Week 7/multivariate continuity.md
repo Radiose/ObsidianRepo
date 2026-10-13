@@ -92,5 +92,8 @@ Let $[a_{j},b_{j}]\subset \mathbb{R}$, $j=1,\dots,n$ and $$E:= \prod_{j=1}^n [a_
 ### Proof 
 Assume $f$ is not uniformly continuous, so $$\exists\epsilon>0\ \forall\delta>0 \exists x,y\in E^{\mathbb{N}^*}\ \ \lVert x-y \rVert<\delta \land \lvert f(x)-f(y) \rvert \geq \epsilon $$Then, $$\exists(x_{m})_{m \in \mathbb{N}},\ (y_{m})_{m \in \mathbb{N}} \in E^{\mathbb{N}^*}\quad \lVert x_{m}-y_{m} \rVert< \frac{1}{m} \land \lVert f(x_{m})-f(y_{m}) \rVert\geq \epsilon$$
 We are building two sequences, from the pair of points that is given by $\delta=\frac{1}{m}$.
-For $j=1,\dots,n$, we have that $\langle x_{m},e_{j} \rangle_{m \in \mathbb{N}}\in[a_{j},b_{j}]^{\mathbb{N}^*}$ has a converging subsequence, via the [[Bolzano Weierstrass theorem]] in $\mathbb{R}$, so each vector value converges within $x_{m}$.
+For $j=1,\dots,n$, we have that $\langle x_{m},e_{j} \rangle_{m \in \mathbb{N}}\in[a_{j},b_{j}]^{\mathbb{N}^*}$ has a converging subsequence, via the [[Bolzano Weierstrass theorem]] in $\mathbb{R}$, so each vector value converges within $x_{m}$. Our goal from here is to create the overall sequence such that all of the vector values converge. 
+
+
+
 This gives us that $\exists (m_{k})_{k \in \mathbb{N}}\in \mathbb{N}^\mathbb{N}$ increasing and $x \in E$ such that $$\lvert x \cdot e_{j}-x_{m_{k}}\cdot e_{j} \rvert \xrightarrow[k \to \infty]{}0 \quad \forall j=1,..,n $$
