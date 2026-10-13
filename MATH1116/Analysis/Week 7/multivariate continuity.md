@@ -63,7 +63,7 @@ We say that $f$ is continuous at $x_{0}$ if $\lim_{ x \to x_{0} }f(x)=f(x_{0})$
 We say that $f$ is continuous on a set $E \subset B(C,R)$ if $$\forall y \in E,\ \ \forall\epsilon>0\quad \exists\delta>0\quad\forall x,y \in E,\ \ \lVert x-y \rVert<\delta \implies \lvert f(x)-f(y) \rvert<\epsilon$$
 ## Uniformly continuous 
 
-We say that $f$ is uniformly continuous on $E \subset B(C,R)$ if $$\forall\epsilon>0\quad\exists\delta>0\quad\forall x,y\in E,\quad\lVert x-y \rVert<\delta \implies \lvert f(x)-f(y) \rvert <\epsilon $$
+We say that $f$ is [[uniform continuity|uniformly continuous]] on $E \subset B(C,R)$ if $$\forall\epsilon>0\quad\exists\delta>0\quad\forall x,y\in E,\quad\lVert x-y \rVert<\delta \implies \lvert f(x)-f(y) \rvert <\epsilon $$
 
 # Proposition 
 Let $c \in \mathbb{R}^n$, let $f,g:B(c,R)\to \mathbb{R}^n$ be continuous at $x \in B(c,R)$ and $\lambda \in \mathbb{R}$.
@@ -71,7 +71,16 @@ Then,
 - $f+\lambda g$ is continuous at $x$
 - $f \cdot g$ is continuous at $x$
 - if $\exists R_{0}>0| \ g(y)\not=0\ \ \forall y \in B(x,R_{0})$, then $\frac{f}{g}$ is continuous at $x$
+- for $h \in C(\mathbb{R},\mathbb{R}),\ f(h)$ is continuous on $B(c,R)$.
 
-## Lemma 3
+## Proposition 2 
+The functions $p_{j}:\mathbb{R}^n \to \mathbb{R}$ such that $p_{j}(x_{1},\dots,x_{n})=x_{j}$ are continuous on $\mathbb{R}^n$
+### Proof 
+note first that $p_{k}(x)=x_{k}=\langle x,e_{{k}} \rangle$
+let $x_{0}\in \mathbb{R}^n$, Let $k \in \{ 1,\dots,n \}$
+$\lvert \langle x,e_{k} \rangle-\langle x_{0},e_{k} \rangle \rvert= \lvert \langle x-x_{0},e_{k} \rangle \rvert$
+$\leq \lVert x-x_{0} \rVert\cdot \lVert e_{k} \rVert$ (via [[Cauchy-schwarz inequality]])
+$= \lVert x-x_{0} \rVert$
+Thus, we have that $\forall \epsilon>0\ \ \forall x \in \mathbb{R}^n,\ \lVert x-x_{0} \rVert<\epsilon \implies \lvert p_{n}(x)-p_{n}(x_{0}) \rvert<\epsilon$
 
-$\forall k=1,\dots,n$ 
+## Remark
