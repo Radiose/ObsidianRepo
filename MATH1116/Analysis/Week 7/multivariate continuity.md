@@ -84,3 +84,4 @@ $= \lVert x-x_{0} \rVert$
 Thus, we have that $\forall \epsilon>0\ \ \forall x \in \mathbb{R}^n,\ \lVert x-x_{0} \rVert<\epsilon \implies \lvert p_{n}(x)-p_{n}(x_{0}) \rvert<\epsilon$
 
 ## Remark
+Note that if $$

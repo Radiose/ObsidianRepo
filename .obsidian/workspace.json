@@ -13,30 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Calculus/Week 3/intermediate value theorem.md",
+                "file": "MATH1116/Analysis/Week 7/multivariate continuity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "intermediate value theorem"
+              "title": "multivariate continuity"
             }
           },
           {
-            "id": "4c5e168342bbfc10",
+            "id": "1723cd903c4ef366",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 149.35787950493176,
-                  "y": -94.07190087404754,
-                  "zoom": -0.00931651611182587
-                }
+                "file": "MATH1116/Analysis/Week 9/Multivariate intermediate value theorem.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Multivariate intermediate value theorem"
             }
           },
           {
@@ -386,6 +384,12 @@
   },
   "active": "04b719357049c728",
   "lastOpenFiles": [
+    "MATH1116/Analysis/Week 9/Multivariate intermediate value theorem.md",
+    "MATH1013/Calculus/Week 3/intermediate value theorem.md",
+    "MATH1005/Week 2/Proper subset.md",
+    "MATH1116/Analysis/Week 6/power series.md",
+    "Untitled.canvas",
+    "MATH1116/Analysis/Week 9/convex set.md",
     "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
     "MATH1116/Analysis/Week 7/multivariate continuity.md",
     "MATH1116/Linear algebra/Week 8/Cauchy-schwarz inequality.md",
@@ -394,11 +398,9 @@
     "MATH1116/Linear algebra/Week 8/norm.md",
     "MATH1116/Analysis/Week 9/Untitled.md",
     "MATH1116/Linear algebra/Week 5/annihilator.md",
-    "MATH1116/Analysis/Week 6/power series.md",
     "BIOL2161/Week 3/Structure of mitochondria and chloroplast.md",
     "MATH1116/Linear algebra/Week 5/generalised eigenspace.md",
     "MATH1005/Week 5/Geometric series.md",
-    "MATH1005/Week 2/Proper subset.md",
     "MATH1116/Linear algebra/Week 5/eigenvalue.md",
     "MATH1116 revision adlay.md",
     "MATH1116/Analysis/Week 6/applications of power series.md",
@@ -408,11 +410,6 @@
     "MATH1116/Analysis/Week 7/canonical basis.md",
     "MATH1116/Analysis/Week 7/multivariate integration.md",
     "MATH1116/Analysis/Week 6/uniform convergence of a series of sequence of functions.md",
-    "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
-    "MATH1116/Linear algebra/Week 7/Algorithm for finding Jordan normal form.md",
-    "Untitled.canvas",
-    "MATH1013/Calculus/Week 10/L'Hopital's rule.md",
-    "MATH1116/Linear algebra/Week 5/eigenspace.md",
     "attachments/Ink/Drawing/2026.10.6 - 14.43pm.svg",
     "attachments/Ink/Drawing/2026.10.6 - 14.38pm.svg",
     "attachments/Ink/Drawing/2026.10.2 - 19.05pm.svg",
