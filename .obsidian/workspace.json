@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 6/source coding theorem for symbol codes.md",
+                "file": "COMP2610/Week 7/Huffman coding.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "source coding theorem for symbol codes"
+              "title": "Huffman coding"
             }
           },
           {
@@ -400,8 +400,9 @@
   },
   "active": "da630eae9da1f0e0",
   "lastOpenFiles": [
-    "COMP2610/Week 6/Shannon code.md",
-    "COMP2610/Week 6/source coding theorem for symbol codes.md",
+    "COMP2610/Week 7/source coding theorem for symbol codes.md",
+    "COMP2610/Week 7/Huffman coding.md",
+    "COMP2610/Week 7/Shannon code.md",
     "COMP2610/Week 6/compression.md",
     "COMP2610/Week 7/expected code length.md",
     "MATH1116/Analysis/Week 7/multivariate integration.md",
@@ -426,7 +427,6 @@
     "MATH1116/Linear algebra/Week 5/eigenvalue.md",
     "MATH1116 revision adlay.md",
     "MATH1116/Analysis/Week 6/applications of power series.md",
-    "MATH1116/Analysis/Week 4/pointwise convergence.md",
     "attachments/Ink/Drawing/2026.10.6 - 14.43pm.svg",
     "attachments/Ink/Drawing/2026.10.6 - 14.38pm.svg",
     "attachments/Ink/Drawing/2026.10.2 - 19.05pm.svg",
