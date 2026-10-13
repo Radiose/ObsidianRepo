@@ -23,5 +23,9 @@ Look at the third integral we have. The same concept of [[The fundamental theore
 # One dim codomain 
 
 Let $\prod_{j=1}^n \left[ a_{j},b_{j} \right]=R$ 
-We define $\prod_{j=1}^n [a_{j},b_{j}]:\mathbb{R}^n \to \mathbb{R}$
-$x \mapsto $
+We define $$1_{\prod_{j=1}^n [a_{j},b_{j}]} :\mathbb{R}^n \to \mathbb{R} \\x \mapsto \begin{cases}
+1,\quad x \in {R} \\
+0,\ \ \ \ \text{otherwise}
+\end{cases}$$
+Additionally, $\int_{\mathbb{R}^n}1_{\prod_{j=1}^n [a_{j},b_{j}]}(x)dx:= \prod_{j=1}^n \lvert b_{j}-a_{j} \rvert=:\int_{\prod_{j=1}^n [a_{j},b_{j}]}dx=: \int _{a_{n}}^{b_{n}}\dots\int_{a_{1}}^{b_{1}}dx_{1}\dots dx_{n}$
+
