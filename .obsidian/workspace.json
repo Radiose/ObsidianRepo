@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 7/Huffman coding.md",
+                "file": "COMP2610/Week 8/Interval coding.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Huffman coding"
+              "title": "Interval coding"
             }
           },
           {
@@ -276,7 +276,8 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -400,11 +401,18 @@
   },
   "active": "da630eae9da1f0e0",
   "lastOpenFiles": [
-    "COMP2610/Week 7/source coding theorem for symbol codes.md",
+    "attachments/Pasted image 20261014112208.png",
+    "MATH1005/Week 8/Cumulative probability distribution function.md",
+    "COMP2610/Week 8/Interval coding.md",
     "COMP2610/Week 7/Huffman coding.md",
-    "COMP2610/Week 7/Shannon code.md",
+    "attachments/Pasted image 20261014105023.png",
+    "COMP2610/Week 7/binary symbol code.md",
     "COMP2610/Week 6/compression.md",
     "COMP2610/Week 7/expected code length.md",
+    "COMP2610/Week 7/Kraft inequality.md",
+    "COMP2610/Week 7/source coding theorem for symbol codes.md",
+    "COMP2610/Week 5/ensemble.md",
+    "COMP2610/Week 7/Shannon code.md",
     "MATH1116/Analysis/Week 7/multivariate integration.md",
     "MATH1116/Analysis/Week 9/Multivariate intermediate value theorem.md",
     "MATH1116/Analysis/Week 7/multivariate continuity.md",
@@ -421,12 +429,6 @@
     "MATH1116/Linear algebra/Week 8/norm.md",
     "MATH1116/Analysis/Week 9/Untitled.md",
     "MATH1116/Linear algebra/Week 5/annihilator.md",
-    "BIOL2161/Week 3/Structure of mitochondria and chloroplast.md",
-    "MATH1116/Linear algebra/Week 5/generalised eigenspace.md",
-    "MATH1005/Week 5/Geometric series.md",
-    "MATH1116/Linear algebra/Week 5/eigenvalue.md",
-    "MATH1116 revision adlay.md",
-    "MATH1116/Analysis/Week 6/applications of power series.md",
     "attachments/Ink/Drawing/2026.10.6 - 14.43pm.svg",
     "attachments/Ink/Drawing/2026.10.6 - 14.38pm.svg",
     "attachments/Ink/Drawing/2026.10.2 - 19.05pm.svg",
@@ -436,7 +438,6 @@
     "attachments/Pasted image 20261002084856.png",
     "attachments/Pasted image 20261002084838.png",
     "attachments/Pasted image 20260930161040.png",
-    "attachments/Pasted image 20260930135336.png",
     "templates",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
     "MATH1116",
