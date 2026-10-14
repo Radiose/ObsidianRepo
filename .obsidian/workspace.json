@@ -178,13 +178,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116 revision adlay.md",
+                "file": "MATH1116/MATH1116 A9.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1116 revision adlay"
+              "title": "MATH1116 A9"
             }
           },
           {
@@ -233,7 +233,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -428,15 +428,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50cf42601abd5447",
+  "active": "f348cd9abe5857a6",
   "lastOpenFiles": [
-    "MATH1116 A9.md",
-    "MATH1005/Week 1/The conditional statement.md",
-    "MATH1116/Linear algebra/Week 8/inner product.md",
-    "MATH1116/Linear algebra/Week 8/norm.md",
+    "MATH1116 revision adlay.md",
     "COMP2610/Week 6/compression.md",
-    "MATH1013/Complex numbers/Complex number.md",
+    "MATH1116/Linear algebra/Week 8/inner product.md",
+    "MATH1116/Analysis/Week 7/multivariate continuity.md",
     "MATH1005/Week 2/Proper subset.md",
+    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylors theorem.md",
+    "MATH1116/MATH1116 A9.md",
+    "MATH1005/Week 1/The conditional statement.md",
+    "MATH1116/Linear algebra/Week 8/norm.md",
+    "MATH1013/Complex numbers/Complex number.md",
     "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
     "MATH1116/Linear algebra/Week 8/Cauchy-schwarz inequality.md",
     "MATH1116/Linear algebra/Week 8/inner product space.md",
@@ -455,9 +458,6 @@
     "COMP2610/Week 7/Kraft inequality.md",
     "COMP2610/Week 7/source coding theorem for symbol codes.md",
     "COMP2610/Week 5/ensemble.md",
-    "COMP2610/Week 7/Shannon code.md",
-    "MATH1116/Analysis/Week 7/multivariate integration.md",
-    "MATH1116/Analysis/Week 9/Multivariate intermediate value theorem.md",
     "Untitled.canvas",
     "attachments/Ink/Drawing/2026.10.6 - 14.43pm.svg",
     "attachments/Ink/Drawing/2026.10.6 - 14.38pm.svg",
