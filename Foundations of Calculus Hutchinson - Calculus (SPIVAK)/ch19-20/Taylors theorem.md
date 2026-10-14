@@ -55,7 +55,7 @@ Applying these formulas to each term of $(*)$, we obtain
 $$0 = f'(t) + \left[-f'(t) + \frac{f''(t)}{1!}(x-t)\right] + \left[-\frac{f''(t)}{1!}(x-t) + \frac{f'''(t)}{2!}(x-t)^2\right]$$
 $$+ \cdots + \left[-\frac{f^{(n)}(t)}{(n-1)!}(x-t)^{n-1} + \frac{f^{(n+1)}(t)}{n!}(x-t)^n\right] + S'(t).$$
 
-In the beautiful formula practically everything in sight cancels out, and we obtain
+Practically everything in sight cancels out, and we obtain
 
 $$S'(t) = -\frac{f^{(n+1)}(t)}{n!}(x-t)^n.$$
 ### Cauchy
