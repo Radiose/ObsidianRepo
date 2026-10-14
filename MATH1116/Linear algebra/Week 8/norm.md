@@ -7,8 +7,8 @@ A norm on a [[vector space]] $V$ has the following properties:
 (1) $\lVert \mathbf{v} \rVert\geq 0\quad \forall \mathbf{v}\in V$
 (2) $\lVert \mathbf{v} \rVert=\mathbf{0}\iff \mathbf{v=0}$
 (3) $\lVert \lambda \mathbf{v} \rVert= \lvert \lambda \rvert \lVert \mathbf{v} \rVert\quad \forall \lambda \in \mathbb{F},\ \ \forall v\in V$
-(4) $\lVert \mathbf{v+u} \rVert\leq \lVert \mathbf{v} \rVert+\lVert \mathbf{u} \rVert$
-(5) $\lVert \mathbf{u} \rVert=\sqrt{ \langle \mathbf{u},\mathbf{v} \rangle }$
+(4) $\lVert \mathbf{v+u} \rVert\leq \lVert \mathbf{v} \rVert+\lVert \mathbf{u} \rVert$ (triangle inequality)
+(5) $\lVert \mathbf{u} \rVert=\sqrt{ \langle \mathbf{u},\mathbf{u} \rangle }$
 
 ## Normed space 
 A normed space is a [[vector space]] $V$ along with a norm. 

@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
+                "file": "MATH1116/Linear algebra/Week 8/norm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Shannon-Fano-Elias coding"
+              "title": "norm"
             }
           },
           {
@@ -218,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -413,17 +413,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da630eae9da1f0e0",
+  "active": "487b6603b7943501",
   "lastOpenFiles": [
+    "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
+    "MATH1116/Linear algebra/Week 8/inner product.md",
+    "MATH1116/Linear algebra/Week 8/norm.md",
+    "MATH1116/Linear algebra/Week 8/Cauchy-schwarz inequality.md",
     "MATH1116/Linear algebra/Week 8/inner product space.md",
     "MATH1013/Linear algebra/Week 3/inner products.md",
-    "MATH1116/Linear algebra/Week 8/inner product.md",
     "MATH1116/Linear algebra/Week 1/vector space.md",
     "MATH1013/Complex numbers/complex conjugate.md",
     "MATH1116/Linear algebra/Week 8/orthonormal vectors.md",
-    "MATH1116/Linear algebra/Week 8/norm.md",
     "MATH1116/Linear algebra/Week 8/orthogonal vectors.md",
-    "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
     "COMP2610/Week 8/Interval coding.md",
     "attachments/Pasted image 20261014112208.png",
     "MATH1005/Week 8/Cumulative probability distribution function.md",
@@ -442,7 +443,6 @@
     "MATH1116/Analysis/Week 7/multivariate differentiability.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 2/Bolzano Weierstrass theorem.md",
     "MATH1013/Calculus/Week 3/intermediate value theorem.md",
-    "MATH1005/Week 2/Proper subset.md",
     "Untitled.canvas",
     "attachments/Ink/Drawing/2026.10.6 - 14.43pm.svg",
     "attachments/Ink/Drawing/2026.10.6 - 14.38pm.svg",
