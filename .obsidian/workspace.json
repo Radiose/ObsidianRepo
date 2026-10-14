@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 6/compression.md",
+                "file": "MATH1013/Complex numbers/complex conjugate.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "compression"
+              "title": "complex conjugate"
             }
           },
           {
@@ -133,13 +133,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 8/vector valued curve.md",
+                "file": "MATH1116/MATH1116 A9.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "vector valued curve"
+              "title": "MATH1116 A9"
             }
           },
           {
@@ -233,7 +233,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -428,24 +428,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6bf17cabd32d8809",
+  "active": "f1f21a7e0095be19",
   "lastOpenFiles": [
-    "MATH1116/MATH1116 A9.md",
-    "MATH1116 revision adlay.md",
+    "MATH1116/Analysis/Week 8/vector valued curve.md",
+    "MATH1013/Complex numbers/complex conjugate.md",
+    "MATH1116/Analysis/Week 6/power series.md",
+    "MATH1116/Linear algebra/Week 8/norm.md",
     "COMP2610/Week 6/compression.md",
     "MATH1116/Linear algebra/Week 8/inner product.md",
+    "MATH1116/MATH1116 A9.md",
+    "MATH1116 revision adlay.md",
     "MATH1116/Analysis/Week 7/multivariate continuity.md",
     "MATH1005/Week 2/Proper subset.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylors theorem.md",
     "MATH1005/Week 1/The conditional statement.md",
-    "MATH1116/Linear algebra/Week 8/norm.md",
     "MATH1013/Complex numbers/Complex number.md",
     "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
     "MATH1116/Linear algebra/Week 8/Cauchy-schwarz inequality.md",
     "MATH1116/Linear algebra/Week 8/inner product space.md",
     "MATH1013/Linear algebra/Week 3/inner products.md",
     "MATH1116/Linear algebra/Week 1/vector space.md",
-    "MATH1013/Complex numbers/complex conjugate.md",
     "MATH1116/Linear algebra/Week 8/orthonormal vectors.md",
     "MATH1116/Linear algebra/Week 8/orthogonal vectors.md",
     "COMP2610/Week 8/Interval coding.md",
@@ -456,8 +458,6 @@
     "COMP2610/Week 7/binary symbol code.md",
     "COMP2610/Week 7/expected code length.md",
     "COMP2610/Week 7/Kraft inequality.md",
-    "COMP2610/Week 7/source coding theorem for symbol codes.md",
-    "COMP2610/Week 5/ensemble.md",
     "Untitled.canvas",
     "attachments/Ink/Drawing/2026.10.6 - 14.43pm.svg",
     "attachments/Ink/Drawing/2026.10.6 - 14.38pm.svg",
