@@ -1,0 +1,1 @@
+This is a form of coding designed to fix the problems outlined in [[Interval coding]] relating to the infinite recurring decimals requiring infinite numbers of bits to display correctly. 

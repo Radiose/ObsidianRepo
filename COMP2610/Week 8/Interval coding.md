@@ -10,4 +10,7 @@ Note that $\overline{F}(x)$ serves as the midpoint of each jump up the CPDF
 ![[Pasted image 20261014112208.png|516]]
 
 
-However, we run into a problem quite quickly. 
+However, we run into a problem quite quickly when we attempt to code $\overline{F}(x)$ in binary. However, problems start to appear when we run into repeating decimals. For example, $\frac{1}{3}$ would require an infinite number of bits. This is where we use a type of coding named Shannon-Fano-Elias coding 
+
+
+![[Shannon-Fano-Elias coding]]
