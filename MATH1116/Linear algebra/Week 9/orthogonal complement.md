@@ -28,7 +28,7 @@ $\blacksquare$
 If $V$ is finite dimensional, then $\dim(V)=\dim(U)+\dim(U^\perp)$
 Exercise: if $U$ is a subspace of $W$, and $W$ is a subspace of $V$, then $W^\perp \subset U^\perp$ 
 
-# Theorem 
+# Theorem 2
 $U=(U^\perp)^\perp$
 
 
@@ -36,3 +36,19 @@ $U=(U^\perp)^\perp$
 let $\mathbf{u}\in U$, then $\langle \mathbf{u},\mathbf{v} \rangle=0\quad\forall \mathbf{v}\in U^\perp$
 $\implies \mathbf{u}$ is orthogonal to all $\mathbf{v}\in U^\perp$
 $\implies \mathbf{u} \in (U^\perp)^\perp$ 
+Other dir:
+Let $\mathbf{v}\in (U^\perp)^\perp$
+We know that $V=U \oplus U^\perp$
+$\implies \mathbf{v}=\mathbf{w}+\mathbf{u}$ for $\mathbf{w}\in U^\perp,\mathbf{u}\in U$
+$\implies 0=\langle \mathbf{v},\mathbf{w} \rangle$ (by definition of orthogonality)
+$\implies 0=\langle \mathbf{u}+\mathbf{w},\mathbf{w} \rangle=\langle \mathbf{u},\mathbf{w} \rangle+\langle \mathbf{w},\mathbf{w} \rangle=0+\langle \mathbf{w},\mathbf{w} \rangle$
+$\implies \mathbf{w}=0$ by non degeneracy of [[inner product]]s
+$\implies \mathbf{v}=\mathbf{u}\in U$
+
+# Corollary 
+$U \subset W \iff W^\perp \subset U^\perp$
+$\implies$ (exercise)
+$\impliedby$
+$W^\perp \subset U^\perp \implies (U^\perp)^\perp \subset (W^\perp)^\perp$ (by exercise)
+$\implies U \subset W$ by [[orthogonal complement#Theorem 2|the theorem above]]
+

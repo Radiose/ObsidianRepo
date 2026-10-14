@@ -133,13 +133,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/MATH1116 A9.md",
+                "file": "MATH1116/Linear algebra/Week 9/conjugate linear involution.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1116 A9"
+              "title": "conjugate linear involution"
             }
           },
           {
@@ -430,13 +430,16 @@
   },
   "active": "f1f21a7e0095be19",
   "lastOpenFiles": [
+    "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
+    "MATH1116/Linear algebra/Week 9/conjugate linear involution.md",
+    "MATH1116/MATH1116 A9.md",
+    "MATH1116/MATH1116 assignment 8.md",
     "MATH1116/Analysis/Week 8/vector valued curve.md",
     "MATH1013/Complex numbers/complex conjugate.md",
     "MATH1116/Analysis/Week 6/power series.md",
     "MATH1116/Linear algebra/Week 8/norm.md",
     "COMP2610/Week 6/compression.md",
     "MATH1116/Linear algebra/Week 8/inner product.md",
-    "MATH1116/MATH1116 A9.md",
     "MATH1116 revision adlay.md",
     "MATH1116/Analysis/Week 7/multivariate continuity.md",
     "MATH1005/Week 2/Proper subset.md",
@@ -455,9 +458,6 @@
     "MATH1005/Week 8/Cumulative probability distribution function.md",
     "COMP2610/Week 7/Huffman coding.md",
     "attachments/Pasted image 20261014105023.png",
-    "COMP2610/Week 7/binary symbol code.md",
-    "COMP2610/Week 7/expected code length.md",
-    "COMP2610/Week 7/Kraft inequality.md",
     "Untitled.canvas",
     "attachments/Ink/Drawing/2026.10.6 - 14.43pm.svg",
     "attachments/Ink/Drawing/2026.10.6 - 14.38pm.svg",
