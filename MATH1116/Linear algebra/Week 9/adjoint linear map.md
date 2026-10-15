@@ -13,3 +13,9 @@ If $V$ is finite dimensional, then $\forall \phi \in V^V$, $\exists! \mathbf{v}\
 We establish that $\Phi_{V}:V\to V^V$ is an [[isomorphism]], so $\exists!\mathbf{w}\in V$ such that $\Phi_{V}(\mathbf{w})=\psi$
 Then, $\phi=\Phi(\mathbf{w})=\langle \_{},\iota(\mathbf{w}) \rangle$. Because $\iota$ is bijective, and $\Phi$ is isomorphic, $\phi$ is unique. 
 
+# Corollary 
+If $V,W$ are finite dimensional, then $\forall T:V\to W$, its adjoint map exists, and is unique 
+
+### Proof 
+Consider the functional $\phi \in V^V$ such that $\phi (\mathbf{v})=\langle T\mathbf{v},\mathbf{w} \rangle$. $\phi$ can be shown to be a [[linear functional]].
+We show that $\exists $
