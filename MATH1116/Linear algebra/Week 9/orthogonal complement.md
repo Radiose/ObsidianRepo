@@ -57,21 +57,25 @@ $\implies U \subset W$ by [[orthogonal complement#Theorem 2|the theorem above]]
 # Theorem 3
 if $V$ is finite dimensional, then $\phi:V\to V^V$ is an [[isomorphism]]. (where $\phi$ is the one in the [[conjugate linear involution]] note)
 
-Under this [[isomorphism]], $\phi(U^\perp)$ is identified with $Ann(U)$ (the [[annihilator]])
-IE, $\phi (U^\perp)=Ann(U)$ 
+Under this [[isomorphism]], $\Phi(U^\perp)$ is identified with $Ann(U)$ (the [[annihilator]])
+IE, $\Phi (U^\perp)=Ann(U)$ 
 
 
 # Proof 
-We aim to show that $\phi$ is injective. 
-Assume that $v \in V$ is in $\ker(\phi)$
-$\forall \mathbf{w}\in V,\phi(\mathbf{v})(\mathbf{w})=0$
+We aim to show that $\Phi$ is injective. 
+Assume that $v \in V$ is in $\ker(\Phi)$
+$\forall \mathbf{w}\in V,\Phi(\mathbf{v})(\mathbf{w})=0$
 In particular, for $\mathbf{w}=\iota(\mathbf{v}),0=\iota(\mathbf{v})(\iota(\mathbf{v}))=\langle \iota (\mathbf{v}),\iota(\mathbf{v}) \rangle\implies \iota(\mathbf{v})=0$
 Note, $\iota(\mathbf{0})=0$, and $\iota$ is bijective so therefore $\mathbf{v}=0$. $\iota$ is bijective because $\iota^2=id_{v}$, implying that it has an inverse(itself) and via [[Invertible matrix theorem]], it must be bijective. 
 
 Now, $\dim(V^V)=\dim(V)$, $\phi$ being injective implies $\phi$ is an [[isomorphism]].  
 Now we show equality.
-Pick $\mathbf{w}\in V$, then $\mathbf{w}\in U^\perp \iff \forall \mathbf{u}\in U, \langle \mathbf{u},\mathbf{w} \rangle=0=\langle \mathbf{u},\iota(\iota(\mathbf{w})) \rangle$
+Pick $\mathbf{w}\in V$, then 
+$\mathbf{w}\in U^\perp \iff \forall \mathbf{u}\in U, \langle \mathbf{u},\mathbf{w} \rangle=0=\langle \mathbf{u},\iota(\iota(\mathbf{w})) \rangle$
 $=\phi(\iota (\mathbf{w}))(\mathbf{u})$
 $\iff \phi(\iota(\mathbf{w}))\in Ann(U)$
 
-Setting $\mathbf{w}=\iota(\mathbf{v})$ gives $\mathbf{v}\in \iota(U^\perp)$
+Setting $\mathbf{w}=\iota(\mathbf{v})$ gives $\mathbf{v}\in \iota(U^\perp)\iff \phi(\mathbf{v})\in Ann(U)$
+
+One useful thing about orthogonal spaces is that the double orthogonal subspace is directly equal, there's no need to identify it with something else like the evaluation map. 
+
