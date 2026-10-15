@@ -51,4 +51,9 @@ $=\langle \mathbf{v},S^*\mathbf{w} \rangle=\langle S\mathbf{v},\mathbf{w} \rangl
 $\implies S^{**}=S$
 
 
-# Theorem 4 
+# Theorem 4 (adjoints swap Ker, Range using perp)
+For $T:V\to W$
+$(1): \ker(T^*)=Range(T)^\perp$
+$(2):Ker(T^*)^\perp=Range(T)$
+$(3): Range(T^*)=\ker(T)^\perp$
+$(4):Range(T^*)^\perp=\ker(T)$
