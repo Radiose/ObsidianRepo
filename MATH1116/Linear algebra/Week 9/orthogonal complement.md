@@ -52,3 +52,21 @@ $\impliedby$
 $W^\perp \subset U^\perp \implies (U^\perp)^\perp \subset (W^\perp)^\perp$ (by exercise)
 $\implies U \subset W$ by [[orthogonal complement#Theorem 2|the theorem above]]
 
+
+
+# Theorem 3
+if $V$ is finite dimensional, then $\phi:V\to V^V$ is an [[isomorphism]]. (where $\phi$ is the one in the [[conjugate linear involution]] note)
+
+Under this [[isomorphism]], $\phi(U^\perp)$ is identified with $Ann(U)$ (the [[annihilator]])
+IE, $\phi (U^\perp)=Ann(U)$
+
+# Proof 
+We aim to show that $\phi$ is injective. 
+Assume that $v \in V$ is in $\ker(\phi)$
+$\forall \mathbf{w}\in V,\phi(\mathbf{v})(\mathbf{w})=0$
+In particular, for $\mathbf{w}=\iota(\mathbf{v}),0=\iota(\mathbf{v})(\iota(\mathbf{v}))=\langle \iota (\mathbf{v}),\iota(\mathbf{v}) \rangle\implies \iota(\mathbf{v})=0$
+Note, $\iota(\mathbf{0})=0$, and $\iota$ is bijective so therefore $\mathbf{v}=0$. $\iota$ is bijective because $\iota^2=id_{v}$, implying that it has an inverse(itself) and via [[Invertible matrix theorem]], it must be bijective. 
+
+Now, $\dim(V^V)=\dim(V)$, $\phi$ being injective implies $\phi$ is an [[isomorphism]].  
+
+This concept can be also thought of by the theorem above. 
