@@ -41,3 +41,36 @@ If $T$ is **self adjoint**, and $\forall \mathbf{v}\in V\ \ \langle T\mathbf{v},
 ### Proof 
 If $\mathbb{F}=\mathbb{C}$, we reference [[self adjoint operator#Theorem 2|theorem 2]]
 If $\mathbb{F}=\mathbb{R}$, we use $4\langle T\mathbf{u},\mathbf{w} \rangle=\langle T(\mathbf{u}+\mathbf{w}),\mathbf{u}+\mathbf{w} \rangle-\langle T(\mathbf{u}-\mathbf{w}),\mathbf{u}-\mathbf{w} \rangle$ 
+Rest of proof is exercise:
+Prove the equality holds above via $T$ being self adjoint, and the proof will proceed similar to theorem 2.
+
+# Theorem 4
+For $\mathbb{F}=\mathbb{C}$, $T$ is self adjoint $\iff \forall \mathbf{v}\in V:\quad \langle T\mathbf{v},\mathbf{v} \rangle\in \mathbb{R}$
+$\implies$
+$\langle T\mathbf{v},\mathbf{v} \rangle=\overline{\langle \mathbf{v},T\mathbf{v} \rangle}=\overline{\langle T\mathbf{v},\mathbf{v} \rangle}\implies \langle T\mathbf{v},\mathbf{v} \rangle\in \mathbb{R}$
+$\impliedby$
+Consider $\langle T\mathbf{v},\mathbf{v} \rangle-\overline{\langle T\mathbf{v},\mathbf{v} \rangle}=\langle T\mathbf{v},\mathbf{v} \rangle-\langle \mathbf{v},T\mathbf{v} \rangle=\langle T\mathbf{v},\mathbf{v} \rangle-\langle T^*\mathbf{v},\mathbf{v} \rangle$
+$=\langle (T-T^*)\mathbf{v},\mathbf{v} \rangle$
+Note that $\langle T\mathbf{v},\mathbf{v} \rangle-\overline{\langle T\mathbf{v},\mathbf{v} \rangle}=0,$ because $\langle T\mathbf{v},\mathbf{v} \rangle\in \mathbb{R}$, 
+Thus, $\langle (T-T^*)\mathbf{v},\mathbf{v} \rangle=0\implies T-T^*=0$ via [[self adjoint operator#Theorem 3|theorem 3]] so $T=T^* \blacksquare$
+
+
+
+## Example 
+Let us consider the linear transformation given by the matrix $A=\begin{bmatrix}2  & 1+i  \\  1-i  & 3\end{bmatrix}$ on $\mathbb{C}^2$
+We have that $A=A^{\dagger}$, which implies that $A$ has real [[eigenvalue]]s
+
+# Theorem 5
+Let $U \subset V$, $T$ be [[invariant subspace|invariant]]
+Then, 
+$(1):U^\perp$ is $T$ invariant
+$(2):T|_{U}\in \mathcal{L}(V)$ is self adjoint
+$(3)$:  $T|_{U^\perp}\in \mathcal{L}(U^\perp)$
+
+### Proof 
+$(1)$
+Pick $\mathbf{v}\in U^\perp$. We want $T\mathbf{v}\in U^\perp$
+Pick $\mathbf{u}\in U$ and consider
+$\langle T\mathbf{v},\mathbf{u} \rangle=\langle \mathbf{v},T\mathbf{u} \rangle=0$ (self adjoint and $T\mathbf{u}\in U, \mathbf{v}\in U^\perp$
+
+$(2):\langle T|_{U}\mathbf{u},\mathbf{u}' \rangle=\langle T\mathbf{u},\mathbf{u}' \rangle=\langle \mathbf{u},T|_{U}\mathbf{u}' \rangle$
