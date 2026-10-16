@@ -143,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -338,10 +338,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da630eae9da1f0e0",
+  "active": "f54e0922735b3c23",
   "lastOpenFiles": [
-    "COMP2610/Week 6/source code.md",
     "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
+    "COMP2610/Week 6/source code.md",
     "attachments/Pasted image 20261016102621.png",
     "attachments/Pasted image 20261016102608.png",
     "COMP2610/Week 8/Interval coding.md",
