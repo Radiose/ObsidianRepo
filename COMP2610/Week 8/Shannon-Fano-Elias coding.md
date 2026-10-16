@@ -14,5 +14,19 @@ This procedure is very simple, and has very significant properties.
 # Lossless property 
 
 Recall the definition of lossless code(basically just injectivity)
-We denote the Shannon-Fano-Elias code for an outcome $x$ by $\lfloor \bar{F}(x) \rfloor_{\ell(x)}$, which means truncate to the first $\ell_{x}$ bits. 
+We denote the Shannon-Fano-Elias code for an outcome $x$ by $\lfloor \bar{F}(x) \rfloor_{\ell(x)}$, (which means truncate to the first $\ell_{x}$ bits). 
 
+Because $F(x-1)<\lfloor \bar{F}(x) \rfloor_{\ell(x))}<F(x)$, there is no possibility for overlap. This is because the code sits entirely in the interval between $x-1$ and $x$
+
+
+# Prefix property 
+
+Consider the set of binary strings that begin with $\mathbf{b}=b_{1},\dots,b_{n}$
+Elements look like $b_{1}\dots b_{n}0,\ \ b_{1}\dots b_{n}1\dots$
+
+Now consider the association $0.b_{1}\dots b_{n}$ as a prefix 
+
+Note that $0.b_{1},\dots,b_{n}\bar{1}=0.b_{1},\dots,b_{n}+\frac{1}{2^n}=0.b_{1}\dots,b_{n}+0.0\dots {1}$
+Similar to how $0.1\overline{9}_{10}=0.2$
+
+Now, we start to use these things in relation to the interval. 
