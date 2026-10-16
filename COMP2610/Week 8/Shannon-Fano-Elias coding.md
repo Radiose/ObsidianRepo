@@ -1,3 +1,8 @@
+---
+aliases:
+  - SFE coding
+  - SFE code
+---
 This is a form of coding designed to fix the problems outlined in [[Interval coding]] relating to the infinite recurring decimals requiring infinite numbers of bits to display correctly. 
 
 The basic idea is to code, using the first $\ell(\mathbf{x})=\left\lceil  \log_{2} \frac{1}{p(\mathbf{x})}  \right\rceil+1$ bits of $\overline{F}(\mathbf{x})$
