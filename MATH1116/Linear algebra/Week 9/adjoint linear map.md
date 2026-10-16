@@ -7,8 +7,13 @@ For $W,V$ being linear, finite dimensional inner product spaces
 
 The adjoint of a linear map, $T:V\to W$ is a [[linear map|map]] $T^*:W\to V$ such that
 $$\forall \mathbf{v}\in V\quad\forall\mathbf{w}\in W\ \ \langle T\mathbf{v},\mathbf{w} \rangle=\langle \mathbf{v},T^*\mathbf{w} \rangle$$
+
+As a quick remark, $T\mathbf{v},\mathbf{w}\in W$ and $\mathbf{v},T^*\mathbf{w} \in V$
+Additionally, $\langle \mathbf{w},T\mathbf{v} \rangle=\langle T^*\mathbf{w},\mathbf{v} \rangle$
 Exercise:
 If $T^*$ exists, it is a linear map
+
+
 
 # Theorem (Reisz representation theorem)
 If $V$ is finite dimensional, then $\forall \phi \in V^V$, $\exists! \mathbf{v}\in V$ such that $\forall \mathbf{u}\in V$, $\phi(\mathbf{u})=\langle \mathbf{u},\mathbf{v} \rangle$
