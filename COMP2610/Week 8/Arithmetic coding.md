@@ -26,3 +26,40 @@ First, we divide the overall interval $[0,1]$ into places for $a,b,c$
 From here, we compute $p(a|b)$, $p(b|b)$, $p(c|b)$
 We now slice up the interval for $b$ according to these. 
 ![[Pasted image 20261016185151.png|335]]
+
+### Ending the stream 
+
+We use the symbol $\square$ to symbolise the end of a message. 
+We assign to it some probability that makes sense 
+$p(\square)$ is the probability of seeing an empty string, $p(\square|a)$ is the probability of seeing just the string $a$
+
+Implicitly we think of $ab$ as being $ab \square$
+
+### Example including ending the stream 
+Suppose $\mathcal{A}=\{ a,b,c ,\square\}$, and $p(a)=0.25,\quad p(b)=0.5\quad p(c)=0.15\quad p(\square)=0.1$
+Like with SFE coding, we slice $[0,1)$ into three subintervals 
+
+![[Pasted image 20261016194626.png|325]]
+
+Supposing $p(\cdot|b)=p(\cdot)$
+![[Pasted image 20261016194837.png]]
+
+
+
+
+# Generating codewords 
+We end up with the final interval $[u,v)$, and as per [[Shannon-Fano-Elias coding|SFE coding]], we use the first $\ell(x_{1},\dots,x_{n})$ bits of $\frac{u+v}{2}$. Remember that $\ell(x_{1},\dots,x_{n})$ is given by $\lceil \log_{2} \frac{1}{p(x_{1}x_{2}\dots x_{n}) }\rceil+1$
+This guarantees that all strings starting with the codeword are within the interval, similarly to SFE. 
+Formally:
+
+$$\begin{aligned}
+&u \leftarrow 0.0,\quad v \leftarrow 1.0,\quad p \leftarrow v - u \\
+&\textbf{for } n = 1, 2, \ldots \\
+&\qquad L_n(a_i \mid x_{<n}) = \sum_{i'=1}^{i-1} p(x_n = a_{i'} \mid x_{<n}) \\
+&\qquad U_n(a_i \mid x_{<n}) = \sum_{i'=1}^{i} p(x_n = a_{i'} \mid x_{<n}) \\
+&\qquad v \leftarrow u + p \cdot U_n(x_n \mid x_{<n}) \\
+&\qquad u \leftarrow u + p \cdot L_n(x_n \mid x_{<n}) \\
+&\qquad p \leftarrow v - u \\
+&\qquad \textbf{if } x_n = \square \text{, terminate} \\
+&\text{Output first } \ell(x_1 \ldots x_N) = \lceil \log_2 1/p \rceil + 1 \text{ bits of } (u+v)/2
+\end{aligned}$$
