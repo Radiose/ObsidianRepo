@@ -14,4 +14,5 @@ This procedure is very simple, and has very significant properties.
 # Lossless property 
 
 Recall the definition of lossless code(basically just injectivity)
-We denote the Shannon-Fano-Elias code for an outcome $x$ by $f\$ 
+We denote the Shannon-Fano-Elias code for an outcome $x$ by $\lfloor \bar{F}(x) \rfloor_{\ell(x)}$, which means truncate to the first $\ell_{x}$ bits. 
+
