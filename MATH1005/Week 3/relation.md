@@ -24,6 +24,8 @@ Therefore, we have defined a relation < on $\mathbb{Z}$
 # properties of relations 
 
 ![[reflexive relation]]
+
+
 ![[symmetric relation]]
 ![[transitive relation]]
 
