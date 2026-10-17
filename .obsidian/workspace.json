@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 8/Arithmetic coding.md",
+                "file": "COMP2610/Week 8/Dirichlet distribution.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Arithmetic coding"
+              "title": "Dirichlet distribution"
             }
           },
           {
@@ -340,12 +340,17 @@
   },
   "active": "da630eae9da1f0e0",
   "lastOpenFiles": [
+    "COMP2610/Week 3/the Bernoulli distribution.md",
+    "COMP2610/Week 3/binomial distribution.md",
+    "COMP2610/Week 8/Dirichlet distribution.md",
+    "COMP2610/Week 8/Arithmetic coding.md",
+    "attachments/Pasted image 20261017114054.png",
+    "attachments/Pasted image 20261017113352.png",
     "attachments/Pasted image 20261016194837.png",
     "attachments/Pasted image 20261016194626.png",
     "attachments/Pasted image 20261016185151.png",
     "attachments/Pasted image 20261016185008.png",
     "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
-    "COMP2610/Week 8/Arithmetic coding.md",
     "COMP2610/Week 8/Interval coding.md",
     "COMP2610/Week 7/Shannon code.md",
     "COMP2610/Week 7/Huffman coding.md",
@@ -369,14 +374,9 @@
     "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
     "MATH1116/Linear algebra/Week 9/conjugate linear involution.md",
     "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylors theorem.md",
-    "MATH1005/Week 2/Proper subset.md",
     "attachments/Pasted image 20261014112208.png",
     "attachments/Pasted image 20261014105023.png",
     "Untitled.canvas",
-    "attachments/Ink/Drawing/2026.10.6 - 14.43pm.svg",
-    "attachments/Ink/Drawing/2026.10.6 - 14.38pm.svg",
-    "attachments/Ink/Drawing/2026.10.2 - 19.05pm.svg",
     "templates",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
     "MATH1116",

@@ -63,3 +63,16 @@ $$\begin{aligned}
 &\qquad \textbf{if } x_n = \square \text{, terminate} \\
 &\text{Output first } \ell(x_1 \ldots x_N) = \lceil \log_2 1/p \rceil + 1 \text{ bits of } (u+v)/2
 \end{aligned}$$
+# Decoding 
+The basic idea behind decoding is not too complicated. 
+We want to basically rebuild a tree, similar to how its done in [[Kraft inequality]] slides. 
+
+### Example 
+Suppose we are given $p(a)=0.5, p(b)=0.125,p(c)=0.25,p(\square)=0.125$
+We want to decode $0110111$
+We first get the decimal interval given by each successive code, and from there convert it to base $10$
+![[Pasted image 20261017113352.png]]
+
+Note that this is incorrect, we can only determine $c$ after $0110$
+![[Pasted image 20261017114054.png]]
+Basically, the idea is here. We only redraw the intervals on the right, when we have the next bit, so the red stuff stays until $0110$ gives c. 
