@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 8/Dirichlet distribution.md",
+                "file": "MATH1116/Analysis/Week 7/multivariate integration.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Dirichlet distribution"
+              "title": "multivariate integration"
             }
           },
           {
@@ -340,9 +340,13 @@
   },
   "active": "da630eae9da1f0e0",
   "lastOpenFiles": [
+    "attachments/Pasted image 20261017133844.png",
+    "MATH1116/Analysis/Week 9/convex set.md",
+    "MATH1116/Analysis/Week 9/Multivariate intermediate value theorem.md",
+    "MATH1116/Analysis/Week 9/Untitled.md",
+    "COMP2610/Week 8/Dirichlet distribution.md",
     "COMP2610/Week 3/the Bernoulli distribution.md",
     "COMP2610/Week 3/binomial distribution.md",
-    "COMP2610/Week 8/Dirichlet distribution.md",
     "COMP2610/Week 8/Arithmetic coding.md",
     "attachments/Pasted image 20261017114054.png",
     "attachments/Pasted image 20261017113352.png",
@@ -370,10 +374,6 @@
     "MATH1116/Linear algebra/Week 3/linear map.md",
     "MATH1116/Linear algebra/Week 8/inner product space.md",
     "MATH1116/Linear algebra/Week 8/norm.md",
-    "MATH1013/Complex numbers/complex conjugate.md",
-    "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
-    "MATH1116/Linear algebra/Week 9/conjugate linear involution.md",
-    "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
     "attachments/Pasted image 20261014112208.png",
     "attachments/Pasted image 20261014105023.png",
     "Untitled.canvas",

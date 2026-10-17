@@ -29,3 +29,6 @@ We define $$1_{\prod_{j=1}^n [a_{j},b_{j}]} :\mathbb{R}^n \to \mathbb{R} \\x \ma
 \end{cases}$$
 Additionally, $\int_{\mathbb{R}^n}1_{\prod_{j=1}^n [a_{j},b_{j}]}(x)dx:= \prod_{j=1}^n \lvert b_{j}-a_{j} \rvert=:\int_{\prod_{j=1}^n [a_{j},b_{j}]}dx=: \int _{a_{n}}^{b_{n}}\dots\int_{a_{1}}^{b_{1}}dx_{1}\dots dx_{n}$
 
+## Definition 2
+Let $m \in \mathbb{N}$. Let $[a_{j,k},b_{j,k}]\subseteq \mathbb{R},$ where $j=1,\dots,n$ and $k=1,\dots,m$ and $\{ \alpha_{1},\dots,\alpha_{m} \}\in \mathbb{R}^m$
+Then $$\int_{\mathbb{R}^n}\sum_{k=1}^m\alpha_{k}1$$
