@@ -68,9 +68,20 @@ Then, $$\bar{S}(\mathcal{Q})\leq \bar{S}(\mathcal{P})\leq\bar{S}(Q)+2\epsilon \p
 ### Proof 
 Note that $f$ is uniformly continuous, as it is continuous on a closed, compact set.
 IE $$\forall\epsilon >0\quad\exists \delta >0\quad \forall x,y \in \prod_{j=1}^n[a_{j},b_{j}]\quad \lVert x-y \rVert<\delta \implies |f(x)-f(y)|<\epsilon$$Let $\epsilon>0$, and let $\delta$ be as above. Let $\mathcal{P}$ be a $\delta$ partition, and $\mathcal{Q}\lessdot\mathcal{P}$
-$$\bar{S}(\mathcal{Q})= \sum_{R' \in \mathcal{Q}}\sup_{x \in R'}  f(x) \left( \int_{R'}dx \right) \\ = \sum_{R \in \mathcal{P}}\sum_{R' \in Q\\ R' \subset R} \sup_{x \in R'}{f(x) \left( \int_{R'}dx \right)} \text{ rewriting/grouping}\\ \leq \sum_{R \in \mathcal{P}}\sum_{R' \in\mathcal{Q} \\ R' \subset R} \sup_{x \in R}{f(x) \left( \int_{R'}dx \right) }\\ =\sum_{R \in \mathcal{P}}\sup_{x \in R}f(x) \left[ \sum_{R' \in Q \\ R' \subset R}\left( \int_{R'}dx \right)  \right] \text{\ sup of R doesnt depend on R'}\\ =\sum_{R \in \mathcal{P}}\sup_{x \in R}f(x)\left( \int_{R}dx \right]=\bar{S}(\mathcal{P})$$
+$$\bar{S}(\mathcal{Q})= \sum_{R' \in \mathcal{Q}}\sup_{x \in R'}  f(x) \left( \int_{R'}dx \right) \\ = \sum_{R \in \mathcal{P}}\sum_{R' \in Q\\ R' \subset R} \sup_{x \in R'}{f(x) \left( \int_{R'}dx \right)} \text{ rewriting/grouping}\\ \leq \sum_{R \in \mathcal{P}}\sum_{R' \in\mathcal{Q} \\ R' \subset R} \sup_{x \in R}{f(x) \left( \int_{R'}dx \right) }\\ =\sum_{R \in \mathcal{P}}\sup_{x \in R}f(x) \left[ \sum_{R' \in Q \\ R' \subset R}\left( \int_{R'}dx \right)  \right] \text{\ sup of R doesnt depend on R'}\\ =\sum_{R \in \mathcal{P}}\sup_{x \in R}f(x)\left( \int_{R}dx \right)=\bar{S}(\mathcal{P})$$
 Now, 
-$$\bar{S}(\mathcal{Q})=\sum_{R' \in \mathcal{Q}} \sup_{x \in R'}f(x)\left( \int_{R'}dx \right)\\= \sum_{R \in \mathcal{P}}\sum_{R' \in Q \\ R'\subset R} \sup_{x \in R'}\left( \int_{R'}dx \right) \\ \geq \sum_{R \in \mathcal{P}}\sum_{R' \in \mathcal{Q}} \sup_{x \in R}(f(x)-\epsilon)\left( \int_{R'}dx \right)$$
-Note that without this $\epsilon$, the inequality would be reversed. 
+$$\bar{S}(\mathcal{Q})=\sum_{R' \in \mathcal{Q}} \sup_{x \in R'}f(x)\left( \int_{R'}dx \right)\\= \sum_{R \in \mathcal{P}}\sum_{R' \in Q \\ R'\subset R} \sup_{x \in R'} f(x)\left( \int_{R'}dx \right) \\ \geq \sum_{R \in \mathcal{P}}\sum_{R' \in \mathcal{Q}} \sup_{x \in R}(f(x)-\epsilon)\left( \int_{R'}dx \right)$$
+This final inequality is the tricky part. Because, we know that 
+
+$$\sum_{R \in \mathcal{P}}\sum_{R' \in Q\\ R' \subset R} \sup_{x \in R'}{f(x) \left( \int_{R'}dx \right)}  \leq \sum_{R \in \mathcal{P}}\sum_{R' \in\mathcal{Q} \\ R' \subset R} \sup_{x \in R}{f(x) \left( \int_{R'}dx \right) }$$and that because $\mathcal{P}$ is an $\delta$ sufficient subset, 
+
+$\sup_{x \in R'}f(x)\geq \sup_{y \in R}f(y)-\epsilon$
+
+This is further shown below
+
 How is $\epsilon$ obtained?
-For $x \subs$
+For $x \in R' \subset R$
+$\lVert x-y \rVert<\delta \implies \lvert f(x)-f(y) \rvert<\epsilon$
+$\implies f(x)\geq f(y)-\epsilon$ from uniform continuity
+
+$$=\bar{S}(\mathcal{P})-\epsilon \left( \sum_{R \in \mathcal{P}}\sum_{R' \in Q} \left( \int_{R'}dx \right) \right)=\bar{s}(\mathcal{P})-\epsilon \prod_{j=1}^n[a_{j}-b_{j}]$$
