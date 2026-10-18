@@ -107,3 +107,5 @@ $\implies \forall n \in \mathbb{N}\quad \exists x_{n}\in E\ \ \lvert f(x_{{n}}) 
 As before, $\exists$ increasing sequence $(m_{k})_{k \in \mathbb{N}}\in \mathbb{N}^\mathbb{N}$, and $x \in E$ such that $\lVert x-x_{m_{k}} \rVert\xrightarrow[k \to \infty]{}0$
 But $\lvert f(x) \rvert \not= \lvert \lim_{ k \to \infty } f(x_{m_{k}})\rvert> \lim_{ k \to \infty }m_{k}=\infty$ 
 ($m_k$ is increasing). So then the limits arent the same so not continuous and another contradiction. Thus, must be bounded. $\blacksquare$
+
+

@@ -54,3 +54,23 @@ $$
 P(x=0 \mid y=0) = \frac{P(y=0 \mid x=0)\,P(x=0)}{\sum_{x' \in \mathcal{X}} P(y=0 \mid x')\,P(x')} = \frac{P(x=0)}{P(x=0) + f\,P(x=1)}$$
 
 So $P(x=0 \mid y=0) \to 1$ as $f \to 0$, and goes to $P(x=0)$ as $f \to 1$
+
+## The binary erasure channel 
+We can model a channel which erases bits by letting one of the output symbols be the symbol $?$ with associated probability $f$
+The receiever knows which bits are erased 
+$\mathcal{X}=\{ 0,1 \}\ \mathcal{Y}=\{ 0,?, 1 \}$
+Transition probabilities are $Q=\begin{bmatrix} 1 -f & 0  \\  f  &  f  \\  0  &  1-f\end{bmatrix}$
+
+
+## The noisy typewriter channel 
+
+This channel simulates a noisy "typewriter". Inputs and outputs are 26 letters A through Z plus space. With probability $\frac{1}{3}$, each letter is either: unchanged; changed to the next letter, changed to the previous letter.
+
+Inputs $\mathcal{X} = \{\texttt{A}, \texttt{B}, \ldots, \texttt{Z}, \texttt{\_}\}$;
+
+Outputs $\mathcal{Y} = \{\texttt{A}, \texttt{B}, \ldots, \texttt{Z}, \texttt{\_}\}$;
+
+Transition probabilities
+![[Pasted image 20261018164315.png]]
+
+The transition matrix for this channel has a **diagonal structure**: all of the probability mass is concentrated around the diagonal.
