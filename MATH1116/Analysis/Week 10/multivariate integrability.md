@@ -52,8 +52,20 @@ We write $\int_{\prod_{j=1}^n [a_{j},b_{j}]}f(x)dx:=L$
 Let $f,g: \prod_{j=1}^n [a_{j},b_{j}] \to \mathbb{R}$ and $\lambda \in \mathbb{R}$
 Then, $\int_{\prod_{j=1}^n[a_{j},b_{j}]}f(x)+\lambda g(x)= \int_{\prod_{j=1}^n}f(x)dx+\lambda \int_{\prod_{j=1}^n}g(x)dx$
 
-# Upper and lower Riemann sums 
+## Upper and lower Riemann sums 
 Let $f:\prod_{j=1}^n[a_{j},b_{j}]\to \mathbb{R}$ be [[continuous function|continuous]]
 Let $\mathcal{P}$ be a [[partition]]
 $\bar{S}(\mathcal{P})=\sum_{R\in \mathcal{P}}\sup_{x \in\mathbb{R}}f(x)\left( \int_{R}dx \right)$ - an upper Riemann sum (the largest point in each sub rectangle)
 $\underline{S}=\sum_{R \in \mathcal{P}}\inf_{x \in R}f(x)\left( \int_{R}dx \right)$ - the lower Riemann sum
+
+
+
+# Lemma 
+Let $f:\prod_{j=1}^n[a_{j},b_{j}] \to \mathbb{R}$ be continuous. 
+Let  $\epsilon>0$, let $\delta>0$. Let $\mathcal{P}$ be a $\delta$ partition of $\prod_{j=1}^n[a_{j},bj]$ and $\mathcal{Q}$ be a refinement of $\mathcal{P}$
+Then, $$\bar{S}(\mathcal{Q})\leq \bar{S}(\mathcal{P})\leq\bar{S}(Q)+2\epsilon \prod_{j=1}^n \lvert b_{j}-a_{j} \rvert$$
+
+### Proof 
+Note that $f$ is uniformly continuous, as it is continuous on a closed, compact set.
+IE $$\forall\epsilon >0\quad\exists \delta >0\quad \forall x,y \in \prod_{j=1}^n[a_{j},b_{j}]\quad \lVert x-y \rVert<\delta \implies |f(x)-f(y)|<\epsilon$$Let $\epsilon>0$, and let $\delta$ be as above. Let $\mathcal{P}$ be a $\delta$ partition, and $\mathcal{Q}\lessdot\mathcal{P}$
+$$\bar{S}(\mathcal{Q})= \sum_{R' \in \mathcal{Q}}\sup_{x \in R'}  f(x) \left( \int_{R'}dy \right) \\ = \sum_{R \in \mathcal{P}}\sum_{R' \in Q\\ R' \subset R} \sup_{x \in R'}{f(x) \left( \int_{R'}dx \right)}\\ \leq \sum_{R \in \mathcal{P}}\sum_{R' \in\mathcal{Q} \\ R' \subset R} \sup_{x \in R}{f(x) \left( \int_{R'}dx \right) }$$This idea here is 
