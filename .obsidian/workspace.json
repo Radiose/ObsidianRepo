@@ -133,17 +133,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 8/inner product.md",
+                "file": "MATH1116/MATH1116 A9.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "inner product"
+              "title": "MATH1116 A9"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -338,8 +338,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da630eae9da1f0e0",
+  "active": "f7c9fcbf59b77721",
   "lastOpenFiles": [
+    "MATH1116/Linear algebra/Week 8/inner product.md",
+    "MATH1005/Week 3/relation.md",
     "MATH1005/Week 3/symmetric relation.md",
     "MATH1116/Analysis/Week 7/multivariate integration.md",
     "attachments/Pasted image 20261017133844.png",
@@ -372,9 +374,7 @@
     "COMP2610/Week 6/source code.md",
     "attachments/Pasted image 20261016102621.png",
     "attachments/Pasted image 20261016102608.png",
-    "MATH1116/Linear algebra/Week 8/inner product.md",
     "MATH1116/Linear algebra/Week 3/linear map.md",
-    "MATH1116/Linear algebra/Week 8/inner product space.md",
     "attachments/Pasted image 20261014112208.png",
     "Untitled.canvas",
     "templates",
