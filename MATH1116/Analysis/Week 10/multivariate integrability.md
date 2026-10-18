@@ -55,5 +55,5 @@ Then, $\int_{\prod_{j=1}^n[a_{j},b_{j}]}f(x)+\lambda g(x)= \int_{\prod_{j=1}^n}f
 # Upper and lower Riemann sums 
 Let $f:\prod_{j=1}^n[a_{j},b_{j}]\to \mathbb{R}$ be [[continuous function|continuous]]
 Let $\mathcal{P}$ be a [[partition]]
-$\bar{S}(\mathcal{P})=\sum_{R\in \mathcal{P}}\sup_{x \in\mathbb{R}}f(x)\left( \int_{R}dx \right)$ - an upper Riemann sum (the largest point in each subrectangle)
-$\underline{S}=\sum_{R \in \mathcal{P}}\inf_{x \in R}f(x)\left( \int_{R}dx \right)$ - the lower riemann sum
+$\bar{S}(\mathcal{P})=\sum_{R\in \mathcal{P}}\sup_{x \in\mathbb{R}}f(x)\left( \int_{R}dx \right)$ - an upper Riemann sum (the largest point in each sub rectangle)
+$\underline{S}=\sum_{R \in \mathcal{P}}\inf_{x \in R}f(x)\left( \int_{R}dx \right)$ - the lower Riemann sum
