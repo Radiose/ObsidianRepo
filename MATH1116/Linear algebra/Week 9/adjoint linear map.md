@@ -31,11 +31,8 @@ Then $\exists !\mathbf{u}\in V$ such that $\phi=\langle \_{},\mathbf{u} \rangle$
 Other construction:
 $T^*(\mathbf{w})=\Phi_{V}^{-1}(T^V(\Phi _{V}(\mathbf{w})))$
 
-# Theorem 2 
-If $\alpha,\beta$ are [[orthonormal vectors|orthonormal basis]] of $V$, and $W$, then $[T^*]_{\alpha \leftarrow \beta}=[T]_{\beta \leftarrow\alpha}$
 
-
-# Theorem 3 (properties)
+# Theorem 2 (properties)
 For $U,V$ [[inner product space]]s fin dim, then $\forall S,T \in \mathcal{L}(V,W)$
 $(1): (S+T)^*=S^*+T^*$
 $(2):(\lambda S)=\bar{\lambda}S^*$
@@ -56,9 +53,14 @@ $=\langle \mathbf{v},S^*\mathbf{w} \rangle=\langle S\mathbf{v},\mathbf{w} \rangl
 $\implies S^{**}=S$
 
 
-# Theorem 4 (adjoints swap Ker, Range using perp)
+# Theorem 3 (adjoints swap Ker, Range using perp)
 For $T:V\to W$
 $(1): \ker(T^*)=Range(T)^\perp$
 $(2):Ker(T^*)^\perp=Range(T)$
 $(3): Range(T^*)=\ker(T)^\perp$
 $(4):Range(T^*)^\perp=\ker(T)$
+
+
+# Theorem 4 
+let $T:V\to W$ be linear. Then, with respect to fixed, [[orthonormal vectors|orthonormal bases]] of the domain and codomain, the matrix presentation of $T^*$ is the conjugate transpose of that of $T$.
+
