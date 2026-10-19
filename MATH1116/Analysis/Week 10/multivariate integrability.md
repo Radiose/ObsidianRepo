@@ -88,6 +88,11 @@ $$=\bar{S}(\mathcal{P})-\epsilon \left( \sum_{R \in \mathcal{P}}\sum_{R' \in Q} 
 # Theorem 
 If $f: \prod_{j=1}^n[a_{j},b_{j}] \to \mathbb{R}$ is continuous, then it is integrable.
 
+### Proof 
+Define $L = \inf_{}{\bar{S}(\mathcal{P}):\mathcal{P}\text{ is a partition of }\prod_{j=1}^n [a_{j},b_{j}]}$
+Let $\epsilon >0$. Choose $\delta >0$ such that $$\forall x,y \in \prod_{j=1}^n[a_{j},b_{j}],\quad \lVert x,y \rVert<\delta \implies \lvert f(x)-f(y) \rvert<\epsilon$$Then pick $\mathcal{P}_{\epsilon}$ such that $L\leq \bar{S}(P_\epsilon)\leq L + \epsilon$
+
+
 
 # Theorem 2 
 Let $f:[a,b]\times[c,d] \to \mathbb{R}$ be continuous.

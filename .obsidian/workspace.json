@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
+                "file": "COMP2610/Week 7/Kraft inequality.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "adjoint linear map"
+              "title": "Kraft inequality"
             }
           },
           {
@@ -370,8 +370,9 @@
   },
   "active": "da630eae9da1f0e0",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
+    "MATH1116/Analysis/Week 10/multivariate integrability.md",
     "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
+    "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
     "MATH1116/Linear algebra/Week 8/norm.md",
     "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
     "MATH1116/Linear algebra/Week 5/eigenspace.md",
@@ -386,7 +387,6 @@
     "MATH1116/Analysis/Week 7/multivariate continuity.md",
     "MATH1116/Analysis/Week 9/convex set.md",
     "MATH1116/Analysis/Week 9/Defining the multivariate integral.md",
-    "MATH1116/Analysis/Week 10/multivariate integrability.md",
     "MATH1116/Analysis/Week 7/multivariate integration.md",
     "MATH1116/Analysis/Week 9/Multivariate intermediate value theorem.md",
     "MATH1013/Complex numbers/complex conjugate.md",
