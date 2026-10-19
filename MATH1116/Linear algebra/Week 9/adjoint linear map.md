@@ -35,7 +35,7 @@ $T^*(\mathbf{w})=\Phi_{V}^{-1}(T^V(\Phi _{V}(\mathbf{w})))$
 # Theorem 2 (properties)
 For $U,V$ [[inner product space]]s fin dim, then $\forall S,T \in \mathcal{L}(V,W)$
 $(1): (S+T)^*=S^*+T^*$
-$(2):(\lambda S)=\bar{\lambda}S^*$
+$(2):(\lambda S)^*=\bar{\lambda}S^*$
 $(3):S^{**}=S$
 Note that these first three properties can be obtained by proving that $(\_{})^*$ is an [[conjugate linear involution]] map.
 
