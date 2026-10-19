@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 7/Kraft inequality.md",
+                "file": "MATH1116/Analysis/Week 10/multivariate integrability.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Kraft inequality"
+              "title": "multivariate integrability"
             }
           },
           {
@@ -197,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -392,11 +392,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c2f7fabdbf81d281",
+  "active": "1a3952ed87c183f4",
   "lastOpenFiles": [
+    "COMP2610/Week 7/Kraft inequality.md",
+    "MATH1116/Analysis/Week 9/Multivariate intermediate value theorem.md",
+    "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
+    "MATH1013/Calculus/Week 9/Inverse trigonometric function.md",
     "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
     "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
-    "COMP2610/Week 7/Kraft inequality.md",
     "COMP2610/Week 8/Arithmetic coding.md",
     "COMP2610/Week 7/expected code length.md",
     "COMP2610/Week 7/source coding theorem for symbol codes.md",
@@ -414,12 +417,9 @@
     "MATH1116/Linear algebra/Week 5/eigenspace.md",
     "MATH1116/Linear algebra/Week 3/linear map.md",
     "MATH1116/Linear algebra/Week 5/eigenvalue.md",
-    "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
     "MATH1116 final exam hints.md",
     "MATH1005/Week 3/relation.md",
     "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
-    "MATH1116/Linear algebra/Week 9/conjugate linear involution.md",
-    "MATH1013/Calculus/Week 2/continuous function.md",
     "attachments/Pasted image 20261018170912.png",
     "attachments/Pasted image 20261018164315.png",
     "attachments/Pasted image 20261018154134.png",
