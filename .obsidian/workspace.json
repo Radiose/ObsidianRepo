@@ -178,7 +178,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
+                "file": "MATH1013/Calculus/Week 9/Inverse trigonometric function.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -193,7 +193,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Shannon-Fano-Elias coding"
+              "title": "Inverse trigonometric function"
             }
           }
         ],
@@ -394,14 +394,14 @@
   },
   "active": "c2f7fabdbf81d281",
   "lastOpenFiles": [
+    "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
+    "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
     "COMP2610/Week 7/Kraft inequality.md",
     "COMP2610/Week 8/Arithmetic coding.md",
     "COMP2610/Week 7/expected code length.md",
     "COMP2610/Week 7/source coding theorem for symbol codes.md",
     "COMP2610/Week 7/uniquely decodable.md",
-    "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
     "COMP2610/Week 7/Huffman coding.md",
-    "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
     "COMP2610/Week 8/Interval coding.md",
     "COMP2610/Week 7/Shannon code.md",
     "COMP2610/Week 8/Dirichlet distribution.md",
