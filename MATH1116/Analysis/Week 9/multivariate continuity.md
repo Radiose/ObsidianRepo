@@ -1,4 +1,3 @@
-# ![[vector valued continuity]]
 # One dimensional codomain 
 
 ## Lemma 

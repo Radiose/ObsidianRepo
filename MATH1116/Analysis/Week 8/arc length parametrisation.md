@@ -9,7 +9,7 @@ That is, if we attempt to describe the unit circle as $\mathcal{C}=\{ \cos(t),\s
 If $\mathcal{C}=\{ f(t);t\in[a,b] \}$, then $f:[a,b]\to \mathbb{R}^n$ is called a parametrisation of $\mathcal{C}$
 
 # Definition 
-Let $\mathcal{C}=\{  x(t);t \in[a,b]\}$ with $x:[a,b]\to \mathbb{R}^n$ be [[multivariate differentiability|differentiable]], and $\lVert x'(t) \rVert\not=0\ \forall t\in[a,b]$.
+Let $\mathcal{C}=\{  x(t);t \in[a,b]\}$ with $x:[a,b]\to \mathbb{R}^n$ be [[vector valued differentiability|differentiable]], and $\lVert x'(t) \rVert\not=0\ \forall t\in[a,b]$.
 
 Define $y(t):=x(a+t(b-a)),\ \ \forall t \in[0,1]$, we have $\mathcal{C}=\{ y(t);t\in[0,1] \}$
 

@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 9/Multivariate intermediate value theorem.md",
+                "file": "MATH1116/Analysis/Week 9/multivariate intermediate value theorem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Multivariate intermediate value theorem"
+              "title": "multivariate intermediate value theorem"
             }
           },
           {
@@ -178,7 +178,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 7/multivariate continuity.md",
+                "file": "MATH1116/Analysis/Week 9/multivariate continuity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -202,13 +202,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 7/vector valued continuity.md",
+                "file": "MATH1116/Analysis/Week 9/multivariate intermediate value theorem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "vector valued continuity"
+              "title": "multivariate intermediate value theorem"
             }
           }
         ],
@@ -409,14 +409,16 @@
   },
   "active": "73a53327ab38c3f0",
   "lastOpenFiles": [
-    "MATH1116/Analysis/Week 7/multivariate continuity.md",
+    "MATH1116/Analysis/Week 9/Defining the multivariate integral.md",
+    "MATH1116/Analysis/Week 9/multivariate intermediate value theorem.md",
+    "MATH1116/Analysis/Week 7/vector valued differentiability.md",
+    "MATH1116/Analysis/Week 9/multivariate continuity.md",
     "MATH1116/Analysis/Week 7/vector valued continuity.md",
     "MATH1116/Analysis/Week 7/vector valued integrability.md",
     "MATH1116/Analysis/Week 10/multivariate integrability.md",
     "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
     "MATH1013/Calculus/Week 9/Inverse trigonometric function.md",
     "COMP2610/Week 7/Kraft inequality.md",
-    "MATH1116/Analysis/Week 9/Multivariate intermediate value theorem.md",
     "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
     "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
     "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
@@ -433,8 +435,6 @@
     "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
     "MATH1116/Linear algebra/Week 8/norm.md",
     "MATH1116/Linear algebra/Week 5/eigenspace.md",
-    "MATH1116/Linear algebra/Week 3/linear map.md",
-    "MATH1116/Linear algebra/Week 5/eigenvalue.md",
     "attachments/Pasted image 20261018170912.png",
     "attachments/Pasted image 20261018164315.png",
     "attachments/Pasted image 20261018154134.png",
