@@ -1,4 +1,4 @@
-# Vector valued functions 
+
 
 Let $a,b \in \mathbb{R} : b>a$
 let $x \in[a,b]\to \mathbb{R}^n$ be continuous 
