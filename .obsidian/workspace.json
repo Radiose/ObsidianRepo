@@ -178,7 +178,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Calculus/Week 9/Inverse trigonometric function.md",
+                "file": "MATH1116/Analysis/Week 10/multivariate integrability.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -193,11 +193,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inverse trigonometric function"
+              "title": "multivariate integrability"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -392,12 +392,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1a3952ed87c183f4",
+  "active": "c2f7fabdbf81d281",
   "lastOpenFiles": [
+    "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
+    "MATH1013/Calculus/Week 9/Inverse trigonometric function.md",
+    "MATH1116/Analysis/Week 10/multivariate integrability.md",
     "COMP2610/Week 7/Kraft inequality.md",
     "MATH1116/Analysis/Week 9/Multivariate intermediate value theorem.md",
     "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
-    "MATH1013/Calculus/Week 9/Inverse trigonometric function.md",
     "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
     "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
     "COMP2610/Week 8/Arithmetic coding.md",
@@ -410,8 +412,6 @@
     "COMP2610/Week 8/Dirichlet distribution.md",
     "COMP2610/Week 7/prefix code.md",
     "COMP2610/Week 7/binary symbol code.md",
-    "MATH1116/Analysis/Week 10/multivariate integrability.md",
-    "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
     "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
     "MATH1116/Linear algebra/Week 8/norm.md",
     "MATH1116/Linear algebra/Week 5/eigenspace.md",

@@ -91,9 +91,10 @@ If $f: \prod_{j=1}^n[a_{j},b_{j}] \to \mathbb{R}$ is continuous, then it is inte
 ### Proof 
 Define $L = \inf_{}{\bar{S}(\mathcal{P}):\mathcal{P}\text{ is a partition of }\prod_{j=1}^n [a_{j},b_{j}]}$
 Let $\epsilon >0$. Choose $\delta >0$ such that $$\forall x,y \in \prod_{j=1}^n[a_{j},b_{j}],\quad \lVert x,y \rVert<\delta \implies \lvert f(x)-f(y) \rvert<\epsilon$$Then pick $\mathcal{P}_{\epsilon}$ such that $L\leq \bar{S}(P_\epsilon)\leq L + \epsilon$
-
-
-
+Pick $\delta$ as in the [[multivariate integrability#Lemma|lemma]] and pick $\mathcal{P}$ as a $\delta$ partition. 
+Take $\mathcal{Q_{\epsilon}}$ as a $\delta$ partition such that $\mathcal{Q}\lessdot \mathcal{P}$ and $\mathcal{Q}_{\epsilon} \lessdot \mathcal{P}_{\epsilon}$
+Let $x \in S(\mathcal{Q}_{\epsilon})$
+Then $$\sum_{R \in \mathcal{P}}f(x(R))\left( \int_{R}dx \right)-L \\ \leq \bar{S}(\mathcal{P})-L$$
 # Theorem 2 
 Let $f:[a,b]\times[c,d] \to \mathbb{R}$ be continuous.
 Define $$F:[c,d] \to \mathbb{R}\\y \mapsto \int_{a}^b f(x,y)dx\\ \\G:[a,b]\to \mathbb{R}\\x \mapsto \int_{a}^b f(x,y)dy$$
