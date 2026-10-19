@@ -1,5 +1,5 @@
 # Motivation 
-The basis of interval coding is to recover some of the issues with symbol codes, particularly the limitations listed [[Huffman coding#Use cases|here]]. 
+The basis of interval coding is to recover some of the issues with other symbol codes, particularly the limitations listed [[Huffman coding#Use cases|here]]. 
 
 # Building to it
 Suppose $X$ is some [[ensemble]] with probabilities $p_{1},\dots,p_{\lvert X \rvert}$
