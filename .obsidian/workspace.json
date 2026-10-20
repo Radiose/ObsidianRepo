@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 3/entropy (information theory).md",
+                "file": "COMP2610/Week 4/relative entropy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "entropy (information theory)"
+              "title": "relative entropy"
             }
           }
         ],
@@ -280,6 +280,9 @@
   },
   "active": "b892ba1742bef496",
   "lastOpenFiles": [
+    "COMP2610/Week 7/expected code length.md",
+    "MATH1005/Week 5/Geometric series.md",
+    "COMP2610/Week 3/entropy (information theory).md",
     "MATH1116 A10.md",
     "MATH1116/Analysis/Week 10/multivariate integrability.md",
     "MATH1116/Linear algebra/Week 8/norm.md",
@@ -303,9 +306,6 @@
     "MATH1116/Analysis/Week 7/vector valued differentiability.md",
     "MATH1116/Analysis/Week 7/vector valued continuity.md",
     "MATH1116/Analysis/Week 7/vector valued integrability.md",
-    "MATH1013/Calculus/Week 9/Inverse trigonometric function.md",
-    "COMP2610/Week 7/Kraft inequality.md",
-    "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
     "attachments/Pasted image 20261018170912.png",
     "attachments/Pasted image 20261018164315.png",
     "attachments/Pasted image 20261018154134.png",
