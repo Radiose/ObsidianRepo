@@ -1,3 +1,7 @@
+---
+aliases:
+  - self adjoint
+---
 # Definition 
 For a [[linear operator]] $T$ over a finite dimensional [[inner product space]] $V$, we say that $T$ is self adjoint if $T=T^*$ (its [[adjoint linear map]])
 IE, $\forall \mathbf{u,w}\in V,\langle T\mathbf{v},\mathbf{w} \rangle=\langle \mathbf{v},T\mathbf{w} \rangle$

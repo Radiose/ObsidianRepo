@@ -1,6 +1,7 @@
 ---
 aliases:
   - Reisz representation theorem
+  - adjoint
 ---
 # Definition 
 For $W,V$ being linear, finite dimensional inner product spaces
