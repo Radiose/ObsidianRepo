@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 10/multivariate integrability.md",
+                "file": "MATH1116 A10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "multivariate integrability"
+              "title": "MATH1116 A10"
             }
           },
           {
@@ -225,9 +225,24 @@
               "icon": "lucide-file",
               "title": "orthogonal projection"
             }
+          },
+          {
+            "id": "b790b4e45ab2c360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1116/Linear algebra/Week 8/inner product.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "inner product"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -422,22 +437,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "73a53327ab38c3f0",
+  "active": "1a3952ed87c183f4",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
+    "MATH1116/Analysis/Week 10/multivariate integrability.md",
+    "COMP2610/Week 7/Huffman coding.md",
+    "MATH1116/Analysis/Week 9/multivariate continuity.md",
     "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
-    "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
     "MATH1116 A10.md",
+    "MATH1116/Linear algebra/Week 8/inner product.md",
+    "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
+    "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
     "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
     "MATH1116/Linear algebra/Week 10/complex spectral theorem.md",
     "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
     "MATH1116/Analysis/Week 9/multivariate intermediate value theorem.md",
     "MATH1116/Analysis/Week 9/Defining the multivariate integral.md",
     "MATH1116/Analysis/Week 7/vector valued differentiability.md",
-    "MATH1116/Analysis/Week 9/multivariate continuity.md",
     "MATH1116/Analysis/Week 7/vector valued continuity.md",
     "MATH1116/Analysis/Week 7/vector valued integrability.md",
-    "MATH1116/Analysis/Week 10/multivariate integrability.md",
     "MATH1013/Calculus/Week 9/Inverse trigonometric function.md",
     "COMP2610/Week 7/Kraft inequality.md",
     "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
@@ -446,10 +463,8 @@
     "COMP2610/Week 7/expected code length.md",
     "COMP2610/Week 7/source coding theorem for symbol codes.md",
     "COMP2610/Week 7/uniquely decodable.md",
-    "COMP2610/Week 7/Huffman coding.md",
     "COMP2610/Week 8/Interval coding.md",
     "COMP2610/Week 7/Shannon code.md",
-    "COMP2610/Week 8/Dirichlet distribution.md",
     "attachments/Pasted image 20261018170912.png",
     "attachments/Pasted image 20261018164315.png",
     "attachments/Pasted image 20261018154134.png",
