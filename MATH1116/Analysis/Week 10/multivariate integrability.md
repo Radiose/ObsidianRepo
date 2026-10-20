@@ -94,7 +94,7 @@ Let $\epsilon >0$. Choose $\delta >0$ such that $$\forall x,y \in \prod_{j=1}^n[
 Pick $\delta$ as in the [[multivariate integrability#Lemma|lemma]] and pick $\mathcal{P}$ as a $\delta$ partition. 
 Take $\mathcal{Q_{\epsilon}}$ as a $\delta$ partition such that $\mathcal{Q}\lessdot \mathcal{P}$ and $\mathcal{Q}_{\epsilon} \lessdot \mathcal{P}_{\epsilon}$
 Let $x \in S(\mathcal{Q}_{\epsilon})$
-Then $$\sum_{R \in \mathcal{P}}f(x(R))\left( \int_{R}dx \right)-L \\ \leq \bar{S}(\mathcal{P})-L \leq \bar{S}(\mathcal{Q}_{\epsilon})+\epsilon \prod_{j=1}^n[a_{j},b_{j}]-L\text{ via the lemma}$$
+Then $$\sum_{R \in \mathcal{P}}f(x(R))\left( \int_{R}dx \right)-L \\ \leq \bar{S}(\mathcal{P})-L \leq \bar{S}(\mathcal{Q}_{\epsilon})+\epsilon \prod_{j=1}^n[a_{j},b_{j}]-L\text{ via the lemma} \\ \leq \bar{S}(\mathcal{P}_{\epsilon})+\epsilon\prod_{j=1}^n-L <$$
 # Theorem 2 
 Let $f:[a,b]\times[c,d] \to \mathbb{R}$ be continuous.
 Define $$F:[c,d] \to \mathbb{R}\\y \mapsto \int_{a}^b f(x,y)dx\\ \\G:[a,b]\to \mathbb{R}\\x \mapsto \int_{a}^b f(x,y)dy$$
