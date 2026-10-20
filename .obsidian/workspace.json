@@ -202,13 +202,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
+                "file": "MATH1116 A10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "real spectral theorem"
+              "title": "MATH1116 A10"
             }
           },
           {
@@ -217,17 +217,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
+                "file": "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "adjoint linear map"
+              "title": "orthogonal projection"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -422,15 +422,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d1d5028ee34c9ef7",
+  "active": "73a53327ab38c3f0",
   "lastOpenFiles": [
+    "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
     "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
     "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
     "MATH1116 A10.md",
-    "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
+    "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
     "MATH1116/Linear algebra/Week 10/complex spectral theorem.md",
     "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
-    "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
     "MATH1116/Analysis/Week 9/multivariate intermediate value theorem.md",
     "MATH1116/Analysis/Week 9/Defining the multivariate integral.md",
     "MATH1116/Analysis/Week 7/vector valued differentiability.md",
