@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1013/Calculus/Week 9/Inverse trigonometric function.md",
+                "file": "MATH1116 A10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Inverse trigonometric function"
+              "title": "MATH1116 A10"
             }
           },
           {
@@ -310,6 +310,7 @@
   },
   "active": "04b719357049c728",
   "lastOpenFiles": [
+    "MATH1013/Calculus/Week 9/Inverse trigonometric function.md",
     "MATH1116 A10.md",
     "MATH1116/Linear algebra/Week 8/inner product space.md",
     "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
@@ -335,7 +336,6 @@
     "COMP2610/Week 7/Huffman coding.md",
     "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
     "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
-    "MATH1116/Linear algebra/Week 10/complex spectral theorem.md",
     "attachments/Pasted image 20261018170912.png",
     "attachments/Pasted image 20261018164315.png",
     "attachments/Pasted image 20261018154134.png",
