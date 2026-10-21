@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116 A10.md",
+                "file": "MATH1013/Calculus/Week 9/Inverse trigonometric function.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1116 A10"
+              "title": "Inverse trigonometric function"
             }
           },
           {
@@ -310,6 +310,8 @@
   },
   "active": "04b719357049c728",
   "lastOpenFiles": [
+    "MATH1116 A10.md",
+    "MATH1116/Linear algebra/Week 8/inner product space.md",
     "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
     "MATH1116/Analysis/Week 10/multivariate integrability.md",
     "COMP3670/Week 9/Principle component analysis.md",
@@ -320,7 +322,6 @@
     "COMP2610/Week 7/expected code length.md",
     "MATH1005/Week 5/Geometric series.md",
     "COMP2610/Week 3/entropy (information theory).md",
-    "MATH1116 A10.md",
     "MATH1116/Linear algebra/Week 8/norm.md",
     "MATH1116/Analysis/Week 9/multivariate intermediate value theorem.md",
     "MATH1116/Analysis/Week 6/power series.md",
@@ -335,7 +336,6 @@
     "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
     "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
     "MATH1116/Linear algebra/Week 10/complex spectral theorem.md",
-    "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
     "attachments/Pasted image 20261018170912.png",
     "attachments/Pasted image 20261018164315.png",
     "attachments/Pasted image 20261018154134.png",
