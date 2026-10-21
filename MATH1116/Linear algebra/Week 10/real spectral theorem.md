@@ -46,3 +46,4 @@ Thus, some $(T-\lambda_{i})\mathbf{v}=\mathbf{0}$ so $T$ has some eigenvalue.
 If $T$ is self adjoint, it has an eigenvalue. 
 
 # The real spectral theorem 
+Suppose $V$ is a non trivial [[inner product space]] over $\mathbb{R}$. Then, T is [[diagonalisable operator|diagonalisable]] with respect to an [[orthonormal vectors|orthonormal basis]] $\iff$ $T \in \mathcal{L}(V)$ is [[self adjoint operator|self adjoint]]

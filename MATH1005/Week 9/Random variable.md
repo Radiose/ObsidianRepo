@@ -39,7 +39,7 @@ The [[random variable|expected value]] of a function $g(X,Y)$ of two discrete, r
 In particular, the expected value of $X$ is given by $E[X]=\sum_{x}\sum_{y}x\cdot p(X=x,Y=y)$
 
 
-![[covariance]]
+![[COMP2610/Week 2/covariance]]
 
 
 
