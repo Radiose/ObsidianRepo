@@ -28,3 +28,21 @@ Since both singular vectors have unit length(norm of 1),  $\sigma_{i}$ measures 
 The expansion $\sum_{i}\sigma_{i}\mathbf{u}_{i}\mathbf{v}_{i}^T$ separates a matrix into simple contributions. If only a few contributions are large, we may be able to keep a small number, while changing the entries only slightly. 
 
 ![[Frobenius norm]]
+
+## Rank K truncated SVD 
+For a matrix with compact SVD $\mathbf{A}=\sum_{i=1}^k \sigma_{i}\mathbf{u}_{i}\mathbf{v}_{i}^T$ and $1 \leq k \leq r$, its rank $k$ truncated [[singular value decomposition]] is $$A_{k}=\sum_{i=1}^k \sigma_{i}\mathbf{u}_{i}\mathbf{v}_{i}^T= \mathbf{U}_{k}\sum_{k}\mathbf{V}_{k}^T$$
+Where the subscript $k$ retains the first $k$ columns of each vector matrix, and the first $k$ diagonal entries of $\sum_{r}$
+
+Every column of $\mathbf{A}_{k}$ is a combination of $\mathbf{u}_{1},\dots,\mathbf{u}_{k}$.
+Conversely, $\mathbf{A}_{k} \mathbf{v}_{i}=\sigma_{i}\mathbf{u}_{i}$ for $i < k$.
+Each of these $k$ independent vectors lies in $col(\mathbf{U}_{k})$
+
+## Eckhart young theorem
+For every matric $\mathbf{B}$, with rank at most $k$.
+$$\lVert \mathbf{A}-\mathbf{B} \rVert_{F}^2 \geq \lVert \mathbf{A}-\mathbf{A}_{k} \rVert_{F}^2  = \sum_{i = k+1}^r \sigma^2_{{i}}$$
+The truncated singular value decomp gives a best rank-at-most-$k$ approximation. 
+The error is the sum of the square of the **discarded** singular values. 
+When $k=r$, the reconstruction is exact, so $A_{k}$ is a is a best approximation among all matrices of rank at most $r$.
+
+Storing the three truncated factors takes $k(m+d+1)$ numbers instead of $md$.
+There is a saving in storage only when $k$ is sufficiently small. .
