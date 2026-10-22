@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
+                "file": "MATH1116/Linear algebra/Week 10/complex spectral theorem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "real spectral theorem"
+              "title": "complex spectral theorem"
             }
           },
           {
@@ -111,6 +111,16 @@
               "icon": "lucide-file",
               "title": "covariance"
             }
+          },
+          {
+            "id": "0419ee249395a117",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
@@ -146,7 +156,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "algebraically cl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -310,7 +320,12 @@
   "active": "04b719357049c728",
   "lastOpenFiles": [
     "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
+    "MATH1116/Linear algebra/Week 10/complex spectral theorem.md",
     "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
+    "MATH1116/Linear algebra/Week 7/algebraically closed field.md",
+    "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
+    "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
+    "COMP3670/Week 8/Support vector machine.md",
     "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
     "MATH1116/Linear algebra/Week 3/invariant subspace.md",
     "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
@@ -330,11 +345,6 @@
     "COMP3670/Week 9/covariance.md",
     "COMP2610/Week 4/relative entropy.md",
     "COMP2610/Week 7/expected code length.md",
-    "MATH1005/Week 5/Geometric series.md",
-    "COMP2610/Week 3/entropy (information theory).md",
-    "MATH1116/Analysis/Week 9/multivariate intermediate value theorem.md",
-    "MATH1116/Analysis/Week 6/power series.md",
-    "MATH1116/Linear algebra/Week 8/orthogonal vectors.md",
     "attachments/Pasted image 20261018170912.png",
     "attachments/Pasted image 20261018164315.png",
     "attachments/Pasted image 20261018154134.png",

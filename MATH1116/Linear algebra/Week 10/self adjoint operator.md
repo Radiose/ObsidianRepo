@@ -69,7 +69,7 @@ Let $U \subset V$, $T$ be [[invariant subspace|invariant]]
 Then, 
 $(1):U^\perp$ is $T$ invariant (the [[orthogonal complement]])
 $(2):T|_{U}\in \mathcal{L}(V)$ is self adjoint
-$(3)$:  $T|_{U^\perp}\in \mathcal{L}(U^\perp)$
+$(3)$:  $T|_{U^\perp}\in \mathcal{L}(U^\perp)$ is self adjoint
 
 ### Proof 
 $(1)$
