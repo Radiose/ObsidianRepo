@@ -1,4 +1,4 @@
-For any $\mathbf{u,v}\in V$, $\left| \langle \mathbf{u},\mathbf{v} \rangle \right|\leq \lVert \mathbf{u} \rVert\cdot \lVert \mathbf{v} \rVert$
+  For any $\mathbf{u,v}\in V$, $\left| \langle \mathbf{u},\mathbf{v} \rangle \right|\leq \lVert \mathbf{u} \rVert\cdot \lVert \mathbf{v} \rVert$
 
 ### Proof 
 if $\mathbf{v}=\mathbf{0}$, its trivially true. 
