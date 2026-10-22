@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 8/Cauchy-schwarz inequality.md",
+                "file": "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Cauchy-schwarz inequality"
+              "title": "real spectral theorem"
             }
           },
           {
@@ -309,10 +309,17 @@
   },
   "active": "04b719357049c728",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 8/norm.md",
+    "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
     "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
+    "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
+    "MATH1116/Linear algebra/Week 3/invariant subspace.md",
+    "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
+    "acjoint.md",
+    "MATH1116/MATH1116 A9.md",
+    "MATH1116/Linear algebra/Week 8/Cauchy-schwarz inequality.md",
+    "MATH1116/Linear algebra/Week 8/norm.md",
     "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
-    "MATH1116 A10.md",
+    "MATH1116/MATH1116 A10.md",
     "MATH1116/Analysis/Week 9/multivariate continuity.md",
     "MATH1116/Analysis/Week 10/multivariate integrability.md",
     "MATH1013/Calculus/Week 9/Inverse trigonometric function.md",
@@ -328,13 +335,6 @@
     "MATH1116/Analysis/Week 9/multivariate intermediate value theorem.md",
     "MATH1116/Analysis/Week 6/power series.md",
     "MATH1116/Linear algebra/Week 8/orthogonal vectors.md",
-    "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
-    "MATH1013/Complex numbers/Fundamental theorem of algebra.md",
-    "COMP2610/Week 9/Communication over noisy channels.md",
-    "MATH1116/Linear algebra/Week 8/inner product.md",
-    "MATH1013/Linear algebra/Week 7/Transpose of a matrix.md",
-    "COMP2610/Week 7/Huffman coding.md",
-    "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
     "attachments/Pasted image 20261018170912.png",
     "attachments/Pasted image 20261018164315.png",
     "attachments/Pasted image 20261018154134.png",

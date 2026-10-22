@@ -63,5 +63,5 @@ $(4):Range(T^*)^\perp=\ker(T)$
 
 
 # Theorem 4 
-let $T:V\to W$ be linear. Then, with respect to fixed, [[orthonormal vectors|orthonormal bases]] of the domain and codomain, the matrix presentation of $T^*$ is the conjugate transpose of that of $T$.
+let $T:V\to W$ be linear. Then, with respect to fixed, [[orthonormal vectors|orthonormal bases]] of the domain and codomain, the matrix presentation of $T^*$ is the **conjugate transpose** of that of $T$.
 

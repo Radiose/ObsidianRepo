@@ -49,3 +49,17 @@ If $T$ is self adjoint, it has an eigenvalue.
 Suppose $V$ is a non trivial [[inner product space]] over $\mathbb{R}$. Then, T is [[diagonalisable operator|diagonalisable]] with respect to an [[orthonormal vectors|orthonormal basis]] $\iff$ $T \in \mathcal{L}(V)$ is [[self adjoint operator|self adjoint]]
 So the eigenvectors that comprise its basis are orthonormal to each other.
 
+### Proof 
+$\implies$
+Suppose we have some [[orthonormal vectors|orthonormal basis]] of $T$ $\mathcal{B}=\{ \mathbf{u}_{1},\dots,\mathbf{u}_{n} \}$ of $V$, such that the matrix presentation of $T$ in this basis is diagonal.
+Then, $[T^*]_{\mathcal{B}}= \overline{\left[ T \right]}_{\mathcal{B}}^T$ (via [[adjoint linear map#Theorem 4|this theorem]])
+$=\left[ T \right]^T_{\mathcal{B}}=[T]_{\mathcal{B}}$
+Thus, $T$ is self adjoint, because a linear map and the matrix are isomorphic.
+$\impliedby$
+We induct on $n=\dim(V)$, that $T$ is diagonalisable with respect to some orthonormal basis. 
+
+$n=1$ is trivial 
+
+Suppose $\dim(V)=n>1$ and that the claim holds for self adjoint operators over vector spaces up to dim $n-1$. Via [[real spectral theorem#Proving that $T$ has an eigenvalue|the lemma]], $T$ must have some [[eigenvalue]] on $V$, hence an associated eigenvector $\mathbf{v}$. We set up $\mathbf{u}_{1}:= \frac{\mathbf{v}}{\lVert \mathbf{v} \rVert}$ as our first basis vector. 
+Define $U:=span \{ \mathbf{u}_{1} \}$. Note that $U$ is [[invariant subspace|invariant]], so via [[self adjoint operator#Theorem 5|this theorem]], $U^\perp$ must be as well, and additionally, $T|_{U^\perp}$ is a self adjoint operator on $U^\perp$.
+Moreover, $\dim(U^\perp)=\dim(V)-\dim(U)=n-1$ ,so our induction hypothesis still holds, and there exists an orthonormal basis $\{ \mathbf{u}_{2},\dots,\mathbf{u}_{n} \}$ of $$

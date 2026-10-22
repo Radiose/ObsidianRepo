@@ -67,7 +67,7 @@ We have that $A=A^{\dagger}$, which implies that $A$ has real [[eigenvalue]]s
 # Theorem 5
 Let $U \subset V$, $T$ be [[invariant subspace|invariant]]
 Then, 
-$(1):U^\perp$ is $T$ invariant
+$(1):U^\perp$ is $T$ invariant (the [[orthogonal complement]])
 $(2):T|_{U}\in \mathcal{L}(V)$ is self adjoint
 $(3)$:  $T|_{U^\perp}\in \mathcal{L}(U^\perp)$
 
