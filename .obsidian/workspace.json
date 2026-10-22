@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 10/complex spectral theorem.md",
+                "file": "MATH1116/MATH1116 A10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "complex spectral theorem"
+              "title": "MATH1116 A10"
             }
           },
           {
@@ -319,8 +319,8 @@
   },
   "active": "04b719357049c728",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
     "MATH1116/Linear algebra/Week 10/complex spectral theorem.md",
+    "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
     "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
     "MATH1116/Linear algebra/Week 7/algebraically closed field.md",
     "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
