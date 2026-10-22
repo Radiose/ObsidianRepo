@@ -46,3 +46,31 @@ When $k=r$, the reconstruction is exact, so $A_{k}$ is a is a best approximation
 
 Storing the three truncated factors takes $k(m+d+1)$ numbers instead of $md$.
 There is a saving in storage only when $k$ is sufficiently small. .
+Mathematical optimality only relates to squared reconstruction error, rather than success on an ML task. 
+
+# Missing entries
+
+Suppose we wanted to predict how much some user will like a movie(based off a numerical rating system).
+BUT, in this case, we are missing entries, (user hasnt rated every type of movie)
+The goal here is to minimise our loss on observed entries, via alternating least squares.
+This is because ordinary SVD requires a numerical value in each position and additionally, it would not be mathematically accurate to state a lack of a rating is zero, as that would indicate an actual rating of zero.
+
+### What we will use
+A user item rating matrix $\mathbf{R}\in \mathbb{R}^{m \times n}$ records the ratings of $n$ users for $m$ items. 
+A latent factor model assigns a vector $\mathbf{p}_{i} \in \mathbb{R}^k$ to a user $i$, and a vector $\mathbf{q}_{j}\in \mathbb{R}^k$
+We aim to predict $\hat{r_{i,j}}=\langle \mathbf{p_{i},q_{j}} \rangle$
+Stacking users into rows of $\mathbf{P}\in \mathbb{R}^{n \times k}$ and item vectors into rows of $\mathbf{Q}\in \mathbb{R}^{m \times k}$
+gives $\hat{\mathbf{R}}=\mathbf{PQ}^T$
+
+## Regularised K factor model 
+Let $\Omega \subset \{ 1,\dots,n \}\times \{ 1,\dots,m \}$ be the set of observed training points. 
+A regularised $k$ factor model, fits the user and item vectors by minimising $$L(\mathbf{P,Q})= \sum_{(i,j)\in \Omega }(r_{i,j}-\langle \mathbf{p_{i}}-\mathbf{q}_{j} \rangle )^2 +\lambda \left( \sum_{i=1}^n \lVert \mathbf{p}_{i} \rVert_{2}^2+ \sum_{j=1}^m \lVert \mathbf{q}_{j} \rVert_{2}^2   \right), \quad \lambda \geq {0}$$The squared norm term is a regularisation penalty (on the left controlled by $\lambda$). As in [[Support vector machine]]s, fitting the data competes with keeping parameters small.
+Our factor count $k$, and penalty strength $\lambda$ are hyperparameters, which are selected using validation ratings.
+The learnt $\mathbf{P},\mathbf{Q}$ don't need to orthonormal columns either.
+
+If all entries are observed, $\lambda=0$ means that truncated SVD provides a global minimiser of this objective for $k \leq rank(R)$
+However, with missing entries, or a positive $\lambda$, the conclusion no longer follows from the Eckhart young theorem.
+How to learn the factors?
+Fix item vectors temporarily, then each predicted rating is a linear function of the user vector, so fitting that user is a squared error linear model problem.
+With a positive penalty, it also charges for the size of the user vector.
+We then alternate between the roles of users and items. This gives alternating least squares. 
