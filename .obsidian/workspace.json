@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
+                "file": "MATH1116/Linear algebra/Week 8/norm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "real spectral theorem"
+              "title": "norm"
             }
           },
           {
@@ -189,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289,
-    "collapsed": true
+    "width": 289
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -310,8 +309,8 @@
   },
   "active": "04b719357049c728",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
     "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
+    "MATH1116/Linear algebra/Week 5/diagonalisable operator.md",
     "MATH1116 A10.md",
     "MATH1116/Analysis/Week 9/multivariate continuity.md",
     "MATH1116/Analysis/Week 10/multivariate integrability.md",
