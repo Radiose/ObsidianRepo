@@ -103,3 +103,5 @@ $$\sum_{R \in \mathcal{P}}f(x(R))\left( \int_{R}dx \right)\geq \bar{S}(\mathcal{
 Let $f:[a,b]\times[c,d] \to \mathbb{R}$ be continuous.
 Define $$F:[c,d] \to \mathbb{R}\\y \mapsto \int_{a}^b f(x,y)dx\\ \\G:[a,b]\to \mathbb{R}\\x \mapsto \int_{a}^b f(x,y)dy$$
 Then $\int f(z)dz=\int_{c}^d F(y)dy=\int_{a}^b G(x)dx=\int_{c}^d (\int_{a}^b f(x,y)dy$
+
+
