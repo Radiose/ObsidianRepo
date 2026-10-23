@@ -156,9 +156,18 @@
               "icon": "lucide-file",
               "title": "covariance"
             }
+          },
+          {
+            "id": "86fcdb0e3aa8b93c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,7 +245,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289
+    "width": 289,
+    "collapsed": true
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -354,8 +364,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0419ee249395a117",
+  "active": "04b719357049c728",
   "lastOpenFiles": [
+    "MATH1116/Analysis/Week 10/multivariate integrability.md",
     "COMP3670/Week 9/covariance.md",
     "COMP3670/Week 10/singular value decomposition (ML perspective).md",
     "COMP3670/Week 9/principle component scores.md",
@@ -369,7 +380,6 @@
     "COMP2610/Week 7/expected code length.md",
     "COMP2610/Week 7/Shannon code.md",
     "MATH1116/MATH1116 A10.md",
-    "MATH1116/Analysis/Week 10/multivariate integrability.md",
     "MATH1116/Linear algebra/Week 10/complex spectral theorem.md",
     "COMP2610/Week 7/Huffman coding.md",
     "COMP3670/Week 10/Frobenius norm.md",

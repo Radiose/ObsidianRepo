@@ -115,4 +115,4 @@ $$F(y_{k})= \int_{a}^b f(x,y_{k})dx\\ \\ = \sum_{\ell=1}^{M_{1}} \int_{x_{\ell-1
 $$\leq \sum_{\ell=1}^{M_{1}} \sup_{(x,y)\in R_{k,\ell}}f(x,y)(x_{\ell}-x_{\ell-1})+\epsilon \lvert b-a \rvert \\ \\ $$
 Similarly, $F(y_{k})\geq \sum_{\ell =1}^{M_{1}} \sup_{(x,y)\in R_{k,\ell}}f(x,y)(x_{\ell}-x_{\ell-1})-2\epsilon \lvert b-a \rvert$
 
-Thus, $$\left\lvert  \sum_{k=1}^{M_{2}}F(y_{k})(y_{k}-y_{k-1})- \sum_{\ell=1}^{M_{1}} \sum_{k =1}^{M_{2}} \sup_{(x,y)\in R_{k,\ell}}f(x,y)(x_{\ell}-x_{\ell-1})(y_{k}-y_{k-1})  \right\rvert \\ \\ = $$
+Thus, $$\left\lvert  \sum_{k=1}^{M_{2}}F(y_{k})(y_{k}-y_{k-1})- \sum_{\ell=1}^{M_{1}} \sum_{k =1}^{M_{2}} \sup_{(x,y)\in R_{k,\ell}}f(x,y)(x_{\ell}-x_{\ell-1})(y_{k}-y_{k-1})  \right\rvert \\ \\ = \left\lvert  \sum_{k=1}^{M_{2}} F(y_{k})(y_{k}-y_{k-1})-\sum_{R \in \mathcal{P}} \sup_{w \in R}f(w)\left( \int_{R}dz \right) \right\rvert<2 \epsilon \lvert b-a \rvert   $$

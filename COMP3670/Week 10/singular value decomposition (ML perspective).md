@@ -11,12 +11,13 @@ $\mathbf{u}_{i},\mathbf{v}_{i}$ are the corresponding left and right singular ve
 
 We call this the compact/truncated form of the matrix form of [[singular value decomposition]].
 
+We can connect the eigenvalues of $A^TA$ because $A$ is a real operator, so its adjoint is its transpose, so then there is a theorem that states that it $TT^*$ is a positive operator, and we can define singular values of $A^TA$
 # Proposition 1
 For each singular-vector pair
 $A \mathbf{v}_{i}= \sigma_i\mathbf{u}_{i}$
 $A^T \mathbf{u}_{i}= \sigma_{i}\mathbf{v}_{i}$
 Their eigenvector equations are $A^TA_{i}= \sigma^2\mathbf{v}_{i}$ and $AA^T \mathbf{u_{i}}= \sigma^2_{i}\mathbf{u}_{i}$ (from combining both)
-Both matrices have positive eigenvalues $\sigma_{1}^2,\dots,\sigma_{r}^2$ counted with multiplicity. 
+Both matrices have positive eigenvalues $\sigma_{1}^2,\dots,\sigma_{r}^2$ counted with multiplicity. This is because we treat $A^TA$ as a positive 
 Their remaining eigenvalues are zero. there is $d-r$ for $A^TA$ and $m-r$ for $AA^T$ via RNT
 
 For any input $\mathbf{x}$, $\mathbf{Ax}= \mathbf{U}_{r} \sum_{r} \mathbf{V}_{r}^T \mathbf{x}$, has three stages. 
@@ -26,27 +27,32 @@ Since both singular vectors have unit length(norm of 1),  $\sigma_{i}$ measures 
 
 # Using truncation to get the best low rank approximation 
 The expansion $\sum_{i}\sigma_{i}\mathbf{u}_{i}\mathbf{v}_{i}^T$ separates a matrix into simple contributions. If only a few contributions are large, we may be able to keep a small number, while changing the entries only slightly. 
-We seek to get a precise definition of "large" and "simple"
+We seek to get a precise definition of "large" and "simple".
+We can view Axler c7F, where its shown that some k is the best rank k approximation of some matrix. 
 
 ![[Frobenius norm]]
 
 ## Rank K truncated SVD 
 For a matrix with compact SVD $\mathbf{A}=\sum_{i=1}^k \sigma_{i}\mathbf{u}_{i}\mathbf{v}_{i}^T$ and $1 \leq k \leq r$, its rank $k$ truncated [[singular value decomposition]] is $$A_{k}=\sum_{i=1}^k \sigma_{i}\mathbf{u}_{i}\mathbf{v}_{i}^T= \mathbf{U}_{k}\sum_{k}\mathbf{V}_{k}^T$$
-Where the subscript $k$ retains the first $k$ columns of each vector matrix, and the first $k$ diagonal entries of $\sum_{r}$
+Where the subscript $k$ retains the first $k$ columns of each vector matrix, and the first $k$ diagonal entries of $\sum_{r}$. What we are doing here is just removing the columns that arent
 
 Every column of $\mathbf{A}_{k}$ is a combination of $\mathbf{u}_{1},\dots,\mathbf{u}_{k}$.
 Conversely, $\mathbf{A}_{k} \mathbf{v}_{i}=\sigma_{i}\mathbf{u}_{i}$ for $i < k$.
 Each of these $k$ independent vectors lies in $col(\mathbf{U}_{k})$
 
 ## Eckhart young theorem
-For every matric $\mathbf{B}$, with rank at most $k$.
+For every matrix $\mathbf{B} \in \mathbb{R}^{m \times d}$, with rank at most $k$.
 $$\lVert \mathbf{A}-\mathbf{B} \rVert_{F}^2 \geq \lVert \mathbf{A}-\mathbf{A}_{k} \rVert_{F}^2  = \sum_{i = k+1}^r \sigma^2_{{i}}$$
+In particular $\mathbf{A}_{k}$ is the best approximation among all matrices of rank at most k. 
+
+
 The truncated singular value decomp gives a best rank-at-most-$k$ approximation. 
 The error is the sum of the square of the **discarded** singular values. 
 When $k=r$, the reconstruction is exact, so $A_{k}$ is a is a best approximation among all matrices of rank at most $r$.
 
-Storing the three truncated factors takes $k(m+d+1)$ numbers instead of $md$.
-There is a saving in storage only when $k$ is sufficiently small. .
+Storing the three truncated factors takes $k(m+d+1)$ numbers instead of $md$. Because MD is the number of entries in some $M \times D$ matrix. 
+There is a saving in storage only when $k$ is sufficiently small. 
+
 Mathematical optimality only relates to squared reconstruction error, rather than success on an ML task. 
 
 # Missing entries
