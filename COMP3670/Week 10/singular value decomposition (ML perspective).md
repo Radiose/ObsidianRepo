@@ -19,6 +19,7 @@ $A^T \mathbf{u}_{i}= \sigma_{i}\mathbf{v}_{i}$
 Their eigenvector equations are $A^TA_{i}= \sigma^2\mathbf{v}_{i}$ and $AA^T \mathbf{u_{i}}= \sigma^2_{i}\mathbf{u}_{i}$ (from combining both)
 Both matrices have positive eigenvalues $\sigma_{1}^2,\dots,\sigma_{r}^2$ counted with multiplicity. This is because we treat $A^TA$ as a positive 
 Their remaining eigenvalues are zero. there is $d-r$ for $A^TA$ and $m-r$ for $AA^T$ via RNT
+This relates directly to [[adjoint linear map|adjoint]] operators. Link to the theorem that states that $T^*T$ has eigenvalues that are squared singular values. 
 
 For any input $\mathbf{x}$, $\mathbf{Ax}= \mathbf{U}_{r} \sum_{r} \mathbf{V}_{r}^T \mathbf{x}$, has three stages. 
 Extract coordinates along the $\mathbf{v}_{i}$, scale them by $\sigma$ and combine outputs $\mathbf{u}_{i}$.
@@ -34,7 +35,8 @@ We can view Axler c7F, where its shown that some k is the best rank k approximat
 
 ## Rank K truncated SVD 
 For a matrix with compact SVD $\mathbf{A}=\sum_{i=1}^k \sigma_{i}\mathbf{u}_{i}\mathbf{v}_{i}^T$ and $1 \leq k \leq r$, its rank $k$ truncated [[singular value decomposition]] is $$A_{k}=\sum_{i=1}^k \sigma_{i}\mathbf{u}_{i}\mathbf{v}_{i}^T= \mathbf{U}_{k}\sum_{k}\mathbf{V}_{k}^T$$
-Where the subscript $k$ retains the first $k$ columns of each vector matrix, and the first $k$ diagonal entries of $\sum_{r}$. What we are doing here is just removing the columns that arent
+Where the subscript $k$ retains the first $k$ columns of each vector matrix, and the first $k$ diagonal entries of $\sum_{r}$. What we are doing here is just removing the columns that are after $k$.
+
 
 Every column of $\mathbf{A}_{k}$ is a combination of $\mathbf{u}_{1},\dots,\mathbf{u}_{k}$.
 Conversely, $\mathbf{A}_{k} \mathbf{v}_{i}=\sigma_{i}\mathbf{u}_{i}$ for $i < k$.
@@ -43,8 +45,10 @@ Each of these $k$ independent vectors lies in $col(\mathbf{U}_{k})$
 ## Eckhart young theorem
 For every matrix $\mathbf{B} \in \mathbb{R}^{m \times d}$, with rank at most $k$.
 $$\lVert \mathbf{A}-\mathbf{B} \rVert_{F}^2 \geq \lVert \mathbf{A}-\mathbf{A}_{k} \rVert_{F}^2  = \sum_{i = k+1}^r \sigma^2_{{i}}$$
-In particular $\mathbf{A}_{k}$ is the best approximation among all matrices of rank at most k. 
+This of $A$ as the compact SVD, while $A_{k}$ is obviously the truncated form.
 
+In particular $\mathbf{A}_{k}$ is the best approximation among all matrices of rank at most k. 
+Additionally, not removing any of the singular values will ensure no error. 
 
 The truncated singular value decomp gives a best rank-at-most-$k$ approximation. 
 The error is the sum of the square of the **discarded** singular values. 
@@ -52,7 +56,7 @@ When $k=r$, the reconstruction is exact, so $A_{k}$ is a is a best approximation
 
 Storing the three truncated factors takes $k(m+d+1)$ numbers instead of $md$. Because MD is the number of entries in some $M \times D$ matrix. 
 There is a saving in storage only when $k$ is sufficiently small. 
-
+So again, there is a 
 Mathematical optimality only relates to squared reconstruction error, rather than success on an ML task. 
 
 # Missing entries
