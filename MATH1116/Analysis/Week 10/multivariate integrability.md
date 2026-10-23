@@ -105,3 +105,14 @@ Define $$F:[c,d] \to \mathbb{R}\\y \mapsto \int_{a}^b f(x,y)dx\\ \\G:[a,b]\to \m
 Then $\int f(z)dz=\int_{c}^d F(y)dy=\int_{a}^b G(x)dx=\int_{c}^d (\int_{a}^b f(x,y)dy$
 
 
+### Proof 
+Let $\epsilon >0$. Pick $\delta >0$ such that $\forall \mathcal{P}$ delta partitions, $\forall x \in S(\mathcal{P})$
+$\lVert w-z \rVert<\delta \implies \lvert f(w)-f(z) \rvert<\epsilon$
+Let $a= x_{0}<\dots <x_{M_{1}}=b$ and $c=y_{0}<y_{1}<\dots<y_{M_{2}}=d$ be a partition of $\left[ a,b \right]$ and $\left[ x,d \right]$ respectively, and let $\mathcal{P}$ be the corresponding partition of $[a,b]\times[c,d]$ with $$\lvert x_{\ell}-x_{\ell-1} \rvert <  \frac{\delta}{\sqrt{ 2 }}\quad\forall \ell =1,\dots,M_{1} \\ \\ \lvert y_{\ell}-y_{\ell-1} \rvert <\frac{\delta}{\sqrt{ 2 }}\quad \forall \ell=1,\dots, M_{2}$$And from $(k,\ell)\in \{ 1,\dots,M_{1} \} \times \{  1,\dots,M_{2} \},\quad$ choose $\hat{x}_{k,\ell} \in[x_{\ell-1},x_{\ell}]$ and $\hat{y}_{k,\ell} \in [y_{k-1},y_{k}]$ such that $$f(\hat{x}_{k,\ell},\hat{y}_{k,\ell})\leq \sup_{(x,y)\in R_{k,\ell}}f(x,y)\leq f(\hat{x}_{k,\ell},\hat{y}_{k,\ell})+\epsilon$$Where $R_{k,\ell}= \left[ x_{\ell-1},x_{\ell} \right] \times \left[ y_{k-1},y_{k} \right]$. So basically, there exists points in the rectangle such that theyre $\epsilon$ away from the sup. 
+
+Then 
+$$F(y_{k})= \int_{a}^b f(x,y_{k})dx\\ \\ = \sum_{\ell=1}^{M_{1}} \int_{x_{\ell-1}}^{x_{\ell}}f(\hat{x}_{k,\ell},\hat{y}_{k,\ell})+f(x,y_{k})-f(\hat{x}_{k,\ell},\hat{y}_{k,\ell})dx \\ \\ \leq \sum_{\ell=1}^{M_{1}}f(\hat{x}_{k,\ell},\hat{y}_{k,\ell})(x_{\ell}-x_{\ell-1})+\epsilon \lvert b-a \rvert $$The last step was done because $\hat{x},\hat{y}$ dont depend on $x$. Note that the right term is out of the sum (obvious as sum of all partitions over $\ell$ telescopes to $b-a$)
+$$\leq \sum_{\ell=1}^{M_{1}} \sup_{(x,y)\in R_{k,\ell}}f(x,y)(x_{\ell}-x_{\ell-1})+\epsilon \lvert b-a \rvert \\ \\ $$
+Similarly, $F(y_{k})\geq \sum_{\ell =1}^{M_{1}} \sup_{(x,y)\in R_{k,\ell}}f(x,y)(x_{\ell}-x_{\ell-1})-2\epsilon \lvert b-a \rvert$
+
+Thus, $$\left\lvert  \sum_{k=1}^{M_{2}}F(y_{k})(y_{k}-y_{k-1})- \sum_{\ell=1}^{M_{1}} \sum_{k =1}^{M_{2}} \sup_{(x,y)\in R_{k,\ell}}f(x,y)(x_{\ell}-x_{\ell-1})(y_{k}-y_{k-1})  \right\rvert \\ \\ = $$

@@ -26,6 +26,7 @@ Since both singular vectors have unit length(norm of 1),  $\sigma_{i}$ measures 
 
 # Using truncation to get the best low rank approximation 
 The expansion $\sum_{i}\sigma_{i}\mathbf{u}_{i}\mathbf{v}_{i}^T$ separates a matrix into simple contributions. If only a few contributions are large, we may be able to keep a small number, while changing the entries only slightly. 
+We seek to get a precise definition of "large" and "simple"
 
 ![[Frobenius norm]]
 
