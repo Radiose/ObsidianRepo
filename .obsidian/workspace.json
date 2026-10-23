@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 7/expected code length.md",
+                "file": "MATH1116/Linear algebra/Week 8/inner product.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "expected code length"
+              "title": "inner product"
             }
           },
           {
@@ -350,6 +350,8 @@
   },
   "active": "da630eae9da1f0e0",
   "lastOpenFiles": [
+    "COMP3670/Week 8/Hard margin SVM.md",
+    "COMP2610/Week 7/expected code length.md",
     "COMP2610/Week 7/Shannon code.md",
     "MATH1116/MATH1116 A10.md",
     "MATH1116/Analysis/Week 10/multivariate integrability.md",
@@ -374,8 +376,6 @@
     "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
     "acjoint.md",
     "MATH1116/MATH1116 A9.md",
-    "MATH1116/Linear algebra/Week 8/Cauchy-schwarz inequality.md",
-    "MATH1116/Linear algebra/Week 8/norm.md",
     "attachments/Pasted image 20261018170912.png",
     "attachments/Pasted image 20261018164315.png",
     "attachments/Pasted image 20261018154134.png",
