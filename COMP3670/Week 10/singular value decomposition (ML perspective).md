@@ -75,7 +75,7 @@ gives $\hat{\mathbf{R}}=\mathbf{PQ}^T$
 
 ## Regularised K factor model 
 Let $\Omega \subset \{ 1,\dots,n \}\times \{ 1,\dots,m \}$ be the set of observed training points. 
-A regularised $k$ factor model, fits the user and item vectors by minimising $$L(\mathbf{P,Q})= \sum_{(i,j)\in \Omega }(r_{i,j}-\langle \mathbf{p_{i}}-\mathbf{q}_{j} \rangle )^2 +\lambda \left( \sum_{i=1}^n \lVert \mathbf{p}_{i} \rVert_{2}^2+ \sum_{j=1}^m \lVert \mathbf{q}_{j} \rVert_{2}^2   \right), \quad \lambda \geq {0}$$The squared norm term is a regularisation penalty (on the left controlled by $\lambda$). As in [[Support vector machine]]s, fitting the data competes with keeping parameters small.
+A regularised $k$ factor model, fits the user and item vectors by minimising $$L(\mathbf{P,Q})= \sum_{(i,j)\in \Omega }(r_{i,j}-\langle \mathbf{p_{i}}-\mathbf{q}_{j} \rangle )^2 +\lambda \left( \sum_{i=1}^n \lVert \mathbf{p}_{i} \rVert_{2}^2+ \sum_{j=1}^m \lVert \mathbf{q}_{j} \rVert_{2}^2   \right), \quad \lambda \geq {0}$$The squared norm term is a regularisation penalty (on the left controlled by $\lambda$). As in [[SVM]]s, fitting the data competes with keeping parameters small.
 Our factor count $k$, and penalty strength $\lambda$ are hyperparameters, which are selected using validation ratings.
 The learnt $\mathbf{P},\mathbf{Q}$ don't need to orthonormal columns either.
 

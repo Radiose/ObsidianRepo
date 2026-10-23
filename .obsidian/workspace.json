@@ -163,13 +163,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 8/Hard margin SVM.md",
+                "file": "COMP2610/Week 7/expected code length.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Hard margin SVM"
+              "title": "expected code length"
             }
           },
           {
@@ -395,10 +395,12 @@
   },
   "active": "967fcf58177e6eb7",
   "lastOpenFiles": [
-    "COMP3670/Week 8/Affine score.md",
+    "COMP3670/Week 8/Soft margin SVM.md",
     "COMP3670/Week 8/Hard margin SVM.md",
-    "COMP3670/Week 8/Decision boundary.md",
+    "COMP3670/Week 8/SVM.md",
+    "COMP3670/Week 8/Affine score.md",
     "COMP3670/Week 8/Support vector machine.md",
+    "COMP3670/Week 8/Decision boundary.md",
     "COMP3670/Week 9/Principle component analysis.md",
     "COMP3670/Week 9/EigenDecomp and PCA.md",
     "COMP3670/Week 9/principle component scores.md",
@@ -419,8 +421,6 @@
     "MATH1116/Linear algebra/Week 10/complex spectral theorem.md",
     "COMP2610/Week 7/Huffman coding.md",
     "COMP3670/Week 10/Frobenius norm.md",
-    "MATH1116/Linear algebra/Week 8/orthogonal vectors.md",
-    "MATH1116/Linear algebra/Week 8/orthonormal vectors.md",
     "attachments/Pasted image 20261018170912.png",
     "attachments/Pasted image 20261018164315.png",
     "attachments/Pasted image 20261018154134.png",
