@@ -228,7 +228,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -423,8 +423,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "edb10ac281d60d7b",
+  "active": "86fcdb0e3aa8b93c",
   "lastOpenFiles": [
+    "COMP3670/Week 8/SVM.md",
     "COMP3670/Week 8/Hard margin SVM.md",
     "COMP2610/Week 6/source code.md",
     "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
@@ -437,7 +438,6 @@
     "COMP2610/Week 7/expected code length.md",
     "MATH1005/Week 9/random variable.md",
     "COMP3670/Week 8/Soft margin SVM.md",
-    "COMP3670/Week 8/SVM.md",
     "COMP3670/Week 8/Affine score.md",
     "COMP3670/Week 8/Support vector machine.md",
     "COMP3670/Week 8/Decision boundary.md",
