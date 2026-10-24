@@ -12,8 +12,8 @@ Hard margin SVM maximises geometric margin (see prop 1)
 # Definition 
 The hard margin support vector machine chooses $\mathbf{w}\in \mathbb{R}^d\quad  b \in \mathbb{R}$ to solve 
 
-minimize $\frac{1}{2}(\langle \mathbf{w},\mathbf{x}_{i} \rangle+b)\geq {1}$
-	subject to $y_{i}(\langle \mathbf{w}_{i},\mathbf{x}_{i} \rangle+b)\geq 1\quad (i=1,\dots,n)$
+minimize $\frac{1}{2}\lVert \mathbf{w} \rVert_{2}^2$
+	subject to $y_{i}(\langle \mathbf{w},\mathbf{x}_{i} \rangle+b)\geq 1\quad (i=1,\dots,n)$
 
 At an optimal solution, training datapoints satisfying $y_{i}(\langle \mathbf{w},\mathbf{x}_{i} \rangle+b)=1$ are called **support vectors**
 They lie on the two margin boundaries $(\langle \mathbf{w}_{i},\mathbf{x}_{i} \rangle+b)= 1$ and $(\langle \mathbf{w}_{i},\mathbf{x}_{i} \rangle+b)= -1$
