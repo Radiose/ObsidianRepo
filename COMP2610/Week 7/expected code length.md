@@ -2,7 +2,7 @@
 aliases:
   - expected length
 ---
-	When a code is [[source code|uniform]], the length of a message $N$ is trivial to compute. However, with [[source code|variable length code]]s, the length of $N$ outcomes will depend on the outcomes we observe. 
+When a code is [[source code|uniform]], the length of a message $N$ is trivial to compute. However, with [[source code|variable length code]]s, the length of $N$ outcomes will depend on the outcomes we observe. 
 
 
 We aim to determine what the average length of a message we can expect is? 
