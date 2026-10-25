@@ -5,7 +5,7 @@ aliases:
 U substitution
 
 This is a technique used when finding the [[Indefinite integral|antiderivative]] of a function. It is the most unique method discussed thus far in calculus.
-This is essentially the reverse [[Chain rule]].
+This is essentially the reverse [[Chain Rule (probability)]].
 
 
 This is used to make it easier to tell that a function is of the form $F'(G(x))G'(x)$. 

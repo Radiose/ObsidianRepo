@@ -22,7 +22,7 @@ NOTE: REMEMBER TO TAKE THE ABSOLUTE VALUE
 A useful example $\int \tan x \ dx= \int \frac{\sin}{\cos} = \int- \frac{f'x()}{f(x)}dx$ = $-\ln|\cos(x)|+c$
 
 # Differentiation
-Typically when using the [[Chain rule]], its easy when functions are raised to constant powers, but if the equation has the form $y = (f(x))^{g(x)}$ , its a bit more complicated. 
+Typically when using the [[Chain Rule (probability)]], its easy when functions are raised to constant powers, but if the equation has the form $y = (f(x))^{g(x)}$ , its a bit more complicated. 
 Thus, we can use [[Natural logarithm]]s
 
 $y = x^{\sin x}$
