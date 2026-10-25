@@ -277,13 +277,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 8/Chain Rule (probability).md",
+                "file": "MATH1005/Week 8/permutation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chain Rule (probability)"
+              "title": "permutation"
             }
           }
         ],
@@ -484,8 +484,10 @@
   },
   "active": "a8f306bae87b5d9f",
   "lastOpenFiles": [
-    "MATH1005/Week 8/Probability rules.md",
+    "MATH1005/Week 8/combination.md",
+    "COMP2610/Week 5/the multinomial coefficient.md",
     "MATH1005/Week 8/Chain Rule (probability).md",
+    "MATH1005/Week 8/Probability rules.md",
     "MATH1005/Week 9/Conditional probability.md",
     "MATH1013/Calculus/Week 8/Chain rule.md",
     "COMP2610/Week 8/Adaptive interval coding.md",
@@ -508,8 +510,6 @@
     "MATH1116/Analysis/Week 1/Binary operation.md",
     "MATH1005/Week 4/converting from decimal to binary.md",
     "COMP2610/Week 7/Shannon code.md",
-    "COMP2610/Week 7/expected code length.md",
-    "MATH1005/Week 9/random variable.md",
     "attachments/Pasted image 20261018170912.png",
     "attachments/Pasted image 20261018164315.png",
     "attachments/Pasted image 20261018154134.png",
