@@ -50,4 +50,5 @@ Let $\mathbf{C}$ have an [[orthonormal vectors|orthonormal basis]] of eigenvecto
 Then $$\max_{\lVert \mathbf{q} \rVert_{2}=1 }\mathbf{q}^T \mathbf{Cq}=\lambda_{1}$$
 So each unit vector in the eigenspace of $\lambda_{1}$ maximise the the same things that principle components do. So, $\mathbf{q}_{1}$ must be a first principle component. 
 
-# ![[Principle component analysis]]
+# PCA 
+![[Principle component analysis]]
