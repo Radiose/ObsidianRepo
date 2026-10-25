@@ -191,10 +191,15 @@
             "id": "86fcdb0e3aa8b93c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "COMP3670/Week 5/Euclidian norm.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Euclidian norm"
             }
           },
           {
