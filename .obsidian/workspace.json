@@ -50,16 +50,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 7/Kraft inequality.md",
+                "file": "COMP2610/Week 9/channel capacity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Kraft inequality"
+              "title": "channel capacity"
+            }
+          },
+          {
+            "id": "e999d4a2365febd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 9/symmetric channel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "symmetric channel"
+            }
+          },
+          {
+            "id": "2d1eb141932f3183",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 9/Discrete channel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Discrete channel"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289,
-    "collapsed": true
+    "width": 289
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -255,16 +285,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "04b719357049c728",
+  "active": "a9c69adcc1c2e5e8",
   "lastOpenFiles": [
-    "attachments/Pasted Image 20261026105508_666.png",
+    "COMP2610/Week 9/symmetric channel.md",
+    "COMP2610/Week 9/Discrete channel.md",
+    "Untitled 1.md",
+    "COMP3670/Week 5/centroid.md",
+    "COMP3670/Week 1/supervised learning.md",
+    "MATH1005/Week 3/symmetric relation.md",
+    "COMP2610/Week 9/channel capacity.md",
+    "COMP2610/Week 9/Communication over noisy channels.md",
     "COMP2610/Week 7/Kraft inequality.md",
     "Excalidraw/COMP2610 A3.excalidraw.md",
-    "COMP2610/Week 9/channel capacity.md",
+    "attachments/Pasted Image 20261026105508_666.png",
     "COMP2610/Week 4/mutual information.md",
-    "COMP2610/Week 9/Communication over noisy channels.md",
     "MATH1116/Linear algebra/Week 11/positive operator.md",
-    "COMP2610/Week 9/Discrete channel.md",
     "MATH1005/Week 9/transition matrix.md",
     "COMP3670 A3.md",
     "MATH1005/Week 8/permutation.md",
@@ -279,10 +314,6 @@
     "MATH1116/Analysis/Week 9/multivariate continuity.md",
     "COMP3670/Week 9/Principle component analysis.md",
     "COMP3670/Week 10/singular value decomposition (ML perspective).md",
-    "MATH1005/Week 8/combination.md",
-    "COMP2610/Week 5/the multinomial coefficient.md",
-    "MATH1005/Week 8/Chain Rule (probability).md",
-    "MATH1005/Week 9/Conditional probability.md",
     "attachments/Pasted image 20261018170912.png",
     "attachments/Pasted image 20261018164315.png",
     "attachments/Pasted image 20261018154134.png",
@@ -292,7 +323,6 @@
     "attachments/Pasted image 20261016194837.png",
     "attachments/Pasted image 20261016194626.png",
     "attachments/Pasted image 20261016185151.png",
-    "attachments/Pasted image 20261016185008.png",
     "Untitled.canvas",
     "templates",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",

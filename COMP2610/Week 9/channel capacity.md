@@ -24,3 +24,18 @@ The basic rules for computing the channel capacity for a channel $Q$ with inputs
 	2: Determine which choice of $\mathbf{p}_{X}$ maximised that mutual information 
 	3: Use that maximising value to determine $C$
 
+# Symmetric channels 
+![[symmetric channel]]
+
+For symmetric channels, the optimal distribution is achieved with a simple form. 
+
+# Theorem 
+If $Q$ is symmetric, then its capacity is achieved by a uniform distribution over $\mathcal{X}$.
+
+# Example 
+Computing the capacity of the [[Discrete channel#The binary symmetric channel|the binary symmetric channel]].
+$Q=\begin{bmatrix}1-f  &  f \\  f  & 1-f\end{bmatrix}$
+We aim to calculate mutual information $H(Y)-H(Y|X)$
+We therefore need to calculate the distributions $p(Y)$ and $p(Y|X)$
+
+$p(Y=0)= (1-f) \cdot \mathbb{P}(X=0) \cdot \mathbb{P}(X=1)$
