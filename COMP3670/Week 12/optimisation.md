@@ -42,3 +42,13 @@ Set it to 0.
 $$
 -2X^T(\mathbf{Y} - X\boldsymbol\theta) = 0 \implies 2X^T\mathbf{Y} = 2X^TX\boldsymbol\theta \implies X^TX\boldsymbol\theta = X^T\mathbf{Y}
 $$
+A linear system of $m$ equations in $m$ unknowns gives us that if $X$ has full rank, then $X^TX$ is invertible and thus uniquely solvable.
+
+Because the model is **linear** in $\theta$, the normal equations can be solved in closed form. 
+If $X$ has full rank, then $$X^TX\theta=X^T\mathbf{Y} \implies \hat{\theta}=(X^TX)^{-1}X^T\mathbf{Y}$$With $\hat{h}(\mathbf{x})=\Phi(\mathbf{x})^T\hat{\theta}$
+Where, $\Phi(\mathbf{x})$ is $\mathbf{x}$ applied to all basis vectors.
+
+# ridge regression 
+![[Ridge regression]]
+
+![[gradient descent]]
