@@ -50,13 +50,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 9/channel capacity.md",
+                "file": "MATH1116/Analysis/Week 11/multivariate differentiability.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "channel capacity"
+              "title": "multivariate differentiability"
             }
           },
           {
@@ -65,13 +65,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 9/symmetric channel.md",
+                "file": "COMP3670/Week 11/gradient.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "symmetric channel"
+              "title": "gradient"
             }
           },
           {
@@ -80,17 +80,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 9/Discrete channel.md",
+                "file": "COMP3670 A2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Discrete channel"
+              "title": "COMP3670 A2"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -163,7 +163,8 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -285,15 +286,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a9c69adcc1c2e5e8",
+  "active": "e999d4a2365febd6",
   "lastOpenFiles": [
+    "MATH1116/Analysis/Week 11/multivariate differentiability.md",
+    "COMP3670 A2.md",
+    "COMP3670/Week 5/parametric regression.md",
+    "MATH1013/Calculus/Week 12/Gauss least squares.md",
+    "COMP3670/Week 11/gradient.md",
     "COMP2610/Week 9/symmetric channel.md",
+    "COMP3670/Week 4/parametric methods.md",
+    "COMP3670/Week 4/regression.md",
     "COMP2610/Week 9/Discrete channel.md",
+    "MATH1116/Analysis/Week 10/multivariate integrability.md",
+    "MATH1116/MATH1116 A9.md",
+    "MATH1116/MATH1116 assignment 8.md",
+    "MATH1116/MATH1116 A10.md",
+    "COMP2610/Week 9/channel capacity.md",
+    "attachments/Pasted image 20261026121400.png",
+    "COMP2610/Week 3/entropy (information theory).md",
     "Untitled 1.md",
     "COMP3670/Week 5/centroid.md",
     "COMP3670/Week 1/supervised learning.md",
     "MATH1005/Week 3/symmetric relation.md",
-    "COMP2610/Week 9/channel capacity.md",
     "COMP2610/Week 9/Communication over noisy channels.md",
     "COMP2610/Week 7/Kraft inequality.md",
     "Excalidraw/COMP2610 A3.excalidraw.md",
@@ -302,18 +316,6 @@
     "MATH1116/Linear algebra/Week 11/positive operator.md",
     "MATH1005/Week 9/transition matrix.md",
     "COMP3670 A3.md",
-    "MATH1005/Week 8/permutation.md",
-    "MATH1005/Week 8/Probability rules.md",
-    "COMP2610/Week 8/Adaptive interval coding.md",
-    "COMP3670/Week 8/SVM.md",
-    "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
-    "MATH1013/Calculus/Week 6/The Second Derivative test.md",
-    "COMP3670/Week 9/Covariance and empirical variance of a matrix.md",
-    "COMP3670/Week 9/EigenDecomp and PCA.md",
-    "MATH1116/Analysis/Week 10/multivariate integrability.md",
-    "MATH1116/Analysis/Week 9/multivariate continuity.md",
-    "COMP3670/Week 9/Principle component analysis.md",
-    "COMP3670/Week 10/singular value decomposition (ML perspective).md",
     "attachments/Pasted image 20261018170912.png",
     "attachments/Pasted image 20261018164315.png",
     "attachments/Pasted image 20261018154134.png",
@@ -322,7 +324,6 @@
     "attachments/Pasted image 20261017113352.png",
     "attachments/Pasted image 20261016194837.png",
     "attachments/Pasted image 20261016194626.png",
-    "attachments/Pasted image 20261016185151.png",
     "Untitled.canvas",
     "templates",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",

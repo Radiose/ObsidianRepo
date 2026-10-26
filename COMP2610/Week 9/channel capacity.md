@@ -39,3 +39,36 @@ We aim to calculate mutual information $H(Y)-H(Y|X)$
 We therefore need to calculate the distributions $p(Y)$ and $p(Y|X)$
 
 $p(Y=0)= (1-f) \cdot \mathbb{P}(X=0) \cdot \mathbb{P}(X=1)$
+$p(Y=1)= (1-f) \cdot p(x=1)+f \cdot p(x=0)$
+This can also be expressed with $\mathbf{q}=Q \mathbf{p}_{X}$, where $\mathbf{p}_{X}$ is the probability vector in the ensemble (returns a vector of $y$ probabilities).
+
+Calculating entropy: 
+$H(Y)=- q_{0}\log_{2}q_{0}-q_{1}\log_{2}q_{1}$
+$=-q_{1}\log_{2}q_{1}-(1-q_{1})\log_{2}(1-q_{1})$  because ($q_{0}+q_{1}=1$)
+=$H_{2}(\mathbf{q}_{1})$ (binary entropy function)
+$=H_{2}(f \cdot p_{0}+(1-f)\cdot p_{1})-H_{2}(f)$
+
+
+**Computing $H(Y|X)$:**
+
+Since $P(y|x)$ is described by the matrix $Q$, we have
+
+$$H(Y|x=0) = H_2\big(P(y=1|x=0)\big) = H_2(Q_{1,0}) = H_2(f)$$
+
+and similarly,
+
+$$H(Y|x=1) = H_2\big(P(y=1|x=1)\big) = H_2(Q_{0,1}) = H_2(f)$$
+
+So,
+
+$$H(Y|X) = \sum_x H(Y|x)\,P(x) = \sum_x H_2(f)\,P(x) = H_2(f)\sum_x P(x) = H_2(f)$$
+
+**Computing $I(X;Y)$:**
+
+Putting it all together gives
+
+$$\boxed{I(X;Y) = H(Y) - H(Y|X) = H_2\big(f \cdot p_0 + (1-f)\cdot p_1\big) - H_2(f)}$$
+Because $Q$ is symmetric, we can easily use the uniform distribution property 
+![[Pasted image 20261026121400.png]]
+as you can see, $I(X;Y)$ is maximised when $p_{1}=0.5$
+In which case $C=0.39$ for $f=0.15$

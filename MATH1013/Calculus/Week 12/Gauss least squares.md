@@ -55,3 +55,9 @@ Putting these into the original formula
 We get rid of the ln for y. We also 
 
 $C(t) = 93.2421 × e^{−0.1025×t}$, as e^b is a constant, 
+
+
+# COMP3670 
+
+$\hat{\theta}=arg \min_{\theta \in \Theta}\sum_{i=1}^N (Y_{i}-h(\mathbf{X}_{i};\theta))^2$
+Dividing by $N$ makes it [[Empirical risk minimisation]].
