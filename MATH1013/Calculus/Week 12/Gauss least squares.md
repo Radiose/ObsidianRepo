@@ -1,3 +1,7 @@
+---
+aliases:
+  - least squares
+---
 Gauss least squares
 
 This is a method of [[Interpolation]] to fit a [[set]] of data points to an equation 
