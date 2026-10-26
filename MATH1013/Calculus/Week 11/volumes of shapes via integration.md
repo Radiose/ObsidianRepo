@@ -2,7 +2,7 @@ volumes of shapes via integration
 
 Via [[The fundamental theorem of calculus]], getting the volume of a shape can be done via [[Definite integral|integration]]. This is because you can track the net change in base shape over an interval.
 
-This is similar in process to [[Optimisation]] via differentiation.
+This is similar in process to [[MATH1013/Calculus/Week 6/Optimisation]] via differentiation.
 This process is based of regular geometry. You can obtain the area of a shape by multiplying the bases area by the height. However, when shapes are irregular, and the base is constantly changing, we need to use integration. 
 
 If we move along an X-axis, we keep in mind that we need to take a cross section thats perpendicular to X, and if we move along Y, we do the same for perpendicular to y
