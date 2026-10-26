@@ -8,7 +8,7 @@ The Markov process will tell you if the system runs for n steps, what is the pro
 
 A discrete [[Markov process]] has probabilities of being at a specific time depends on:
 Its state at the (n-1) timestep. 
-A fixed stochastic matrix, $T \in M_{k}(\mathbb{Q}_{\ge {0}})$ labelled the [[Transition Matrix]]. 
+A fixed stochastic matrix, $T \in M_{k}(\mathbb{Q}_{\ge {0}})$ labelled the [[transition matrix]]. 
 
 ## Some terminology
 - Probability [[vector]]: has non negative entries that sum to 1

@@ -13,7 +13,7 @@ We can express the channel $Q$ as a [[matrix]]
 $Q_{i,j}=P(y=b_{j}|x=a_{i})$
 The probability of observing $b$ given we transmit $a$
 
-**Example**: A channel $Q$ with inputs $\mathcal{X} = \{a_1, a_2, a_3\}$, outputs $\mathcal{Y} = \{b_1, b_2\}$, and transition probabilities expressed by the matrix
+**Example**: A channel $Q$ with inputs $\mathcal{X} = \{a_1, a_2, a_3\}$, outputs $\mathcal{Y} = \{b_1, b_2\}$, and transition probabilities expressed by the [[transition matrix]]
 
 $$
 Q = \begin{bmatrix} 0.8 & 0.5 & 0.2 \\ 0.2 & 0.5 & 0.8 \end{bmatrix}

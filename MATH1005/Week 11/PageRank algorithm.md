@@ -10,7 +10,7 @@ The fundamentals
 The number of links pointing at a page is important
 The no of linked pointing to those vertices linking to a page is important 
 
-The importance of a page j is defined is $p_{j}$ in the [[Steady state vector]] S for a [[Random walk on a graph|random walk]] on a webgraph using a specially designed [[Transition Matrix]].
+The importance of a page j is defined is $p_{j}$ in the [[Steady state vector]] S for a [[Random walk on a graph|random walk]] on a webgraph using a specially designed [[transition matrix]].
 
 ### The basics 
 A random surfer, or walker, moves around the web as follows 
@@ -25,7 +25,7 @@ $n_{i}=|\{ j:(i,j) \in E(G) \}|$
 Then the basic probability of moving from vertex $j$ to $i$ is given by
 $p_{ij} = \{\frac{1}{n_{j}}$ if $n_{j}=0$ and $(j, i) \in E$ 
 	 $\{  0$ otherwise
-The basic [[Transition Matrix]] is $T = (p_{i,j})_{1 \le i,j \le n}$
+The basic [[transition matrix]] is $T = (p_{i,j})_{1 \le i,j \le n}$
 
 
 ## The damping factor 

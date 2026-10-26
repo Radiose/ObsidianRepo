@@ -18,7 +18,7 @@ Every column tells you *one* unit of output. Each entry in the column builds up 
 We set up a linear system as follows. 
 Suppose each year, we have 3 sectors, agriculture, manufacturing and services denoted $a,m,s$ with the following equations. 
 $x_{a}=ax_{a}+bx_{m}+cx_{s}$
-we create a [[Transition Matrix]]
+we create a [[transition matrix]]
   A     M    S
 $\begin{bmatrix}0.0\ \   0.4\ \ 0.6 |A \\ \ \  0.6  \ \ 0.1 \ \ 0.2 |M\ \  \\0.4\ \ 0.5\ \ 0.2| S\end{bmatrix}$
 An important [[theorem]]:

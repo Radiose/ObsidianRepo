@@ -11,264 +11,12 @@
             "id": "04b719357049c728",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 11/positive operator.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Excalidraw/COMP2610 A3.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "positive operator"
-            }
-          },
-          {
-            "id": "ffa804fe60b49078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 10/singular value decomposition (ML perspective).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "singular value decomposition (ML perspective)"
-            }
-          },
-          {
-            "id": "1a3952ed87c183f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 10/singular value decomposition (ML perspective).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "singular value decomposition (ML perspective)"
-            }
-          },
-          {
-            "id": "da630eae9da1f0e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 10/singular value decomposition (ML perspective).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "singular value decomposition (ML perspective)"
-            }
-          },
-          {
-            "id": "487b6603b7943501",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1116/Analysis/Week 10/multivariate integrability.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "multivariate integrability"
-            }
-          },
-          {
-            "id": "b892ba1742bef496",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 9/Principle component analysis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Principle component analysis"
-            }
-          },
-          {
-            "id": "0ebc38044fbbf1a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1116/Analysis/Week 9/multivariate continuity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "multivariate continuity"
-            }
-          },
-          {
-            "id": "27bf706078f4482e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 9/covariance.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "covariance"
-            }
-          },
-          {
-            "id": "0419ee249395a117",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1116/Analysis/Week 10/multivariate integrability.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "multivariate integrability"
-            }
-          },
-          {
-            "id": "1bc3fc64227f403c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 9/EigenDecomp and PCA.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "EigenDecomp and PCA"
-            }
-          },
-          {
-            "id": "967fcf58177e6eb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Shannon-Fano-Elias coding"
-            }
-          },
-          {
-            "id": "50b6a45209576857",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 9/Covariance and empirical variance of a matrix.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Covariance and empirical variance of a matrix"
-            }
-          },
-          {
-            "id": "86fcdb0e3aa8b93c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1013/Calculus/Week 6/The Second Derivative test.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The Second Derivative test"
-            }
-          },
-          {
-            "id": "3eb15ac4d05f8f67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Shannon-Fano-Elias coding"
-            }
-          },
-          {
-            "id": "edb10ac281d60d7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 8/SVM.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "SVM"
-            }
-          },
-          {
-            "id": "31a1b70cef198a06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP2610/Week 8/Adaptive interval coding.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Adaptive interval coding"
-            }
-          },
-          {
-            "id": "8323c88ebd6d43a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1005/Week 8/Probability rules.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Probability rules"
+              "icon": "excalidraw-icon",
+              "title": "COMP2610 A3.excalidraw"
             }
           },
           {
@@ -277,17 +25,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1005/Week 8/permutation.md",
+                "file": "COMP2610/Week 9/Discrete channel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "permutation"
+              "title": "Discrete channel"
+            }
+          },
+          {
+            "id": "83e728a0b04cc864",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "a9c69adcc1c2e5e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 7/Kraft inequality.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Kraft inequality"
             }
           }
-        ],
-        "currentTab": 17
+        ]
       }
     ],
     "direction": "vertical"
@@ -364,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289
+    "width": 289,
+    "collapsed": true
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -482,34 +255,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a8f306bae87b5d9f",
+  "active": "04b719357049c728",
   "lastOpenFiles": [
+    "attachments/Pasted Image 20261026105508_666.png",
+    "COMP2610/Week 7/Kraft inequality.md",
+    "Excalidraw/COMP2610 A3.excalidraw.md",
+    "COMP2610/Week 9/channel capacity.md",
+    "COMP2610/Week 4/mutual information.md",
+    "COMP2610/Week 9/Communication over noisy channels.md",
+    "MATH1116/Linear algebra/Week 11/positive operator.md",
+    "COMP2610/Week 9/Discrete channel.md",
+    "MATH1005/Week 9/transition matrix.md",
+    "COMP3670 A3.md",
+    "MATH1005/Week 8/permutation.md",
+    "MATH1005/Week 8/Probability rules.md",
+    "COMP2610/Week 8/Adaptive interval coding.md",
+    "COMP3670/Week 8/SVM.md",
+    "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
+    "MATH1013/Calculus/Week 6/The Second Derivative test.md",
+    "COMP3670/Week 9/Covariance and empirical variance of a matrix.md",
+    "COMP3670/Week 9/EigenDecomp and PCA.md",
+    "MATH1116/Analysis/Week 10/multivariate integrability.md",
+    "MATH1116/Analysis/Week 9/multivariate continuity.md",
+    "COMP3670/Week 9/Principle component analysis.md",
+    "COMP3670/Week 10/singular value decomposition (ML perspective).md",
     "MATH1005/Week 8/combination.md",
     "COMP2610/Week 5/the multinomial coefficient.md",
     "MATH1005/Week 8/Chain Rule (probability).md",
-    "MATH1005/Week 8/Probability rules.md",
     "MATH1005/Week 9/Conditional probability.md",
-    "MATH1013/Calculus/Week 8/Chain rule.md",
-    "COMP2610/Week 8/Adaptive interval coding.md",
-    "COMP2610/Week 8/Dirichlet distribution.md",
-    "COMP2610/Week 8/Arithmetic coding.md",
-    "COMP3670 A3.md",
-    "COMP3670/Week 9/Principle component analysis.md",
-    "COMP3670/Week 9/EigenDecomp and PCA.md",
-    "COMP3670/Week 9/Mean vector and centred datapoints..md",
-    "COMP3670/Week 9/Covariance and empirical variance of a matrix.md",
-    "COMP3670/Week 9/principle component scores.md",
-    "COMP3670/Week 8/Hard margin SVM.md",
-    "MATH1013/Calculus/Week 6/The Second Derivative test.md",
-    "COMP3670/Week 5/Euclidian norm.md",
-    "COMP3670/Week 8/SVM.md",
-    "COMP2610/Week 6/source code.md",
-    "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
-    "COMP2610/Week 3/entropy (information theory).md",
-    "COMP2610 exam revision.md",
-    "MATH1116/Analysis/Week 1/Binary operation.md",
-    "MATH1005/Week 4/converting from decimal to binary.md",
-    "COMP2610/Week 7/Shannon code.md",
     "attachments/Pasted image 20261018170912.png",
     "attachments/Pasted image 20261018164315.png",
     "attachments/Pasted image 20261018154134.png",

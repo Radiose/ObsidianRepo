@@ -19,9 +19,9 @@ Associated to an $n$ vertex [[directed graph]] G, let $T = (p_{i,j})_{1\le i,j\l
 
 For any given $n$ let $B_{n}$ denote the set of [[basis of R]] [[vector]]s, where $e_{i}$ is the n x 1 vector with 1 as the $i$-th entry and all other entries 0.
 
-For $X_{0}=e_{i} \in B_{n}$, the [[Markov process|Markov]] chain  $(X_{k})_{k \in \mathbb{N^+}}$ specified by G and T is called the [[Random walk on a graph|random walk]] on G starting at vertex $i$, with [[Transition Matrix]] T.
+For $X_{0}=e_{i} \in B_{n}$, the [[Markov process|Markov]] chain  $(X_{k})_{k \in \mathbb{N^+}}$ specified by G and T is called the [[Random walk on a graph|random walk]] on G starting at vertex $i$, with [[transition matrix]] T.
 
 Then $X_{k}=T^ke_{i}=(q_{j})_{1 \le j \le n}$, the [[Probability of an event|probability]] of $q_{j}$ of being at the vertex $j$ after $k$ steps starting from vertex *i*.
 
-something important to remember: The [[Adjacent vertices|adjacency matrix]] is from row to column, while we treat the [[Transition Matrix]] as column to row.
+something important to remember: The [[Adjacent vertices|adjacency matrix]] is from row to column, while we treat the [[transition matrix]] as column to row.
 
