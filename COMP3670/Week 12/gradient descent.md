@@ -33,4 +33,10 @@ Ten times more steps, the bound is 10 times smaller.
 
 ## Stopping rules 
 We must decide where to stop, there are usually 4 rough rules 
-- T
+- The gradient is small $\implies$ we are almost at a critical point 
+- The objective has stalled $\implies$ no decrease for a while 
+- The validation error has stopped improving
+- Exceeds budget (we have a fixed number of iterations)
+
+# Gradient descent for [[Gauss least squares|least squares]], [[Ridge regression]], [[logistic regression]]
+![[Pasted image 20261026184133.png]]
