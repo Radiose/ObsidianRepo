@@ -244,13 +244,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 9/symmetric channel.md",
+                "file": "MATH1116/Analysis/Week 11/multivariate differentiability.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "symmetric channel"
+              "title": "multivariate differentiability"
             }
           }
         ],
@@ -451,8 +451,10 @@
   },
   "active": "09b104dae42fca42",
   "lastOpenFiles": [
-    "COMP2610/Week 9/Discrete channel.md",
+    "MATH1116/Analysis/Week 12/Untitled.md",
     "COMP2610/Week 10/joint typicality.md",
+    "COMP2610/Week 9/symmetric channel.md",
+    "COMP2610/Week 9/Discrete channel.md",
     "COMP2610/Week 10/the noisy channel coding theorem.md",
     "COMP2610/Week 10/extended channel.md",
     "COMP2610/Week 10/achievable rate.md",
@@ -470,7 +472,6 @@
     "COMP3670/Week 12/optimisation.md",
     "COMP2610/Week 4/convex function.md",
     "COMP3670/Week 12/gradient descent.md",
-    "COMP2610/Week 9/symmetric channel.md",
     "COMP2610/Week 9/Communication over noisy channels.md",
     "COMP2610/Week 9/channel capacity.md",
     "COMP2610/Week 7/source coding theorem for symbol codes.md",
@@ -478,7 +479,6 @@
     "attachments/Pasted image 20261026184133.png",
     "attachments/Pasted image 20261026183500.png",
     "COMP3670/Week 4/logistic regression.md",
-    "COMP3670/Week 4/parametric methods.md",
     "attachments/Pasted image 20261026160547.png",
     "attachments/Pasted image 20261026160221.png",
     "attachments/Pasted image 20261026133107.png",
