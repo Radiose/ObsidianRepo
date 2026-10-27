@@ -199,17 +199,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116 revision adlay.md",
+                "file": "COMP2610/Week 10/the noisy channel coding theorem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1116 revision adlay"
+              "title": "the noisy channel coding theorem"
+            }
+          },
+          {
+            "id": "607280e97808d2dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 10/reliability of block codes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "reliability of block codes"
+            }
+          },
+          {
+            "id": "c881288094616f2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 10/the noisy channel coding theorem.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "the noisy channel coding theorem"
+            }
+          },
+          {
+            "id": "09b104dae42fca42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 10/the noisy channel coding theorem.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "the noisy channel coding theorem"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -404,8 +449,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "16cc0464f7eac5d8",
+  "active": "09b104dae42fca42",
   "lastOpenFiles": [
+    "COMP2610/Week 10/extended channel.md",
+    "COMP2610/Week 10/the noisy channel coding theorem.md",
+    "COMP2610/Week 10/achievable rate.md",
+    "Excalidraw/COMP2610 A3.excalidraw.md",
+    "COMP2610/Week 10/reliability of block codes.md",
+    "MATH1116 revision adlay.md",
     "COMP2610 exam revision.md",
     "COMP2610/Week 10/block code.md",
     "COMP2610/Week 10/rate of block code.md",
@@ -415,7 +466,6 @@
     "COMP3670/Week 8/Soft margin SVM.md",
     "COMP3670/Week 8/Affine score.md",
     "COMP2610/Week 9/Discrete channel.md",
-    "Excalidraw/COMP2610 A3.excalidraw.md",
     "COMP3670/Week 12/optimisation.md",
     "COMP2610/Week 4/convex function.md",
     "COMP3670/Week 12/gradient descent.md",
@@ -429,11 +479,6 @@
     "COMP3670/Week 4/logistic regression.md",
     "COMP3670/Week 4/parametric methods.md",
     "COMP3670/Week 12/Ridge regression.md",
-    "COMP3670 A2.md",
-    "COMP2610/Week 3/Parameter estimation.md",
-    "COMP3670/Week 4/plug in rules.md",
-    "COMP3670/Week 4/cross entropy loss.md",
-    "COMP3670/Week 5/parametric regression.md",
     "attachments/Pasted image 20261026160547.png",
     "attachments/Pasted image 20261026160221.png",
     "attachments/Pasted image 20261026133107.png",
