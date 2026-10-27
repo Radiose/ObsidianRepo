@@ -40,13 +40,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 10/block code.md",
+                "file": "COMP3670/Week 8/SVM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "block code"
+              "title": "SVM"
             }
           },
           {
@@ -162,9 +162,24 @@
               "icon": "lucide-file",
               "title": "optimisation"
             }
+          },
+          {
+            "id": "a818ca1cb5202954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP3670/Week 8/Hard margin SVM.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Hard margin SVM"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -359,20 +374,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c0252bd9f9a38872",
+  "active": "83e728a0b04cc864",
   "lastOpenFiles": [
+    "COMP3670/Week 8/Hard margin SVM.md",
+    "COMP3670/Week 8/Soft margin SVM.md",
+    "COMP3670/Week 8/SVM.md",
+    "COMP3670/Week 8/Affine score.md",
+    "COMP2610/Week 10/block code.md",
+    "COMP2610/Week 9/Discrete channel.md",
+    "Excalidraw/COMP2610 A3.excalidraw.md",
+    "COMP3670/Week 12/optimisation.md",
     "COMP2610/Week 4/convex function.md",
     "COMP3670/Week 12/gradient descent.md",
-    "COMP2610/Week 10/block code.md",
     "COMP2610/Week 9/symmetric channel.md",
     "COMP2610/Week 9/Communication over noisy channels.md",
     "COMP2610/Week 9/channel capacity.md",
-    "COMP2610/Week 9/Discrete channel.md",
     "COMP2610/Week 7/source coding theorem for symbol codes.md",
     "COMP2610/Week 7/binary symbol code.md",
     "attachments/Pasted image 20261026184133.png",
     "attachments/Pasted image 20261026183500.png",
-    "COMP3670/Week 12/optimisation.md",
     "COMP3670/Week 4/logistic regression.md",
     "COMP3670/Week 4/parametric methods.md",
     "COMP3670/Week 12/Ridge regression.md",
@@ -386,12 +406,7 @@
     "MATH1116/Analysis/Week 10/multivariate integrability.md",
     "attachments/Pasted image 20261026160547.png",
     "attachments/Pasted image 20261026160221.png",
-    "Untitled 2.md",
-    "COMP3670/Week 11/gradient.md",
     "attachments/Pasted image 20261026133107.png",
-    "MATH1116/Analysis/Week 11/multivariate differentiability.md",
-    "COMP3670/Week 11/Hessian matrix.md",
-    "MATH1013/Calculus/Week 12/Gauss least squares.md",
     "attachments/Pasted image 20261026121400.png",
     "attachments/Pasted Image 20261026105508_666.png",
     "attachments/Pasted image 20261018170912.png",
