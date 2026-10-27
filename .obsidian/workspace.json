@@ -184,17 +184,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670 A3.md",
+                "file": "COMP2610/Week 10/block code.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "COMP3670 A3"
+              "title": "block code"
+            }
+          },
+          {
+            "id": "16cc0464f7eac5d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1116 revision adlay.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MATH1116 revision adlay"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -389,14 +404,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e6f78eb14659ac2a",
+  "active": "16cc0464f7eac5d8",
   "lastOpenFiles": [
-    "COMP3670/Week 8/Hard margin SVM.md",
+    "COMP2610 exam revision.md",
+    "COMP2610/Week 10/block code.md",
+    "COMP2610/Week 10/rate of block code.md",
     "COMP3670 A3.md",
+    "COMP3670/Week 8/Hard margin SVM.md",
     "COMP3670/Week 8/SVM.md",
     "COMP3670/Week 8/Soft margin SVM.md",
     "COMP3670/Week 8/Affine score.md",
-    "COMP2610/Week 10/block code.md",
     "COMP2610/Week 9/Discrete channel.md",
     "Excalidraw/COMP2610 A3.excalidraw.md",
     "COMP3670/Week 12/optimisation.md",
@@ -417,8 +434,6 @@
     "COMP3670/Week 4/plug in rules.md",
     "COMP3670/Week 4/cross entropy loss.md",
     "COMP3670/Week 5/parametric regression.md",
-    "COMP3670/Week 4/regression.md",
-    "COMP3670/Week 4/nonparametric methods.md",
     "attachments/Pasted image 20261026160547.png",
     "attachments/Pasted image 20261026160221.png",
     "attachments/Pasted image 20261026133107.png",
