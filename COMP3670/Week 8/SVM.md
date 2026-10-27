@@ -2,7 +2,7 @@
 aliases:
   - support vector machine
 ---
-![[Affine score]]
+**![[Affine score]]
 
 
 
