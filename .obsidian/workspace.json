@@ -244,13 +244,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 10/the noisy channel coding theorem.md",
+                "file": "COMP2610/Week 9/symmetric channel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "the noisy channel coding theorem"
+              "title": "symmetric channel"
             }
           }
         ],
@@ -451,8 +451,10 @@
   },
   "active": "09b104dae42fca42",
   "lastOpenFiles": [
-    "COMP2610/Week 10/extended channel.md",
+    "COMP2610/Week 9/Discrete channel.md",
+    "COMP2610/Week 10/joint typicality.md",
     "COMP2610/Week 10/the noisy channel coding theorem.md",
+    "COMP2610/Week 10/extended channel.md",
     "COMP2610/Week 10/achievable rate.md",
     "Excalidraw/COMP2610 A3.excalidraw.md",
     "COMP2610/Week 10/reliability of block codes.md",
@@ -465,7 +467,6 @@
     "COMP3670/Week 8/SVM.md",
     "COMP3670/Week 8/Soft margin SVM.md",
     "COMP3670/Week 8/Affine score.md",
-    "COMP2610/Week 9/Discrete channel.md",
     "COMP3670/Week 12/optimisation.md",
     "COMP2610/Week 4/convex function.md",
     "COMP3670/Week 12/gradient descent.md",
@@ -478,7 +479,6 @@
     "attachments/Pasted image 20261026183500.png",
     "COMP3670/Week 4/logistic regression.md",
     "COMP3670/Week 4/parametric methods.md",
-    "COMP3670/Week 12/Ridge regression.md",
     "attachments/Pasted image 20261026160547.png",
     "attachments/Pasted image 20261026160221.png",
     "attachments/Pasted image 20261026133107.png",
