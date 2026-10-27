@@ -145,17 +145,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 12/gradient descent.md",
+                "file": "COMP3670/Week 12/optimisation.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "gradient descent"
+              "title": "optimisation"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -350,16 +359,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "83e728a0b04cc864",
+  "active": "c0252bd9f9a38872",
   "lastOpenFiles": [
+    "COMP2610/Week 4/convex function.md",
+    "COMP3670/Week 12/gradient descent.md",
+    "COMP2610/Week 10/block code.md",
     "COMP2610/Week 9/symmetric channel.md",
     "COMP2610/Week 9/Communication over noisy channels.md",
     "COMP2610/Week 9/channel capacity.md",
     "COMP2610/Week 9/Discrete channel.md",
-    "COMP2610/Week 10/block code.md",
     "COMP2610/Week 7/source coding theorem for symbol codes.md",
     "COMP2610/Week 7/binary symbol code.md",
-    "COMP3670/Week 12/gradient descent.md",
     "attachments/Pasted image 20261026184133.png",
     "attachments/Pasted image 20261026183500.png",
     "COMP3670/Week 12/optimisation.md",
@@ -379,7 +389,6 @@
     "Untitled 2.md",
     "COMP3670/Week 11/gradient.md",
     "attachments/Pasted image 20261026133107.png",
-    "COMP2610/Week 4/convex function.md",
     "MATH1116/Analysis/Week 11/multivariate differentiability.md",
     "COMP3670/Week 11/Hessian matrix.md",
     "MATH1013/Calculus/Week 12/Gauss least squares.md",
