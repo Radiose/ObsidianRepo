@@ -284,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -479,8 +479,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1b947aaa72170d05",
+  "active": "30a09b5d7f3c9906",
   "lastOpenFiles": [
+    "MATH1116/Analysis/Week 1/Cauchy sequence.md",
     "MATH1116/Analysis/Week 11/partial derivative.md",
     "MATH1116/Analysis/Week 11/Laplacian operator.md",
     "MATH1013/Calculus/Week 3/product rule.md",
@@ -506,7 +507,6 @@
     "COMP3670/Week 8/Soft margin SVM.md",
     "COMP3670/Week 8/Affine score.md",
     "COMP3670/Week 12/optimisation.md",
-    "COMP2610/Week 4/convex function.md",
     "attachments/Pasted image 20261026184133.png",
     "attachments/Pasted image 20261026183500.png",
     "attachments/Pasted image 20261026160547.png",

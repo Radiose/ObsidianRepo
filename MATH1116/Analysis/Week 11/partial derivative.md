@@ -34,3 +34,18 @@ We write $$\frac{ \partial^2 f }{ \partial x_{k} \partial x_{j} } $$ for the par
 ![[Laplacian operator]] 
 
 # Theorem 
+Let $f:\mathbb{R}^2 \to \mathbb{R}$  and $(x_{0},y_{0})\in \mathbb{R}^2$
+Assume that $f$ admits a partial derivative of order 2, $\frac{ \partial ^2f }{ \partial x^2 },\frac{ \partial ^2f }{ \partial y^2 },\frac{ \partial ^2 f }{ \partial x\partial y }$ in $B((x_{0},y_{0}),R)$ with positive R. 
+Assume that $\frac{ \partial ^2 f }{ \partial x \partial y  }$ is [[multivariate continuity|continuous]] on $B((x_{0},y_{0}),R)$, then 
+$\frac{ \partial ^2 f }{ \partial x \partial y}$ exists, and is equal to $\frac{ \partial ^2 f }{ \partial y \partial x }$
+
+### Proof 
+Let $(x_{0},y_{0}) \in B(C,R)$. let $\epsilon >0$.
+Pick $\delta$ : $\forall(x,y)\in B(C,R)$, $$\lVert (x,y)-(x_{0},y_{0}) \rVert <\delta \implies \left\lvert  \frac{ \partial ^2 f }{ \partial x \partial y } (x,y) - \frac{ \partial ^2 f }{ \partial x \partial y }(x_{0},y_{0})    \right\rvert<\epsilon $$
+Define $$g:\left( \frac{-\delta}{\sqrt{ 2 }}, \frac{\delta}{\sqrt{ 2 }} \right)^2 \to \mathbb{R} \\ \\ (h,k) \mapsto f(x_{0}+h,y_{0}+k)-f(x_{0}+h,y_{0})-f(x_{0},y_{0}+k)+f(x_{0},y_{0})$$
+The motivation for this is that we are trying to compute the second derivative. We exploit the continuity of the mixed first derivatives.
+
+Fix $(h,k) \in \left(  -\frac{\delta}{\sqrt{ 2 }}, \frac{\delta}{\sqrt{ 2 }} \right)^2$
+Consider $G: \left( \frac{-\delta}{\sqrt{  2}}, \frac{\delta}{\sqrt{ 2 }} \right) \to \mathbb{R}$, with $(k)\mapsto g(h,k)$
+Via the mean value theorem, $\exists \theta(k) \in \left[ y_{0},y_{0}+k \right]$ such that $G(k)-G(0)=G'(\theta (k))\cdot k$
+IE $$g(h,k)- \left[ f(x_{0}+h,y_{0}+k)-f(x_{0}+h,y_{0})-f(x_{0},y_{0}+k)+f(x_{0},y_{0})  \right] \\ \\ = \left[  \frac{ \partial f }{ \partial y }(x_{0}+h,\theta(k))-\frac{ \partial f }{ \partial y } (x_{0}+h,\theta(k))  \right] $$
