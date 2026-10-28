@@ -298,8 +298,7 @@
               "title": "channel capacity"
             }
           }
-        ],
-        "currentTab": 17
+        ]
       }
     ],
     "direction": "vertical"
@@ -495,11 +494,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e4c47f3bf4cca67",
+  "active": "04b719357049c728",
   "lastOpenFiles": [
+    "COMP3670 A3.md",
     "COMP2610/Week 9/channel capacity.md",
     "COMP3670/Week 12/gradient descent.md",
-    "COMP3670 A3.md",
     "COMP2610/Week 4/mutual information.md",
     "COMP2610/Week 3/joint entropy.md",
     "COMP2610/Week 3/conditional entropy.md",
