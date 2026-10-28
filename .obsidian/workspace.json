@@ -282,6 +282,21 @@
               "icon": "lucide-file",
               "title": "Laplacian operator"
             }
+          },
+          {
+            "id": "6e4c47f3bf4cca67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1013/Calculus/Week 5/mean value theorem.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "mean value theorem"
+            }
           }
         ],
         "currentTab": 16
@@ -481,9 +496,10 @@
   },
   "active": "30a09b5d7f3c9906",
   "lastOpenFiles": [
-    "MATH1116/Analysis/Week 1/Cauchy sequence.md",
+    "MATH1013/Calculus/Week 5/mean value theorem.md",
     "MATH1116/Analysis/Week 11/partial derivative.md",
     "MATH1116/Analysis/Week 11/Laplacian operator.md",
+    "MATH1116/Analysis/Week 1/Cauchy sequence.md",
     "MATH1013/Calculus/Week 3/product rule.md",
     "BIOL2161/Week 11/MDM2.md",
     "MATH1116/Analysis/Week 11/multivariate differentiability.md",
@@ -506,7 +522,6 @@
     "COMP3670/Week 8/SVM.md",
     "COMP3670/Week 8/Soft margin SVM.md",
     "COMP3670/Week 8/Affine score.md",
-    "COMP3670/Week 12/optimisation.md",
     "attachments/Pasted image 20261026184133.png",
     "attachments/Pasted image 20261026183500.png",
     "attachments/Pasted image 20261026160547.png",

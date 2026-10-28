@@ -47,5 +47,14 @@ The motivation for this is that we are trying to compute the second derivative. 
 
 Fix $(h,k) \in \left(  -\frac{\delta}{\sqrt{ 2 }}, \frac{\delta}{\sqrt{ 2 }} \right)^2$
 Consider $G: \left( \frac{-\delta}{\sqrt{  2}}, \frac{\delta}{\sqrt{ 2 }} \right) \to \mathbb{R}$, with $(k)\mapsto g(h,k)$
-Via the mean value theorem, $\exists \theta(k) \in \left[ y_{0},y_{0}+k \right]$ such that $G(k)-G(0)=G'(\theta (k))\cdot k$
-IE $$g(h,k)- \left[ f(x_{0}+h,y_{0}+k)-f(x_{0}+h,y_{0})-f(x_{0},y_{0}+k)+f(x_{0},y_{0})  \right] \\ \\ = \left[  \frac{ \partial f }{ \partial y }(x_{0}+h,\theta(k))-\frac{ \partial f }{ \partial y } (x_{0}+h,\theta(k))  \right] $$
+Via the [[mean value theorem]] if $k > 0$, we apply it to the interval $[0,k]$, otherwise $[k,0]$
+$G(k)-G(0)=G'(\tau)(k)$
+Relabel $\theta=y_{0}+\tau$
+$\exists \theta \in \left[ y_{0},y_{0}+k \right]$ such that $G(k)-G(0)=G'(\theta )\cdot k$
+
+IE $$g(h,k)- \left[ f(x_{0}+h,y_{0}+k)-f(x_{0}+h,y_{0})-f(x_{0},y_{0}+k)+f(x_{0},y_{0})  \right] \\ \\ = \left[  \frac{ \partial f }{ \partial y }(x_{0}+h,\theta(k))-\frac{ \partial f }{ \partial y } (x_{0}+h,\theta(k))  \right] \cdot k$$
+
+
+We apply MVT again 
+$$\exists \eta(k)\in [x_{0},x_{0}+h]:\quad g(h,k)= \frac{ \partial ^2f }{ \partial x \partial y }(\eta(h),\theta(k))\cdot hk$$
+$$\implies  \lim_{ k \to 0 }\left[  \frac{ \partial f }{ \partial x }(x_{0},y_{0}+k)- \frac{ \partial f }{ \partial x }(x_{0},y_{0}) \right]\\ = \lim_{ k \to 0 }\left[ \lim_{ h \to 0 }  \frac{1}{k} \left( \frac{f(x_{0}+h,y_{0})-f(x_{0},y_{0}+k)}{h}- \frac{f(x_{0}+h,y_{0})-f(x_{0},y_{0})}{h} \right) \right] \\ \\ = \lim_{ k \to 0 }\lim_{ h \to 0 } \frac{g(h,k)}{hk}=\lim_{ k \to 0 }\lim_{ h \to 0 }\frac{ \partial^2 f }{ \partial x \partial y }(\eta(h),\eta(k)) $$
