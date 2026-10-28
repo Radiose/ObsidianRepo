@@ -3,7 +3,7 @@
 ---
 Integration by parts
 
-This is the equivalent of [[Integration by substitution|U-substitution]] for the [[Product rule]]. 
+This is the equivalent of [[Integration by substitution|U-substitution]] for the [[product rule]]. 
 #### full logic
 $\frac{d}{dx}(u(x)v(x))=u'(x)v(x)+u(x)v'(x)$
 $\implies u(x)v(x)+c = \int u'(x)v(x)+u(x)v'(x)\ dx$
