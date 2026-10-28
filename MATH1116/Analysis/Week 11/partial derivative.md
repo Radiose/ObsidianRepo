@@ -60,5 +60,5 @@ We know that $\lvert \eta-x_{0} \rvert<h,\quad \lvert \theta-y_{0} \rvert<k$
 So,  $\lVert (\eta,\theta)-(x_{0},y_{0}) \rVert= \sqrt{ (\eta-x_{0})^2 +(\theta-y_{0})^2 }< \sqrt{ h^2 + k^2 }= \lVert (h,k) \rVert<\delta$
 
 
-So, if $$\lVert (h,k) \rVert<\delta \implies \left\lvert  \frac{g(h,k)}{hk} - \frac{ \partial ^2 f }{ \partial x \partial y } ( x_{0},y_{0})\right\rvert<\epsilon \\ \implies \left|  \frac{1}{k}\left[ \frac{ \partial f }{ \partial x }(x_{0},y_{0}+k)- \frac{ \partial f }{ \partial x }(x_{0},y_{0})  \right]- \frac{ \partial ^2 f }{ \partial x \partial y }(x_{0},y_{0})\right| < \epsilon$$
-Thus, 
+So, if $$\lVert (h,k) \rVert<\delta \implies \left\lvert  \frac{g(h,k)}{hk} - \frac{ \partial ^2 f }{ \partial x \partial y } ( x_{0},y_{0})\right\rvert<\epsilon \\ \implies \left|  \frac{1}{k}\left[ \frac{ \partial f }{ \partial x }(x_{0},y_{0}+k)- \frac{ \partial f }{ \partial x }(x_{0},y_{0})  \right]- \frac{ \partial ^2 f }{ \partial x \partial y }(x_{0},y_{0})\right| < \epsilon \text{ via the definition of g} \\ \\  \implies \left\lvert  \frac{ \partial^2 f }{\partial y \partial x }- \frac{ \partial ^2f }{ \partial x \partial y }    \right\rvert <\epsilon  \blacksquare$$
+
