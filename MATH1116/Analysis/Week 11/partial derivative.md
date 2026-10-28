@@ -48,13 +48,17 @@ The motivation for this is that we are trying to compute the second derivative. 
 Fix $(h,k) \in \left(  -\frac{\delta}{\sqrt{ 2 }}, \frac{\delta}{\sqrt{ 2 }} \right)^2$
 Consider $G: \left( \frac{-\delta}{\sqrt{  2}}, \frac{\delta}{\sqrt{ 2 }} \right) \to \mathbb{R}$, with $(k)\mapsto g(h,k)$
 Via the [[mean value theorem]] if $k > 0$, we apply it to the interval $[0,k]$, otherwise $[k,0]$
-$G(k)-G(0)=G'(\tau)(k)$
+$\implies \exists \tau: G(k)-G(0)=G'(\tau)(k)$
 Relabel $\theta=y_{0}+\tau$
-$\exists \theta \in \left[ y_{0},y_{0}+k \right]$ such that $G(k)-G(0)=G'(\theta )\cdot k$
+$$\exists \theta \in \left[ y_{0},y_{0}+k \right] :\ \  G(k)-G(0)=G'(\theta )\cdot k \\ \implies g(h,k)= \left[ \frac{ \partial f }{ \partial y }(x_{0}+h,y_{0}+\tau)- \frac{ \partial f }{ \partial y }(x_{0},y_{0}+\tau) \right]k \text{   (because } G({0})=0) \\ \implies g(h,k)= \left[ \frac{ \partial f }{ \partial y }(x_{0}+h,\theta)- \frac{ \partial f }{ \partial y }(x_{0},\theta) \right]k$$
 
-IE $$g(h,k)- \left[ f(x_{0}+h,y_{0}+k)-f(x_{0}+h,y_{0})-f(x_{0},y_{0}+k)+f(x_{0},y_{0})  \right] \\ \\ = \left[  \frac{ \partial f }{ \partial y }(x_{0}+h,\theta(k))-\frac{ \partial f }{ \partial y } (x_{0}+h,\theta(k))  \right] \cdot k$$
+We apply MVT again in a similar way 
+$$\exists \eta\in [x_{0},x_{0}+h]:\quad g(h,k)= \frac{ \partial ^2f }{ \partial x \partial y }(\eta,\theta)\cdot hk$$
+Thus, $\frac{g(h,k)}{hk}= \frac{ \partial^2 f }{ \partial x \partial y }(\eta,\theta)$
+We know that $\lvert \eta-x_{0} \rvert<h,\quad \lvert \theta-y_{0} \rvert<k$
+
+So,  $\lVert (\eta,\theta)-(x_{0},y_{0}) \rVert= \sqrt{ (\eta-x_{0})^2 +(\theta-y_{0})^2 }< \sqrt{ h^2 + k^2 }= \lVert (h,k) \rVert<\delta$
 
 
-We apply MVT again 
-$$\exists \eta(k)\in [x_{0},x_{0}+h]:\quad g(h,k)= \frac{ \partial ^2f }{ \partial x \partial y }(\eta(h),\theta(k))\cdot hk$$
-$$\implies  \lim_{ k \to 0 }\left[  \frac{ \partial f }{ \partial x }(x_{0},y_{0}+k)- \frac{ \partial f }{ \partial x }(x_{0},y_{0}) \right]\\ = \lim_{ k \to 0 }\left[ \lim_{ h \to 0 }  \frac{1}{k} \left( \frac{f(x_{0}+h,y_{0})-f(x_{0},y_{0}+k)}{h}- \frac{f(x_{0}+h,y_{0})-f(x_{0},y_{0})}{h} \right) \right] \\ \\ = \lim_{ k \to 0 }\lim_{ h \to 0 } \frac{g(h,k)}{hk}=\lim_{ k \to 0 }\lim_{ h \to 0 }\frac{ \partial^2 f }{ \partial x \partial y }(\eta(h),\eta(k)) $$
+So, if $$\lVert (h,k) \rVert<\delta \implies \left\lvert  \frac{g(h,k)}{hk} - \frac{ \partial ^2 f }{ \partial x \partial y } ( x_{0},y_{0})\right\rvert<\epsilon \\ \implies \left|  \frac{1}{k}\left[ \frac{ \partial f }{ \partial x }(x_{0},y_{0}+k)- \frac{ \partial f }{ \partial x }(x_{0},y_{0})  \right]- \frac{ \partial ^2 f }{ \partial x \partial y }(x_{0},y_{0})\right| < \epsilon$$
+Thus, 
