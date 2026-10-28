@@ -274,13 +274,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670 A3.md",
+                "file": "COMP2610/Week 10/joint typicality.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "COMP3670 A3"
+              "title": "joint typicality"
             }
           },
           {
@@ -289,16 +289,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 9/channel capacity.md",
+                "file": "COMP3670/Week 12/gradient descent.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "channel capacity"
+              "title": "gradient descent"
             }
           }
-        ]
+        ],
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -494,16 +504,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "04b719357049c728",
+  "active": "6e4c47f3bf4cca67",
   "lastOpenFiles": [
+    "COMP2610/Week 10/the noisy channel coding theorem.md",
     "COMP3670 A3.md",
-    "COMP2610/Week 9/channel capacity.md",
     "COMP3670/Week 12/gradient descent.md",
+    "COMP3670/Week 11/gradient.md",
+    "COMP2610/Week 4/convex function.md",
+    "MATH1013/Calculus/Week 4/Linear approximation.md",
+    "COMP2610/Week 9/channel capacity.md",
+    "Excalidraw/COMP2610 A3.excalidraw.md",
     "COMP2610/Week 4/mutual information.md",
     "COMP2610/Week 3/joint entropy.md",
     "COMP2610/Week 3/conditional entropy.md",
     "MATH1116/Analysis/Week 11/multivariate differentiability.md",
-    "COMP2610/Week 10/the noisy channel coding theorem.md",
     "MATH1116/Analysis/Week 11/Laplacian operator.md",
     "COMP2610/Week 3/the Bernoulli distribution.md",
     "COMP2610 exam revision.md",
@@ -518,10 +532,6 @@
     "MATH1116/Analysis/Week 11/partial derivative.md",
     "MATH1116/Analysis/Week 1/Cauchy sequence.md",
     "MATH1013/Calculus/Week 3/product rule.md",
-    "BIOL2161/Week 11/MDM2.md",
-    "MATH1116/Analysis/Week 10/multivariate integrability.md",
-    "MATH1116/Analysis/Week 12/Untitled.md",
-    "COMP2610/Week 10/achievable rate.md",
     "attachments/Pasted image 20261026184133.png",
     "attachments/Pasted image 20261026183500.png",
     "attachments/Pasted image 20261026160547.png",

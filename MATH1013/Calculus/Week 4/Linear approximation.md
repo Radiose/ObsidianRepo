@@ -5,7 +5,7 @@ Linear approximation
 
 We know that the slope at the tangent line of f(x) at x = a is given by the [[derivative]]
 
-$f'(a)=\lim_{ h \to 0 }(\frac{f(x+h)-f(x))}{h}$
+$f'(a)=\lim_{ h \to 0 }\frac{f(x+h)-f(x))}{h}$
 
 rearranging yields 
 f(a+h) $\approx f'(a)\times h+f(a)$
