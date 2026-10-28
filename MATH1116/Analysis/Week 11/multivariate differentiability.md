@@ -1,7 +1,5 @@
 ---
 aliases:
-  - partial derivative
 ---
-# Definition (partial derivative)
-Let $f:B(C,R)\to \mathbb{R}$
-If $\lim_{ h \to 0 }\frac{f(x+h)-f(x)}{h}$ exists, we say that $f$ admits a partial derivative. 
+# The partial derivative
+![[partial derivative]]
