@@ -23,219 +23,10 @@
             "id": "a8f306bae87b5d9f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP2610/Week 9/Discrete channel.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Discrete channel"
-            }
-          },
-          {
-            "id": "83e728a0b04cc864",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 8/Hard margin SVM.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Hard margin SVM"
-            }
-          },
-          {
-            "id": "a9c69adcc1c2e5e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 4/parametric methods.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "parametric methods"
-            }
-          },
-          {
-            "id": "50caf44cde1baf8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 4/logistic regression.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "logistic regression"
-            }
-          },
-          {
-            "id": "e999d4a2365febd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP2610/Week 9/symmetric channel.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "symmetric channel"
-            }
-          },
-          {
-            "id": "dbbfc6387eb79cff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 11/gradient.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "gradient"
-            }
-          },
-          {
-            "id": "cb7b5a44aab61fe0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 4/logistic regression.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "logistic regression"
-            }
-          },
-          {
-            "id": "e9c2145cc86c91f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 12/optimisation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "optimisation"
-            }
-          },
-          {
-            "id": "c0252bd9f9a38872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 12/optimisation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "optimisation"
-            }
-          },
-          {
-            "id": "a818ca1cb5202954",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 8/Hard margin SVM.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Hard margin SVM"
-            }
-          },
-          {
-            "id": "e6f78eb14659ac2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP2610/Week 10/block code.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "block code"
-            }
-          },
-          {
-            "id": "16cc0464f7eac5d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP2610/Week 1/Joint probability.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Joint probability"
-            }
-          },
-          {
-            "id": "607280e97808d2dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP2610/Week 10/reliability of block codes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "reliability of block codes"
-            }
-          },
-          {
-            "id": "c881288094616f2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP2610/Week 10/the noisy channel coding theorem.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "the noisy channel coding theorem"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -274,13 +65,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 10/joint typicality.md",
+                "file": "MATH1116/Linear algebra/Week 11/singular value decomposition.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "joint typicality"
+              "title": "singular value decomposition"
             }
           },
           {
@@ -289,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 11/singular values.md",
+                "file": "MATH1116/Linear algebra/Week 11/positive operator.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -304,7 +95,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "singular values"
+              "title": "positive operator"
             }
           },
           {
@@ -313,17 +104,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
+                "file": "MATH1116/Linear algebra/Week 8/inner product space.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "real spectral theorem"
+              "title": "inner product space"
             }
           }
-        ],
-        "currentTab": 18
+        ]
       }
     ],
     "direction": "vertical"
@@ -400,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289
+    "width": 289,
+    "collapsed": true
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -518,34 +309,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "82bfe65f2b74bebb",
+  "active": "04b719357049c728",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 11/positive operator.md",
-    "MATH1116/Linear algebra/Week 11/singular values.md",
     "MATH1116/Linear algebra/Week 11/singular value decomposition.md",
-    "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
-    "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
-    "COMP3670/Week 10/singular value decomposition (ML perspective).md",
-    "MATH1116/Linear algebra/Week 5/eigenvalue.md",
+    "attachments/Pasted image 20261029165110.png",
+    "MATH1116/Linear algebra/Week 11/singular values.md",
+    "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
+    "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
+    "MATH1116/Linear algebra/Week 8/orthonormal vectors.md",
+    "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
+    "MATH1116/Linear algebra/Week 8/orthogonal vectors.md",
+    "MATH1116/Analysis/Week 11/Laplacian operator.md",
+    "MATH1116/Analysis/Week 11/multivariate differentiability.md",
     "MATH1116/Linear algebra/Week 8/inner product space.md",
-    "MATH1116/Linear algebra/Week 8/inner product.md",
-    "COMP2610/Week 3/entropy (information theory).md",
-    "COMP3670/Week 9/EigenDecomp and PCA.md",
-    "COMP3670/Week 9/Principle component analysis.md",
-    "COMP3670/Week 12/gradient descent.md",
-    "COMP2610/Week 10/joint typicality.md",
-    "COMP2610/Week 3/joint entropy.md",
-    "COMP2610/Week 4/joint mutual information.md",
-    "COMP2610/Week 4/Conditional mutual information.md",
-    "COMP2610/Week 4/mutual information.md",
+    "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
+    "MATH1116/Linear algebra/Week 11/positive operator.md",
+    "COMP2610/Week 9/Discrete channel.md",
     "COMP2610/Week 10/the noisy channel coding theorem.md",
-    "COMP3670 A3.md",
+    "COMP2610/Week 10/reliability of block codes.md",
+    "COMP2610/Week 1/Joint probability.md",
+    "COMP2610/Week 10/block code.md",
+    "COMP3670/Week 8/Hard margin SVM.md",
+    "COMP3670/Week 12/optimisation.md",
+    "COMP3670/Week 4/logistic regression.md",
     "COMP3670/Week 11/gradient.md",
-    "COMP2610/Week 4/convex function.md",
-    "MATH1013/Calculus/Week 4/Linear approximation.md",
-    "COMP2610/Week 9/channel capacity.md",
-    "Excalidraw/COMP2610 A3.excalidraw.md",
-    "COMP2610/Week 3/conditional entropy.md",
+    "COMP2610/Week 9/symmetric channel.md",
+    "COMP3670/Week 4/parametric methods.md",
+    "COMP2610/Week 10/joint typicality.md",
+    "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
     "attachments/Pasted image 20261026184133.png",
     "attachments/Pasted image 20261026183500.png",
     "attachments/Pasted image 20261026160547.png",
@@ -555,7 +346,6 @@
     "attachments/Pasted Image 20261026105508_666.png",
     "attachments/Pasted image 20261018170912.png",
     "attachments/Pasted image 20261018164315.png",
-    "attachments/Pasted image 20261018154134.png",
     "Untitled.canvas",
     "templates",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
