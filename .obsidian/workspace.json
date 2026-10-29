@@ -289,7 +289,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 12/gradient descent.md",
+                "file": "COMP3670/Week 10/singular value decomposition (ML perspective).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -304,11 +304,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "gradient descent"
+              "title": "singular value decomposition (ML perspective)"
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -381,8 +381,7 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -504,14 +503,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e4c47f3bf4cca67",
+  "active": "82bfe65f2b74bebb",
   "lastOpenFiles": [
-    "COMP2610/Week 3/joint entropy.md",
     "COMP3670/Week 12/gradient descent.md",
+    "COMP2610/Week 10/joint typicality.md",
+    "COMP2610/Week 3/joint entropy.md",
     "COMP2610/Week 4/joint mutual information.md",
     "COMP2610/Week 4/Conditional mutual information.md",
     "COMP2610/Week 4/mutual information.md",
-    "COMP2610/Week 10/joint typicality.md",
     "COMP2610/Week 10/the noisy channel coding theorem.md",
     "COMP3670 A3.md",
     "COMP3670/Week 11/gradient.md",
