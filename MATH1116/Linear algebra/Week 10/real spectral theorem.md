@@ -1,6 +1,6 @@
 # Building up to it 
 
-# Theorem 1
+## Theorem 1
 Let $T \in \mathcal{L}(V)$ and [[self adjoint operator|self adjoint]]
 Suppose $b,c \in \mathbb{R}$ such that $b^2 < 4c$
 Then, $T^2+bT+c$ is [[invertible linear map|invertible]]
@@ -19,7 +19,7 @@ $= \lVert \mathbf{v} \rVert^2 \left( \left( \frac{\lVert T\mathbf{v} \rVert}{\lV
 Note that this appears as a quadratic equation 
 So, we say that $>0$ by assumption that $b^2 <4ac$, thus $\not=0$ and invertible.
 
-# Proving that $T$ has an [[eigenvalue]]
+## Proving that $T$ has an [[eigenvalue]]
 
 #### 1:
 Choose any $\mathbf{v} \in V \setminus \{ \mathbf{0} \}$ and $n=\dim(V)$
