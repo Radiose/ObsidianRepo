@@ -164,13 +164,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 8/Arithmetic coding.md",
+                "file": "COMP2610/Week 8/Adaptive interval coding.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Arithmetic coding"
+              "title": "Adaptive interval coding"
             }
           },
           {
@@ -384,18 +384,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "04b719357049c728",
+  "active": "ac378ced56995b16",
   "lastOpenFiles": [
+    "Excalidraw/COMP2610 A3.excalidraw.md",
+    "MATH1005/Week 9/Bayes theorem.md",
+    "COMP2610/Week 8/Adaptive interval coding.md",
+    "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
     "COMP2610/Week 8/Arithmetic coding.md",
     "MATH1005/Week 9/Conditional probability.md",
-    "MATH1005/Week 9/Bayes theorem.md",
+    "MATH1116/Analysis/Week 11/multivariate differentiability.md",
     "COMP2610/Week 5/the multinomial coefficient.md",
     "MATH1005/Week 8/Chain Rule (probability).md",
-    "MATH1116/Analysis/Week 11/multivariate differentiability.md",
     "MATH1116/Analysis/Week 11/Laplacian operator.md",
-    "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
-    "Excalidraw/COMP2610 A3.excalidraw.md",
-    "COMP2610/Week 8/Adaptive interval coding.md",
     "COMP2610/Week 7/Huffman coding.md",
     "COMP2610/Week 7/Shannon code.md",
     "COMP2610/Week 7/expected code length.md",
