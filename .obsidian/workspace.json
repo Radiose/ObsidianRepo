@@ -188,8 +188,7 @@
               "title": "Huffman coding"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -385,11 +384,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b3aad95bc41ab9d1",
+  "active": "04b719357049c728",
   "lastOpenFiles": [
+    "COMP2610/Week 7/Huffman coding.md",
     "Excalidraw/COMP2610 A3.excalidraw.md",
     "COMP2610/Week 7/Shannon code.md",
-    "COMP2610/Week 7/Huffman coding.md",
     "MATH1005/Week 9/Bayes theorem.md",
     "MATH1005/Week 8/permutation.md",
     "COMP2610/Week 8/Adaptive interval coding.md",
