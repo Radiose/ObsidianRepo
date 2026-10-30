@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "04b719357049c728",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/COMP2610 A3.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "COMP2610 A3.excalidraw"
-            }
-          },
-          {
             "id": "a8f306bae87b5d9f",
             "type": "leaf",
             "state": {
@@ -265,8 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289,
-    "collapsed": true
+    "width": 289
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -384,7 +371,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ac378ced56995b16",
+  "active": "a8f306bae87b5d9f",
   "lastOpenFiles": [
     "Excalidraw/COMP2610 A3.excalidraw.md",
     "MATH1005/Week 9/Bayes theorem.md",
