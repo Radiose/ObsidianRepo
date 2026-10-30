@@ -9,7 +9,13 @@ Consider $$f:\mathbb{R}^2 \to \mathbb{R} \\ (x,y) \mapsto \frac{xy}{x^2+y^2}$$Re
 For this reason, we need a new definition of differentiable, that is deeper than just "the derivative exists".
 
 # Definition 
-Let $f:B(C,R) \to \mathbb{R}$. We say $f$ is differentiable at $x \in B(C,R)$ if there exists some $T:\mathbb{R}^n \to\mathbb{R}$ that is a [[linear map]], there exists some $\epsilon :\mathbb{R}^n \to \mathbb{R}$ such that $\lim_{ x \to y }\epsilon(y-x)=0$ such that for all $y \in \mathbb{R}^n$, $f(y)=f(x)+T(y-x)+ \lVert y-x \rVert \epsilon \lVert y-x \rVert$.
+Let $f:B(C,R) \to \mathbb{R}$. We say $f$ is **differentiable** at $x \in B(C,R)$ if there exists some $T:\mathbb{R}^n \to\mathbb{R}$ that is a [[linear map]], there exists some $\epsilon :\mathbb{R}^n \to \mathbb{R}$ such that $\lim_{ x \to y }\epsilon(y-x)=0$ such that for all $y \in \mathbb{R}^n$, $f(y)=f(x)+T(y-x)+ \lVert y-x \rVert \epsilon \lVert y-x \rVert$.
+
+
+
+
+
+
 
 Note the similarity of this to [[Taylors theorem]]. In single variable calculus, $T(y-x)$ is the first derivative of $f(x)$.
 
@@ -23,8 +29,15 @@ Then, it is [[multivariate continuity|continuous]] at $x$.
 ### Proof 
 We have that $\exists T:\mathbb{R}^n \to \mathbb{R}$ linear, $\exists \epsilon: \mathbb{R}^n \to \mathbb{R}$ 
 This implies that $\forall y\in B(C,R):\quad f(y)=f(x)+T(y-x)+ \lVert y-x \rVert\epsilon(y-x)$
+
+We need to show that $\lVert x-y \rVert<\delta \implies \lvert f(x)-f(y) \rvert<\epsilon$ 
+(note we are using a fixed $x$)
+
+
+
 $T$ is represented by a $1\times n$ matrix $(a_{1},\dots,a_{n})$
 
 $\implies T(y-x)=(a_{1},\dots,a_{n})\cdot \begin{pmatrix}y_{1}-x_{1}  \\  . \\  . \\  . \\  y_{n}-x_{n}\end{pmatrix}$
 Thus, $T(y-x) \leq \lVert (a_{1},\dots,a_{n}) \rVert \ \lVert y-x \rVert$ via CS 
 $\implies T(y-x) \xrightarrow[y \to x]{}0$
+And because $\epsilon$ goes to zero by definition, $f$ is continuous at $x$ $\blacksquare$
