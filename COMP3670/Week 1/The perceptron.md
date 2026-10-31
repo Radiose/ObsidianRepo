@@ -1,6 +1,7 @@
 ---
 aliases:
   - PLA
+  - perceptron
 ---
 This is one of the simplest ML models 
 We fix the [[hypothesis set]] accordingly:
