@@ -1,3 +1,7 @@
+---
+aliases:
+  - differential
+---
 # Definition
 The gradient of $f:\mathbb{R}^m \to \mathbb{R}$ is defined as the vector of its [[multivariate differentiability|partial derivative]]s.
 $\nabla f(\mathbf{x})=\left( \frac{\partial f}{\partial x_{1}}(\mathbf{x}),\dots, \frac{\partial f}{\partial x_{m}}(\mathbf{x}) \right)^T$

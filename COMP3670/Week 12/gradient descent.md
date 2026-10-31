@@ -5,7 +5,7 @@ We denote $\eta(\mathbf{x|\theta})$ as $\sigma(z)$
 The probability of class 1 is $\sigma(\mathbf{w}^T\mathbf{x})$ with a $1$ in front of the features so that the bias is in one of the weights. 
 The objective is $J(\mathbf{w})= \frac{1}{N} \sum_{i}\ell_{i}(\mathbf{w})$ where $\ell_{i}(\mathbf{w})=-Y_{i}\log \sigma(\mathbf{w}^T\mathbf{X}_{i})-(1-Y_{i})\log(1-\sigma(\mathbf{w}^T\mathbf{X}_{i}))$
 
-The gradient of cross entropy loss is 
+The [[gradient]] of cross entropy loss is 
 $$\nabla \ell_{i}(\mathbf{w})=(\sigma(\mathbf{w}^T\mathbf{X}_{i})-Y_{i})\mathbf{X}_{i}\quad \text{and}\quad \nabla J(\mathbf{w})=\frac{1}{N}\sum_{i=1}^N(\sigma(\mathbf{w}^T\mathbf{X}_{i})-Y_{i})\mathbf{X}_{i}$$
 where $\ell_{i}$ is the loss on a singular observation.
 
