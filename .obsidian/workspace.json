@@ -173,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -368,12 +368,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b3aad95bc41ab9d1",
+  "active": "11f1443aa63d2f33",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
     "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
+    "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 3/The formal definition of a limit.md",
     "COMP2610/Week 8/Adaptive interval coding.md",
+    "MATH1116/MATH1116 A11.md",
     "MATH1116/Linear algebra/Week 8/inner product.md",
     "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
     "MATH1116/Linear algebra/Week 8/orthogonal vectors.md",
@@ -387,7 +388,6 @@
     "COMP3670/Week 12/neural network.md",
     "COMP3670/Week 12/optimisation.md",
     "MATH1116/Analysis/Week 11/multivariate differentiability.md",
-    "MATH1116/MATH1116 A11.md",
     "Z_MATH help/math tricks.md",
     "MATH1005/Week 9/Conditional probability.md",
     "COMP3670/Week 1/The perceptron.md",
