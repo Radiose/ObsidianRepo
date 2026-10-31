@@ -93,7 +93,7 @@ The update is $$\begin{aligned}
 \end{aligned}$$
 Again, $\beta=0.9$ is commonly used.
 
-# Adaptive gradient descent (adagrad)
+### Adaptive gradient descent (adagrad)
 This is a method to adjust learning rates of each coordinate. 
 
 Intuitively, a smaller learning rate along directions of steepest descent is desirable, while a larger in smaller gradient directions is also useful.
@@ -103,4 +103,26 @@ The update is $$
 \mathbf{s}(t) &= \mathbf{s}(t-1) + \big(\nabla J(\mathbf{w}(t))\big)^2 \\
 \mathbf{w}(t+1) &= \mathbf{w}(t) - \frac{\alpha}{\sqrt{\mathbf{s}(t)+\epsilon}}\, \nabla J(\mathbf{w}(t))
 \end{aligned}$$
-With $\mathbf{s}()$
+With $\mathbf{s}(0)=0$ and $\epsilon$ is a small number to avoid division by 0.
+
+### RMSProp 
+This is a popular variant of [[neural network#Adaptive gradient descent (adagrad)|adagrad]], where [[Exponential growth and decay|exponential decay]] is used to effectively forget older gradients. 
+The update is as follws
+$$
+\begin{aligned}
+\mathbf{s}(t) &= \beta\, \mathbf{s}(t-1) + (1-\beta)\big(\nabla J(\mathbf{w}(t))\big)^2 \\
+\mathbf{w}(t+1) &= \mathbf{w}(t) - \frac{\alpha}{\sqrt{\mathbf{s}(t)+\epsilon}}\, \nabla J(\mathbf{w}(t))
+\end{aligned}$$
+Where $\beta$ is the exponential decay parameter between 0 and 1. Usually 0.9.
+
+### Adaptive moment estimation (Adam optimiser)
+Adam is a hybrid between momentum based and Adagrad classes of methods. 
+The update is $$\begin{aligned}
+\mathbf{m}(t) &= \beta_1\, \mathbf{m}(t-1) - (1-\beta_1)\, \nabla J\big(\mathbf{w}(t)\big) \\
+\mathbf{s}(t) &= \beta_2\, \mathbf{s}(t-1) + (1-\beta_2)\big(\nabla J(\mathbf{w}(t))\big)^2 \\
+\widehat{\mathbf{m}}(t) &= \mathbf{m}(t)/(1-\beta_1^t) \\
+\widehat{\mathbf{s}}(t) &= \mathbf{s}(t)/(1-\beta_2^t) \\
+\mathbf{w}(t+1) &= \mathbf{w}(t) + \frac{\alpha}{\sqrt{\widehat{\mathbf{s}}(t)+\epsilon_{\mathrm{root}}}+\epsilon}\, \widehat{\mathbf{m}}(t)
+\end{aligned}$$Here $\beta_{i}$ is $\in [0,1]$ and $i=1,2$ and $\epsilon_{root},\epsilon$ are small numbers. 
+Default, $\beta_{1}=0.9$, $\beta_{2}=0.999$, $\epsilon=10^{-8}$ and $\epsilon_{root}=0$
+Adam is the default optimiser used for training neural networks. 
