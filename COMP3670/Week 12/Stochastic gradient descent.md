@@ -1,0 +1,1 @@
+In regular gradient descent, the 

@@ -28,13 +28,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 11/multivariate differentiability.md",
+                "file": "COMP3670/Week 12/gradient descent.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "multivariate differentiability"
+              "title": "gradient descent"
+            }
+          },
+          {
+            "id": "0f9fc6dfb94936f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP3670/Week 12/Stochastic gradient descent.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Stochastic gradient descent"
             }
           },
           {
@@ -192,7 +207,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -265,8 +280,7 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -388,10 +402,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "09b104dae42fca42",
+  "active": "0f9fc6dfb94936f5",
   "lastOpenFiles": [
-    "MATH1013/Calculus/Week 9/Eulers number and the exponential.md",
+    "COMP3670/Week 12/gradient descent.md",
+    "COMP3670/Week 12/Stochastic gradient descent.md",
     "MATH1116/Analysis/Week 11/multivariate differentiability.md",
+    "MATH1013/Calculus/Week 9/Eulers number and the exponential.md",
     "Excalidraw/COMP2610 A3.excalidraw.md",
     "MATH1005/Week 9/Bayes theorem.md",
     "COMP2610/Week 8/Adaptive interval coding.md",
@@ -415,8 +431,6 @@
     "attachments/Pasted image 20261029165110.png",
     "MATH1116/Linear algebra/Week 11/singular values.md",
     "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
-    "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
-    "MATH1116/Linear algebra/Week 8/orthonormal vectors.md",
     "attachments/Pasted image 20261026184133.png",
     "attachments/Pasted image 20261026183500.png",
     "attachments/Pasted image 20261026160547.png",

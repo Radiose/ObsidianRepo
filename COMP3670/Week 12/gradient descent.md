@@ -40,3 +40,7 @@ We must decide where to stop, there are usually 4 rough rules
 
 # Gradient descent for [[Gauss least squares|least squares]], [[Ridge regression]], [[logistic regression]]
 ![[Pasted image 20261026184133.png]]
+
+
+# Stochastic gradient descent
+![[Stochastic gradient descent]]
