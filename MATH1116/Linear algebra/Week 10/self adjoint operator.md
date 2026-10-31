@@ -50,6 +50,8 @@ Prove the equality holds above via $T$ being self adjoint, and the proof will pr
 
 # Theorem 4
 For $\mathbb{F}=\mathbb{C}$, $T$ is self adjoint $\iff \forall \mathbf{v}\in V:\quad \langle T\mathbf{v},\mathbf{v} \rangle\in \mathbb{R}$
+
+### Proof
 $\implies$
 $\langle T\mathbf{v},\mathbf{v} \rangle=\overline{\langle \mathbf{v},T\mathbf{v} \rangle}=\overline{\langle T\mathbf{v},\mathbf{v} \rangle}\implies \langle T\mathbf{v},\mathbf{v} \rangle\in \mathbb{R}$
 $\impliedby$
@@ -65,7 +67,7 @@ Let us consider the linear transformation given by the matrix $A=\begin{bmatrix}
 We have that $A=A^{\dagger}$, which implies that $A$ has real [[eigenvalue]]s
 
 # Theorem 5
-Let $U \subset V$, $T$ be [[invariant subspace|invariant]]
+Let $U \subset V$, and $U$ under $T$ be [[invariant subspace|invariant]]
 Then, 
 $(1):U^\perp$ is $T$ invariant (the [[orthogonal complement]])
 $(2):T|_{U}\in \mathcal{L}(V)$ is self adjoint
