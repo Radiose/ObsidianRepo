@@ -52,3 +52,6 @@ Where, $\Phi(\mathbf{x})$ is $\mathbf{x}$ applied to all basis vectors.
 ![[Ridge regression]]
 
 ![[gradient descent]]
+
+
+![[non linear SVM]]
