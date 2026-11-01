@@ -46,3 +46,10 @@ A larger training margin does not itself guarantee predictions on unseen data, b
 
 # Hard Margin 
 ![[Hard margin SVM]]
+
+
+# Computing the SVM parameters 
+The constrained formulas can be solved by standard quadratic programming solvers. 
+Note that each of these problems are [[convex function]], so any local minima will do. 
+For soft margin, we can even optimise the hinge loss objective directly using iterative updates.
+This is done in a similar method to that in [[gradient descent]].

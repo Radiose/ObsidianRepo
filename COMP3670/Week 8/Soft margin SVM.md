@@ -12,7 +12,7 @@ The soft margin support vector aims to:
 
 $\xi_{1},\dots,\xi_{n}$ are slack variables. 
 Each $\xi_{i}$ permits a violation of one datapoints unit functional-margin requirement.
-
+note that with soft SVM, we permit $\mathbf{w}=\mathbf{0}$, giving a constant score
 
 ### Hinge loss 
 Recall $m_{i}=y_{i}(\langle \mathbf{w},\mathbf{x}_{i} \rangle+b)$
@@ -44,3 +44,5 @@ The first term favours small weights, while the second penalises functional marg
 
 
 ## The role of C
+A larger $C$ will lead to a stronger emphasis on keeping margin violations low, while a smaller $C$ will lead more importance into the minimisation of the weight vector $\lVert \mathbf{w} \rVert_{2}^2$.
+
