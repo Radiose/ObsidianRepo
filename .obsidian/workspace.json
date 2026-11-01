@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
+                "file": "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "orthogonal projection"
+              "title": "self adjoint operator"
             }
           },
           {
@@ -173,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -368,14 +368,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "11f1443aa63d2f33",
+  "active": "8c59b9742c4df9b4",
   "lastOpenFiles": [
     "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
-    "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 3/The formal definition of a limit.md",
+    "COMP2610/Week 5/the multinomial coefficient.md",
+    "MATH1005/Week 9/Bayes theorem.md",
     "COMP2610/Week 8/Adaptive interval coding.md",
     "MATH1116/MATH1116 A11.md",
     "MATH1116/Linear algebra/Week 8/inner product.md",
+    "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
     "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
     "MATH1116/Linear algebra/Week 8/orthogonal vectors.md",
     "MATH1116/Linear algebra/Week 9/conjugate linear involution.md",
@@ -398,13 +400,11 @@
     "attachments/Pasted image 20261031143501.png",
     "attachments/Pasted image 20261031141802.png",
     "attachments/Pasted image 20261031141500.png",
-    "COMP3670/Week 12/non linear SVM.md",
     "attachments/Pasted image 20261031140159.png",
     "attachments/Pasted image 20261031135621.png",
     "attachments/Pasted image 20261031135417.png",
     "attachments/Pasted image 20261031134749.png",
     "attachments/Pasted image 20261031133647.png",
-    "COMP3670/Week 12/gradient descent.md",
     "attachments/Pasted image 20261031131607.png",
     "Untitled.canvas",
     "templates",
