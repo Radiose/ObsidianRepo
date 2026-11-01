@@ -48,6 +48,7 @@ $f$ is called integrable if $$
 \exists L\quad\forall\epsilon>0\quad\exists \delta\quad \forall \mathcal{P}\ \delta \text{-partition}\quad\forall x \in S(Q)\\ \\
 \left\lvert  \sum_{R \in Q}f(x(R))\left( \int_{R}dx \right)-L  \right\rvert<\epsilon $$
 We write $\int_{\prod_{j=1}^n [a_{j},b_{j}]}f(x)dx:=L$
+
 # Proposition 
 Let $f,g: \prod_{j=1}^n [a_{j},b_{j}] \to \mathbb{R}$ and $\lambda \in \mathbb{R}$
 Then, $\int_{\prod_{j=1}^n[a_{j},b_{j}]}f(x)+\lambda g(x)= \int_{\prod_{j=1}^n}f(x)dx+\lambda \int_{\prod_{j=1}^n}g(x)dx$
