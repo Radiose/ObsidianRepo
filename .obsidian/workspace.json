@@ -178,17 +178,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 8/SVM.md",
+                "file": "MATH1116/Analysis/Week 10/multivariate integrability.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SVM"
+              "title": "multivariate integrability"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -383,12 +383,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "11f1443aa63d2f33",
+  "active": "aabc56034a397092",
   "lastOpenFiles": [
+    "MATH1013/Calculus/Week 6/Definite integral.md",
+    "COMP3670/Week 8/SVM.md",
+    "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
     "MATH1013/Calculus/Week 2/uniform continuity.md",
     "COMP3670/Week 11/gradient.md",
     "MATH1116/Analysis/Week 11/multivariate differentiability.md",
-    "COMP3670/Week 8/SVM.md",
     "COMP3670/Week 8/Soft margin SVM.md",
     "attachments/Pasted image 20261101145025.png",
     "attachments/Pasted image 20261101144504.png",
@@ -411,8 +413,6 @@
     "MATH1116/Linear algebra/Week 8/orthogonal vectors.md",
     "MATH1116/Linear algebra/Week 9/conjugate linear involution.md",
     "MATH1116/Linear algebra/Week 11/positive operator.md",
-    "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
-    "MATH1116/Analysis/Week 11/Laplacian operator.md",
     "attachments/Pasted image 20261031152710.png",
     "attachments/Pasted image 20261031143501.png",
     "attachments/Pasted image 20261031141802.png",
