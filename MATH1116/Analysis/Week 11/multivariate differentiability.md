@@ -1,5 +1,6 @@
 ---
 aliases:
+  - differential
 ---
 # The partial derivative
 ![[partial derivative]]
