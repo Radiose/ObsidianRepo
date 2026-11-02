@@ -45,8 +45,12 @@ Simple random sample : IID
 
 Parametric method: 
 
+Normal $\theta=(\mu,\sigma^2)$
+
 Maximum likelihood estimator 
 $\mathcal{L}(\theta)= \prod_{i=1}^N p(z_{i}|\theta)$
+where $Z_{1},\dots,Z_{n}$ is a random sample.
+
 
 Logit:
 $\eta(\mathbf{x}|\mathbf{\theta})=\frac{1}{1+e^{-\left( \sum_{j=1}^d w_{j}x_{j}+w_{0} \right)}}$
@@ -57,4 +61,16 @@ $\ell((\mathbf{x},y),\eta)=-y\log(\eta(\mathbf{x})-(1-y)\log(1-\eta(\mathbf{x}))
 
 Note that $\hat{\theta}=arg\ \max_{\theta}(LL(\theta))=arg\ \min \frac{1}{N} \sum_{i=1}^N \ell((\mathbf{X}_{i},Y_{i}),\eta(\cdot|\mathbf{\theta}))$
 cross entropy - scores probabilities not just right or wrong
+
+
+
+![[Pasted image 20261102161807.png|368]]
+
+Kernel ![[Pasted image 20261102161558.png]]
+
+
+SVM 
+Hard:
+minimize $\frac{1}{2}\lVert \mathbf{w} \rVert_{2}^2$
+	subject to $y_{i}(\langle \mathbf{w},\mathbf{x}_{i} \rangle+b)\geq 1\quad (i=1,\dots,n)$
 
