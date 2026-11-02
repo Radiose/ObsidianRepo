@@ -41,3 +41,8 @@ total error is approximation + estimation error
 
 
 Simple random sample : IID 
+
+
+
+Maximum likelihood estimator 
+$\mathcal{L}(\theta)= \prod_{i=1}^N p(z_{i}|\theta)$
