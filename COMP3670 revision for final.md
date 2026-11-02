@@ -43,6 +43,18 @@ total error is approximation + estimation error
 Simple random sample : IID 
 
 
+Parametric method: 
 
 Maximum likelihood estimator 
 $\mathcal{L}(\theta)= \prod_{i=1}^N p(z_{i}|\theta)$
+
+Logit:
+$\eta(\mathbf{x}|\mathbf{\theta})=\frac{1}{1+e^{-\left( \sum_{j=1}^d w_{j}x_{j}+w_{0} \right)}}$
+
+Cross entropy loss:
+For h with codomain $(0,1)$
+$\ell((\mathbf{x},y),\eta)=-y\log(\eta(\mathbf{x})-(1-y)\log(1-\eta(\mathbf{x}))$
+
+Note that $\hat{\theta}=arg\ \max_{\theta}(LL(\theta))=arg\ \min \frac{1}{N} \sum_{i=1}^N \ell((\mathbf{X}_{i},Y_{i}),\eta(\cdot|\mathbf{\theta}))$
+cross entropy - scores probabilities not just right or wrong
+
