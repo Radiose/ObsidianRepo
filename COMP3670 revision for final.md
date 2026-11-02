@@ -1,0 +1,34 @@
+Target functions:
+The rule with the smallest out of sample error
+$f^*(\mathbf{x})=\eta(\mathbf{x})=\mathbb{E}(Y|\mathbf{X}=\mathbf{x})$
+$f^*(\mathbf{x})=arg \ \max p_{y|\mathbf{x}}(y|\mathbf{x})$ - classification - given an $\mathbf{x}$, return what is most likely. 
+
+Errors:
+squared loss:  $L(f^*)=\mathbb{E}(var(Y|x))$ 
+classification: $L(f^*)=\mathbb{E}[\min\{ \eta(\mathbf{X}),1-\eta(\mathbf{X}) \}]$ where $\eta(\mathbf{X})=\mathbb{E}(Y|\mathbf{X}=\mathbf{x})$ 
+Classification - the error is the chance that it is wrong. If $\mathbb{P}(y=1|X=0)=0.1$, then it will be wrong 10% of the time. 
+
+
+In vs out of sample error 
+In sample:
+$E_{in}(h)=\frac{1}{N}\sum(\ell(\mathbf{X}_{i},Y_{i}),h)$
+Out of sample 
+$\mathbb{E}[\ell((\mathbf{X}_{i},Y_{i}),h])$
+
+Generalisation gap:
+The difference between the two 
+
+Hoeffdings:
+For $W_{1},\dots,W_{n}$ IID random variables taking values in $[0,1]$, with $\mathbb{E}[W_{i}]=\mu$, then $\forall \epsilon>0$
+$\mathbb{P}\left( \left\lvert   \frac{1}{N}\sum_{i=1}^N W_{i}-\mu  \right\rvert>\epsilon \right) \leq 2e^{-2N\epsilon^{2}}$
+The sample average tends to the expected value with $N$
+creating the generalised bound 
+$\mathbb{P}(\lvert E_{in}-E_{out} \rvert>\epsilon)\leq 2e^{-2N\epsilon^2}$
+
+
+Important: 
+$$E_{out}(\hat{h}_{n})-E_{out}(f^*)=(E_{out}(h^*)-E_{out}(f^*))+(E_{out}(\hat{h}_{N})-E_{out}(h^*))$$
+total error is approximation + estimation error 
+
+
+Simple random sample : IID 

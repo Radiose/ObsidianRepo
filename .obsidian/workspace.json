@@ -186,9 +186,24 @@
               "icon": "lucide-file",
               "title": "COMP3670 06.08.2026"
             }
+          },
+          {
+            "id": "7f81cd548e71846d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP3670 revision for final.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "COMP3670 revision for final"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -383,8 +398,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aabc56034a397092",
+  "active": "7f81cd548e71846d",
   "lastOpenFiles": [
+    "COMP3670 MTT cheatsheet.md",
+    "COMP3670 revision for final.md",
+    "COMP3670/Week 2/COMP3670 06.08.2026.md",
     "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
     "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
     "MATH1116/Linear algebra/Week 8/inner product.md",
@@ -410,9 +428,6 @@
     "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
     "MATH1116/Linear algebra/Week 3/kernel.md",
     "MATH1116/Linear algebra/Week 1/internal direct sum of subspaces.md",
-    "MATH1116/Linear algebra/Week 3/range.md",
-    "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/Chapter 3/The formal definition of a limit.md",
-    "COMP2610/Week 5/the multinomial coefficient.md",
     "attachments/Pasted image 20261031152710.png",
     "attachments/Pasted image 20261031143501.png",
     "attachments/Pasted image 20261031141802.png",
