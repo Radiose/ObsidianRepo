@@ -25,6 +25,15 @@ The sample average tends to the expected value with $N$
 creating the generalised bound 
 $\mathbb{P}(\lvert E_{in}-E_{out} \rvert>\epsilon)\leq 2e^{-2N\epsilon^2}$
 
+### verification vs learning 
+Fixing $h$ before looking at the sample is verification.
+Union bound 
+for $M$ hypotheses:
+$\mathbb{P}(max_{h \in \mathcal{H}} |E_{out}-E_{in}|>\epsilon)<2Me^{-2N\epsilon^2}$
+
+So for fixed $h$, 
+$E_{in}(h)\leq E_{out}(h) + \sqrt{ \frac{1}{2N}\log\left( \frac{2}{\delta} \right) }$
+Error decreases in $\frac{1}{\sqrt{ N }}$
 
 Important: 
 $$E_{out}(\hat{h}_{n})-E_{out}(f^*)=(E_{out}(h^*)-E_{out}(f^*))+(E_{out}(\hat{h}_{N})-E_{out}(h^*))$$
