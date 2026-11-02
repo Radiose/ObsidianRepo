@@ -7,5 +7,6 @@ using$\frac{1}{n}$ makes variance exactly the average squared deviation.
 
 
 # Prop 
-Every covariance matrix is symmetric, and positive semidefinite (positive operator)
-The covariance matrix is one that is constructed in such a manner to be a positive linear operator. This means that it must have positive, real eigenvalues. 
+Every covariance matrix is symmetric, and positive semidefinite (positive operator).(but can have zero eigenvalues)
+
+The covariance matrix is one that is constructed in such a manner to be a positive linear operator. This means that it must have **positive, real eigenvalues.** 

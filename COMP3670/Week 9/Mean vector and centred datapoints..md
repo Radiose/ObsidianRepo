@@ -2,6 +2,8 @@ For $X \in \mathbb{R}^{n \times d}$ with rows $\mathbf{x}^T_{1},\dots,\mathbf{x}
 
 $\mu= \frac{1}{n} \sum_{i=1}^n \mathbf{x_{i}}\quad \mathbf{\tilde{x}}_{i}=\mathbf{x}_{i}-\mu$
 
+So, if you get the transpose of the matrix, you then get the column mean. 
+
 The centred data matrix is 
 $\mathbf{X}_{c}=\mathbf{X}-1{\mu}^T \in \mathbb{R}^{n \times d}$ 
 
