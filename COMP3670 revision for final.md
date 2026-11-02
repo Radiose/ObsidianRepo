@@ -74,3 +74,4 @@ Hard:
 minimize $\frac{1}{2}\lVert \mathbf{w} \rVert_{2}^2$
 	subject to $y_{i}(\langle \mathbf{w},\mathbf{x}_{i} \rangle+b)\geq 1\quad (i=1,\dots,n)$
 
+Soft:
