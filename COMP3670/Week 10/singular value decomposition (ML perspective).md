@@ -11,7 +11,8 @@ $\mathbf{u}_{i},\mathbf{v}_{i}$ are the corresponding left and right singular ve
 
 We call this the compact/truncated form of the matrix form of [[singular value decomposition]].
 
-We can connect the eigenvalues of $A^TA$ because $A$ is a real operator, so its adjoint is its transpose, so then there is a theorem that states that it $TT^*$ is a positive operator, and we can define singular values of $A^TA$
+We can connect the eigenvalues of $A^TA$ because $A$ is a real operator, so its adjoint is its transpose, so then there is a theorem that states that it $TT^*$ is a [[positive operator#Theorem|positive operator]], and we can define singular values of $A^TA$
+
 # Proposition 1
 For each singular-vector pair
 $A \mathbf{v}_{i}= \sigma_i\mathbf{u}_{i}$
@@ -76,6 +77,7 @@ gives $\hat{\mathbf{R}}=\mathbf{PQ}^T$
 ## Regularised K factor model 
 Let $\Omega \subset \{ 1,\dots,n \}\times \{ 1,\dots,m \}$ be the set of observed training points. 
 A regularised $k$ factor model, fits the user and item vectors by minimising $$L(\mathbf{P,Q})= \sum_{(i,j)\in \Omega }(r_{i,j}-\langle \mathbf{p_{i}}-\mathbf{q}_{j} \rangle )^2 +\lambda \left( \sum_{i=1}^n \lVert \mathbf{p}_{i} \rVert_{2}^2+ \sum_{j=1}^m \lVert \mathbf{q}_{j} \rVert_{2}^2   \right), \quad \lambda \geq {0}$$The squared norm term is a regularisation penalty (on the left controlled by $\lambda$). As in [[SVM]]s, fitting the data competes with keeping parameters small.
+
 Our factor count $k$, and penalty strength $\lambda$ are hyperparameters, which are selected using validation ratings.
 The learnt $\mathbf{P},\mathbf{Q}$ don't need to orthonormal columns either.
 
