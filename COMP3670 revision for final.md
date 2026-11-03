@@ -82,8 +82,24 @@ Soft:
 OUTER PRODUCT 
 any matrix of rank 1 can be written as an outer product $vv^T$
 
-PCA 
+PCA
+For a covariance matrix $\mathbf{C}$
+$\mathbf{q}_{1},\dots,\mathbf{q}_{n}$ are its orthonormal eigenbasis with $\lambda_{1},\dots \lambda_{n}$ eigenvalues(decreasing)
+$Q_{k} \in \mathbb{R}^{d \times k}$ is the matrix of its orthonormal eigenbasis 
+$z_{i}=Q^T_{k}(\mathbf{x}_{i}-\mu) \in \mathbb{R}^k$
+$Z=X_{C}Q_{k}\in \mathbb{R}^{n \times k}$
+whos $i$th row is $\mathbf{z}^T_{i}$
+$S_{k}=span\{ q_{1},\dots,q_{k} \}$
+$z_{i}$ gives coordinates of its projection onto $S_{k}$
+x
+
 Reconstruction of $\mathbf{x_{i}}$
 $\hat{\mathbf{x}}_{i}=\mu+UU^T(\mathbf{x}_{i}-\mu)$
 Average squared reconstruction error 
-$E(U)= \frac{1}{n}\sum_{i=1}^n \lVert \mathbf{x}_{i}-\mathbf{\hat{x}} \rVert$
+$E(U)= \frac{1}{n}\sum_{i=1}^n \lVert \mathbf{x}_{i}-\mathbf{\hat{x}}_{i} \rVert_{2}^2 \geq \sum_{\ell = k+1}^{d}\lambda_{\ell}$ - the eigenvalues of $C$ excluded
+
+When $\mathbf{U}=\mathbf{Q}_{k}$, equality is obtained 
+
+Explained variance ratio $\rho_{k}= \frac{\sum_{j=1}^{k}\lambda_{j}}{\sum_{j=1}^{d}\lambda_{j}}$
+
+
