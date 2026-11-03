@@ -75,7 +75,7 @@ minimize $\frac{1}{2}\lVert \mathbf{w} \rVert_{2}^2$
 	subject to $y_{i}(\langle \mathbf{w},\mathbf{x}_{i} \rangle+b)\geq 1\quad (i=1,\dots,n)$
 
 Soft:
-
+Minimise 
 
 
 
@@ -91,7 +91,6 @@ $Z=X_{C}Q_{k}\in \mathbb{R}^{n \times k}$
 whos $i$th row is $\mathbf{z}^T_{i}$
 $S_{k}=span\{ q_{1},\dots,q_{k} \}$
 $z_{i}$ gives coordinates of its projection onto $S_{k}$
-x
 
 Reconstruction of $\mathbf{x_{i}}$
 $\hat{\mathbf{x}}_{i}=\mu+UU^T(\mathbf{x}_{i}-\mu)$
@@ -103,3 +102,15 @@ When $\mathbf{U}=\mathbf{Q}_{k}$, equality is obtained
 Explained variance ratio $\rho_{k}= \frac{\sum_{j=1}^{k}\lambda_{j}}{\sum_{j=1}^{d}\lambda_{j}}$
 
 
+SVD:
+Given some matrix $A$
+SV are square roots of eigenvalues of $A^TA$
+SVD form $U \sum V^T$
+where $\mathbf{v}_{1},\dots,\mathbf{v}_{n}$ are the orthonormal eigenvectors of $A^TA$ and form the columns of $V$
+And the columns of $U$ are $\mathbf{u}_{1}= \frac{A\mathbf{v}_{1}}{\sigma_{1}}$ where $\sigma$ are the singular values of $A^TA$
+Truncated:
+$A_{r}=\sum_{i=1}^r \sigma_{i}\mathbf{u}_{i}\mathbf{v}_{i}^T$
+For rank $B$
+Error: $\lVert A-B \rVert_{F}^2 \geq \lVert A -A_{k} \rVert_{F}^2 = \sum_{i=k+1}^r \sigma_{i}^2$
+The sum of eigenvalues is the error 
+Storing the three truncated gives $k(m+d+1)$ - saving only when k is small 

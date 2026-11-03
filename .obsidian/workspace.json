@@ -178,13 +178,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670 revision for final.md",
+                "file": "MATH1116/Linear algebra/Week 11/singular values.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "COMP3670 revision for final"
+              "title": "singular values"
             }
           },
           {
@@ -272,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -467,24 +467,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aabc56034a397092",
+  "active": "3c3237e0d743ddf0",
   "lastOpenFiles": [
-    "COMP3670/Week 2/COMP3670 06.08.2026.md",
-    "COMP3670/Week 10/singular value decomposition (ML perspective).md",
     "COMP3670/Week 9/EigenDecomp and PCA.md",
+    "COMP3670/Week 10/singular value decomposition (ML perspective).md",
+    "COMP3670/Week 9/Covariance and empirical variance of a matrix.md",
+    "COMP3670 revision for final.md",
+    "MATH1116/Linear algebra/Week 11/singular values.md",
+    "COMP3670/Week 2/COMP3670 06.08.2026.md",
     "COMP3670/Week 9/Principle component analysis.md",
     "COMP3670/Week 9/principle component scores.md",
     "COMP3670/Week 10/Frobenius norm.md",
     "COMP3670/Week 6/linear regression loss.md",
     "COMP3670/Week 6/tensor.md",
     "MATH1116/Linear algebra/Week 11/singular value decomposition.md",
-    "MATH1116/Linear algebra/Week 11/singular values.md",
     "MATH1116/Linear algebra/Week 11/positive operator.md",
     "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
     "MATH1116/Linear algebra/Week 3/invariant subspace.md",
     "COMP3670/Week 9/Mean vector and centred datapoints..md",
-    "COMP3670 revision for final.md",
-    "COMP3670/Week 9/Covariance and empirical variance of a matrix.md",
     "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
     "COMP3670/Week 8/Hard margin SVM.md",
     "COMP3670/Week 2/simple random sample.md",
