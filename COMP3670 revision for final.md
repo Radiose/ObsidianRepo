@@ -109,7 +109,7 @@ SVD form $U \sum V^T$
 where $\mathbf{v}_{1},\dots,\mathbf{v}_{n}$ are the orthonormal eigenvectors of $A^TA$ and form the columns of $V$
 And the columns of $U$ are $\mathbf{u}_{1}= \frac{A\mathbf{v}_{1}}{\sigma_{1}}$ where $\sigma$ are the singular values of $A^TA$
 Truncated:
-$A_{r}=\sum_{i=1}^r \sigma_{i}\mathbf{u}_{i}\mathbf{v}_{i}^T$
+$A_{r}=\sum_{i=1}^r \sigma_{i}\mathbf{u}_{i}\mathbf{v}_{i}^T=U_{k}\sum_{k}V_{k}^T$
 For rank $B$
 Error: $\lVert A-B \rVert_{F}^2 \geq \lVert A -A_{k} \rVert_{F}^2 = \sum_{i=k+1}^r \sigma_{i}^2$
 The sum of eigenvalues is the error 
