@@ -332,7 +332,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -528,8 +528,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1e649f7508e37672",
+  "active": "ba79af161181e362",
   "lastOpenFiles": [
+    "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
     "MATH1116/Linear algebra/Week 3/linear map.md",
     "MATH1116/MATH1116 A11.md",
     "MATH1116/Linear algebra/Week 8/Cauchy-schwarz inequality.md",
@@ -555,7 +556,6 @@
     "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
     "COMP3670/Week 8/Hard margin SVM.md",
     "COMP3670/Week 2/simple random sample.md",
-    "COMP3670/Week 8/Soft margin SVM.md",
     "attachments/Pasted image 20261102161807.png",
     "attachments/Pasted image 20261102161558.png",
     "attachments/Pasted image 20261101145025.png",
