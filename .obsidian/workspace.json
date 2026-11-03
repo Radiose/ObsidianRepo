@@ -178,13 +178,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 2/COMP3670 06.08.2026.md",
+                "file": "COMP3670 revision for final.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "COMP3670 06.08.2026"
+              "title": "COMP3670 revision for final"
             }
           },
           {
@@ -262,17 +262,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 10/singular value decomposition (ML perspective).md",
+                "file": "COMP3670/Week 9/EigenDecomp and PCA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "singular value decomposition (ML perspective)"
+              "title": "EigenDecomp and PCA"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -467,24 +467,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c3bfd8751adcbf2",
+  "active": "aabc56034a397092",
   "lastOpenFiles": [
+    "COMP3670/Week 2/COMP3670 06.08.2026.md",
+    "COMP3670/Week 10/singular value decomposition (ML perspective).md",
+    "COMP3670/Week 9/EigenDecomp and PCA.md",
+    "COMP3670/Week 9/Principle component analysis.md",
+    "COMP3670/Week 9/principle component scores.md",
     "COMP3670/Week 10/Frobenius norm.md",
     "COMP3670/Week 6/linear regression loss.md",
     "COMP3670/Week 6/tensor.md",
     "MATH1116/Linear algebra/Week 11/singular value decomposition.md",
     "MATH1116/Linear algebra/Week 11/singular values.md",
     "MATH1116/Linear algebra/Week 11/positive operator.md",
-    "COMP3670/Week 10/singular value decomposition (ML perspective).md",
     "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
     "MATH1116/Linear algebra/Week 3/invariant subspace.md",
     "COMP3670/Week 9/Mean vector and centred datapoints..md",
-    "COMP3670/Week 9/EigenDecomp and PCA.md",
     "COMP3670 revision for final.md",
-    "COMP3670/Week 2/COMP3670 06.08.2026.md",
     "COMP3670/Week 9/Covariance and empirical variance of a matrix.md",
     "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
-    "COMP3670/Week 9/Principle component analysis.md",
     "COMP3670/Week 8/Hard margin SVM.md",
     "COMP3670/Week 2/simple random sample.md",
     "COMP3670/Week 8/Soft margin SVM.md",
@@ -496,7 +497,6 @@
     "MATH1116/Linear algebra/Week 8/inner product.md",
     "adjiont.md",
     "MATH1116/Analysis/Week 7/vector valued integrability.md",
-    "MATH1116/Linear algebra/Week 8/norm.md",
     "attachments/Pasted image 20261101145025.png",
     "attachments/Pasted image 20261101144504.png",
     "attachments/Pasted image 20261031152710.png",

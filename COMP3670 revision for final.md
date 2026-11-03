@@ -83,3 +83,7 @@ OUTER PRODUCT
 any matrix of rank 1 can be written as an outer product $vv^T$
 
 PCA 
+Reconstruction of $\mathbf{x_{i}}$
+$\hat{\mathbf{x}}_{i}=\mu+UU^T(\mathbf{x}_{i}-\mu)$
+Average squared reconstruction error 
+$E(U)= \frac{1}{n}\sum_{i=1}^n \lVert \mathbf{x}_{i}-\mathbf{\hat{x}} \rVert$
