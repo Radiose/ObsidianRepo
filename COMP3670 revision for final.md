@@ -6,10 +6,17 @@ $f^*(\mathbf{x})=arg \ \max p_{y|\mathbf{x}}(y|\mathbf{x})$ - classification - g
 Loss: $l((\mathbf{x},y)h)=\mathbb{1}\{ h(\mathbf{x})\not=y \}$ - binary 
 				$= (y-h(\mathbf{x}))^2$
 
-out of sample Errors of targets:
+out of sample Errors 
+Targets:
 squared loss:  $L(f^*)=\mathbb{E}(var(Y|x))$ 
 classification: $L(f^*)=\mathbb{E}[\min\{ \eta(\mathbf{X}),1-\eta(\mathbf{X}) \}]$ where $\eta(\mathbf{X})=\mathbb{E}(Y|\mathbf{X}=\mathbf{x})$ 
 Classification - the error is the chance that it is wrong. If $\mathbb{P}(y=1|X=0)=0.1$, then it will be wrong 10% of the time. 
+
+
+Chosen 
+With the **squared loss**, $L(h) = \mathbb{E}[(h(\mathbf{X}) - Y)^2]$
+With the **binary loss**, $L(h) = \mathbb{E}[\mathbb{1}\{h(\mathbf{X}) \neq Y\}] = \mathbb{P}(h(\mathbf{X}) \neq Y)$ - the chance its wrong
+
 
 
 In vs out of sample error 
@@ -17,6 +24,9 @@ In sample:
 $E_{in}(h)=\frac{1}{N}\sum(\ell(\mathbf{X}_{i},Y_{i}),h)$
 Out of sample 
 $\mathbb{E}[\ell((\mathbf{X}_{i},Y_{i}),h])$
+
+
+
 
 Generalisation gap:
 The difference between the two 
