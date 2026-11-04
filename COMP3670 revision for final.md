@@ -3,7 +3,7 @@ The rule with the smallest out of sample error
 $f^*(\mathbf{x})=\eta(\mathbf{x})=\mathbb{E}(Y|\mathbf{X}=\mathbf{x})$
 $f^*(\mathbf{x})=arg \ \max p_{y|\mathbf{x}}(y|\mathbf{x})$ - classification - given an $\mathbf{x}$, return what is most likely. 
 
-Errors:
+out of sample Errors:
 squared loss:  $L(f^*)=\mathbb{E}(var(Y|x))$ 
 classification: $L(f^*)=\mathbb{E}[\min\{ \eta(\mathbf{X}),1-\eta(\mathbf{X}) \}]$ where $\eta(\mathbf{X})=\mathbb{E}(Y|\mathbf{X}=\mathbf{x})$ 
 Classification - the error is the chance that it is wrong. If $\mathbb{P}(y=1|X=0)=0.1$, then it will be wrong 10% of the time. 
@@ -132,3 +132,10 @@ Stacking $Y= (y_{1},\dots,y_{n})^T$, $X=\begin{bmatrix}\phi_{0}(X_{1}) & . & . &
 RSS($\theta$)=$\lVert \mathbf{Y}-\mathbf{X}\mathbf{\theta} \rVert^2$
 Row $i$ of $X\theta$ is the prediction for observation $i$.
 $\nabla RSS(\theta)=-2X^T(\mathbf{Y}-X\theta)$
+
+
+
+Gram schmidt 
+For a basis $v_{1},\dots,v_{n}$ of $V$
+$e_{1}=\frac{v_{1}}{\lVert  v_{1} \rVert}$
+$e_{j}= \frac{v_{j}- \langle v_{j}-e_{1} \rangle e_{1}-\dots-v_{j}-\langle v_{j}-e_{j-1} \rangle e_{j-1}}{\lVert v_{j}- \langle v_{j}-e_{1} \rangle e_{1}-\dots-v_{j}-\langle v_{j}-e_{j-1} \rangle e_{j-1} \rVert}$
