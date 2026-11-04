@@ -3,7 +3,10 @@ The rule with the smallest out of sample error
 $f^*(\mathbf{x})=\eta(\mathbf{x})=\mathbb{E}(Y|\mathbf{X}=\mathbf{x})$
 $f^*(\mathbf{x})=arg \ \max p_{y|\mathbf{x}}(y|\mathbf{x})$ - classification - given an $\mathbf{x}$, return what is most likely. 
 
-out of sample Errors:
+Loss: $l((\mathbf{x},y)h)=\mathbb{1}\{ h(\mathbf{x})\not=y \}$ - binary 
+				$= (y-h(\mathbf{x}))^2$
+
+out of sample Errors of targets:
 squared loss:  $L(f^*)=\mathbb{E}(var(Y|x))$ 
 classification: $L(f^*)=\mathbb{E}[\min\{ \eta(\mathbf{X}),1-\eta(\mathbf{X}) \}]$ where $\eta(\mathbf{X})=\mathbb{E}(Y|\mathbf{X}=\mathbf{x})$ 
 Classification - the error is the chance that it is wrong. If $\mathbb{P}(y=1|X=0)=0.1$, then it will be wrong 10% of the time. 
