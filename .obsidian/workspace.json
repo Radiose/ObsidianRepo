@@ -193,13 +193,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 9/Covariance and empirical variance of a matrix.md",
+                "file": "COMP3670 revision for final.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Covariance and empirical variance of a matrix"
+              "title": "COMP3670 revision for final"
             }
           },
           {
@@ -560,6 +560,11 @@
   },
   "active": "3c3237e0d743ddf0",
   "lastOpenFiles": [
+    "MATH1013/Calculus/Week 6/Optimisation.md",
+    "COMP3670/Week 12/optimisation.md",
+    "COMP3670 revision for final.md",
+    "COMP3670/Week 9/Covariance and empirical variance of a matrix.md",
+    "MATH1013/Calculus/Week 12/Gauss least squares.md",
     "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
     "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
     "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
@@ -581,11 +586,6 @@
     "MATH1013/Calculus/Week 6/The Second Derivative test.md",
     "MATH1116/Linear algebra/Week 3/linear map.md",
     "MATH1116/Analysis/Week 11/multivariate differentiability.md",
-    "COMP3670 revision for final.md",
-    "COMP3670/Week 9/Covariance and empirical variance of a matrix.md",
-    "Untitled 1.md",
-    "COMP3670/Week 10/singular value decomposition (ML perspective).md",
-    "MATH1116/Linear algebra/Week 11/singular values.md",
     "attachments/Pasted image 20261102161807.png",
     "attachments/Pasted image 20261102161558.png",
     "attachments/Pasted image 20261101145025.png",

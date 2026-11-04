@@ -114,3 +114,21 @@ For rank $B$
 Error: $\lVert A-B \rVert_{F}^2 \geq \lVert A -A_{k} \rVert_{F}^2 = \sum_{i=k+1}^r \sigma_{i}^2$
 The sum of eigenvalues is the error 
 Storing the three truncated gives $k(m+d+1)$ - saving only when k is small 
+
+
+logistic function derivative 
+$\sigma'(z)=\sigma(z)(1-\sigma(z))$
+
+
+Hessian:
+matrix of second partial derivatives. 
+$H_{j,k}= \frac{ \partial ^2 f }{ \partial x_{j}\partial x_{k} }$ - well behaved functions have positive semidefinite hessians 
+If all eigenvalues of hessian are non negative, then convex 
+
+Least squares, ridge + logistic regression, soft margin SVM are all convex 
+LS matrix:
+$Y=\theta_{0} \phi_{0}(X)+\dots+\theta_{k}\phi_{k}(X)+\epsilon$
+Stacking $Y= (y_{1},\dots,y_{n})^T$, $X=\begin{bmatrix}\phi_{0}(X_{1}) & . & . & . & \phi_{k}({X}_{1})  \\ .  \\ .   \\ .   \\  \phi_{0}({X_{n}}) & . & . & . &\phi_{k}({X_{n}}) \end{bmatrix}$
+RSS($\theta$)=$\lVert \mathbf{Y}-\mathbf{X}\mathbf{\theta} \rVert^2$
+Row $i$ of $X\theta$ is the prediction for observation $i$.
+$\nabla RSS(\theta)=-2X^T(\mathbf{Y}-X\theta)$
