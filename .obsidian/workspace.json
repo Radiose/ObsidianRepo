@@ -293,7 +293,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -488,8 +488,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c3540ad70358958",
+  "active": "d9e8eda1ac86f9ea",
   "lastOpenFiles": [
+    "COMP3670/Week 11/Hessian matrix.md",
     "COMP3670/Week 12/neural network.md",
     "COMP3670 revision for final.md",
     "COMP3670/Week 6/hierarchical clustering.md",
@@ -515,7 +516,6 @@
     "MATH1013/Linear algebra/Week 1/Consistent linear system.md",
     "COMP3670/Week 12/Stochastic gradient descent.md",
     "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
-    "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
     "attachments/Pasted image 20261102161807.png",
     "attachments/Pasted image 20261102161558.png",
     "attachments/Pasted image 20261101145025.png",
