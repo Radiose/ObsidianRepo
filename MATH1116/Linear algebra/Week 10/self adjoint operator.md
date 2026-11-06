@@ -67,7 +67,7 @@ Let us consider the linear transformation given by the matrix $A=\begin{bmatrix}
 We have that $A=A^{\dagger}$, which implies that $A$ has real [[eigenvalue]]s
 
 # Theorem 5
-Let $U \subset V$, and $U$ under $T$ be [[invariant subspace|invariant]]
+Let $U \subset V$, and $U$ under $T$ be [[invariant subspace|invariant]], with $T$ self adjoint
 Then, 
 $(1):U^\perp$ is $T$ invariant (the [[orthogonal complement]])
 $(2):T|_{U}\in \mathcal{L}(V)$ is self adjoint

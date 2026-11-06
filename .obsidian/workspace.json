@@ -268,13 +268,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670 revision for final.md",
+                "file": "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "COMP3670 revision for final"
+              "title": "self adjoint operator"
             }
           },
           {
@@ -293,7 +302,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -370,7 +379,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289
+    "width": 289,
+    "collapsed": true
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -488,34 +498,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d9e8eda1ac86f9ea",
+  "active": "9fd8d014b42186f3",
   "lastOpenFiles": [
+    "MATH1005/Week 8/Chain Rule (probability).md",
+    "COMP2610/Week 8/Adaptive interval coding.md",
+    "COMP3670 A2.md",
+    "COMP3670/Week 2/Empirical risk minimisation.md",
+    "COMP3670/Week 3/Shatter coefficient.md",
+    "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
+    "MATH1116/Linear algebra/Week 3/invariant subspace.md",
+    "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
+    "MATH1116/Linear algebra/Week 8/orthonormal vectors.md",
+    "MATH1116/Linear algebra/Week 8/orthogonal vectors.md",
+    "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
+    "COMP3670 revision for final.md",
     "COMP3670/Week 11/Hessian matrix.md",
     "COMP3670/Week 12/neural network.md",
-    "COMP3670 revision for final.md",
     "COMP3670/Week 6/hierarchical clustering.md",
     "COMP3670/Week 5/K-Means algorithm.md",
     "COMP3670/Week 5/clustering.md",
     "MATH1116/Linear algebra/Week 11/singular value decomposition.md",
     "COMP3670 MTT cheatsheet.md",
-    "COMP3670/Week 3/Shatter coefficient.md",
     "COMP3670/Week 3/PAC learnable.md",
     "COMP3670/Week 5/Euclidian norm.md",
     "MATH1013/Linear algebra/Week 3/parametric vector form.md",
-    "COMP3670 A2.md",
     "MATH1013/Linear algebra/Week 3/General solution to a nonhomogenous system.md",
     "MATH1013/Linear algebra/Week 3/inner products.md",
     "MATH1013/Linear algebra/Week 2/vector.md",
     "MATH1013/Linear algebra/Week 2/Linear combination of vectors.md",
-    "MATH1013/Linear algebra/Week 1/theorem of linear equations.md",
-    "MATH1013/Linear algebra/Week 1/Inconsistent linear system.md",
-    "MATH1013/Linear algebra/Week 1/Interpolation.md",
-    "MATH1013/Linear algebra/Week 1/Row operation.md",
-    "MATH1013/Linear algebra/Week 1/row echelon form.md",
-    "MATH1013/Linear algebra/Week 1/matrix.md",
-    "MATH1013/Linear algebra/Week 1/Consistent linear system.md",
-    "COMP3670/Week 12/Stochastic gradient descent.md",
-    "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
     "attachments/Pasted image 20261102161807.png",
     "attachments/Pasted image 20261102161558.png",
     "attachments/Pasted image 20261101145025.png",
