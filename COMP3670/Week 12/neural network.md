@@ -16,7 +16,8 @@ Information only flows from left to right. Our network is *feed forward*.
 Our output is a score $f_{\mathbf{w}}(\mathbf{x})$ that gets converted into our distribution $\hat{\eta}(\mathbf{x})$ by the [[logistic regression]]
 
 
-# ![[activation function]]
+# [[activation function]]
+![[activation function]]
 
 # In matrix notation 
 We can represent a neural network in the form of matrices. 
@@ -24,6 +25,8 @@ Write down the weights of layer $i$ as a matrix $A_{i}$, where $(A_{i})_{i,j}=w_
 
 In general $f_{\mathbf{w}}(\mathbf{x})=A_{k+1}\sigma(A_{k}\dots\sigma(A_{1}\mathbf{x})))$ with $A_{i}$ of size $d_{i}\times d_{i-1}$
 The weights $\mathbf{w}$ are the entries of all matrices. 
+
+
 
 # The output layer 
 In [[regression]], the output $f_{\mathbf{w}}(\mathbf{x})$ is the prediction itself. In classification, the network must output probabilities, so that the last layer is followed by an activation function. 
