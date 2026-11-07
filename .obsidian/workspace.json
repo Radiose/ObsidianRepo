@@ -23,6 +23,21 @@
             }
           },
           {
+            "id": "11ab87d071c90b17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "uniform convergence and L1 norm convergence of sequence of functions"
+            }
+          },
+          {
             "id": "65d798766bf46ed1",
             "type": "leaf",
             "state": {
@@ -58,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/MATH1116 A11.md",
+                "file": "MATH1116 A12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1116 A11"
+              "title": "MATH1116 A12"
             }
           },
           {
@@ -315,9 +330,51 @@
               "icon": "lucide-file",
               "title": "real spectral theorem"
             }
+          },
+          {
+            "id": "9d0962706b9ef448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1116/Analysis/Week 2/Convergence of series.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Convergence of series"
+            }
+          },
+          {
+            "id": "cf340bc5246a8cfd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.0"
+            }
+          },
+          {
+            "id": "8b7c5fca7f2a1d6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1116/MATH1116 final exam hints.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MATH1116 final exam hints"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -515,18 +572,24 @@
   },
   "active": "9fd8d014b42186f3",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 10/complex spectral theorem.md",
-    "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
+    "MATH1116/MATH1116 final exam hints.md",
+    "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
+    "MATH1116/Analysis/Week 6/uniform convergence of a series of sequence of functions.md",
+    "MATH1116 A12.md",
     "MATH1116/MATH1116 A11.md",
+    "MATH1116/Analysis/Week 2/Convergence of series.md",
+    "COMP2610/Week 8/Adaptive interval coding.md",
+    "MATH1116/Analysis/Week 1/series.md",
+    "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
+    "COMP2610/Week 5/the multinomial coefficient.md",
+    "MATH1116/Linear algebra/Week 10/complex spectral theorem.md",
     "MATH1005/Week 8/Chain Rule (probability).md",
     "COMP3670/Week 6/hierarchical clustering.md",
     "MATH1116/Linear algebra/Week 7/algebraically closed field.md",
     "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
     "COMP3670/Week 2/Empirical risk minimisation.md",
-    "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
     "MATH1013/Calculus/Week 2/uniform continuity.md",
     "COMP3670 A2.md",
-    "COMP2610/Week 8/Adaptive interval coding.md",
     "COMP3670/Week 3/Shatter coefficient.md",
     "MATH1116/Linear algebra/Week 3/invariant subspace.md",
     "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
@@ -535,12 +598,6 @@
     "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
     "COMP3670 revision for final.md",
     "COMP3670/Week 11/Hessian matrix.md",
-    "COMP3670/Week 12/neural network.md",
-    "COMP3670/Week 5/K-Means algorithm.md",
-    "COMP3670/Week 5/clustering.md",
-    "MATH1116/Linear algebra/Week 11/singular value decomposition.md",
-    "COMP3670 MTT cheatsheet.md",
-    "COMP3670/Week 3/PAC learnable.md",
     "attachments/Pasted image 20261102161807.png",
     "attachments/Pasted image 20261102161558.png",
     "attachments/Pasted image 20261101145025.png",
