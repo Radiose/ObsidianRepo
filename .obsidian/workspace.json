@@ -317,7 +317,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -513,12 +513,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c0441fe749ada2e8",
+  "active": "9fd8d014b42186f3",
   "lastOpenFiles": [
+    "MATH1116/Linear algebra/Week 10/complex spectral theorem.md",
+    "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
     "MATH1116/MATH1116 A11.md",
     "MATH1005/Week 8/Chain Rule (probability).md",
-    "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
-    "MATH1116/Linear algebra/Week 10/complex spectral theorem.md",
     "COMP3670/Week 6/hierarchical clustering.md",
     "MATH1116/Linear algebra/Week 7/algebraically closed field.md",
     "MATH1116/Linear algebra/Week 10/self adjoint operator.md",

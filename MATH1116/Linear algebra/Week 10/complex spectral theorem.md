@@ -10,4 +10,4 @@ Because $\mathbb{C}$ is [[algebraically closed field|algebraically closed]], $T 
 We can then divide it by its norm to get a vector with length 1, denote it $\mathbf{u}$.
 Let $U=span\{ \mathbf{u} \}$
 Then, $U$ is a one dimensional subspace of $V$ that is invariant under $T$. Thus, $T_{U^\perp} \in \mathcal{L}(U^\perp)$ is [[self adjoint operator|self adjoint]] via [[self adjoint operator#Theorem 5|this theorem]], and of dim $n-1$
-Then via the induction hypothesis, there is some orthonormal basis of $U^\perp$ consisting of eigenvectors of $T_{U^\perp}$. Adding $\mathbf{u}$ to this makes the basis 
+Then via the induction hypothesis, there is some orthonormal basis of $U^\perp$ consisting of eigenvectors of $T_{U^\perp}$. Adding $\mathbf{u}$ to this makes the basis. 
