@@ -42,3 +42,5 @@ $\implies T(y-x)=(a_{1},\dots,a_{n})\cdot \begin{pmatrix}y_{1}-x_{1}  \\  . \\  
 Thus, $T(y-x) \leq \lVert (a_{1},\dots,a_{n}) \rVert \ \lVert y-x \rVert$ via CS 
 $\implies T(y-x) \xrightarrow[y \to x]{}0$
 And because $\epsilon$ goes to zero by definition, $f$ is continuous at $x$ $\blacksquare$
+
+

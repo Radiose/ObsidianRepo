@@ -2,7 +2,7 @@
 aliases:
   - parametrisation
 ---
-When integrating along curves, or with [[Definite integral|integral]]s of the form $\int_\mathcal{C}$, its important to establish that that value of the integral is not dependant on the [[vector valued curve]].
+When integrating along curves, or with [[Definite integral|integral]]s of the form $\int_\mathcal{C}$, its important to establish that that value of the integral is not dependent on the [[vector valued curve]].
 
 That is, if we attempt to describe the unit circle as $\mathcal{C}=\{ \cos(t),\sin(t)|t \in[0,2\pi] \}$, or $\mathcal{C_{2}}=\{ \cos(5t),\sin 5(t)|t\in \mathbb{R} \}$, we need to ensure that $\int_{\mathcal{C}}F(x)=\int_{C_{1}}F(x)$.
 

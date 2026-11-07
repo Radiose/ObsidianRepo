@@ -8,358 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f949a9a352448248",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP2610/Week 8/Adaptive interval coding.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Adaptive interval coding"
-            }
-          },
-          {
-            "id": "11ab87d071c90b17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "uniform convergence and L1 norm convergence of sequence of functions"
-            }
-          },
-          {
-            "id": "65d798766bf46ed1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1005/Week 8/Chain Rule (probability).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Chain Rule (probability)"
-            }
-          },
-          {
-            "id": "1e0327194afd0da0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP2610/Week 5/the multinomial coefficient.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "the multinomial coefficient"
-            }
-          },
-          {
-            "id": "9fd8d014b42186f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1116 A12.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "MATH1116 A12"
-            }
-          },
-          {
-            "id": "83bb9583d558d527",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP2610/Week 8/Adaptive interval coding.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Adaptive interval coding"
-            }
-          },
-          {
-            "id": "b3aad95bc41ab9d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 8/Soft margin SVM.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Soft margin SVM"
-            }
-          },
-          {
-            "id": "d11cfa2d75addbde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1116/Linear algebra/Week 8/orthonormal vectors.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "orthonormal vectors"
-            }
-          },
-          {
-            "id": "7d450dd7c75f5875",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1116/Linear algebra/Week 8/orthonormal vectors.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "orthonormal vectors"
-            }
-          },
-          {
-            "id": "4a83201e31ebc110",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1116/Analysis/Week 11/partial derivative.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "partial derivative"
-            }
-          },
-          {
-            "id": "c16ae992cc2019a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 2/out of sample error.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "out of sample error"
-            }
-          },
-          {
-            "id": "2ad672e13a419f93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 3/Cross validation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Cross validation"
-            }
-          },
-          {
-            "id": "648fbc50c1f86cd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1116/Linear algebra/Week 8/norm.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "norm"
-            }
-          },
-          {
-            "id": "15b2d5054cb19c2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 2/Empirical risk minimisation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Empirical risk minimisation"
-            }
-          },
-          {
-            "id": "71156c5ccbbd7339",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "uniform convergence and L1 norm convergence of sequence of functions"
-            }
-          },
-          {
-            "id": "8c3540ad70358958",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 11/Hessian matrix.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Hessian matrix"
-            }
-          },
-          {
-            "id": "0a2ae7d309b05d2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1013/Linear algebra/Week 3/parametric vector form.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "parametric vector form"
-            }
-          },
-          {
-            "id": "97b9c035b7210725",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP3670/Week 3/Shatter coefficient.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Shatter coefficient"
-            }
-          },
-          {
-            "id": "d9e8eda1ac86f9ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "self adjoint operator"
-            }
-          },
-          {
-            "id": "6221a2976bcc942c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1116/Linear algebra/Week 10/complex spectral theorem.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "complex spectral theorem"
-            }
-          },
-          {
-            "id": "c0441fe749ada2e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "real spectral theorem"
-            }
-          },
-          {
-            "id": "9d0962706b9ef448",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH1116/Analysis/Week 2/Convergence of series.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Convergence of series"
-            }
-          },
-          {
-            "id": "cf340bc5246a8cfd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.15.0"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.15.0"
-            }
-          },
-          {
-            "id": "8b7c5fca7f2a1d6a",
+            "id": "3da1f5c2f0035609",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -372,9 +21,34 @@
               "icon": "lucide-file",
               "title": "MATH1116 final exam hints"
             }
+          },
+          {
+            "id": "ff677e6a27c1b053",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1116/Analysis/Week 7/vector valued integrability.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "vector valued integrability"
+            }
+          },
+          {
+            "id": "3b61afe8b5f85e0f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -451,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289,
-    "collapsed": true
+    "width": 289
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -570,34 +243,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9fd8d014b42186f3",
+  "active": "3b61afe8b5f85e0f",
   "lastOpenFiles": [
+    "MATH1116/Analysis/Week 7/vector valued integrability.md",
+    "MATH1116/Analysis/Week 8/vector valued curve.md",
+    "MATH1116/Analysis/Week 8/arc length parametrisation.md",
     "MATH1116/MATH1116 final exam hints.md",
+    "MATH1116/Analysis/Week 11/multivariate differentiability.md",
+    "MATH1116/Analysis/Week 12/Untitled.md",
+    "COMP2610/Week 8/Adaptive interval coding.md",
     "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
+    "MATH1005/Week 8/Chain Rule (probability).md",
     "MATH1116/Analysis/Week 6/uniform convergence of a series of sequence of functions.md",
     "MATH1116 A12.md",
-    "MATH1116/MATH1116 A11.md",
-    "MATH1116/Analysis/Week 2/Convergence of series.md",
-    "COMP2610/Week 8/Adaptive interval coding.md",
-    "MATH1116/Analysis/Week 1/series.md",
-    "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
-    "COMP2610/Week 5/the multinomial coefficient.md",
-    "MATH1116/Linear algebra/Week 10/complex spectral theorem.md",
-    "MATH1005/Week 8/Chain Rule (probability).md",
-    "COMP3670/Week 6/hierarchical clustering.md",
-    "MATH1116/Linear algebra/Week 7/algebraically closed field.md",
-    "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
-    "COMP3670/Week 2/Empirical risk minimisation.md",
-    "MATH1013/Calculus/Week 2/uniform continuity.md",
-    "COMP3670 A2.md",
-    "COMP3670/Week 3/Shatter coefficient.md",
-    "MATH1116/Linear algebra/Week 3/invariant subspace.md",
-    "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
+    "COMP3670/Week 8/Soft margin SVM.md",
     "MATH1116/Linear algebra/Week 8/orthonormal vectors.md",
-    "MATH1116/Linear algebra/Week 8/orthogonal vectors.md",
-    "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
-    "COMP3670 revision for final.md",
+    "MATH1116/Analysis/Week 11/partial derivative.md",
+    "MATH1116/Analysis/Week 2/Convergence of series.md",
+    "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
+    "MATH1116/Linear algebra/Week 10/complex spectral theorem.md",
+    "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
+    "COMP3670/Week 3/Shatter coefficient.md",
+    "MATH1013/Linear algebra/Week 3/parametric vector form.md",
     "COMP3670/Week 11/Hessian matrix.md",
+    "COMP3670/Week 2/Empirical risk minimisation.md",
+    "MATH1116/Linear algebra/Week 8/norm.md",
+    "COMP3670/Week 3/Cross validation.md",
+    "COMP3670/Week 2/out of sample error.md",
+    "COMP2610/Week 5/the multinomial coefficient.md",
     "attachments/Pasted image 20261102161807.png",
     "attachments/Pasted image 20261102161558.png",
     "attachments/Pasted image 20261101145025.png",
