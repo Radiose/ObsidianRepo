@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
+                "file": "MATH1116/MATH1116 final exam hints.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "uniformly Cauchy"
+              "title": "MATH1116 final exam hints"
             }
           },
           {
@@ -169,13 +169,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/MATH1116 A11.md",
+                "file": "COMP2610 exam revision.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1116 A11"
+              "title": "COMP2610 exam revision"
             }
           },
           {
@@ -198,8 +198,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -394,9 +393,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7f2390cd5d61e86d",
+  "active": "3da1f5c2f0035609",
   "lastOpenFiles": [
+    "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
+    "COMP2610 exam revision.md",
     "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
+    "Excalidraw/MATH1116 A12.excalidraw.md",
+    "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
+    "MATH1116/MATH1116 final exam hints.md",
+    "MATH1116/MATH1116 A11.md",
     "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
     "MATH1116/Linear algebra/Week 3/linear operator.md",
     "MATH1116/Linear algebra/Week 3/basis of domain theorem.md",
@@ -406,8 +411,6 @@
     "MATH1116 A12.md",
     "MATH1116/MATH1116 A9.md",
     "MATH1116/Linear algebra/Week 5/annihilator.md",
-    "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
-    "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
     "MATH1013/Linear algebra/Week 11/Cramers rule.md",
     "MATH1116/Linear algebra/Week 1/MATH1116 review.md",
     "MATH1116/Linear algebra/Week 1/vector subspace.md",
@@ -416,12 +419,8 @@
     "MATH1116/Linear algebra/Week 1/vector space.md",
     "MATH1116/Linear algebra/Week 2/field.md",
     "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
-    "MATH1116/MATH1116 final exam hints.md",
     "MATH1116/Analysis/Week 7/vector valued integrability.md",
-    "Excalidraw/MATH1116 A12.excalidraw.md",
-    "MATH1116/MATH1116 A11.md",
     "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
-    "MATH1116/Analysis/Week 3/summation by parts.md",
     "attachments/Pasted image 20261108105139.png",
     "attachments/Pasted image 20261108104654.png",
     "attachments/Pasted image 20261107202622.png",
