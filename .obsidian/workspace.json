@@ -199,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -394,10 +394,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7f080cf5a7dcc52b",
+  "active": "7f2390cd5d61e86d",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 3/linear operator.md",
+    "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
     "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
+    "MATH1116/Linear algebra/Week 3/linear operator.md",
     "MATH1116/Linear algebra/Week 3/basis of domain theorem.md",
     "MATH1116/Linear algebra/Week 2/MATH1116 06.08.2026.md",
     "MATH1013/Linear algebra/Week 3/Linearly dependent.md",
@@ -406,7 +407,6 @@
     "MATH1116/MATH1116 A9.md",
     "MATH1116/Linear algebra/Week 5/annihilator.md",
     "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
-    "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
     "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
     "MATH1013/Linear algebra/Week 11/Cramers rule.md",
     "MATH1116/Linear algebra/Week 1/MATH1116 review.md",
