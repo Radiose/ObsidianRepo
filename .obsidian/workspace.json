@@ -169,13 +169,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
+                "file": "MATH1116/MATH1116 A11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Jordan normal form"
+              "title": "MATH1116 A11"
+            }
+          },
+          {
+            "id": "bb577085e47a2668",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -375,15 +385,16 @@
   },
   "active": "3da1f5c2f0035609",
   "lastOpenFiles": [
+    "MATH1116/MATH1116 A11.md",
+    "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
+    "MATH1116/MATH1116 final exam hints.md",
     "MATH1116/Analysis/Week 3/summation by parts.md",
     "MATH1116/Analysis/Week 2/Convergence of series.md",
     "MATH1116/Analysis/Week 12/Introduction to diffusion equations.md",
-    "MATH1116/MATH1116 final exam hints.md",
     "MATH1116/Analysis/Week 1/series.md",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20/Taylors theorem.md",
     "MATH1116 A12.md",
     "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
-    "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
     "Excalidraw/Drawing 2026-11-08 10.46.52.excalidraw.md",
     "attachments/Pasted image 20261108105139.png",
     "MATH1116/Linear algebra/Week 5/annihilator.md",
@@ -410,7 +421,6 @@
     "MATH1116/Analysis/Week 8/vector valued curve.md",
     "MATH1116/Analysis/Week 8/arc length parametrisation.md",
     "COMP2610/Week 8/Adaptive interval coding.md",
-    "MATH1116/Analysis/Week 4/uniform convergence and L1 norm convergence of sequence of functions.md",
     "Untitled.canvas",
     "templates",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
