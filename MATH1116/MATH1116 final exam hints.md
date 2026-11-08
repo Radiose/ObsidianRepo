@@ -12,7 +12,12 @@ Check that they really understand the definition in multivariate calculus, then 
 You can bound the tail of a converging sequence 
 
 the integral test is based off the property that $\sum_{j=n}^m \int_{j-1}^jx_{j} \leq \sum \int_{j-1}^j f(x) = \int_{0}^n f(x)dx$
-and that similarly $$
+and that similarly $\int_{j=n}^m \int_{j}^{j+1}x_{j}\geq \sum_{j}^{j+1}f(x)$
+This is because $\int_{j}^{j+1} \leq f(j)\leq \int_{j-1}^jf(x)$ ($x_{j}$ is nonincreasing)
+Series are discrete analogues of integrals. 
+
+COME BACK TO FINAL THEOREM OF SERIES CONVERGENCE
+
 
 
 # Importance of uniformity 
