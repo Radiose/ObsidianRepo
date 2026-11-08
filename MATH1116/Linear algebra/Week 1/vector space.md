@@ -21,7 +21,8 @@ a vector space of functions on a set $S$, denoted $\mathbb{F}^S=\{ f:S\to \mathb
 
 
 # Theorem 1: 
-$\mathbf{V}$, is an $\mathbb{F}$ vector space, if for $\mathbf{u} \in V$, $c \in \mathbb{F}$, then 
+$\mathbf{V}$, is an $\mathbb{F}$ vector space, for $\mathbf{u} \in V$, $c \in \mathbb{F}$
+These properties hold:
 1: $\mathbf{0}$ is unique 
 2: $\mathbf{-u}$ is unique 
 3: $0 \mathbf{u}=\mathbf{0}$
