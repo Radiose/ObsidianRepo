@@ -23,7 +23,7 @@ $\sum_{j=0}^\infty x_{j}=\int_{0}^\infty f(x)dx:=\lim_{ M \to +\infty }\int_{0}^
 The sequence of partial sums converges. That is the most important fact. 
 
 
-# Geometric series 
+# [[Geometric series]]
 
 We show that $\sum_{n=0}^\infty x^n$ converges if and only if $x<1$
 
@@ -88,7 +88,9 @@ This implies $x_{n}=\sum_{j=0}^n x_{j}-\sum_{j=0}^{n-1}x_{j} \to l-l=0$
 IMPORTANT: the converse of this does not apply.  (simple example is $\frac{1}{n}$)
 Proof of the divergence of $\sum_{n=1}^\infty \frac{1}{n}$:
 using the integral trick shown above 
+
 $\sum_{n=1}^N \frac{1}{n}=\sum_{n=1}^N \int_{n}^{n+1} \frac{1}{n}dx \geq \sum_{n=1}^N \int_{1}^{n+1} \frac{1}{x}dx=\ln(n+1) \xrightarrow[n \to \infty]{}\infty$
+
 We start to understand that a series must not just approach zero, but it must also approach it fast enough. 
 
 
