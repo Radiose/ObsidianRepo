@@ -21,6 +21,9 @@ uniform convergence (and L1 norms) seem to be defined on compact sets in the not
 COME BACK TO FINAL THEOREM OF SERIES CONVERGENCE
 
 
+missing limit at $\leq \sum_{k=j}^J ||f_{N_{k+1}}-f_{N_{k}}||$ in uniformly cauchy.
+
+
 
 # Importance of uniformity 
 Remember that ANY time you want to exchange limits, you NEED uniformity 
