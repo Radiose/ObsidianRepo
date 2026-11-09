@@ -43,6 +43,8 @@ $\forall\epsilon>0\quad \exists \eta>0\quad \forall h \in \mathbb{R}$
 $\lvert k \rvert<\eta \implies \lVert \left[ f(g(x)+k)-f(g(x)) \right]-kf'(g(x)) \rVert<\epsilon \cdot |k|$
 
 Now, let $\epsilon >0$, let $h \in \mathbb{R}^*:\lvert g(x+h)-g(x) \rvert<\epsilon$
+
+Set $k=g(x+h)-g(x)$
 $$\left\lVert  \frac{1}{h} \left[ F(x+h)-F(x) \right]-g'(x)f'(g(x))  \right\rVert$$
 
-$$= \left\lVert   \frac{1}{h} \left[ f( g(x)+g(x+h))  -f(g(x))\right] -g'(x)f'(g(x)) \right\rVert \\ \leq \left\lVert  \frac{1}{h}[g(x+h)-g(x)]f'(g(x))-g'(x)f'(g(x))  \right\rVert+ $$
+$$=\left\lVert \tfrac1h\big[f(g(x)+k)-f(g(x))\big]-g'(x)f'(g(x))\right\rVert$$ $$\le\left\lVert \tfrac kh\,f'(g(x))-g'(x)f'(g(x))\right\rVert+\left\lVert \tfrac1h\big[f(g(x)+k)-f(g(x))-k\,f'(g(x))\big]\right\rVert.$$
