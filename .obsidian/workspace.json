@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 3/summation by parts.md",
+                "file": "MATH1116/MATH1116 final exam hints.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "summation by parts"
+              "title": "MATH1116 final exam hints"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/MATH1116 assignment 8.md",
+                "file": "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1116 assignment 8"
+              "title": "Jordan normal form"
             }
           },
           {
@@ -130,13 +130,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 6/power series.md",
+                "file": "MATH1116 A12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "power series"
+              "title": "MATH1116 A12"
             }
           },
           {
@@ -401,19 +401,20 @@
   },
   "active": "3b61afe8b5f85e0f",
   "lastOpenFiles": [
-    "Z_MATH help/math tricks.md",
+    "MATH1116/MATH1116 assignment 8.md",
     "MATH1116/MATH1116 final exam hints.md",
+    "MATH1116 A12.md",
+    "MATH1116/Analysis/Week 6/power series.md",
+    "MATH1116/Analysis/Week 3/summation by parts.md",
+    "Z_MATH help/math tricks.md",
     "MATH1116/Analysis/Week 8/arc length parametrisation.md",
     "MATH1013/Calculus/Week 8/Inverse function.md",
     "MATH1116/Analysis/Week 7/vector valued integrability.md",
-    "MATH1116/Analysis/Week 3/summation by parts.md",
     "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
-    "MATH1116 A12.md",
     "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
     "MATH1116/Analysis/Week 7/vector valued differentiability.md",
     "MATH1116/Analysis/Week 7/vector valued continuity.md",
     "MATH1013/Calculus/Week 2/continuous function.md",
-    "MATH1116/Analysis/Week 6/power series.md",
     "Untitled 2.md",
     "MATH1116/Analysis/Week 11/multivariate differentiability.md",
     "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
@@ -426,7 +427,6 @@
     "MATH1116/Linear algebra/Week 2/MATH1116 06.08.2026.md",
     "MATH1013/Linear algebra/Week 3/Linearly dependent.md",
     "MATH1116/Linear algebra/Week 2/linear dependence lemma.md",
-    "MATH1116/MATH1116 A9.md",
     "attachments/Pasted image 20261108105139.png",
     "attachments/Pasted image 20261108104654.png",
     "attachments/Pasted image 20261107202622.png",

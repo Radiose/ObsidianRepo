@@ -113,3 +113,27 @@ Then, $C=\{ y(\sigma^{-1}(s)):s \in[0,\sigma(1)] \}$ is the arc length parametri
 
 Theorem:
 Arc length parametrisation keeps the same integral.
+
+
+
+
+
+
+# Linear algebra 
+Eigenvalues, eigenspace 
+$\mathbf{0}$ is an eigenvalue if the kernel is nonempty iff the determinant is zero iff not invertible 
+
+Distinct eigenvectors are linearly independent 
+An operator has $\dim(V)$ eigenvalues at most 
+
+
+Nilpotent operator: Has JNF without eigenvalues 
+
+For each generalised eigenspace, $[T_{U}]_{\mathcal{B}}$ is a jordan block representation with its eigenvalue on the diagonal.
+
+Over an algebraically closed field, every operator on finite dim non zero space has an eigenvalue 
+
+JNF build up:
+for a finite dimensional vector space over a closed field:
+$V=G(\lambda_{1},T) \oplus \dots \oplus G(\lambda_{m},T)$ 
+and $V$ has a Jordan basis
