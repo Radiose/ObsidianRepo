@@ -70,8 +70,22 @@ Ratio test
 Similar idea to regular division test. Uses induction to bound above or below
 
 # Power series 
-Motivation is to anay
+Motivation is to analyse complication functions as sums of simple ones 
 
+All theorems:
+1: Power series either diverge for all x, converge for all, or converge within the open interval $(c-\delta ,c+\delta)$ Note that for 
 
+2: Power series radius of convergence is given by ratio test inverse 
+IE $\lim_{ n \to \infty }\frac{a_{n+1}}{a_{n}}=\ell \implies ROC=\frac{1}{\ell}$
+Why? Because if $\ell R<1$, it converges, implying that $\frac{1}{\ell}=R$
 
+3:
+the integral of a power series is $\int_{c}^x \sum_{n=0}^\infty a_{n}(x-c)^n=\sum_{n=0}^\infty \frac{a_{n}}{n+1}(x-c)^{n+1}$ (by uniformity given by $\delta$ not depending on $x$)
+it has the same radius of convergence. 
+It has the same radius of convergence because dividing by $n+1$ is only polynomial, it cannot change the exponentials strength. This evident in the proof, when we show that for $\bar{\rho}>\rho>r$, we have that there is some $N$ such that 
+$\frac{a_{n}}{n+1}\bar{\rho}^n= \lvert a_{n}\rho^n \rvert \begin{pmatrix} \frac{\bar{\rho}}{p} \end{pmatrix}^n \cdot \frac{1}{n+1} \geq \lvert a_{n}\rho^n \rvert$
+for all $n >N$.
+This is because $\left( \frac{\bar{\rho}}{\rho} \right)^n$ grows fast and will eventually be larger than $\frac{1}{n+1}$
 
+4:
+The derivative of a power series is $\sum_{n=0}^\infty a_{n}(x-c)^n$ is $\sum_{n=0}^\infty (n+1)a_{n+1}(x-c)^{n}$
