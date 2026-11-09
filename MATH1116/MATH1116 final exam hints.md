@@ -69,7 +69,8 @@ Uses similar ideas to shown originally
 Ratio test 
 Similar idea to regular division test. Uses induction to bound above or below
 
-
+# Power series 
+Motivation is to anay
 
 
 

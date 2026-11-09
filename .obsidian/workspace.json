@@ -182,10 +182,15 @@
             "id": "bb577085e47a2668",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled 2"
             }
           },
           {
@@ -198,8 +203,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -394,13 +398,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "41dff463ad044fb9",
+  "active": "3da1f5c2f0035609",
   "lastOpenFiles": [
-    "MATH1116/Analysis/Week 11/multivariate differentiability.md",
+    "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
     "MATH1116/MATH1116 final exam hints.md",
+    "Untitled 2.md",
+    "MATH1116/Analysis/Week 6/power series.md",
+    "MATH1116/Analysis/Week 11/multivariate differentiability.md",
     "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
     "COMP2610 exam revision.md",
-    "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
     "Excalidraw/MATH1116 A12.excalidraw.md",
     "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
     "MATH1116/MATH1116 A11.md",
@@ -420,8 +426,6 @@
     "MATH1116/Linear algebra/Week 1/MATH1116 30.07.2026.md",
     "MATH1116/Linear algebra/Week 1/vector space.md",
     "MATH1116/Linear algebra/Week 2/field.md",
-    "MATH1116/Linear algebra/Week 1/(external) direct sum of vector spaces.md",
-    "MATH1116/Analysis/Week 7/vector valued integrability.md",
     "attachments/Pasted image 20261108105139.png",
     "attachments/Pasted image 20261108104654.png",
     "attachments/Pasted image 20261107202622.png",
