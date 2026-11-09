@@ -28,7 +28,8 @@ Then, $$\int_{x(t);t\in[a,b]}F(x)\cdot dx=\int_{z(s);s \in[0,\sigma(1)]}F(x)\cdo
 ### Proof 
 We define $y(t):=x(a+t(b-a))$ and $\sigma(t):=\int_{0}^t \lVert y'(s) \rVert ds$ for all $t\in[0,1]$
 
-Note that since $\sigma^{-1}(\sigma(s))=s$, $(\sigma^{-1})'(t)= \frac{1}{\sigma'(\sigma^{-1}(t))}=\frac{1}{\lVert y'(\sigma^{-1}t) \rVert}$ for all $t\in[0,\sigma(1)]$ ([[Inverse function|proof]] for the first one, and FTC for the denominator of second third ).
+Note that since $\sigma^{-1}(\sigma(s))=s$, $(\sigma^{-1})'(t)= \frac{1}{\sigma'(\sigma^{-1}(t))}=\frac{1}{\lVert y'(\sigma^{-1}t) \rVert}$ for all $t\in[0,\sigma(1)]$ ([[Inverse function#derivative of inverse function|proof]] for the first one, and FTC for the denominator of second third).
+
 So, for $s \in[0,\sigma(1)]$ $z'(s)=\frac{1}{\sigma'(\sigma^{{-1}}(s))}\cdot y'(\sigma^{-1}(s))=\frac{ y'(\sigma^{-1}(s)) }{\lVert y'(\sigma^{-1}(s)) \rVert}$. 
 
 Thus,$$

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 7/vector valued integrability.md",
+                "file": "MATH1116/Analysis/Week 8/arc length parametrisation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "vector valued integrability"
+              "title": "arc length parametrisation"
             }
           },
           {
@@ -402,11 +402,13 @@
   "active": "3b61afe8b5f85e0f",
   "lastOpenFiles": [
     "MATH1116/Analysis/Week 8/arc length parametrisation.md",
-    "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
+    "MATH1013/Calculus/Week 8/Inverse function.md",
+    "MATH1116/Analysis/Week 7/vector valued integrability.md",
+    "MATH1116/Analysis/Week 3/summation by parts.md",
     "MATH1116/MATH1116 final exam hints.md",
+    "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
     "MATH1116 A12.md",
     "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
-    "MATH1116/Analysis/Week 7/vector valued integrability.md",
     "MATH1116/Analysis/Week 7/vector valued differentiability.md",
     "MATH1116/Analysis/Week 7/vector valued continuity.md",
     "MATH1013/Calculus/Week 2/continuous function.md",
@@ -425,8 +427,6 @@
     "MATH1116/Linear algebra/Week 2/linear dependence lemma.md",
     "MATH1116/MATH1116 A9.md",
     "MATH1116/Linear algebra/Week 5/annihilator.md",
-    "MATH1013/Linear algebra/Week 11/Cramers rule.md",
-    "MATH1116/Linear algebra/Week 1/MATH1116 review.md",
     "attachments/Pasted image 20261108105139.png",
     "attachments/Pasted image 20261108104654.png",
     "attachments/Pasted image 20261107202622.png",
