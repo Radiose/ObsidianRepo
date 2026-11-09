@@ -144,3 +144,5 @@ JNF build up:
 for a finite dimensional vector space over a closed field:
 $V=G(\lambda_{1},T) \oplus \dots \oplus G(\lambda_{m},T)$ 
 and $V$ has a Jordan basis
+
+
