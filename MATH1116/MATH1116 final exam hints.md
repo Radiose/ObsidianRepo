@@ -106,14 +106,15 @@ Differentiability: Same as single variate.
 Arc length parametrisation 
 for a $C=\{ x(t): t \in[a,b] \}$, we reparametrize it by 
 $y(t)=x(a+t(b-a))$, so its normalised over $[0,1]$
-We then define $\sigma(t)=\int_{0}^t \lVert y'(s) \rVert ds$
+We then define $\sigma(t)=\int_{0}^t \lVert y'(s) \rVert ds$ - normalise the speed
 Think about the idea here. We have that the derivative of a position is velocity, norm is speed, then the integral gives speed summed up over time which is distance. 
+
 We then finally get the inverse, so we give it speed, and obtain time with $\sigma^{-1}(s)=t$
 Then, $C=\{ y(\sigma^{-1}(s)):s \in[0,\sigma(1)] \}$ is the arc length parametrisation. It has constant speed. 
 
+
 Theorem:
 Arc length parametrisation keeps the same integral.
-
 
 
 
