@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/MATH1116 final exam hints.md",
+                "file": "MATH1116/Analysis/Week 7/vector valued differentiability.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1116 final exam hints"
+              "title": "vector valued differentiability"
             }
           },
           {
@@ -400,9 +400,11 @@
   },
   "active": "3da1f5c2f0035609",
   "lastOpenFiles": [
+    "MATH1116/Analysis/Week 7/vector valued continuity.md",
+    "MATH1013/Calculus/Week 2/continuous function.md",
+    "MATH1116/MATH1116 final exam hints.md",
     "MATH1116/Linear algebra/Week 2/MATH1116 07.08.2026.md",
     "MATH1116/Analysis/Week 6/power series.md",
-    "MATH1116/MATH1116 final exam hints.md",
     "Untitled 2.md",
     "MATH1116/Analysis/Week 11/multivariate differentiability.md",
     "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
@@ -424,8 +426,6 @@
     "MATH1116/Linear algebra/Week 1/vector subspace.md",
     "MATH1116/Linear algebra/Week 1/MATH1116 31.07.2026.md",
     "MATH1116/Linear algebra/Week 1/MATH1116 30.07.2026.md",
-    "MATH1116/Linear algebra/Week 1/vector space.md",
-    "MATH1116/Linear algebra/Week 2/field.md",
     "attachments/Pasted image 20261108105139.png",
     "attachments/Pasted image 20261108104654.png",
     "attachments/Pasted image 20261107202622.png",

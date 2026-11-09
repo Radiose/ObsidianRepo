@@ -89,3 +89,9 @@ This is because $\left( \frac{\bar{\rho}}{\rho} \right)^n$ grows fast and will e
 
 4:
 The derivative of a power series is $\sum_{n=0}^\infty a_{n}(x-c)^n$ is $\sum_{n=0}^\infty (n+1)a_{n+1}(x-c)^{n}$
+
+A similar story, with the $n+1$ not being strong enough to overpower the exponential. Note that the first term $a_{0}$  disappears. 
+
+# Need to revisit: Applications of power series 
+
+# Functions from R^N ->R

@@ -37,12 +37,12 @@ Then, $F$ is differentiable at $x$ and $F'(x)=g'(x)f'(g(x))$
 ### Proof 
 we have that 
 $\forall \epsilon > 0\quad \exists\delta_{\epsilon} > 0 \quad\forall h \in \mathbb{R}^*$ 
-$\lvert h \rvert<\delta_{\epsilon}\implies \lvert \left[ g(x+h)-g(x) \right]-h(g'(x)) \rvert<\epsilon \cdot h$
+$\lvert h \rvert<\delta_{\epsilon}\implies \lvert \left[ g(x+h)-g(x) \right]-h(g'(x)) \rvert<\epsilon \cdot |h|$
 and 
 $\forall\epsilon>0\quad \exists \eta>0\quad \forall h \in \mathbb{R}$
-$\lvert h \rvert<\eta \implies \lVert \left[ f(g(x+h))-f(g(x)) \right]-hf'(y(x)) \rVert<\epsilon \cdot h$
+$\lvert k \rvert<\eta \implies \lVert \left[ f(g(x)+k)-f(g(x)) \right]-kf'(g(x)) \rVert<\epsilon \cdot |k|$
 
 Now, let $\epsilon >0$, let $h \in \mathbb{R}^*:\lvert g(x+h)-g(x) \rvert<\epsilon$
-$\left\lVert  \frac{1}{h} \left[ F(x+h)-F(x) \right]-g'(x)-f'(g(x))  \right\rVert$
-$= \left\lVert   \frac{1}{h} \left[ f( g(x)+g(x+h) -g(x) -f(g(x))\right] -g'(x)f'(g(x)) \right\rVert$
-$\leq \left\lVert  \frac{1}{h}[g(x+h)-g(x)]f'(g(x))-g'(x)f'(g(x))  \right\rVert$
+$$\left\lVert  \frac{1}{h} \left[ F(x+h)-F(x) \right]-g'(x)f'(g(x))  \right\rVert$$
+
+$$= \left\lVert   \frac{1}{h} \left[ f( g(x)+g(x+h))  -f(g(x))\right] -g'(x)f'(g(x)) \right\rVert \\ \leq \left\lVert  \frac{1}{h}[g(x+h)-g(x)]f'(g(x))-g'(x)f'(g(x))  \right\rVert+ $$
