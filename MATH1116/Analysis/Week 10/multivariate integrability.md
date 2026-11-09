@@ -53,6 +53,10 @@ We write $\int_{\prod_{j=1}^n [a_{j},b_{j}]}f(x)dx:=L$
 Let $f,g: \prod_{j=1}^n [a_{j},b_{j}] \to \mathbb{R}$ and $\lambda \in \mathbb{R}$
 Then, $\int_{\prod_{j=1}^n[a_{j},b_{j}]}f(x)+\lambda g(x)= \int_{\prod_{j=1}^n}f(x)dx+\lambda \int_{\prod_{j=1}^n}g(x)dx$
 
+
+
+
+
 ## Upper and lower Riemann sums 
 Let $f:\prod_{j=1}^n[a_{j},b_{j}]\to \mathbb{R}$ be [[continuous function|continuous]]
 Let $\mathcal{P}$ be a [[partition]]
