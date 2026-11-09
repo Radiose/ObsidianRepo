@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 4/dual basis.md",
+                "file": "MATH1116/Analysis/Week 8/arc length parametrisation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "dual basis"
+              "title": "arc length parametrisation"
             }
           },
           {
@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
+                "file": "MATH1116/MATH1116 final exam hints.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "orthogonal complement"
+              "title": "MATH1116 final exam hints"
             }
           },
           {
@@ -204,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -399,16 +399,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ff677e6a27c1b053",
+  "active": "acbf203f7a2a5ef7",
   "lastOpenFiles": [
+    "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
+    "MATH1116 A12.md",
+    "MATH1116/Analysis/Week 8/arc length parametrisation.md",
+    "MATH1116/Analysis/Week 8/vector valued curve.md",
+    "MATH1116/Linear algebra/Week 4/dual basis.md",
     "MATH1116/MATH1116 final exam hints.md",
     "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
     "MATH1116/MATH1116 assignment 8.md",
-    "MATH1116 A12.md",
     "MATH1116/Analysis/Week 6/power series.md",
     "MATH1116/Analysis/Week 3/summation by parts.md",
     "Z_MATH help/math tricks.md",
-    "MATH1116/Analysis/Week 8/arc length parametrisation.md",
     "MATH1013/Calculus/Week 8/Inverse function.md",
     "MATH1116/Analysis/Week 7/vector valued integrability.md",
     "MATH1116/Linear algebra/Week 3/Rank nullity theorem.md",
@@ -421,12 +424,9 @@
     "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
     "COMP2610 exam revision.md",
     "Excalidraw/MATH1116 A12.excalidraw.md",
-    "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
     "MATH1116/MATH1116 A11.md",
     "MATH1116/Linear algebra/Week 3/linear operator.md",
     "MATH1116/Linear algebra/Week 3/basis of domain theorem.md",
-    "MATH1116/Linear algebra/Week 2/MATH1116 06.08.2026.md",
-    "MATH1013/Linear algebra/Week 3/Linearly dependent.md",
     "attachments/Pasted image 20261108105139.png",
     "attachments/Pasted image 20261108104654.png",
     "attachments/Pasted image 20261107202622.png",

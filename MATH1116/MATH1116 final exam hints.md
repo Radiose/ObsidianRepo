@@ -122,6 +122,9 @@ Arc length parametrisation keeps the same integral.
 # Linear algebra 
 $\dim(\mathcal{L}(V,W))=\dim(V)\times \dim(W)$
 
+Duality:
+The matrix presentation of $T^V$ is the transpose of the presentation of $T$
+
 # COME BACK TO: COORDINATISING MATRICES 
 
 Eigenvalues, eigenspace 
