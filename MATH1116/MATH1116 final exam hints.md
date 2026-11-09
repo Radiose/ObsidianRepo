@@ -120,6 +120,10 @@ Arc length parametrisation keeps the same integral.
 
 
 # Linear algebra 
+$\dim(\mathcal{L}(V,W))=\dim(V)\times \dim(W)$
+
+# COME BACK TO: COORDINATISING MATRICES 
+
 Eigenvalues, eigenspace 
 $\mathbf{0}$ is an eigenvalue if the kernel is nonempty iff the determinant is zero iff not invertible 
 
