@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/MATH1116 final exam hints.md",
+                "file": "MATH1116/Analysis/Week 11/multivariate differentiability.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1116 final exam hints"
+              "title": "multivariate differentiability"
             }
           },
           {
@@ -385,8 +385,8 @@
   },
   "active": "3da1f5c2f0035609",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 11/singular values.md",
     "MATH1116/MATH1116 final exam hints.md",
+    "MATH1116/Linear algebra/Week 11/singular values.md",
     "MATH1116/Linear algebra/Week 11/positive operator.md",
     "MATH1013/Linear algebra/Week 2/Position vector.md",
     "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
