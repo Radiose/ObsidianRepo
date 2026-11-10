@@ -126,6 +126,24 @@ $\dim(\mathcal{L}(V,W))=\dim(V)\times \dim(W)$
 Duality:
 The matrix presentation of $T^V$ is the transpose of the presentation of $T$
 
+$(T^V)$ is injective $\iff$ $T$ is surjective 
+
+$ann(\ker(T))=Range(T^V)$
+$\dim(range(T^V))=\dim range(T)$
+$ann(Range(T))=\ker(T^V)$
+
+also
+for $T$ self adjoint, T restricted to $U$
+$T|_{U}$ is self adjoint 
+
+Also 
+$range(T^*)=\ker(T)^\perp$
+$\ker(T)=range(T^*)^\perp$
+
+Finally, $\ker(T^*T)=\ker(T)$
+$range(T^*T)=range(T^*)$
+
+
 # COME BACK TO: COORDINATISING MATRICES 
 
 Eigenvalues, eigenspace 
