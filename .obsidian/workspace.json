@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
+                "file": "MATH1116/Linear algebra/Week 8/inner product.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Jordan normal form"
+              "title": "inner product"
             }
           },
           {
@@ -204,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -277,8 +277,7 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -400,13 +399,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e9433c2d2fbca9a5",
+  "active": "3b61afe8b5f85e0f",
   "lastOpenFiles": [
-    "MATH1116/Analysis/Week 9/multivariate continuity.md",
+    "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
+    "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
     "MATH1116/Analysis/Week 10/multivariate integrability.md",
+    "MATH1116/Analysis/Week 9/multivariate continuity.md",
     "MATH1116/Analysis/Week 9/multivariate intermediate value theorem.md",
     "MATH1116/Analysis/Week 8/arc length parametrisation.md",
-    "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
     "MATH1116/MATH1116 final exam hints.md",
     "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
     "MATH1116 A12.md",
@@ -427,7 +427,6 @@
     "MATH1116/Analysis/Week 11/multivariate differentiability.md",
     "MATH1116/Analysis/Week 6/uniformly Cauchy.md",
     "COMP2610 exam revision.md",
-    "Excalidraw/MATH1116 A12.excalidraw.md",
     "attachments/Pasted image 20261108105139.png",
     "attachments/Pasted image 20261108104654.png",
     "attachments/Pasted image 20261107202622.png",
