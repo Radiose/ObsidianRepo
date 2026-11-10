@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
+                "file": "MATH1116/Analysis/Week 2/Convergence of series.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -160,7 +160,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "orthogonal complement"
+              "title": "Convergence of series"
             }
           },
           {
@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -384,12 +384,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ff677e6a27c1b053",
+  "active": "368a7c3a969ebff8",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
-    "MATH1116/Linear algebra/Week 11/singular value decomposition.md",
+    "MATH1116/Analysis/Week 1/MATH1116 29.07.2026.md",
+    "MATH1116/Analysis/Week 3/summation by parts.md",
     "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
     "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
+    "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
+    "MATH1116/Linear algebra/Week 11/singular value decomposition.md",
     "MATH1116/Linear algebra/Week 10/complex spectral theorem.md",
     "MATH1116/Analysis/Week 11/multivariate differentiability.md",
     "MATH1116/Analysis/Week 6/power series.md",
@@ -410,8 +412,6 @@
     "MATH1116/Linear algebra/Week 5/eigenvalue.md",
     "Untitled 2.md",
     "MATH1116/Linear algebra/Week 8/inner product.md",
-    "MATH1116/Analysis/Week 10/multivariate integrability.md",
-    "MATH1116/Analysis/Week 9/multivariate continuity.md",
     "attachments/Pasted image 20261108105139.png",
     "attachments/Pasted image 20261108104654.png",
     "attachments/Pasted image 20261107202622.png",
