@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
+                "file": "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -160,7 +160,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "orthogonal complement"
+              "title": "adjoint linear map"
             }
           },
           {
@@ -223,7 +223,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "representation theorem",
+                "query": "exerci",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -387,14 +387,16 @@
   },
   "active": "368a7c3a969ebff8",
   "lastOpenFiles": [
-    "MATH1116/Linear algebra/Week 9/conjugate linear involution.md",
+    "MATH1116/Linear algebra/Week 8/norm.md",
+    "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
+    "MATH1116/Linear algebra/Week 11/singular values.md",
     "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
+    "MATH1116/Linear algebra/Week 9/conjugate linear involution.md",
     "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
     "COMP2610 exam revision.md",
     "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
     "MATH1116/Linear algebra/Week 5/annihilator.md",
     "MATH1116/Linear algebra/Week 4/dual vector space.md",
-    "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
     "MATH1116/Linear algebra/Week 7/Algorithm for finding Jordan normal form.md",
     "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
     "MATH1116/Linear algebra/Week 7/Cayley Hamilton theorem.md",
@@ -411,8 +413,6 @@
     "MATH1116/Linear algebra/Week 4/dual basis.md",
     "MATH1116/MATH1116 assignment 8.md",
     "MATH1116/Analysis/Week 6/power series.md",
-    "MATH1116/Analysis/Week 3/summation by parts.md",
-    "Z_MATH help/math tricks.md",
     "attachments/Pasted image 20261108105139.png",
     "attachments/Pasted image 20261108104654.png",
     "attachments/Pasted image 20261107202622.png",
