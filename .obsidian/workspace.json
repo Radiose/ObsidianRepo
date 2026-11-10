@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
+                "file": "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -160,7 +160,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "adjoint linear map"
+              "title": "orthogonal complement"
             }
           },
           {
@@ -223,7 +223,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "exerci",
+                "query": "annihilator",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -262,8 +262,7 @@
               "title": "MATH1005 30.03.2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -385,14 +384,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "368a7c3a969ebff8",
+  "active": "f348cd9abe5857a6",
   "lastOpenFiles": [
+    "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
     "MATH1116/Linear algebra/Week 8/norm.md",
     "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
     "MATH1116/Linear algebra/Week 11/singular values.md",
     "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
     "MATH1116/Linear algebra/Week 9/conjugate linear involution.md",
-    "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
     "COMP2610 exam revision.md",
     "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
     "MATH1116/Linear algebra/Week 5/annihilator.md",
