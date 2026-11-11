@@ -169,13 +169,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
+                "file": "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "adjoint linear map"
+              "title": "nilpotent operator"
             }
           },
           {
@@ -206,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -402,13 +402,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d3b3b82464bffd8d",
+  "active": "7f080cf5a7dcc52b",
   "lastOpenFiles": [
+    "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
+    "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
+    "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
     "Untitled 1.canvas",
     "MATH1116/Linear algebra/Week 11/positive operator.md",
     "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
     "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
-    "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
     "MATH1116/Linear algebra/Week 8/inner product space.md",
     "MATH1116/Linear algebra/Week 8/orthogonal vectors.md",
     "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
@@ -429,7 +431,6 @@
     "MATH1116/Linear algebra/Week 5/annihilator.md",
     "MATH1116/Analysis/Week 1/MATH1116 29.07.2026.md",
     "MATH1116/Analysis/Week 3/summation by parts.md",
-    "MATH1116/Linear algebra/Week 10/complex spectral theorem.md",
     "attachments/Pasted image 20261108105139.png",
     "attachments/Pasted image 20261108104654.png",
     "attachments/Pasted image 20261107202622.png",
