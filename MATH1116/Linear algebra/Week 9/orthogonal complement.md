@@ -65,7 +65,7 @@ IE, $\Phi (U^\perp)=Ann(U)$
 We aim to show that $\Phi$ is injective. 
 Assume that $v \in V$ is in $\ker(\Phi)$
 $\forall \mathbf{w}\in V,\Phi(\mathbf{v})(\mathbf{w})=0$
-In particular, for $\mathbf{w}=\iota(\mathbf{v}),0=\iota(\mathbf{v})(\iota(\mathbf{v}))=\langle \iota (\mathbf{v}),\iota(\mathbf{v}) \rangle\implies \iota(\mathbf{v})=0$
+In particular, for $\mathbf{w}=\iota(\mathbf{v}),\quad \Phi(v)(\iota(v))=0=\langle \iota (\mathbf{v}),\iota(\mathbf{v}) \rangle\implies \iota(\mathbf{v})=0$
 Note, $\iota(\mathbf{0})=0$, and $\iota$ is bijective so therefore $\mathbf{v}=0$. $\iota$ is bijective because $\iota^2=id_{v}$, implying that it has an inverse(itself) and via [[Invertible matrix theorem]], it must be bijective. 
 
 Now, $\dim(V^V)=\dim(V)$, $\phi$ being injective implies $\phi$ is an [[isomorphism]].  
