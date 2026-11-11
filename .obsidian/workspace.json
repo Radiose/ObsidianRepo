@@ -100,13 +100,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
+                "file": "MATH1116/Analysis/Week 6/power series.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "characteristic polynomial"
+              "title": "power series"
             }
           },
           {
@@ -404,6 +404,7 @@
   },
   "active": "7f080cf5a7dcc52b",
   "lastOpenFiles": [
+    "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
     "MATH1116/MATH1116 A11.md",
     "MATH1116 A12.md",
     "MATH1116/Linear algebra/Week 8/inner product.md",
@@ -426,7 +427,6 @@
     "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
     "MATH1116/MATH1116 A9.md",
     "MATH1116/Analysis/Week 8/arc length parametrisation.md",
-    "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
     "MATH1116/Analysis/Week 11/multivariate differentiability.md",
     "MATH1116/Analysis/Week 10/multivariate integrability.md",
     "MATH1013/Linear algebra/Week 2/Position vector.md",
