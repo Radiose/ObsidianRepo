@@ -7,7 +7,7 @@ $\forall \ \text{linear maps} \in \mathcal{L}(V,W)$, we have $[T^V]_{\alpha^V\le
 
 (any matrix presentation of $T^V$ is the transpose of of the matrix presentation of $T$).
 
-Come back when the time comes 
+
 
 
 
