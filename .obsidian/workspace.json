@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
+                "file": "MATH1116/Linear algebra/Week 11/positive operator.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "orthogonal complement"
+              "title": "positive operator"
             }
           },
           {
@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
+                "file": "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -160,7 +160,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "orthogonal complement"
+              "title": "Coordinatizing matrices"
             }
           },
           {
@@ -187,9 +187,26 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "d3b3b82464bffd8d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 33.32543394245812,
+                  "y": 684.7002957108416,
+                  "zoom": -0.46059340796959497
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 1"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -266,7 +283,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289
+    "width": 289,
+    "collapsed": true
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -384,12 +402,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "368a7c3a969ebff8",
+  "active": "d3b3b82464bffd8d",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
     "MATH1116/Linear algebra/Week 11/positive operator.md",
-    "MATH1116/Linear algebra/Week 11/singular values.md",
-    "MATH1116/Linear algebra/Week 11/singular value decomposition.md",
     "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
+    "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
+    "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
+    "MATH1116/Linear algebra/Week 8/inner product space.md",
+    "MATH1116/Linear algebra/Week 8/orthogonal vectors.md",
+    "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
+    "MATH1116/Linear algebra/Week 11/singular value decomposition.md",
+    "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
+    "MATH1116/Linear algebra/Week 11/singular values.md",
     "MATH1116/Analysis/Week 2/Convergence of series.md",
     "MATH1116/MATH1116 final exam hints.md",
     "MATH1116 A12.md",
@@ -397,8 +422,6 @@
     "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
     "MATH1116/MATH1116 A9.md",
     "MATH1116/Analysis/Week 8/arc length parametrisation.md",
-    "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
-    "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
     "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
     "MATH1116/Analysis/Week 11/multivariate differentiability.md",
     "MATH1116/Analysis/Week 10/multivariate integrability.md",
@@ -406,12 +429,7 @@
     "MATH1116/Linear algebra/Week 5/annihilator.md",
     "MATH1116/Analysis/Week 1/MATH1116 29.07.2026.md",
     "MATH1116/Analysis/Week 3/summation by parts.md",
-    "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
     "MATH1116/Linear algebra/Week 10/complex spectral theorem.md",
-    "MATH1116/Analysis/Week 6/power series.md",
-    "MATH1116/Linear algebra/Week 8/norm.md",
-    "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
-    "MATH1116/Linear algebra/Week 9/conjugate linear involution.md",
     "attachments/Pasted image 20261108105139.png",
     "attachments/Pasted image 20261108104654.png",
     "attachments/Pasted image 20261107202622.png",
