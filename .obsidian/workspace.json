@@ -100,13 +100,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Analysis/Week 8/arc length parametrisation.md",
+                "file": "MATH1116/MATH1116 A10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "arc length parametrisation"
+              "title": "MATH1116 A10"
             }
           },
           {
@@ -130,13 +130,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116 A12.md",
+                "file": "MATH1116/MATH1116 final exam hints.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1116 A12"
+              "title": "MATH1116 final exam hints"
             }
           },
           {
@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -384,21 +384,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "acbf203f7a2a5ef7",
+  "active": "41dff463ad044fb9",
   "lastOpenFiles": [
+    "MATH1116 A12.md",
+    "MATH1116/MATH1116 A10.md",
+    "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
+    "MATH1116/MATH1116 A9.md",
+    "MATH1116/Analysis/Week 8/arc length parametrisation.md",
+    "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
     "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
     "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
-    "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
     "MATH1116/Analysis/Week 11/multivariate differentiability.md",
     "MATH1116/Analysis/Week 10/multivariate integrability.md",
     "MATH1116/Linear algebra/Week 11/positive operator.md",
     "MATH1116/Linear algebra/Week 11/singular values.md",
     "MATH1116/MATH1116 final exam hints.md",
     "MATH1013/Linear algebra/Week 2/Position vector.md",
-    "MATH1116/Linear algebra/Week 9/orthogonal complement.md",
     "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
     "MATH1116/Linear algebra/Week 5/annihilator.md",
-    "MATH1116 A12.md",
     "MATH1116/Analysis/Week 2/Convergence of series.md",
     "MATH1116/Analysis/Week 1/MATH1116 29.07.2026.md",
     "MATH1116/Analysis/Week 3/summation by parts.md",
@@ -406,12 +409,9 @@
     "MATH1116/Linear algebra/Week 11/singular value decomposition.md",
     "MATH1116/Linear algebra/Week 10/complex spectral theorem.md",
     "MATH1116/Analysis/Week 6/power series.md",
-    "MATH1116/Analysis/Week 8/arc length parametrisation.md",
     "MATH1116/Linear algebra/Week 8/norm.md",
     "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
     "MATH1116/Linear algebra/Week 9/conjugate linear involution.md",
-    "COMP2610 exam revision.md",
-    "MATH1116/Linear algebra/Week 4/dual vector space.md",
     "attachments/Pasted image 20261108105139.png",
     "attachments/Pasted image 20261108104654.png",
     "attachments/Pasted image 20261107202622.png",
