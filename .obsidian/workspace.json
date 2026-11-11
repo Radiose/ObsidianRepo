@@ -100,13 +100,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/MATH1116 A10.md",
+                "file": "MATH1116/MATH1116 A11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATH1116 A10"
+              "title": "MATH1116 A11"
             }
           },
           {
@@ -404,6 +404,10 @@
   },
   "active": "7f080cf5a7dcc52b",
   "lastOpenFiles": [
+    "MATH1116 A12.md",
+    "MATH1116/MATH1116 A11.md",
+    "MATH1116/Linear algebra/Week 8/inner product.md",
+    "MATH1116/MATH1116 A10.md",
     "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
     "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
     "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
@@ -419,8 +423,6 @@
     "MATH1116/Linear algebra/Week 11/singular values.md",
     "MATH1116/Analysis/Week 2/Convergence of series.md",
     "MATH1116/MATH1116 final exam hints.md",
-    "MATH1116 A12.md",
-    "MATH1116/MATH1116 A10.md",
     "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
     "MATH1116/MATH1116 A9.md",
     "MATH1116/Analysis/Week 8/arc length parametrisation.md",
@@ -429,8 +431,6 @@
     "MATH1116/Analysis/Week 10/multivariate integrability.md",
     "MATH1013/Linear algebra/Week 2/Position vector.md",
     "MATH1116/Linear algebra/Week 5/annihilator.md",
-    "MATH1116/Analysis/Week 1/MATH1116 29.07.2026.md",
-    "MATH1116/Analysis/Week 3/summation by parts.md",
     "attachments/Pasted image 20261108105139.png",
     "attachments/Pasted image 20261108104654.png",
     "attachments/Pasted image 20261107202622.png",
