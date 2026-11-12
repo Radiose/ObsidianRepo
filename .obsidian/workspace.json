@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
+                "file": "MATH1116 A12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "orthogonal projection"
+              "title": "MATH1116 A12"
             }
           },
           {
@@ -206,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -401,8 +401,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3b61afe8b5f85e0f",
+  "active": "ff677e6a27c1b053",
   "lastOpenFiles": [
+    "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
+    "MATH1116/Linear algebra/Week 8/inner product.md",
     "MATH1116/Linear algebra/Week 11/positive operator.md",
     "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
     "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
@@ -410,7 +412,6 @@
     "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
     "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
     "MATH1116/Linear algebra/Week 11/singular value decomposition.md",
-    "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
     "MATH1116/Linear algebra/Week 9/conjugate linear involution.md",
     "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
     "adjiont.md",
@@ -424,7 +425,6 @@
     "MATH1116/Linear algebra/Week 7/characteristic polynomial.md",
     "MATH1116/MATH1116 A11.md",
     "MATH1116 A12.md",
-    "MATH1116/Linear algebra/Week 8/inner product.md",
     "MATH1116/MATH1116 A10.md",
     "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
     "Untitled 1.canvas",
