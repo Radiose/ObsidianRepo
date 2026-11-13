@@ -184,13 +184,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 10/block code.md",
+                "file": "MATH1005/Week 9/Bayes theorem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "block code"
+              "title": "Bayes theorem"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 11/Hamming code.md",
+                "file": "COMP2610/Week 3/entropy (information theory).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Hamming code"
+              "title": "entropy (information theory)"
             }
           },
           {
@@ -214,17 +214,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "COMP2610/Week 2/variance.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "variance"
+            }
+          },
+          {
+            "id": "8843e204b824bc32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH1005/Week 8/Chain Rule (probability).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Chain Rule (probability)"
+            }
+          },
+          {
+            "id": "1faf158e00883638",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 3/entropy (information theory).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "entropy (information theory)"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -258,12 +288,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "the sum rule",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byRelevance"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -419,45 +449,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "289e17acd2d771ef",
+  "active": "1faf158e00883638",
   "lastOpenFiles": [
+    "comp2610 cheat sheet.md",
+    "COMP2610/Week 3/conditional entropy.md",
+    "COMP2610/Week 3/entropy (information theory).md",
+    "COMP2610/Week 8/Arithmetic coding.md",
+    "MATH1005/Week 7/set counting.md",
+    "COMP2610/Week 2/conditional independence.md",
+    "COMP2610/Week 1/marginal probability.md",
+    "MATH1005/Week 9/Bayes theorem.md",
+    "COMP2610/Week 2/variance.md",
+    "MATH1005/Week 8/Chain Rule (probability).md",
+    "MATH1005/Week 9/Conditional probability.md",
+    "MATH1013/Calculus/Week 8/Chain rule.md",
+    "COMP2610/Week 2/COMP2610 03.08.2026.md",
+    "COMP2610/Week 10/block code.md",
+    "Untitled.md",
+    "COMP2610/Week 1/Joint probability.md",
+    "COMP2610/Week 3/decomposability of entropy.md",
+    "COMP2610/Week 4/COMP2610 17.08.2026 18.08.2026.md",
+    "COMP2610/Week 6/source code.md",
+    "COMP2610/Week 11/Hamming code.md",
     "attachments/Pasted image 20261113184146.png",
     "COMP2610/Week 3/the Bernoulli distribution.md",
-    "COMP2610/Week 11/Hamming code.md",
     "COMP2610/Week 11/syndrome decoding.md",
-    "Untitled.md",
     "attachments/Pasted image 20261113171441.png",
     "attachments/Pasted image 20261113171116.png",
     "attachments/Pasted image 20261113170622.png",
     "attachments/Pasted image 20261113170604.png",
     "COMP2610/Week 11/repetition code.md",
     "Untitled 1.md",
-    "COMP2610/Week 10/block code.md",
     "attachments/Pasted image 20261113162425.png",
     "COMP2610/Week 10/reliability of block codes.md",
     "COMP2610/Week 10/joint typicality.md",
-    "COMP2610/Week 10/rate of block code.md",
-    "COMP2610/Week 10/achievable rate.md",
-    "COMP2610/Week 10/the noisy channel coding theorem.md",
-    "comp2610 cheat sheet.md",
     "attachments/Pasted image 20261113145428.png",
-    "COMP3670 A2.md",
-    "MATH1116 A12.md",
-    "MAXIMISING MARKS.md",
-    "COMP3670 A1.md",
-    "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
-    "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
-    "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
-    "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
-    "MATH1116/Linear algebra/Week 11/singular value decomposition.md",
-    "MATH1116/Linear algebra/Week 10/complex spectral theorem.md",
     "Untitled 1.canvas",
-    "MATH1116/Analysis/Week 6/applications of power series.md",
-    "MATH1116/Analysis/Week 3/summation by parts.md",
     "attachments/Pasted image 20261108105139.png",
     "attachments/Pasted image 20261108104654.png",
     "attachments/Pasted image 20261107202622.png",
-    "attachments/Pasted image 20261107202300.png",
     "Untitled.canvas",
     "templates",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
