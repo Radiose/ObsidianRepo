@@ -199,62 +199,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 10/rate of block code.md",
+                "file": "COMP2610/Week 11/repetition code.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "rate of block code"
-            },
-            "group": "9cc37a7584778e5a"
+              "title": "repetition code"
+            }
           }
         ],
         "currentTab": 12
-      },
-      {
-        "id": "548543ccc144f764",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "23eef893a7b75708",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "COMP2610/Week 10/rate of block code.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "path:COMP2610  ",
-                  "localJumps": 3,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of rate of block code"
-            },
-            "group": "9cc37a7584778e5a"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -451,9 +406,13 @@
   },
   "active": "289e17acd2d771ef",
   "lastOpenFiles": [
-    "COMP2610/Week 10/achievable rate.md",
-    "COMP2610/Week 10/joint typicality.md",
     "COMP2610/Week 10/block code.md",
+    "COMP2610/Week 11/repetition code.md",
+    "attachments/Pasted image 20261113162425.png",
+    "COMP2610/Week 10/reliability of block codes.md",
+    "COMP2610/Week 10/joint typicality.md",
+    "COMP2610/Week 10/rate of block code.md",
+    "COMP2610/Week 10/achievable rate.md",
     "COMP2610/Week 10/the noisy channel coding theorem.md",
     "comp2610 cheat sheet.md",
     "attachments/Pasted image 20261113145428.png",
@@ -475,10 +434,6 @@
     "MATH1116/Linear algebra/Week 11/positive operator.md",
     "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
     "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
-    "MATH1116/Linear algebra/Week 9/conjugate linear involution.md",
-    "MATH1116/Linear algebra/Week 9/adjoint linear map.md",
-    "adjiont.md",
-    "MATH1116/Linear algebra/Week 5/dual map.md",
     "attachments/Pasted image 20261108105139.png",
     "attachments/Pasted image 20261108104654.png",
     "attachments/Pasted image 20261107202622.png",
@@ -487,7 +442,6 @@
     "attachments/Pasted image 20261107201227.png",
     "attachments/Pasted image 20261107201106.png",
     "attachments/Pasted image 20261107200247.png",
-    "attachments/Pasted image 20260827105147.png",
     "Untitled.canvas",
     "templates",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",
