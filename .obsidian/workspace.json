@@ -199,13 +199,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 11/repetition code.md",
+                "file": "Hamming code.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "repetition code"
+              "title": "Hamming code"
             }
           }
         ],
@@ -406,8 +406,15 @@
   },
   "active": "289e17acd2d771ef",
   "lastOpenFiles": [
-    "COMP2610/Week 10/block code.md",
+    "attachments/Pasted image 20261113171441.png",
+    "attachments/Pasted image 20261113171116.png",
+    "attachments/Pasted image 20261113170622.png",
+    "attachments/Pasted image 20261113170604.png",
     "COMP2610/Week 11/repetition code.md",
+    "Hamming code.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "COMP2610/Week 10/block code.md",
     "attachments/Pasted image 20261113162425.png",
     "COMP2610/Week 10/reliability of block codes.md",
     "COMP2610/Week 10/joint typicality.md",
@@ -421,7 +428,6 @@
     "MAXIMISING MARKS.md",
     "COMP3670 A1.md",
     "MATH1116/Linear algebra/Week 7/Jordan normal form.md",
-    "Untitled 1.md",
     "MATH1116/Linear algebra/Week 9/orthogonal projection.md",
     "MATH1116/Linear algebra/Week 4/Coordinatizing matrices.md",
     "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
@@ -432,16 +438,11 @@
     "MATH1116/Analysis/Week 3/summation by parts.md",
     "MATH1116/Linear algebra/Week 8/inner product.md",
     "MATH1116/Linear algebra/Week 11/positive operator.md",
-    "MATH1116/Linear algebra/Week 10/self adjoint operator.md",
-    "MATH1116/Linear algebra/Week 10/real spectral theorem.md",
     "attachments/Pasted image 20261108105139.png",
     "attachments/Pasted image 20261108104654.png",
     "attachments/Pasted image 20261107202622.png",
     "attachments/Pasted image 20261107202300.png",
     "attachments/Pasted image 20261107201322.png",
-    "attachments/Pasted image 20261107201227.png",
-    "attachments/Pasted image 20261107201106.png",
-    "attachments/Pasted image 20261107200247.png",
     "Untitled.canvas",
     "templates",
     "Foundations of Calculus Hutchinson - Calculus (SPIVAK)/ch19-20",

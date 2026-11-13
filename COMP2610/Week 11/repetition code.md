@@ -17,3 +17,5 @@ Note that importantly, we cannot replicate elements of $\eta$ like those of $\ma
 
 
 
+# Beyond repetition codes 
+![[Hamming code]]
