@@ -174,5 +174,26 @@ Given a tiny probability of error, we can make the average essential bit content
 
 
 
-# Coding 
-$\mathcal{A}^+:= \bigcup_{}$N
+# Symbol Coding 
+$\mathcal{A}^+:= \bigcup_{N}\mathcal{A}^N$ - the set of all finite strings
+A code $c$ for $X$ is uniquely decodable if no two strings from $\mathcal{A}_{X}^+$ have the same codeword. IE, $\forall x,y \in \mathcal{A_{X}^+}$, $\mathbf{x}\not= \mathbf{y}\implies c(\mathbf{x})\not=\mathbf{y}$ - slightly different to lossless which talks about singular symbols while this is more about combinations of symbols.
+
+A codeword $\mathbf{c}\in \{ 0,1 \}^+$ is said to be a prefix of another codeword $\mathbf{c}'$ if $\exists \mathbf{t}\in \{ 0,1 \}^+$ such that 
+$\mathbf{c}'=\mathbf{ct}$
+
+Kraft inequality: 
+For lengths $\{ \ell_{1},\dots,\ell_{I} \}$ satisfying
+$\sum_{i=1}^I 2^{-\ell_{i}}\leq 1$
+A prefix code exists with those lengths. 
+
+Expected code length:
+$L(C,X)=\sum_{i=1}^I \ell_{i}p_{i}$
+
+Given lengths $\{ \ell_{1},\dots,\ell_{I} \}$
+the probabilities for $\ell_{i}$ is $q_{i}=\frac{2^{-\ell_{i}}}{z}$
+Where $z$ is the sum of all lengths $\sum_{i}2^{-\ell_{i}}$
+Minimising expected code length is by minimising the KL divergence between $p$ and $q$
+
+Shannon codes:
+Picking lengths $\ell_{i}=\lceil \log_{2} \frac{1}{p_{i}} \rceil$ gives us optimal expected code lengths
+
