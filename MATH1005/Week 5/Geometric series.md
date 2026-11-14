@@ -7,3 +7,4 @@ if $r = 1$, then its simply $N \times a$
 
 
 Additionally, the **infinite** geometric series = $\frac{1}{1-r}$  for $|r|<1$
+and $\sum_{i=0}^\infty ar^i=\frac{a}{1-r}$
