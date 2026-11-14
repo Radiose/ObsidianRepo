@@ -113,4 +113,9 @@ For random variables that take negative values, and also more useful because it 
 $p(|X-\mathbb{E}[X]|\geq \lambda)\leq \frac{var[X]}{\lambda^2}$
 - useful for estimating how large $n$ should be so that $\hat{\theta}$ is within $\lambda$ of $\theta$ - a form of bound on a generalisation gap. 
 Example: 
-Estimate how large $n$ should be such that $p(|\hat{\theta}-\theta|\geq 0.05)\leq 0.01$ (less than 1% chance of 5% error)
+Estimate how large $n$ should be such that $p(|\hat{\theta_{n}}-\theta|\geq 0.05)\leq 0.01$ (less than 1% chance of 5% error)
+Note that $\mathbb{E}[\hat{\theta}_{n}]=\theta$ and $var[\hat{\theta}_{n}]=\frac{\theta(1-\theta)}{n}$ 
+
+
+
+# ENSEMBLE 
