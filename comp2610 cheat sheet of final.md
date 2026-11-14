@@ -8,6 +8,8 @@ $stdv=\sqrt{ var }$
 
 Bayes theorem: Given a *prior* $p(s)$, evidence, $p(x)$ and likelihood $p(x|s)$, we aim to obtain a posterior$p(s|x)$ that we can use to update priors.
 
+$$\mathbb{P}(B_{k}|A)=\frac{\mathbb{P}(A|B_{K})\mathbb{P}(B_{K})}{\sum_{i=1}^n \mathbb{P}(A|B_{i})\mathbb{P}(B_{i})}$$
+
 The chain rule: This is a method to decompose joint probabilities
 $p(X_{1},X_{2},\dots,X_{n})=p(X_{1})p(X_{2}|X_{1})p(X_{3}|X_{2},X_{1})\dots.,p(X_{n}|X_{n-1},\dots,X_{1})$
 Also, the marginal probabilities can be obtained by summing up all joint probabilities with respect to the desired variable.
@@ -193,7 +195,17 @@ Given lengths $\{ \ell_{1},\dots,\ell_{I} \}$
 the probabilities for $\ell_{i}$ is $q_{i}=\frac{2^{-\ell_{i}}}{z}$
 Where $z$ is the sum of all lengths $\sum_{i}2^{-\ell_{i}}$
 Minimising expected code length is by minimising the KL divergence between $p$ and $q$
+$L(C,X)=H(X)+D_{KL}(\mathbf{p}||\mathbf{q})+\log_{2} \frac{1}{z}$ so lowest is the entropy
+
+
+
 
 Shannon codes:
 Picking lengths $\ell_{i}=\lceil \log_{2} \frac{1}{p_{i}} \rceil$ gives us optimal expected code lengths
+
+Source coding theorem for symbol codes 
+For any ensemble $X$, there exists a prefix free symbol code such that
+$H(X)\leq L(C,X)<H(X)+1$
+
+Huffman coding: Provably optimal - best type of symbol code but the extra bit means that we waste stuff.
 
