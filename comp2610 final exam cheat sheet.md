@@ -2,6 +2,10 @@
 
 # Probability theory
 
+$\log(ab)=\log(a)+\log(b)$
+
+$\mathbb{E}[X]= \sum_{a \in Range(X)}\mathbb{P}(\{ X=a \})a$
+
 Our variance is $var(X)=\mathbb{E}(X^2)-(\mathbb{E}[X])^2$
 $stdv=\sqrt{ var }$
 
@@ -64,8 +68,10 @@ $\frac{p_{1}}{P_{1}}$ is the probability that $X=1$ given $X$ is in the first bl
 Conditional:
 $H(Y|X)=\sum _{x \in \mathcal{X}}\sum_{y \in \mathcal{Y}}p(x,y) \log_{2} \frac{1}{p(y|x)}$ 
 
+$H(X,Y) = H(X) + H(Y|X) = H(Y) + H(X|Y)$
 
-### CHAIN RULE COME BACK
+
+
 
 #### [[relative entropy|KL divergence]]/relative entropy 
 This is a method of obtaining the "distance" between two probability distributions. If we have the "true" distribution $p$, and our assumed distribution $q$, the $D_{KL}(p ||q)= \sum p(x)\log\left( \frac{p(x)}{q(s)} \right)$

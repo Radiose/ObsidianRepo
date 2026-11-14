@@ -1,4 +1,3 @@
-
 information
 
 This is the fundamental concept underpinning the course COMP2610. 
