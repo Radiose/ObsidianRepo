@@ -77,6 +77,8 @@ The mutual information of two random variables is $I(X;Y)=D_{KL}(p(X,Y)||p(X)p(Y
 We can also write it as $H(X,Y)-H(X|Y)$. Note that because $I(X;Y)=I(Y;X)$ we can also get it by $H(X,Y)-H(Y|X)$
 "how much information on average does $X$ tell us about $Y$" and "the average reduction in the uncertainty of $X$ given the uncertainty of $Y$"
 
+Note that importantly $I(X;Y)=0 \iff X \mathrel{\perp\!\!\!\!\perp}Y$
+
 ![[Pasted image 20261113145428.png]]
 
 
@@ -119,3 +121,21 @@ Note that $\mathbb{E}[\hat{\theta}_{n}]=\theta$ and $var[\hat{\theta}_{n}]=\frac
 
 
 # ENSEMBLE 
+An ensemble is tuple $(X, \mathcal{A}_{X},\mathcal{P}_{X})$
+X is a RV, $\mathcal{A}_{X}$, its alphabet is where it takes values, and $\mathcal{P}_{X}$ is the associated probabilities
+An extended ensemble is an ensemble where we denote blocks of size $N$. We denote it $X^N$. Outcomes from $X^N$ are denoted $\mathbf{x}=(x_{1},\dots,x_{n})$. The probability of $\mathbf{x}$ is defined to be 
+$P(\mathbf{x})=P(x_{1})P(x_{2})\dots p(x_{N})$
+For a given type of sequence, the amount of sequences with these symbol counts are:
+$$\frac{N!}{n_{1}!n_{2}!\dots n_{I}!}$$
+The probability of some sequence containing some non ordered quantity of elements in the alphabet is $p(x_{1})^{n_{1}}p(x_{2})^{n_{2}}\dots$ and then multiply by the corresponding multinomial coefficient. 
+
+The typical set $T_{N\beta}$  of$X^N$, is defined as $\left\{  \mathbf{x}\in X^N| - \frac{1}{N}\log_{2}P(\mathbf{x})-H(X) |<N\beta \right\}$
+
+every $\mathbf{x}\in T_{N\beta}$ has $2^{-N(H(X)+\beta)}\leq P(\mathbf{x})\leq 2^{-N(H(X)-\beta)}$
+For any $N,\beta$, $|T_{N\beta}|\leq 2^{N(H(X)+\beta)}$
+
+Note that the most likely sequence may not actually be in the typical set. For example, if we have the probability of heads being $0.75$, then $hhhh$ is the most likely. However, because there is only one copy of it, its unlikely to be in the typical set. The addition of the multinomial coefficient can balance out the exponential decay that occurs with block size increase.
+
+AEP:
+If $x_{1},x_{2},\dots$ are IID, with distribution $P$, then 
+$\forall\beta>0$,  $\lim_{ N \to \infty }p\left( \left\lvert  -\frac{1}{N} \log_{2}P(x_{1},\dots,x_{N})  \right\rvert<\beta \right)=1$ - as $N$ gets large, pretty much any sequence drawn will be typical. 

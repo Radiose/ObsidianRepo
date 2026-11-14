@@ -63,13 +63,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "COMP3670/Week 3/PAC learnable.md",
+                    "file": "COMP2610/Week 5/typical set.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "PAC learnable"
+                  "title": "typical set"
                 }
               },
               {
@@ -305,10 +305,12 @@
   },
   "active": "1faf158e00883638",
   "lastOpenFiles": [
+    "COMP2610/Week 5/typical set.md",
+    "COMP2610/Week 5/ensemble.md",
+    "comp2610 cheat sheet of final.md",
     "COMP3670/Week 3/PAC learnable.md",
     "COMP2610/Week 9/channel capacity.md",
     "COMP2610/Week 5/Chebychovs inequality.md",
-    "comp2610 cheat sheet of final.md",
     "COMP2610/Week 5/Markov's inequality.md",
     "COMP2610/Week 4/markov chain.md",
     "COMP2610/Week 4/COMP2610 17.08.2026 18.08.2026.md",
@@ -329,8 +331,6 @@
     "MATH1116/Linear algebra/Week 10/complex spectral theorem.md",
     "Excalidraw/MATH1116 A12.excalidraw.md",
     "MATH1116/Linear algebra/Week 11/positive operator.md",
-    "MATH1116/Linear algebra/Week 8/inner product.md",
-    "MATH1116/Analysis/Week 6/applications of power series.md",
     "attachments/Pasted image 20261113184146.png",
     "attachments/Pasted image 20261113171441.png",
     "attachments/Pasted image 20261113171116.png",
