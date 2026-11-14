@@ -93,6 +93,24 @@ Note that $I(X;Y|Z)=I(Y;X|Z)$ and that $I(X|Z;Y)$ is illegal.
 # Joint 
 $I(X_{1}X_{2},\dots,X_{n};Y_{1}Y_{2},\dots,Y_{m})=H(X_{1},\dots,X_{n})-H(X_{1},\dots,X_{n}|Y_{1},\dots,Y_{n})$
 Symmetry applies to joint. 
+We can also write it as $H(X_{1},\dots,X_{n})+H(Y_{1},\dots,Y_{M})-H(X_{1},\dots X_{n};Y_{1},\dots,Y_{m})$
+This is because of the entropy chain rule.
 
+## Chain rule for mutual information
+$I(X;Y,Z)=I(X;Y)+I(X;Z|Y)$
+In total, 
+$I(X_{1},\dots,X_{N};Y)=I(X_{1};Y)+I(X_{2};Y|X_{1})+I(X_{3};Y|X_{1}X_{2})+\dots+I(X_{n};Y|X_{1},\dots,X_{n-1})$
 
-# Inequalities
+# Inequalities:
+Jensens inequality 
+For convex $f$, with $X$ a random variable, then $f(\mathbb{E}[X])\leq \mathbb{E}[f(x)]$
+
+Markovs inequality 
+For any $\lambda>0$ $P(X \geq \lambda)\leq \frac{\mathbb{E}[X]}{\lambda}$
+
+Chebychovs inequality:
+For random variables that take negative values, and also more useful because it uses variance 
+$p(|X-\mathbb{E}[X]|\geq \lambda)\leq \frac{var[X]}{\lambda^2}$
+- useful for estimating how large $n$ should be so that $\hat{\theta}$ is within $\lambda$ of $\theta$ - a form of bound on a generalisation gap. 
+Example: 
+Estimate how large $n$ should be such that $p(|\hat{\theta}-\theta|\geq 0.05)\leq 0.01$ (less than 1% chance of 5% error)

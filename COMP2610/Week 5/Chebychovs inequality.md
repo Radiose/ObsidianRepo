@@ -43,7 +43,7 @@ Suppose we are flipping some coin $n$ times with bias $\theta,p(X=1)=\theta$
 
 We flip the coin $n$ times, and observe $x_{1},\dots,x_{n} \in \{ 0,1 \}$
 We use the maximum likelihood estimator of $\theta$ ( from the [[binomial distribution]]): $$\hat{\theta}=\frac{x_{1}+\dots+x_{n}}{n}$$we estimate how large n should be such that $p(|\hat{\theta}_{n}-\theta|\ge { 0}.05)\leq {0}.01$.  
-1% probability with 5% error.  - the probability that the dif
+1% probability with 5% error.  
 
 So our goal here is to use [[Chebychovs inequality]] to this 
 We use the basic version 

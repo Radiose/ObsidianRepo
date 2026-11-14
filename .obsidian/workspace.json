@@ -10,6 +10,7 @@
           {
             "id": "0e4cc9722d8f2de6",
             "type": "tabs",
+            "dimension": 50,
             "children": [
               {
                 "id": "bb577085e47a2668",
@@ -47,13 +48,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "COMP2610/Week 4/COMP2610 17.08.2026 18.08.2026.md",
+                    "file": "COMP2610/Week 5/Chebychovs inequality.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "COMP2610 17.08.2026 18.08.2026"
+                  "title": "Chebychovs inequality"
                 }
               },
               {
@@ -62,13 +63,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "COMP2610/Week 9/channel capacity.md",
+                    "file": "COMP3670/Week 3/PAC learnable.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "channel capacity"
+                  "title": "PAC learnable"
                 }
               },
               {
@@ -82,11 +83,12 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           },
           {
             "id": "42d3ce926bd58e68",
             "type": "tabs",
+            "dimension": 50,
             "children": [
               {
                 "id": "1faf158e00883638",
@@ -301,15 +303,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "289e17acd2d771ef",
+  "active": "5a1426872f57f693",
   "lastOpenFiles": [
-    "COMP2610/Week 3/entropy (information theory).md",
+    "COMP2610/Week 9/channel capacity.md",
+    "COMP2610/Week 5/Chebychovs inequality.md",
     "comp2610 cheat sheet of final.md",
+    "COMP2610/Week 5/Markov's inequality.md",
+    "COMP2610/Week 4/markov chain.md",
     "COMP2610/Week 4/COMP2610 17.08.2026 18.08.2026.md",
+    "COMP2610/Week 3/entropy (information theory).md",
     "COMP2610/Week 3/decomposability of entropy.md",
     "COMP2610/Week 4/mutual information.md",
     "COMP2610/Week 4/relative entropy.md",
-    "COMP2610/Week 9/channel capacity.md",
     "COMP2610/Week 1/information.md",
     "MATH1005/Week 9/Bayes theorem.md",
     "COMP2610/Week 3/the Bernoulli distribution.md",
@@ -326,9 +331,6 @@
     "MATH1116/Linear algebra/Week 8/inner product.md",
     "MATH1116/Analysis/Week 6/applications of power series.md",
     "MATH1116/Analysis/Week 11/multivariate differentiability.md",
-    "MATH1116/Analysis/Week 2/Convergence of series.md",
-    "COMP2610/Week 3/COMP2610 11.08.2026.md",
-    "COMP2610/Week 3/Parameter estimation.md",
     "attachments/Pasted image 20261113184146.png",
     "attachments/Pasted image 20261113171441.png",
     "attachments/Pasted image 20261113171116.png",
