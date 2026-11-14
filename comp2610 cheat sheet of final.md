@@ -45,6 +45,19 @@ $h(x)=\log_{2} \frac{1}{p(x)}$ - can be any log base but we like to use 2
 Average information content of a random variable.
 $H(X)=\mathbb{E}_{x}[h(x)]= \sum_{x}p(x)\cdot \log_{2} \frac{1}{p(x)}=- \sum_{x}p(x)\log_{2}p(x)$
 Properties: $H(X)\geq 0$
+For a Bernoulli trial, we can measure the entropy just as $-p\log_{2}(p)-(1-p)\log_{2}(1-p)$
+A uniform distribution has maximised its entropy.
+
+Entropy is a lower bound on the average number of bits to transmit the state of a random variable. 
+
+You can decompose entropy as well. 
+For a random variable with prob distribution $\mathbf{p}=(p_{1},\dots,p_{\mathcal{X}})$
+We can split it up into blocks. Say $\{ 1,\dots,m \},\{ m+1,\dots,|\mathcal{X}| \}$.
+$P_{1}$ is the sum of the probabilities of the outcomes in block, with $P_{2}$ defined similarly.
+This gives $H(\mathbf{p})=H((P_{1},P_{2}))+P_{1}H\left( \frac{p_{1}}{P_{1}},\dots,\frac{p_{m}}{P_{1}} \right)+P_{2}H\left( \frac{p_{m+1}}{P_{2}},\dots,\frac{p_{|\mathcal{X}|}}{P_{2}} \right)$ 
+$\frac{p_{1}}{P_{1}}$ is the probability that $X=1$ given $X$ is in the first block. 
+
+
 
 
 ![[Pasted image 20261113145428.png]]
