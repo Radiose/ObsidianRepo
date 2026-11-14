@@ -118,8 +118,12 @@ Example:
 Estimate how large $n$ should be such that $p(|\hat{\theta_{n}}-\theta|\geq 0.05)\leq 0.01$ (less than 1% chance of 5% error)
 Note that $\mathbb{E}[\hat{\theta}_{n}]=\theta$ and $var[\hat{\theta}_{n}]=\frac{\theta(1-\theta)}{n}$ 
 
+Information cannot hurt 
+$H(X|Y)\leq H(X)$, (= iff $x \mathrel{\perp\!\!\!\perp}y$
 
-
+Law of large numbers 
+If $\mu=\mathbb{E}(X)$, then $\forall\epsilon$, 
+$\lim_{ n \to \infty }p(|\bar{X}_{n}-\mu|>\epsilon)=0$
 # ENSEMBLE 
 An ensemble is tuple $(X, \mathcal{A}_{X},\mathcal{P}_{X})$
 X is a RV, $\mathcal{A}_{X}$, its alphabet is where it takes values, and $\mathcal{P}_{X}$ is the associated probabilities
@@ -139,3 +143,36 @@ Note that the most likely sequence may not actually be in the typical set. For e
 AEP:
 If $x_{1},x_{2},\dots$ are IID, with distribution $P$, then 
 $\forall\beta>0$,  $\lim_{ N \to \infty }p\left( \left\lvert  -\frac{1}{N} \log_{2}P(x_{1},\dots,x_{N})  \right\rvert<\beta \right)=1$ - as $N$ gets large, pretty much any sequence drawn will be typical. 
+
+
+# SOURCE CODING 
+Informal version of the source coding theorem 
+If you want to uniformly code large sequences of outcomes, with any degree of reliability, then the average number of bits you need is roughly equal to the entropy of that source. 
+
+A source code is a function $c: \mathcal{A}_{X} \to \{ 0,1 \}^+$. The length of the codeword of $x$ is the number of symbols in $c(x)$. 
+
+The extension of $c$ is defined as $c(x_{1},\dots,x_{n})=c(x_{1})\dots(x_{n})$ 
+
+Uniform code: $l(x)$ is the same 
+variable length code otherwise 
+
+Lossless code: $x_{1} \not= x_{2} \implies c(x_{1})\not=c(x_{2})$ (injectivity)
+Lossy otherwise 
+
+Raw bit content of an ensemble: $H_{0}(X)=\log_{2} |\mathcal{A}_{X}|$ - the number of bits required to uniformly code an ensemble. 
+
+Smallest $\delta$ sufficient subset 
+The smallest subset of $\mathcal{A}_{X}$ such that $p(\mathcal{x}\in S_{\delta})\geq 1-\delta$ 
+-construct by removing elements of $\mathcal{A}_{X}$ in ascending order until threshold has been reached 
+
+The essential bit content: $H_{\delta}(X):= \log_{2}|S_{\delta}|$
+
+Source coding theorem formally: $$\forall\epsilon>0, \forall\delta \in (0,1),\exists N \in \mathbb{N}^+ \forall n>N\quad \left\lvert  \frac{1}{n}H_{\delta}(X^n)-H  \right\rvert<\epsilon$$
+For all epsilon, and for all delta between 0,1, there is some natural number $N$ such that for all $n$ greater than $N$, sequences of length $n$ have average essential bit content close to the entropy of the ensemble.
+
+Given a tiny probability of error, we can make the average essential bit content as close as we want to the entropy by making N large. But, even with large error, we cannot compress more than $H$ bits. If you use more than $NH(X)$ blocks per bit, then you can do so with basically no loss, however, if you use less, you will almost certainly lose information. 
+
+
+
+# Coding 
+$\mathcal{A}^+:= \bigcup_{}$N
