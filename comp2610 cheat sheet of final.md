@@ -57,12 +57,42 @@ $P_{1}$ is the sum of the probabilities of the outcomes in block, with $P_{2}$ d
 This gives $H(\mathbf{p})=H((P_{1},P_{2}))+P_{1}H\left( \frac{p_{1}}{P_{1}},\dots,\frac{p_{m}}{P_{1}} \right)+P_{2}H\left( \frac{p_{m+1}}{P_{2}},\dots,\frac{p_{|\mathcal{X}|}}{P_{2}} \right)$ 
 $\frac{p_{1}}{P_{1}}$ is the probability that $X=1$ given $X$ is in the first block. 
 
+#### Joint and conditional entropy follow similar ideas. 
+
+Conditional:
+$H(Y|X)=\sum _{x \in \mathcal{X}}\sum_{y \in \mathcal{Y}}p(x,y) \log_{2} \frac{1}{p(y|x)}$ 
 
 
+### CHAIN RULE COME BACK
+
+#### [[relative entropy|KL divergence]]/relative entropy 
+This is a method of obtaining the "distance" between two probability distributions. If we have the "true" distribution $p$, and our assumed distribution $q$, the $D_{KL}(p ||q)= \sum p(x)\log\left( \frac{p(x)}{q(s)} \right)$
+Properties:
+$D_{KL}(p ||q)\geq 0$, where equality is obtained iff $p=q$
+Note that because we assume a true distribution $p$, no symmetry.
+"the penalty of assuming $q$ when $p$ is the true distribution on the minimised expected code length"
+
+#### Mutual information 
+The mutual information of two random variables is $I(X;Y)=D_{KL}(p(X,Y)||p(X)p(Y))$
+We can also write it as $H(X,Y)-H(X|Y)$. Note that because $I(X;Y)=I(Y;X)$ we can also get it by $H(X,Y)-H(Y|X)$
+"how much information on average does $X$ tell us about $Y$" and "the average reduction in the uncertainty of $X$ given the uncertainty of $Y$"
 
 ![[Pasted image 20261113145428.png]]
 
 
 
 
-# Entropy 
+# Conditional mutual information 
+
+This is $I(X;Y|Z)$ note that we are getting the mutual information between $X$, and $Y$ conditioned on $Z$. Can be simplified as $I(X;Y|Z)=H(X|Z)-H(X|Y,Z)$ (note that this is $[X|(Y,Z)]$)
+
+The reduction in the uncertainty of $X$ due to the knowledge of $Y$ when $Z$ is given. 
+
+Note that $I(X;Y|Z)=I(Y;X|Z)$ and that $I(X|Z;Y)$ is illegal. 
+
+# Joint 
+$I(X_{1}X_{2},\dots,X_{n};Y_{1}Y_{2},\dots,Y_{m})=H(X_{1},\dots,X_{n})-H(X_{1},\dots,X_{n}|Y_{1},\dots,Y_{n})$
+Symmetry applies to joint. 
+
+
+# Inequalities
