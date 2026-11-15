@@ -66,7 +66,7 @@ $\frac{p_{1}}{P_{1}}$ is the probability that $X=1$ given $X$ is in the first bl
 #### Joint and conditional entropy follow similar ideas. 
 
 Conditional:
-$H(Y|X)=\sum _{x \in \mathcal{X}}\sum_{y \in \mathcal{Y}}p(x,y) \log_{2} \frac{1}{p(y|x)}$ 
+$H(Y|X)=- \sum _{x \in \mathcal{X}}\sum_{y \in \mathcal{Y}}p(x,y) \log_{2}{p(y|x)}$ 
 
 $H(X,Y) = H(X) + H(Y|X) = H(Y) + H(X|Y)$
 
@@ -215,3 +215,12 @@ $H(X)\leq L(C,X)<H(X)+1$
 
 Huffman coding: Provably optimal - best type of symbol code but the extra bit means that we waste stuff.
 
+
+
+SFE coding:
+Shannon fano elias coding 
+Goal: Get midpoints for intervals, and then code that value, with the first $\ell(x)= \left\lceil  \log_{2}\left( \frac{1}{px} \right)  \right\rceil+1$ bits of $\bar{F}(x)$
+The code is lossless, and also prefix free. 
+
+Interval coding;
+Based on the idea of SFE coding, 
