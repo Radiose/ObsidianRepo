@@ -218,9 +218,16 @@ Huffman coding: Provably optimal - best type of symbol code but the extra bit me
 
 
 SFE coding:
-Shannon fano elias coding - type 
+Shannon fano elias coding 
 Goal: Get midpoints for intervals, and then code that value, with the first $\ell(x)= \left\lceil  \log_{2}\left( \frac{1}{px} \right)  \right\rceil+1$ bits of $\bar{F}(x)$
 The code is lossless, and also prefix free. 
+Less efficient than Shannon coding. Useful because it directly leads to interval/arithmetic coding- expected length $$H(X) \le L < H(X)+2.$$
 
-Interval coding;
-Based on the idea of SFE coding, 
+
+Arithmetic coding:
+Deals with whole sequences.
+No assumption of independence 
+COME BACK 
+
+# NOISY CHANNELS 
+The goal of 
