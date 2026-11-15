@@ -218,7 +218,7 @@ Huffman coding: Provably optimal - best type of symbol code but the extra bit me
 
 
 SFE coding:
-Shannon fano elias coding 
+Shannon fano elias coding - type 
 Goal: Get midpoints for intervals, and then code that value, with the first $\ell(x)= \left\lceil  \log_{2}\left( \frac{1}{px} \right)  \right\rceil+1$ bits of $\bar{F}(x)$
 The code is lossless, and also prefix free. 
 
