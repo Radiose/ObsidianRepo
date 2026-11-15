@@ -227,6 +227,8 @@ Less efficient than Shannon coding. Useful because it directly leads to interval
 Arithmetic coding:
 Deals with whole sequences.
 No assumption of independence 
+
+
 COME BACK 
 
 # NOISY CHANNELS 
