@@ -26,12 +26,15 @@
             "id": "289e17acd2d771ef",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/COMP2610 A3.excalidraw.md"
+                "file": "COMP2610/Week 9/Discrete channel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "COMP2610 A3.excalidraw"
+              "icon": "lucide-file",
+              "title": "Discrete channel"
             }
           },
           {
@@ -79,7 +82,8 @@
               "title": "Bayes theorem"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -274,20 +278,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb577085e47a2668",
+  "active": "289e17acd2d771ef",
   "lastOpenFiles": [
-    "MATH1005/Week 8/permutation.md",
+    "MATH1005/Week 9/transition matrix.md",
+    "COMP2610/Week 9/Discrete channel.md",
     "COMP2610 final exam cheat sheet.md",
+    "COMP2610/Week 10/joint typicality.md",
+    "COMP2610/Week 1/channel.md",
+    "Excalidraw/COMP2610 A3.excalidraw.md",
+    "MATH1005/Week 8/permutation.md",
     "COMP2610/Week 5/asymptotic equipartition property.md",
     "COMP2610/Week 9/symmetric channel.md",
     "COMP2610/Week 9/Communication over noisy channels.md",
     "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
-    "COMP2610/Week 9/Discrete channel.md",
     "COMP2610/Week 9/channel capacity.md",
     "COMP2610/Week 10/the noisy channel coding theorem.md",
-    "COMP2610/Week 1/channel.md",
     "MATH1005/Week 9/random variable.md",
-    "Excalidraw/COMP2610 A3.excalidraw.md",
     "Excalidraw/MATH1116 A12.excalidraw.md",
     "MATH1005/Week 8/combination.md",
     "COMP2610/Week 1/information.md",
@@ -300,8 +306,6 @@
     "COMP2610/Week 8/Interval coding.md",
     "COMP2610/Week 5/Chebychovs inequality.md",
     "COMP2610/Week 7/Huffman coding.md",
-    "COMP3670 MTT cheatsheet.md",
-    "MATH1116/MATH1116 final exam hints.md",
     "attachments/Pasted image 20261113184146.png",
     "attachments/Pasted image 20261113171441.png",
     "attachments/Pasted image 20261113171116.png",

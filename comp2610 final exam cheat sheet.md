@@ -52,7 +52,7 @@ Average information content of a random variable.
 $H(X)=\mathbb{E}_{x}[h(x)]= \sum_{x}p(x)\cdot \log_{2} \frac{1}{p(x)}=- \sum_{x}p(x)\log_{2}p(x)$
 Properties: $H(X)\geq 0$
 For a Bernoulli trial, we can measure the entropy just as $-p\log_{2}(p)-(1-p)\log_{2}(1-p)$
-A uniform distribution has maximised its entropy.
+A uniform distribution has maximised its entropy
 
 Entropy is a lower bound on the average number of bits to transmit the state of a random variable. 
 
@@ -247,6 +247,9 @@ columns that are all permutations of each other
 rows that are all permutations of each other 
 Note that if one row is a subset, then every entry must be identical. 
 For symmetric channel, capacity is achieved by uniform distribution of input probabilities. 
+
+
+The capacity of a channel is its mutual information $I(X;Y)=H(X)-H(X|Y)=H(Y)-H(Y|X)$
 
 # BLOCK CODING 
 An $(N,K)$ block code is a list of $S=2^K$ codewords
