@@ -240,3 +240,20 @@ Transition matrix:
 Representation of noisy channel 
 With inputs $\mathcal{X}=\{ a_{1},a_{2},\dots,a_{n} \} \mathcal{Y}=\{ b_{1},\dots,b_{m} \}$
 $Q_{j,i}=P(Y=b_{j}|X=a_{i})$ 
+
+Symmetric channel 
+A symmetric channel has its output set able to be partitioned, so that submatrices of the transition matrix containing rows of each partition has:
+columns that are all permutations of each other 
+rows that are all permutations of each other 
+Note that if one row is a subset, then every entry must be identical. 
+For symmetric channel, capacity is achieved by uniform distribution of input probabilities. 
+
+# BLOCK CODING 
+An $(N,K)$ block code is a list of $S=2^K$ codewords
+$\{ \mathbf{x}^{1},\mathbf{x}^{2},\dots,\mathbf{x}^{2^k} \}$ each is $N$ long. 
+Rate: $\frac{K}{N}$
+$p_{B}=p(\mathbf{s}_{in}\not=\mathbf{s}_{out})$
+$p_{B_{M}}=max_{\mathbf{s}_{in}}(\mathbf{s}_{out}\not=\mathbf{s}_{in}|\mathbf{s}_{in})$
+
+NCCT:
+$R$ is an achievable iff $R\leq C$ where $C$ is capacity
