@@ -241,6 +241,9 @@ Representation of noisy channel
 With inputs $\mathcal{X}=\{ a_{1},a_{2},\dots,a_{n} \} \mathcal{Y}=\{ b_{1},\dots,b_{m} \}$
 $Q_{j,i}=P(Y=b_{j}|X=a_{i})$ 
 
+
+
+
 Symmetric channel 
 A symmetric channel has its output set able to be partitioned, so that submatrices of the transition matrix containing rows of each partition has:
 columns that are all permutations of each other 
