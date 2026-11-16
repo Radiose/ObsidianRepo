@@ -233,7 +233,10 @@ To slice up an interval, say $y_{3}y_{4}$ has interval $[0.1,0,2)$
 first cut: $0.1 +(y_{3}*y_{4}*y_{1})$
 second cut $(0.1+y_{2}y_{3}y_{1}) + (y_{2}y_{3}y_{2})$
 
-COME BACK 
+COME BACK
 
 # NOISY CHANNELS 
-The goal of 
+Transition matrix:
+Representation of noisy channel 
+With inputs $\mathcal{X}=\{ a_{1},a_{2},\dots,a_{n} \} \mathcal{Y}=\{ b_{1},\dots,b_{m} \}$
+$Q_{j,i}=P(Y=b_{j}|X=a_{i})$ 
