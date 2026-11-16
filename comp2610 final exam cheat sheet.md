@@ -228,6 +228,10 @@ Arithmetic coding:
 Deals with whole sequences.
 No assumption of independence 
 
+Given $y_{3},y_{4},y_{2}$
+To slice up an interval, say $y_{3}y_{4}$ has interval $[0.1,0,2)$
+first cut: $0.1 +(y_{3}*y_{4}*y_{1})$
+second cut $(0.1+y_{2}y_{3}y_{1}) + (y_{2}y_{3}y_{2})$
 
 COME BACK 
 
