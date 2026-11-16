@@ -141,7 +141,7 @@ For a given type of sequence, the amount of sequences with these symbol counts a
 $$\frac{N!}{n_{1}!n_{2}!\dots n_{I}!}$$
 The probability of some sequence containing some non ordered quantity of elements in the alphabet is $p(x_{1})^{n_{1}}p(x_{2})^{n_{2}}\dots$ and then multiply by the corresponding multinomial coefficient. 
 
-The typical set $T_{N\beta}$  of$X^N$, is defined as $\left\{  \mathbf{x}\in X^N| - \frac{1}{N}\log_{2}P(\mathbf{x})-H(X) |<N\beta \right\}$
+The typical set $T_{N\beta}$  of$X^N$, is defined as $\left\{  \mathbf{x}\in X^N| - \frac{1}{N}\log_{2}P(\mathbf{x})-H(X) |<\beta \right\}$
 
 every $\mathbf{x}\in T_{N\beta}$ has $2^{-N(H(X)+\beta)}\leq P(\mathbf{x})\leq 2^{-N(H(X)-\beta)}$
 For any $N,\beta$, $|T_{N\beta}|\leq 2^{N(H(X)+\beta)}$
