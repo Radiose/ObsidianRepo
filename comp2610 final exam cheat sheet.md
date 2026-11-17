@@ -269,3 +269,4 @@ Thee statements:
 1: Any rate $R<C$ is achievable for $Q$
 2: If probability of bit error $p_{B}:=\frac{p_{B}}{K}$ is acceptable, $(N,K)$ codes exist with rates $$\frac{K}{N} \leq R(p_{b})= \frac{C}{1-H_{2}(p_{b})}$$where $p_{B}$ is the average **block** error. 
 3: For any $p$, we cannot achieve a rate greater than $R(p)$ with probability of bit error $p$.
+	
