@@ -55,7 +55,7 @@ For a Bernoulli trial, we can measure the entropy just as $-p\log_{2}(p)-(1-p)\l
 A uniform distribution has maximised its entropy
 
 Entropy is a lower bound on the average number of bits to transmit the state of a random variable. 
-
+# Decomposability
 You can decompose entropy as well. 
 For a random variable with prob distribution $\mathbf{p}=(p_{1},\dots,p_{\mathcal{X}})$
 We can split it up into blocks. Say $\{ 1,\dots,m \},\{ m+1,\dots,|\mathcal{X}| \}$.
@@ -67,6 +67,7 @@ $\frac{p_{1}}{P_{1}}$ is the probability that $X=1$ given $X$ is in the first bl
 
 Conditional:
 $H(Y|X)=- \sum _{x \in \mathcal{X}}\sum_{y \in \mathcal{Y}}p(x,y) \log_{2}{p(y|x)}$ 
+OR $H(Y|X)=\sum_{x \in \mathcal{X}}p(x)H(Y|X=x)$
 
 $H(X,Y) = H(X) + H(Y|X) = H(Y) + H(X|Y)$
 
