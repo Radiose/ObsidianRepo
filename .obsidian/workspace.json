@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 9/channel capacity.md",
+                "file": "COMP2610 final exam cheat sheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "channel capacity"
+              "title": "COMP2610 final exam cheat sheet"
             }
           },
           {
@@ -81,9 +81,23 @@
               "icon": "lucide-file",
               "title": "the noisy channel coding theorem"
             }
+          },
+          {
+            "id": "aa62c5b338e77684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2610/Week 3/joint entropy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "joint entropy"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,13 +293,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "76bec7ade0c112c5",
+  "active": "bb577085e47a2668",
   "lastOpenFiles": [
-    "COMP2610 final exam cheat sheet.md",
     "COMP2610/Week 10/the noisy channel coding theorem.md",
+    "COMP2610/Week 3/joint entropy.md",
+    "COMP2610 final exam cheat sheet.md",
+    "COMP2610/Week 9/channel capacity.md",
     "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
     "COMP2610/Week 9/Discrete channel.md",
-    "COMP2610/Week 9/channel capacity.md",
     "MATH1005/Week 9/Bayes theorem.md",
     "COMP2610/Week 9/symmetric channel.md",
     "COMP2610/Week 7/Huffman coding.md",
@@ -303,7 +318,6 @@
     "COMP2610/Week 3/conditional entropy.md",
     "MATH1005/Week 5/Geometric series.md",
     "COMP2610/Week 2/variance.md",
-    "COMP2610/Week 3/joint entropy.md",
     "MATH1116/Linear algebra/Week 5/nilpotent operator.md",
     "COMP2610/Week 8/Interval coding.md",
     "COMP2610/Week 5/Chebychovs inequality.md",
