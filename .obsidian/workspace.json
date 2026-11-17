@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289
+    "width": 289,
+    "collapsed": true
   },
   "right": {
     "id": "ad1ae9bab4b1605a",
@@ -278,10 +279,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1faf158e00883638",
+  "active": "76bec7ade0c112c5",
   "lastOpenFiles": [
-    "COMP2610 final exam cheat sheet.md",
     "COMP2610/Week 10/the noisy channel coding theorem.md",
+    "COMP2610 final exam cheat sheet.md",
     "COMP2610/Week 9/Discrete channel.md",
     "MATH1005/Week 9/Bayes theorem.md",
     "COMP2610/Week 9/symmetric channel.md",
