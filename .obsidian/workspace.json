@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 10/the noisy channel coding theorem.md",
+                "file": "COMP2610/Week 4/mutual information.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "the noisy channel coding theorem"
+              "title": "mutual information"
             }
           },
           {
@@ -97,7 +97,8 @@
               "title": "joint entropy"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -293,11 +294,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb577085e47a2668",
+  "active": "1faf158e00883638",
   "lastOpenFiles": [
     "COMP2610/Week 10/the noisy channel coding theorem.md",
-    "COMP2610/Week 3/joint entropy.md",
     "COMP2610 final exam cheat sheet.md",
+    "COMP2610/Week 3/joint entropy.md",
     "COMP2610/Week 9/channel capacity.md",
     "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
     "COMP2610/Week 9/Discrete channel.md",
