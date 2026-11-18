@@ -2,6 +2,8 @@
 Ideally, we want our [[block code]] to have high [[rate of block code|rates]] for our channel code. Low rate implies we are being wasteful with channel use. 
 
 At high rates, we run the risk of losing reliability.
+Recall rate:
+![[rate of block code]]
 
 ## Reliability
 ![[reliability of block codes]]
