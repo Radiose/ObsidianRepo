@@ -41,7 +41,15 @@ Or more generally $\prod_{i=1}^N \theta^{x_{i}}(1-\theta)^{1-x_{i}}$
 Putting it in logs, $\mathcal{L}(\theta)=\log p(\mathcal{D}|\theta)=\sum_{i=1}^N[x_{i}\log \theta+(1-x_{i})\log(1-\theta)]$
 The derivative of this at $0$ ends up with the parameter being the proportion of successful trials, which obviously makes sense.
 
-# COME BACK TO BETA PRIOR 
+
+Bayesian parameter estimation:
+If we treat $\theta$ as a random variable, we may have some prior belief about its value. 
+Our likelihood: 
+$p(X|\theta)=Bern(X|\theta)=\theta^x(1-\theta)^{1-x}$
+Our prior: $beta(\theta|a,b)=\frac{1}{Z(a,b)}\theta^{a-1}(1-\theta)^{b-1}$
+Where $Z(a,b)$ is a suitable normaliser. Tuning $a,b$ can be done according to our range of likely values of $\theta$
+
+
 
 # Information content:
 for an outcome of a random variable, its information content is:
