@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 10/block code.md",
+                "file": "COMP2610/Week 10/the noisy channel coding theorem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "block code"
+              "title": "the noisy channel coding theorem"
             }
           },
           {
@@ -133,16 +133,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP3670/Week 12/neural network.md",
+                "file": "COMP2610/Week 3/conditional entropy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "neural network"
+              "title": "conditional entropy"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -337,9 +338,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb577085e47a2668",
+  "active": "19c8205a20ddc348",
   "lastOpenFiles": [
+    "COMP2610/Week 3/joint entropy.md",
+    "COMP2610/Week 10/joint typicality.md",
+    "COMP3670/Week 12/neural network.md",
     "COMP2610/Week 10/the noisy channel coding theorem.md",
+    "COMP2610/Week 10/block code.md",
     "COMP2610/Week 9/Communication over noisy channels.md",
     "COMP2610/Week 9/Discrete channel.md",
     "COMP2610/Week 9/channel capacity.md",
@@ -347,7 +352,6 @@
     "MATH1013/Calculus/Week 10/Decomposition of rational functions.md",
     "COMP2610 final exam cheat sheet.md",
     "COMP2610/Week 4/information cannot hurt theorem.md",
-    "COMP3670/Week 12/neural network.md",
     "COMP2610/Week 8/Shannon-Fano-Elias coding.md",
     "COMP2610/Week 8/Arithmetic coding.md",
     "COMP2610/Week 4/mutual information.md",
@@ -360,11 +364,8 @@
     "COMP2610/Week 5/asymptotic equipartition property.md",
     "COMP2610/Week 5/Markov's inequality.md",
     "COMP2610/Week 5/law of large numbers.md",
-    "COMP2610/Week 3/joint entropy.md",
     "MATH1005/Week 9/Bayes theorem.md",
     "COMP2610/Week 9/symmetric channel.md",
-    "COMP2610/Week 7/Huffman coding.md",
-    "MATH1005/Week 9/transition matrix.md",
     "attachments/Pasted image 20261113184146.png",
     "attachments/Pasted image 20261113171441.png",
     "attachments/Pasted image 20261113171116.png",
