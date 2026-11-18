@@ -133,13 +133,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2610/Week 3/conditional entropy.md",
+                "file": "COMP2610/Week 10/joint typicality.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "conditional entropy"
+              "title": "joint typicality"
             }
           }
         ],
@@ -340,11 +340,13 @@
   },
   "active": "19c8205a20ddc348",
   "lastOpenFiles": [
-    "COMP2610/Week 3/joint entropy.md",
-    "COMP2610/Week 10/joint typicality.md",
-    "COMP3670/Week 12/neural network.md",
     "COMP2610/Week 10/the noisy channel coding theorem.md",
+    "COMP2610/Week 10/joint typicality.md",
+    "COMP2610/Week 11/Hamming code.md",
     "COMP2610/Week 10/block code.md",
+    "COMP2610/Week 3/conditional entropy.md",
+    "COMP2610/Week 3/joint entropy.md",
+    "COMP3670/Week 12/neural network.md",
     "COMP2610/Week 9/Communication over noisy channels.md",
     "COMP2610/Week 9/Discrete channel.md",
     "COMP2610/Week 9/channel capacity.md",
@@ -364,8 +366,6 @@
     "COMP2610/Week 5/asymptotic equipartition property.md",
     "COMP2610/Week 5/Markov's inequality.md",
     "COMP2610/Week 5/law of large numbers.md",
-    "MATH1005/Week 9/Bayes theorem.md",
-    "COMP2610/Week 9/symmetric channel.md",
     "attachments/Pasted image 20261113184146.png",
     "attachments/Pasted image 20261113171441.png",
     "attachments/Pasted image 20261113171116.png",
