@@ -8,9 +8,12 @@ However, with an infinite series, more specific proofs are needed. We demonstrat
 Let $\pi:\mathbb{N}\to \mathbb{N}$ be a bijection and let $\sum_{J=0}^\infty x_{j}$ [[absolute convergence|converge absolutely]]. 
 Then, $\sum_{j=0}^\infty x_{\pi_{j}}$ converges absolutely, and $\sum_{j=1}^{\infty}x_{j}=\sum_{j=1}^{\infty}x_{\pi_{j}}$ 
 
-
-
+### Proof 
+let $\sum_{j=1}^\infty x_{j}$ converge absolutely, and let $\pi:\mathbb{N} \to \mathbb{N}$ be a bijection. 
+Then, $\forall \epsilon >0\quad \exists N_{\epsilon} \in \mathbb{N}\quad \forall n,m  $
 
 # Theorem 2 
 Let $\sum_{j=1}^{\infty}x_{j}$ converge and $\sum_{j=1}^\infty \lvert x_{j} \rvert$ diverge. Let $x \in \mathbb{R}$. Then, there exists some $\pi:\mathbb{N} \to \mathbb{N}$ such that $\sum_{j=1}^\infty x_{\pi_{j}}$ converges, and $\sum_{j=1}^{\infty}x_{\pi_{j}}=x$,
+
+
 
