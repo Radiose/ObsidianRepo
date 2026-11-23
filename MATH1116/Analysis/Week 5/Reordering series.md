@@ -21,7 +21,8 @@ Thus, $\sum_{\ell=0}^j \lvert x_{\pi_{\ell}} \rvert$ converges.
 Now we show equality. 
 Let $\epsilon>0$
 Pick $n>max(N\epsilon,M_{\epsilon})$.
-Then, $\left\lvert  \sum_{j=0}^n x_{j}-\sum_{j=0}^n x_{\pi_{j}}  \right\rvert$
+Then, $\left\lvert  \sum_{j=0}^n x_{j}-\sum_{j=0}^n x_{\pi_{j}}  \right\rvert=\left\lvert  \sum_{j=N_{\epsilon}+1}^n-\sum_{0\leq j\leq n \\\\  \pi_{j}>N_{\epsilon}}x_{\pi(j)}  \right\rvert$
+$\leq \sum_{j=N\epsilon+1}^n \lvert x_{j} \rvert+\sum_{m >N\epsilon}^{max \pi_{j} \\ 0 \leq j \leq \pi}|x_{m}|<2\epsilon$
 
 # Theorem 2 
 Let $\sum_{j=1}^{\infty}x_{j}$ converge and $\sum_{j=1}^\infty \lvert x_{j} \rvert$ diverge. Let $x \in \mathbb{R}$. Then, there exists some $\pi:\mathbb{N} \to \mathbb{N}$ such that $\sum_{j=1}^\infty x_{\pi_{j}}$ converges, and $\sum_{j=1}^{\infty}x_{\pi_{j}}=x$,
